@@ -1,0 +1,13 @@
+space_97.txt$i am sure  mary or henry can describe this more aptly then me
+space_97.txt$but here is how i understand it
+space_97.txt$at speed  near supersonic  the wind behaves like a fluid pipe
+space_97.txt$it becomes incompressible  so wind has to bend away from the
+space_97.txt$wing edges   as the wing thickens  the more the pipes bend
+space_97.txt$if they have no place to go  they begin to stall  and force
+space_97.txt$compression stealing power from the vehicle high drag
+space_97.txt$if you squeeze the fuselage  so that these pipes  have aplace to bend
+space_97.txt$into  then drag is reduced
+space_97.txt$essentially  teh cross sectional area of the aircraft shoulf
+space_97.txt$remain constant for all areas of the fuselage  that is where the wings are
+space_97.txt$subtract teh cross sectional area of the wings from the fuselage
+space_97.txt$pat

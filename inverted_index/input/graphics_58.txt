@@ -1,0 +1,17 @@
+graphics_58.txt$abraxisiastateedu writes in article abraxis734340159class1iastateedu
+graphics_58.txt$ anyone know about the weitek p9000 graphics chip
+graphics_58.txt$ micron is selling it with their systems they rank them at 50 winmarks
+graphics_58.txt$ any info would help
+graphics_58.txt$ thanks
+graphics_58.txt$its supposedly a highperformance chip based upon workstation graphics
+graphics_58.txt$accelerators  its quite fast i have 7 but as usual with new boardschips
+graphics_58.txt$the drivers are buggy for windows  as far as winmarks go it depends upon
+graphics_58.txt$the version  i think i got 42m winmarks with version 311  25 yielded the
+graphics_58.txt$50 number  ive also benchmarked this with wintach at over 65 from memory
+graphics_58.txt$as well
+graphics_58.txt$as far as the lowlevel stuff goes it looks pretty nice  its got this
+graphics_58.txt$quadrilateral fill command that requires just the four points
+graphics_58.txt$its very fast but beware of buggy drivers and otherwise no nonwindows
+graphics_58.txt$support
+graphics_58.txt$i am not responsible for anything i do or say  im just an opinion
+graphics_58.txt$robert jc kyanko robrjckuucp

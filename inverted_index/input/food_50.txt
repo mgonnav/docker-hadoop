@@ -1,0 +1,21 @@
+food_50.txt$12           cup  elbow macaronishells etc
+food_50.txt$2   tablespoons  safflower oil
+food_50.txt$1           med  onion chopped
+food_50.txt$1         clove  garlic minced
+food_50.txt$green bell pepper chopped
+food_50.txt$3          cups  vegetable stock
+food_50.txt$1  6 ounces can  tomato paste 23 cup
+food_50.txt$1      15 ounce  ca  chick peas drained
+food_50.txt$1      16 ounce  ca  kidney beans drained 
+food_50.txt$34      teaspoon  black pepper
+food_50.txt$12      teaspoon  summer savory
+food_50.txt$12      teaspoon  thyme leaves
+food_50.txt$1          dash  cayenne pepper
+food_50.txt$
+food_50.txt$garnish grated parmesan cheese optional
+food_50.txt$
+food_50.txt$cook pasta in boiling water for about 6 minutes until al dente while pasta is cooking in dutch oven or 45 qt saucepan heat oil stir in onion garlic and green pepper saute till tender stir in remaining ingredients except macaroni cover and cook for 10 minutes when pasta is done drain well stir into other ingredients heat garnish if desired variations  substitute or add other vegetables such as chopped sweet red shredded carrot to sauteed veggies substitute 1 t basil and 1 t oregano for savory thyme and cayenne pepper
+food_50.txt$
+food_50.txt$
+food_50.txt$
+food_50.txt$

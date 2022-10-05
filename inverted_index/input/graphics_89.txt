@@ -1,0 +1,19 @@
+graphics_89.txt$in article 1993apr1410200720664uk03bullcouk scrowehemelbullcouk simon crowe writes
+graphics_89.txt$ i am looking for an algorithm to determine if a given point is bound by a
+graphics_89.txt$ polygon does anyone have any such code or a reference to book containing
+graphics_89.txt$ information on the subject 
+graphics_89.txt$ 		regards
+graphics_89.txt$ 			simon
+graphics_89.txt$basically there are two algorithms determining whether a point is inside
+graphics_89.txt$outside or on the polygon the first one is ray or half line method in
+graphics_89.txt$this method you can draw any ray if the number of the intersection point
+graphics_89.txt$of the ray and the polygon is even then it is outside if the number is odd
+graphics_89.txt$then it is inside of cause you have to deal with the special cases which
+graphics_89.txt$may make you headache
+graphics_89.txt$the second method is pi algorithm draw the lines between the point and
+graphics_89.txt$all the vertices on the polygon calculate and sum the angles of the
+graphics_89.txt$successive lines if the result is 2pi then it is inside if pi then
+graphics_89.txt$it is on the polygon otherwise it is outside
+graphics_89.txt$my experience tells the second method is relible
+graphics_89.txt$hope this helps
+graphics_89.txt$yeh

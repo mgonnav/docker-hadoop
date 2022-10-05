@@ -1,0 +1,29 @@
+graphics_95.txt$in article 8hcmentorccpurdueedu abnovaccpurdueedu allen b writes
+graphics_95.txt$in article 1993apr10160929696galkitoppointde ulrichgalkitoppointde
+graphics_95.txt$writes
+graphics_95.txt$ according to the tiff 50 specification the tiff version number
+graphics_95.txt$ bytes 23 42 has been chosen for its deep philosophical
+graphics_95.txt$ significance
+graphics_95.txt$ last week i read the hitchhikers guide to the galaxy
+graphics_95.txt$ is this actually how they picked the number 42
+graphics_95.txt$im sure it is and i am not amused  every time i read that part of the
+graphics_95.txt$tiff spec it infuriates me and im none too happy about the
+graphics_95.txt$complexity of the spec anyway because i think their arbitrary but
+graphics_95.txt$carefully chosen number is neither  additionally i find their
+graphics_95.txt$choice of 4 bytes to begin a file with meaningless of themselves why
+graphics_95.txt$not just use the letters tiff
+graphics_95.txt$and no i dont think they should have bothered to support both word
+graphics_95.txt$orders either and ive found that many tiff readers actually
+graphics_95.txt$dont
+graphics_95.txt$ab
+graphics_95.txt$why so up tight  for that matter tiff6 is out now so why not gripe
+graphics_95.txt$about its problems  also if its so important to you volunteer to
+graphics_95.txt$help define or critique the spec
+graphics_95.txt$finally a little numerology  42 is 24 backwards and tiff is a 24 bit
+graphics_95.txt$image format
+graphics_95.txt$chris
+graphics_95.txt$christopher p tully				cptullymeduncedu
+graphics_95.txt$univ of north carolina  chapel hill
+graphics_95.txt$chapel hill nc 27599
+graphics_95.txt$i get paid for my opinions but that doesnt mean that unc or anybody
+graphics_95.txt$else agrees with them

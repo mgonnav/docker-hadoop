@@ -1,0 +1,12 @@
+food_9.txt$    
+food_9.txt$1           cup  almonds  unblanched
+food_9.txt$1           cup  white flour  unsifted
+food_9.txt$12           cup  wholewheat flour
+food_9.txt$12           cup  turbinado sugar
+food_9.txt$1      teaspoon  baking soda
+food_9.txt$3         large  eggs
+food_9.txt$12      teaspoon  vanilla
+food_9.txt$
+food_9.txt$roast almonds in a 350f oven for 1015 minutes until lightly browned cool to room temperature  mix together dry ingredients in a large bowl reserving about 1 cup  lightly beat eggs and vanilla and add work mixture until dough coheres adding reserved dry ingredients if necessary add nuts and knead until they are evenly distributed divide into thirds and rest for a few minutes  then shape into slabs about 1 wide and 1214 long  place on a lightly oiled cookie sheet and bake at 300f for 50 minutes cool on a rack for 5 minutes then cut diagonal bars 12 thick  lay the cookies on their sides and return to the oven for 50 minutes  store in a paper bag for 56 days before serving  yield about 4 dozen
+food_9.txt$
+food_9.txt$the result depends heavily on your mixing technique and on the flour you use  if your first batch resembles a sack of small bricks try try again

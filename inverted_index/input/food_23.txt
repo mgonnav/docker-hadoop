@@ -1,0 +1,13 @@
+food_23.txt$1         pound  chicken  breasts  cubed
+food_23.txt$1      teaspoon  salt
+food_23.txt$1      teaspoon  cornstarch
+food_23.txt$3                green peppers  cut into 1
+food_23.txt$set above ingredients aside
+food_23.txt$sauce
+food_23.txt$2    tablespoon  soy sauce
+food_23.txt$1    tablespoon  soybean paste
+food_23.txt$1    tablespoon  sugar
+food_23.txt$2    tablespoon  rice wine vinegar
+food_23.txt$12      teaspoon  salt
+food_23.txt$
+food_23.txt$mix the above ingredients well and set aside cook chicken  in a little oil and minced garlic   when the chicken  is  no longer pink add the bamboo shoots and the green pepper to the wok or  fry pan if you dont have a wok  cook for a minute or two sprinkle a little of the rice wine vinegar over the chickenveggie mixture and cook another minute  add nuts and cook another minute  pour sauce over the contents of wok and cook until heated through serve over  hot cooked rice with a nice side dish liked my szechuan  green beans see green beans r under this same bb hope you enjoy dan gruber   pxsm21a

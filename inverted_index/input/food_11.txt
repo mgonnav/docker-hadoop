@@ -1,0 +1,12 @@
+food_11.txt$3 14          cups  allpurpose flour
+food_11.txt$2 12     teaspoons  baking powder
+food_11.txt$12           cup  butter or margarine  softened
+food_11.txt$1           cup  sugar
+food_11.txt$3                eggs
+food_11.txt$2     teaspoons  lemon peel  finely shredded
+food_11.txt$14      teaspoon  almond extract
+food_11.txt$1         pinch  saffron  if desired
+food_11.txt$12           cup  almonds  finely choppedtoast
+food_11.txt$1                egg white
+food_11.txt$
+food_11.txt$combine flour and baking powder  in large mixer bowl beat butter and sugar until blended  beat in eggs lemon peel almond extract and saffron  beat in flour mixture until well blended  stir in almonds  divide dough in half  shape each portion into a 12x2x1inch loaf  place 6 inches apart on a lightly greased cookie sheet  beat the egg white until foamy  brush over tops of loaves  bake in 375f oven 20 to 25 minutes or until light brown  cool on cookie sheet about 1 hour  cut each loaf diagonally into 12 inch thick slices  lay slices cut side down on cookie sheet  bake in a 325f oven 10 minutes longer or until dry and crisp  cool on wire rack these cookies are good made several days ahead and stored in a paper bag to soften slightly  to store longer place in a covered container  makes about 36 cookies

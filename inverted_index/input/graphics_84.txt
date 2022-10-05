@@ -1,0 +1,31 @@
+graphics_84.txt$ on wed 14 apr 1993 044946 gmt graemelabtamlabtamozau graeme gill said
+graphics_84.txt$graeme 	yes thats known as bresenhams run length slice algorithm for
+graphics_84.txt$graeme incremental lines see fundamental algorithms for computer graphics
+graphics_84.txt$graeme springerverlag berlin heidelberg 1985
+graphics_84.txt$ i have tried to extrapolate this to circles but i cant figure out
+graphics_84.txt$ how to determine the length of the slices any ideas
+graphics_84.txt$graeme 	hmm i dont think i can help you with this but you might
+graphics_84.txt$graeme take a look at the following
+graphics_84.txt$graeme 	doublestep incremental generation of lines and circles
+graphics_84.txt$graeme x wu and j g rokne computer graphics and image processing
+graphics_84.txt$graeme vol 37 no 4 mar 1987 pp 331334
+graphics_84.txt$graeme 	doublestep generation of ellipses x wu and j g rokne
+graphics_84.txt$graeme ieee computer graphics  applications may 1989 pp 5669
+graphics_84.txt$another paper you might want to consider is
+graphics_84.txt$articlefungdraw
+graphics_84.txt$titlea runlength slice line drawing algorithm without division operations
+graphics_84.txt$authorkhun yee fung and tina m nicholl and a k dewdney
+graphics_84.txt$journalcomputer graphics forum
+graphics_84.txt$year1992
+graphics_84.txt$volume11
+graphics_84.txt$number3
+graphics_84.txt$pagesc267c277
+graphics_84.txt$khun yee
+graphics_84.txt$khun yee fung    clippercsduwoca
+graphics_84.txt$department of computer science
+graphics_84.txt$middlesex college
+graphics_84.txt$university of western ontario
+graphics_84.txt$london ontario
+graphics_84.txt$canada n6a 5b7
+graphics_84.txt$tel 519 6616889
+graphics_84.txt$fax 519 6613515

@@ -1,0 +1,7 @@
+graphics_61.txt$how does the 16 bit color of hdtv work  it can not be 5 bit red green and
+graphics_61.txt$blue like on the macintosh this gives only 64 gray levels
+graphics_61.txt$apple also has developed a pointpoint network that is around 200mb not
+graphics_61.txt$sure if it is bits or bytes per sec
+graphics_61.txt$povl h pedersen      macintosh specialist knows some dos and unix too
+graphics_61.txt$popeimvaaudk       povlphputsunicdk
+graphics_61.txt$ finger me at popeimvaaudk for pgp public key 

@@ -1,0 +1,11 @@
+graphics_86.txt$in article 1993apr1410200720664uk03bullcouk scrowehemelbullcouk simon crowe writes
+graphics_86.txt$i am looking for an algorithm to determine if a given point is bound by a
+graphics_86.txt$polygon does anyone have any such code or a reference to book containing
+graphics_86.txt$information on the subject 
+graphics_86.txt$see the article an efficient raypolygon intersection p 390 in
+graphics_86.txt$graphics gems isbn 0122861655  the second step intersecting the
+graphics_86.txt$polygon does what you want  there is sample code in the book
+graphics_86.txt$steve lamont sciviguy  619 5347968  splszechuanucsdedu
+graphics_86.txt$san diego microscopy and imaging resourceuc san diegola jolla ca 920930608
+graphics_86.txt$they are not bolsheviks
+graphics_86.txt$just bullshitviks   yevgeny yevtechenko again a meeting

@@ -1,0 +1,12 @@
+graphics_12.txt$in article c51c4rbtgcscticom rowlandshcticom jon rowlands writes
+graphics_12.txt$a few years ago a friend and i took some 256 greylevel photos from
+graphics_12.txt$a 1 bit mac plus screen using this method displaying all 256 levels
+graphics_12.txt$synchronized to the 60hz display took about 10 seconds
+graphics_12.txt$why didnt you create 8 greylevel images and display them for
+graphics_12.txt$1248163264128 time slices
+graphics_12.txt$this requires the same total exposure time and the same precision in
+graphics_12.txt$timing but drastically reduces the imagepreparation time no
+graphics_12.txt$kenneth sloan                   computer and information sciences
+graphics_12.txt$sloancisuabedu               university of alabama at birmingham
+graphics_12.txt$205 9342213                  115a campbell hall uab station
+graphics_12.txt$205 9345473 fax              birmingham al 352941170

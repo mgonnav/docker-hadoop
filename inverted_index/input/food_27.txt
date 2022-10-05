@@ -1,0 +1,12 @@
+food_27.txt$3    tablespoon  oil
+food_27.txt$12         pound  spinach  bite size pcs
+food_27.txt$1 14         pound  chick brbonlsskinls  1cube
+food_27.txt$11         ounce  mandarin oranges  drained
+food_27.txt$3    tablespoon  scallions  chpd
+food_27.txt$3    tablespoon  soy sauce
+food_27.txt$garlic clove  minced
+food_27.txt$1    tablespoon  honey
+food_27.txt$14           cup  cashews
+food_27.txt$14      teaspoon  ground ginger
+food_27.txt$
+food_27.txt$prep 25 mins  cook 5 mins in salad bowl combine lettuce spinach and oranges in small bowl combine soy sauce honey ginger and 3t water set aside in wok heat oil over med high heat add chicken stirfry until cooked 5 mins add scallions and garlic cook 1 min  add sauce and cook tossing 30 sec pour chicken and sauce over greens and oranges toss sprinkle with cashews converted by mmconv vers 100

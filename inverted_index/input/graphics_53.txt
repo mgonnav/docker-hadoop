@@ -1,0 +1,16 @@
+graphics_53.txt$hi
+graphics_53.txt$i am digitizing a ntsc signal and displaying on a pc video monitor
+graphics_53.txt$it is known that the display response of tubes is nonlinear and is
+graphics_53.txt$sometimes said to follow gammalaw i am not certain if these
+graphics_53.txt$nonlinearities are gammacorrected before encoding ntsc signals
+graphics_53.txt$or if the tv display is supposed to correct this
+graphics_53.txt$also if  256 grey levels for example are coded in a c program do
+graphics_53.txt$these intensity levels appear with linear brightness on a pc
+graphics_53.txt$monitor in other words does pc monitor display circuitry
+graphics_53.txt$correct for gamma errrors
+graphics_53.txt$your response is much appreciated
+graphics_53.txt$amjad
+graphics_53.txt$amjad soomro
+graphics_53.txt$ccs computer science center
+graphics_53.txt$u of maryland at college park
+graphics_53.txt$email amjadwamumdedu

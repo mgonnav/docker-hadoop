@@ -1,0 +1,38 @@
+food_31.txt$1 14        pounds  small flank steak
+food_31.txt$3   tablespoons  fresh lime juice
+food_31.txt$2   tablespoons  olive oil
+food_31.txt$3        cloves  garlic  minced
+food_31.txt$2     teaspoons  dried oregano
+food_31.txt$1      teaspoon  hot pepper sauce
+food_31.txt$12      teaspoon  salt
+food_31.txt$12      teaspoon  freshly ground black pepper
+food_31.txt$12      teaspoon  cumin seeds
+food_31.txt$6                bays english muffins  split lightly toast
+food_31.txt$mayonesa rosada
+food_31.txt$14           cup  mayonnaise
+food_31.txt$1    tablespoon  pimento or roasted red pepper  finely diced bottled
+food_31.txt$1      teaspoon  tomato paste
+food_31.txt$1      teaspoon  fresh lime juice
+food_31.txt$14      teaspoon  hot pepper sauce
+food_31.txt$
+food_31.txt$salsa de aquacate
+food_31.txt$1              large  or 2 small ripe avocados  peeled seeded dice
+food_31.txt$2        tablespoons  bottled drained pimento or roasted red pep  diced
+food_31.txt$1         tablespoon  olive oil
+food_31.txt$2          teaspoons  drained capers
+food_31.txt$2          teaspoons  fresh lime juice
+food_31.txt$14      teaspoon  14 to 12 hot pepper sauce  as desired
+food_31.txt$
+food_31.txt$combine oil lime juice garlic oregano and pepper sauce pour over steak close bag securely turn to coat steak with oil mixture 
+food_31.txt$
+food_31.txt$refrigerate at least 30 minutes or up to 2 hours before grilling drain steak discarding marinade sprinkle steak with salt pepper and cumin seeds 
+food_31.txt$
+food_31.txt$grill over mediumhot coals for 4 to 5 minutes per side for mediumrare steak transfer to carving board tent with foil and let stand for 5 minutes 
+food_31.txt$
+food_31.txt$carve steak crosswise into thin slices spread mayonesa rosada over four muffin halves pile steak strip on top close sandwiches with muffin tops serve with salsa de aguacate 
+food_31.txt$
+food_31.txt$mayonesa rosada
+food_31.txt$in a small bowl combine all ingredients mix well serve immediately or cover and refrigerate up to 2 hours before serving
+food_31.txt$
+food_31.txt$salsa de aguacate
+food_31.txt$in medium bowl combine all ingredients serve immediately or cover and chill up to 2 hours before serving

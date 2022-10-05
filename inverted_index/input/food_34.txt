@@ -1,0 +1,18 @@
+food_34.txt$4                round fresh portabella mushrooms
+food_34.txt$2   tablespoons  olive oil
+food_34.txt$2   tablespoons  balsamic vinegar
+food_34.txt$1        medium  shallot  minced
+food_34.txt$14        medium  red bell pepper
+food_34.txt$14        medium  yellow bell pepper
+food_34.txt$14        medium  carrot  cut lengthwise14
+food_34.txt$14        medium  zucchini  cut lengthwise14
+food_34.txt$2   tablespoons  herbed goat cheese
+food_34.txt$1        medium  red onion  sliced
+food_34.txt$2  large slices  multigrain bread
+food_34.txt$12         bunch  watercress  washed draineddrie
+food_34.txt$
+food_34.txt$make a marinade for the frilled vegetables by combining oil vinegar shallot garlic fresh herbs salt and pepper lightly toss the mushroom peppers carrot and zucchini in the marinade
+food_34.txt$
+food_34.txt$grill vegetables for 5 minutes maximum midway through turn vegetables over or roast in a 425 degree oven for 8 to 10 minutes towards the end of the cooking time toast bread to assemble slice mushroom and bell peppers into 14 slices
+food_34.txt$
+food_34.txt$spread goat cheese on toasted bread add the grilled vegetables top with onion or scallion and drizzle on reserved marinade

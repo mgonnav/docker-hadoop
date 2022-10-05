@@ -1,0 +1,168 @@
+space_84.txt$archivename spacenet
+space_84.txt$lastmodified date 930401 143915 
+space_84.txt$you may be reading this document on any one of an amazing variety of
+space_84.txt$computers so much of the material below may not apply to you in
+space_84.txt$general however systems connected to the net fall in one of three
+space_84.txt$categories internet usenet or bitnet electronic mail may be sent
+space_84.txt$between these networks and other resources available on one of these
+space_84.txt$networks are sometimes accessible from other networks by email sent to
+space_84.txt$special servers
+space_84.txt$the space and astronomy discussion groups actually are composed of
+space_84.txt$several mechanisms with mostly transparent connections between them
+space_84.txt$one mechanism is the mailing list in which mail is sent to a central
+space_84.txt$distribution point which relays it to all recipients of the list in
+space_84.txt$addition to the general lists for space called space digest for
+space_84.txt$internet users and space on bitnet there are a number of more
+space_84.txt$specialized mailing lists described below
+space_84.txt$a second mechanism is usenet netnews this is somewhat like a bulletin
+space_84.txt$board operating on each system which is a part of the net netnews
+space_84.txt$separates contributions into hundreds of different categories based on a
+space_84.txt$group name the groups dealing most closely with space topics are
+space_84.txt$called scispacenews scispace scispaceshuttle sciastro
+space_84.txt$and talkpoliticsspace contributors post submissions called
+space_84.txt$articles in netnews terminology on their local machine which sends
+space_84.txt$it to other nearby machines similarly articles sent from nearby
+space_84.txt$machines are stored locally and may be forwarded to other systems so
+space_84.txt$that an article is posted locally and eventually reaches all the usenet
+space_84.txt$sites interested in receiving the news group to which the article was
+space_84.txt$posted
+space_84.txt$gateway machines redirect the usenet scispace group into internet and
+space_84.txt$bitnet mailing lists and vice versa the other usenet groups are not
+space_84.txt$accessible as mailing lists if you can receive netnews its more
+space_84.txt$flexible interface and access to a wider range of material usually make
+space_84.txt$it the preferred option
+space_84.txt$space digest is the main internet list and is now being run by the
+space_84.txt$international space university in only its second change of management
+space_84.txt$in over a decade email spacerequestisuisunetedu message body
+space_84.txt$should be in the format subscribe space john public to join note
+space_84.txt$that the moderated space magazine list is defunct at present for lack of
+space_84.txt$a moderator old copies of space digest since its inception in 1981 are
+space_84.txt$available by anonymous ftp retrieve
+space_84.txt$juliuscsqubacukpubspacedigestarchivereadme
+space_84.txt$for further details
+space_84.txt$elements is a moderated list for fast distribution of space shuttle
+space_84.txt$keplerian elements before and during shuttle flights nasa two line
+space_84.txt$elements are sent out on the list from dr kelso jsc and other sources
+space_84.txt$as they are released email to elementsrequesttelesoftcom to join
+space_84.txt$gps digest is a moderated list for discussion of the global positioning
+space_84.txt$system and other satellite navigation positioning systems email to
+space_84.txt$gpsrequestesseyesicom to join
+space_84.txt$spaceinvestors is a list for information relevant to investing in
+space_84.txt$spacerelated companies email vincent cate vaccscmuedu to join
+space_84.txt$spacetech is a list for more technical discussion of space topics
+space_84.txt$discussion has included esoteric propulsion technologies asteroid
+space_84.txt$capture starflight orbital debris removal etc email to
+space_84.txt$spacetechrequestcscmuedu to join archives of old digests and
+space_84.txt$selected excerpts are available by anonymous ftp from
+space_84.txt$gs80spcscmuedu 128220590 in usranonpublicspacetech
+space_84.txt$or by email to spacetechrequest if you dont have ftp access
+space_84.txt$sedsl is a bitnet list for members of students for the exploration and
+space_84.txt$development of space and other interested parties email
+space_84.txt$listservtamvm1bitnet with a message saying subscribe sedsl your
+space_84.txt$name email saying index sedsl to list the archive contents
+space_84.txt$sedsnews is a bitnet list for news items press releases shuttle status
+space_84.txt$reports and the like this duplicates material which is also found in
+space_84.txt$space digest scispace scispaceshuttle and sciastro email
+space_84.txt$listservtamvm1bitnet saying subscribe sedsnews your name to join
+space_84.txt$email saying index sedsnews to list the archive contents
+space_84.txt$ron baalke baalkekelvinjplnasagov runs a mailing list which
+space_84.txt$carries the contents of the scispacenews usenet group email him
+space_84.txt$to join the list
+space_84.txt$as a general note please mail to the request address to get off a
+space_84.txt$mailing list space digest for example relays many inappropriate
+space_84.txt$please remove me from this list messages which are sent to the list
+space_84.txt$address rather than the request address
+space_84.txt$in addition to this faq list a broad variety of topical information is
+space_84.txt$posted to the net unless otherwise noted in the new group
+space_84.txt$scispacenews created for this purpose please remember that the
+space_84.txt$individuals posting this information are performing a service for all
+space_84.txt$net readers and dont take up their time with frivolous requests
+space_84.txt$garrett wollman wollmanuvmedu posts an acronym list around the
+space_84.txt$first of each month
+space_84.txt$veikko makela veikkomakelahelsinkifi posts a monthly list of
+space_84.txt$anonymous ftp servers containing astronomy and space related
+space_84.txt$material to scispace and sciastro
+space_84.txt$henry spencer henryzootorontoedu posts summaries of
+space_84.txt$spacerelated stories in the weekly aviation week and space
+space_84.txt$technology
+space_84.txt$ronnie kon ronnieciscocom posts a guide to buying telescopes to
+space_84.txt$sciastro
+space_84.txt$don barry doncharagsuedu posts the monthly electronic journal
+space_84.txt$of the astronomical society of the atlantic to sciastro
+space_84.txt$swaraj jeyasingh sjeyasinaxionbtcouk posts summaries of
+space_84.txt$spacerelated news from flight international this focuses more on
+space_84.txt$nonus space activities than aviation week
+space_84.txt$robert bunge rbungeaccessdigexcom posts a list describing many
+space_84.txt$large telescope projects either being considered or in the works
+space_84.txt$to sciastro
+space_84.txt$peter yee yeeamesarcnasagov posts a variety of nasa material
+space_84.txt$including nasa headline news with the schedule for nasa select
+space_84.txt$shuttle payload briefings and flight manifests and ksc shuttle
+space_84.txt$status reports for usenet users much of this material appears in
+space_84.txt$the group scispaceshuttle
+space_84.txt$ron baalke baalkekelvinjplnasagov posts frequent updates from
+space_84.txt$jpl ames and other centers on the ulysses gailileo pioneer
+space_84.txt$magellan landsat and other missions
+space_84.txt$ts kelso tkelsoblackbirdafitafmil posts orbital elements from
+space_84.txt$nasa prediction bulletins
+space_84.txt$mike rose mrosestsciedu posts orbital elements for the hubble
+space_84.txt$space telescope to sciastro
+space_84.txt$jost jahn jjahnabbshansede posts ephemerides for asteroids
+space_84.txt$comets conjunctions and encounters to sciastro
+space_84.txt$richard langley langunbca posts spacewarn bulletin which
+space_84.txt$describes recent launchorbital decay information and satellites
+space_84.txt$which are useful for scientific activities recent bulletins are
+space_84.txt$available by anonymous ftp from nssdcagsfcnasagov in
+space_84.txt$ken hollis gandalfproelectricctscom posts a compressed version
+space_84.txt$of the space shuttle launch manifest to scispaceshuttle this
+space_84.txt$includes dates times payloads and information on how to see
+space_84.txt$launches and landings
+space_84.txt$cary oler olerhgulethca posts solar terrestrial reports
+space_84.txt$describing solar activity and its effect on the earth to
+space_84.txt$scispace the report is issued in part from data released by the
+space_84.txt$space enviroment services center boulder colorado the intro
+space_84.txt$document needed to understand these reports is available by
+space_84.txt$anonymous ftp from solarstanfordedu 361004 in
+space_84.txt$pubunderstandingsolarterrestrialreports nicfunetfi
+space_84.txt$1282146100 also has this document in
+space_84.txt$pubmiscrecradioshortwavesolarreports and is an archive site
+space_84.txt$for the reports please note this site is in europe and the
+space_84.txt$connection to the us is only 56kb a new primary archive site
+space_84.txt$xiulethca 14266329 has recently been established and will be
+space_84.txt$actively supported
+space_84.txt$glenn chapman glennccssfuca posts summaries of soviet space
+space_84.txt$activities
+space_84.txt$allen sherzer awsitiorg posts a newsletter one small step for
+space_84.txt$a space activist to talkpoliticsspace it describes current
+space_84.txt$legislative activity affecting nasa and commercial space activities
+space_84.txt$ron baalke baalkekelvinjplnasagov posts a calendar including
+space_84.txt$anniversaries conferences launch dates meteor showers and
+space_84.txt$eclipses and other spacerelated events
+space_84.txt$john magliacane kd2bdka2qhduucp posts spacenews covering
+space_84.txt$amsats noaa and other weather satellites and other ham
+space_84.txt$information to recradioamateurmisc and scispace
+space_84.txt$jonathan mcdowell mcdowellcfaharvardedu posts jonathans space
+space_84.txt$report covering launches landings reentries status reports
+space_84.txt$satellite activities etc
+space_84.txt$bev freed freednssfidonetorg posts toward 2001 a weekly
+space_84.txt$global news summary reprinted from space calendar magazine
+space_84.txt$included at the suggestion of eugene miya who wrote the item
+space_84.txt$nasa has an internal system of unclassified electronic mail and bulletin
+space_84.txt$boards this system is not open for public use specifically nasa
+space_84.txt$personnel and procurement operations are regarded with some sensitivity
+space_84.txt$contractors must renegotiate their contracts the fair and open
+space_84.txt$procurement act does not look kindly to those having inside information
+space_84.txt$contractors and outsiders caught using this type of information can
+space_84.txt$expect severe penalities unauthorized access attempts may subject you
+space_84.txt$to a fine andor imprisonment in accordance with title 18 usc section
+space_84.txt$1030 if in fact you should should learn of unauthorized access contact
+space_84.txt$nasa personnel
+space_84.txt$claims have been made on this news group about fraud and waste none
+space_84.txt$have ever been substantiated to any significant degree readers
+space_84.txt$detecting fraud waste abuse or mismanagement should contact the nasa
+space_84.txt$inspector general 24hours at 8004249183 can be anonymous or write
+space_84.txt$inspector general
+space_84.txt$po box 23089
+space_84.txt$lenfant plaza station
+space_84.txt$washington dc 20024
+space_84.txt$next faq 315  online and some offline sources of images data etc

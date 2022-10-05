@@ -1,0 +1,12 @@
+food_43.txt$3                carrots  large
+food_43.txt$1                turnip  large
+food_43.txt$2        stalks  celery
+food_43.txt$2                onions
+food_43.txt$2   tablespoons  butter
+food_43.txt$3        quarts  water
+food_43.txt$2     teaspoons  salt
+food_43.txt$6   large sprig  parsley
+food_43.txt$12                bay leaf
+food_43.txt$1      teaspoon  thyme
+food_43.txt$
+food_43.txt$scrub and coarsely chop carrots turnip celery peel and chop onions melt butter in 8quart pan over medium heat  add chopped vegetables and cook stirring occasionally until vegetables turn golden about 15 minutes add water salt parsley bay leaf and thyme leaves  cover and bring to a boil  reduce heat and simmer for 112 hours  strain and discard vegetables  makes 212 quarts stock you can adjust the seasoning to suit your taste by adding 2 cloves peeled garlic several peppercorns or your favorite herbs  you can freeze extra stock for future use

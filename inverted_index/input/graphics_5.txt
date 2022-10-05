@@ -1,0 +1,8 @@
+graphics_5.txt$i recently got a file describing a library of rendering routines
+graphics_5.txt$called sipp simple polygon processor  could anyone tell me where i can
+graphics_5.txt$ftp the source code and which is the newest version around
+graphics_5.txt$also ive never used renderman so i was wondering if renderman
+graphics_5.txt$is like sipp  ie a library of rendering routines which one uses to make
+graphics_5.txt$a program that creates the image
+graphics_5.txt$thanks  joe tham
+graphics_5.txt$joe tham              jothersysedmontonabca

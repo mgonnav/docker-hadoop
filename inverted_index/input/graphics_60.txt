@@ -1,0 +1,6 @@
+graphics_60.txt$i am writing some utilies to convert regis and tektonic esacpe sequences
+graphics_60.txt$into some useful formats i would rather not have to goto a bitmap format
+graphics_60.txt$i can convert them to window meta files easily enough but i would rather
+graphics_60.txt$convert them to corel draw cdr or ms power point ppt files
+graphics_60.txt$microsoft would not give me the format i was wondering if anybody out
+graphics_60.txt$there knows the formats for these two applications

@@ -1,0 +1,27 @@
+graphics_47.txt$in article o4fzrapdbh107heosvcrwimseybcca aeweosvcrwimseybcca writes
+graphics_47.txt$we have heard many bad things about the ati ultra plus card mainly having
+graphics_47.txt$to do with its buggy windows drivers
+graphics_47.txt$i would like to replace by ati graphics ultra with a truecolour accelerated
+graphics_47.txt$card i was about to buy the ati ultra plus eisa but it has had so much
+graphics_47.txt$bad press that i am reconsidering
+graphics_47.txt$i have the ati graphics ultra pro eisa version  i must admit it has
+graphics_47.txt$received bad press but that was due to the faulty drivers it had  now the
+graphics_47.txt$drivers that are available for the eisa version are the same ones as the isa
+graphics_47.txt$and local bus v15 build 59  some people complained about problems they
+graphics_47.txt$had with the build 59 drivers fortunately i couldnt duplicate them on my
+graphics_47.txt$machine but i did have one problem with harvard graphics that nobody else
+graphics_47.txt$seemed to have
+graphics_47.txt$i would like an accelerated card
+graphics_47.txt$             a card that does 24bit true colour at 800x600 at least
+graphics_47.txt$             a card that does 1024x758 at 256 colours or more
+graphics_47.txt$             a card that has fast polygon fills
+graphics_47.txt$             a card that has fast bit blits
+graphics_47.txt$             a card that has a robust windows driver
+graphics_47.txt$             a card that has high speed noninterlaced refresh
+graphics_47.txt$any suggestions
+graphics_47.txt$i wouldnt recommed the ati for 24bit colour at 800x600 at this resolution
+graphics_47.txt$the display will be interlaced  but at 16bit it isnt i thought it was my
+graphics_47.txt$monitor but it isnt its the card that is the only time you will get
+graphics_47.txt$interlaced  if i come up with cards more suited for your needs ill let
+graphics_47.txt$you know
+graphics_47.txt$amro

@@ -1,0 +1,28 @@
+food_39.txt$assorted dried beans and peas
+food_39.txt$ham hock
+food_39.txt$1           can  tomatoes  28 oz
+food_39.txt$2                onions  chopped
+food_39.txt$4        stalks  celery  chopped
+food_39.txt$2        cloves  garlic  minced
+food_39.txt$salt and pepper to taste
+food_39.txt$bay leaves
+food_39.txt$thyme
+food_39.txt$basil
+food_39.txt$1         pound  sausage  sliced
+food_39.txt$2                boneless chicken breast
+food_39.txt$12           cup  red wine
+food_39.txt$12           cup  chopped parsley
+food_39.txt$
+food_39.txt$wash beans cover with water and soak overnight
+food_39.txt$
+food_39.txt$drain beans and add 3 quarts water ham hock bay leaves thyme and basil and simmer 2 12 to 3 hours
+food_39.txt$
+food_39.txt$add tomatoes onion celery salt pepper and simmer 1 12 hours
+food_39.txt$
+food_39.txt$add sausage chicken and simmer 30 to 40 minutes
+food_39.txt$
+food_39.txt$before serving add wine and parsley
+food_39.txt$
+food_39.txt$note  if refrigerated for at least a day before serving the flavor is enhanced
+food_39.txt$
+food_39.txt$possum kingdom lake cookbook

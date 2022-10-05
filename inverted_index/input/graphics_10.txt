@@ -1,0 +1,10 @@
+graphics_10.txt$hello everybody 
+graphics_10.txt$if you are using pixars renderman 3d scene description language for creating 3d worlds please help me
+graphics_10.txt$im using renderman library on my next but there is no documentation about nextstep version of renderman available i can create very complicated scenes and render them using surface shaders
+graphics_10.txt$but i can not bring them to life by applying shadows and reflections
+graphics_10.txt$as far as i understand i have to define environmental and shadows maps to produce reflections and shadows but i do not know how to use them
+graphics_10.txt$any advises or simple rib or c examples will be appreciated
+graphics_10.txt$thanks in advance
+graphics_10.txt$alex kolesov                             moscow russia
+graphics_10.txt$talus imaging  communications corporation
+graphics_10.txt$email alextalusmsksu 		next mail accepted

@@ -1,0 +1,24 @@
+graphics_85.txt$what is graphic design
+graphics_85.txt$graphic design is the craft of creating visual content to communicate messages applying visual hierarchy and page layout techniques graphic designers use typography and pictures to meet users specific needs and focus on the logic of displaying elements in interactive designs to optimize the user experience
+graphics_85.txt$learn the fundamentals of graphic design with this video from gcflearnfree
+graphics_85.txt$graphic design  molding users experience visually
+graphics_85.txt$graphic design is an ancient craft dating back past egyptian hieroglyphs to 17000yearold cave paintings as a term originating in the 1920s print industry and covering a range of activities including logo creation it concerns aesthetic appeal and marketing  attracting viewers using images color and typography however graphic designers working in user experience ux design must justify stylistic choices regarding say image locations and font with a humancentered approach focusing onand seeking maximum empathy withusers while creating goodlooking designs that maximize usability aesthetics must serve a purpose  in ux design we dont create art for arts sake so when doing graphic design for ux you should consider the information architecture of your interactive designs to ensure accessibility for users and leverage graphic design skills in creating output that considers the entire user experience including users visual processing abilities for instance if an otherwise pleasing mobile app cant offer users what they need in several thumbclicks its designers will have failed to marry graphic design to user experience the scope of graphic design in ux covers creating beautiful designs that users find highly pleasurable meaningful and usable
+graphics_85.txt$design is a solution to a problem art is a question to a problem
+graphics_85.txt$ john maeda president of rhode island school of design
+graphics_85.txt$authorcopyright holder teo yu siang and interaction design foundation copyright terms and licence cc byncsa 30
+graphics_85.txt$graphic design is emotional design
+graphics_85.txt$although the digital age entails designing with interactive software graphic design still revolves around ageold principles striking the right chord with users from the first glance is crucial as a graphic designer you should have a firm understanding of color theory and how vital the right choice of color scheme is color choices must reflect not only the organization eg blue suits banking but also users expectations eg red for alerts green for notifications to proceed you should design with an eye for how elements match the tone eg sansserif fonts for excitementhappiness and overall effect noting how you shape users emotions as you guide them from say a landing page to a call to action often graphic designers are involved in motion design for smaller screens carefully monitoring how the works aesthetics match users expectations and enhance usability in a flowing seamless experience by anticipating their needs and mindsets with user psychology in mind some especially weighty graphic design considerations are
+graphics_85.txt$symmetry and balance including symmetry types
+graphics_85.txt$flow
+graphics_85.txt$repetition
+graphics_85.txt$pattern
+graphics_85.txt$the golden ratio ie proportions of 11618
+graphics_85.txt$the rule of thirds ie how users eyes recognize good layout
+graphics_85.txt$typography encompassing everything from font choice to heading weight
+graphics_85.txt$audience culture re color use and reading pattern
+graphics_85.txt$authorcopyright holder teo yu siang and interaction design foundation copyright terms and licence cc byncsa 30
+graphics_85.txt$overall the mission visàvis graphic design is displaying information harmoniously  beauty and usability must go hand in hand discreetly carrying your organizations ideals through a trustworthy visual presence you hint to users that you know what they want to do  not just because youve arranged aesthetically pleasing elements that are where they expect to find them or help them intuit their way around but because the values your designs display mirror theirs too
+graphics_85.txt$learn more about graphic design
+graphics_85.txt$the idfs encyclopedia addresses graphic designs place in ux httpswwwinteractiondesignorgliteraturebooktheencyclopediaofhumancomputerinteraction2ndedvisualrepresentation
+graphics_85.txt$a firsthand account on transitioning from graphic design to ux design httpsuxdesigncc3thingsiwishiknewbeforeimadetheshiftfromgraphicdesigntouxdesign655af468c923
+graphics_85.txt$an incisive piece examining similaritiesdifferences between graphic and ux design httpstheblogadobecomuxdesignforgraphicdesigners

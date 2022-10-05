@@ -1,0 +1,16 @@
+food_29.txt$12         pound  flank steak  lean
+food_29.txt$2     teaspoons  finely chopped ginger root  or
+food_29.txt$12      teaspoon  ground ginger
+food_29.txt$2     teaspoons  cornstarch
+food_29.txt$12      teaspoon  salt
+food_29.txt$14      teaspoon  chinese 5 spice  or
+food_29.txt$14      teaspoon  allspice
+food_29.txt$1    tablespoon  oil
+food_29.txt$1        medium  onion  thinly sliced
+food_29.txt$12         pound  broccoli flowerets
+food_29.txt$12         pound  fresh mushrooms  sliced
+food_29.txt$2         large  tomatoes  cut in wedges
+food_29.txt$
+food_29.txt$slice steak into thin strips
+food_29.txt$
+food_29.txt$in mixing bowl combine steak ginger cornstarch salt and chinese 5 spice  heat oil in electric wok or pan uncovered at 375 degrees  add meat mixture and stir fry 2 to 3 minutes  push up side of wok  add onions and stir fry 1 minute  push up side of wok  add broccoli flowerets and stir fry 3 minutes  push up wok side add mushrooms and stir fry 1 minute  add tomato wedges and gently stir all ingredients to combine  reduce heat to warm for serving

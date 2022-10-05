@@ -1,0 +1,217 @@
+space_11.txt$archivename spacemath
+space_11.txt$lastmodified date 930401 143912 
+space_11.txt$references that have been frequently recommended on the net are
+space_11.txt$fundamentals of astrodynamics roger bate donald mueller jerry white
+space_11.txt$1971 dover press 455pp 895 us paperback isbn 0486600610
+space_11.txt$nasa spaceflight handbooks dating from the 1960s
+space_11.txt$sp33 orbital flight handbook 3 parts
+space_11.txt$sp34 lunar flight handbook   3 parts
+space_11.txt$sp35 planetary flight handbook 9 parts
+space_11.txt$these might be found in university aeronautics libraries or ordered
+space_11.txt$through the us govt printing office gpo although more
+space_11.txt$information would probably be needed to order them
+space_11.txt$m a minovitch the determination and characteristics of ballistic
+space_11.txt$interplanetary trajectories under the influence of multiple planetary
+space_11.txt$attractions technical report 32464 jet propulsion laboratory
+space_11.txt$pasadena calif oct 1963
+space_11.txt$the title says all starts of with the basics and works its way up
+space_11.txt$very good it has a companion article
+space_11.txt$m minovitch utilizing large planetary perubations for the design of
+space_11.txt$deepspace solarprobe and out of ecliptic trajectories technical
+space_11.txt$report 32849 jpl pasadena calif 1965
+space_11.txt$you need to read the first one first to realy understand this one
+space_11.txt$it does include a short summary if you can only find the second
+space_11.txt$contact jpl for availability of these reports
+space_11.txt$spacecraft attitude dynamics peter c hughes 1986 john wiley and
+space_11.txt$sons
+space_11.txt$celestial mechanics a computational guide for the practitioner
+space_11.txt$lawrence g taff wileyinterscience new york 1985
+space_11.txt$starts with the basics 2body problem coordinates and works up to
+space_11.txt$orbit determinations perturbations and differential corrections
+space_11.txt$taff also briefly discusses stellar dynamics including a short
+space_11.txt$discussion of nbody problems
+space_11.txt$more net references
+space_11.txt$van flandern  pullinen lowprecision formulae for planetary
+space_11.txt$positions astrophysical j supp series 41391411 1979 look in an
+space_11.txt$astronomy or physics library for this also said to be available from
+space_11.txt$willmannbell
+space_11.txt$gives series to compute positions accurate to 1 arc minute for a
+space_11.txt$period  or  300 years from now pluto is included but stated to
+space_11.txt$have an accuracy of only about 15 arc minutes
+space_11.txt$multiyear interactive computer almanac mica produced by the us
+space_11.txt$naval observatory valid for years 19901999 55 80 outside us
+space_11.txt$available for ibm order pb93500163hdv or macintosh order
+space_11.txt$pb93500155hdv from the ntis sales desk 7034874650 i believe
+space_11.txt$this is intended to replace the usnos interactive computer ephemeris
+space_11.txt$interactive computer ephemeris from the us naval observatory
+space_11.txt$distributed on ibmpc floppy disks 35 willmannbell covers dates
+space_11.txt$planetary programs and tables from 4000 to 2800 bretagnon  simon
+space_11.txt$1986 willmannbell
+space_11.txt$floppy disks available separately
+space_11.txt$fundamentals of celestial mechanics 2nd ed jma danby 1988
+space_11.txt$willmannbell
+space_11.txt$a good fundamental text includes basic programs a companion set of
+space_11.txt$floppy disks is available separately
+space_11.txt$astronomical formulae for calculators 4th ed j meeus 1988
+space_11.txt$willmannbell
+space_11.txt$astronomical algorithms j meeus 1991 willmannbell
+space_11.txt$if you actively use one of the editions of astronomical formulae
+space_11.txt$for calculators you will want to replace it with astronomical
+space_11.txt$algorithms this new book is more oriented towards computers than
+space_11.txt$calculators and contains formulae for planetary motion based on
+space_11.txt$modern work by the jet propulsion laboratory the us naval
+space_11.txt$observatory and the bureau des longitudes the previous books were
+space_11.txt$all based on formulae mostly developed in the last century
+space_11.txt$algorithms available separately on diskette
+space_11.txt$practical astronomy with your calculator 3rd ed p duffettsmith
+space_11.txt$1988 cambridge university press
+space_11.txt$orbits for amateurs with a microcomputer d tattersfield 1984
+space_11.txt$stanley thornes ltd
+space_11.txt$includes example programs in basic
+space_11.txt$orbits for amateurs ii d tattersfield 1987 john wiley  sons
+space_11.txt$astronomy  scientific software  catalog of shareware public domain
+space_11.txt$and commercial software for ibm and other pcs astronomy software
+space_11.txt$includes planetarium simulations ephemeris generators astronomical
+space_11.txt$databases solar system simulations satellite tracking programs
+space_11.txt$celestial mechanics simulators and more
+space_11.txt$andromeda software inc
+space_11.txt$po box 605
+space_11.txt$amherst ny 142260605
+space_11.txt$astrogeologist gene shoemaker proposes the following formula based on
+space_11.txt$studies of cratering caused by nuclear tests
+space_11.txt$d  s  s  c  k  w	     crater diameter in km
+space_11.txt$s  g g 		     gravity correction factor for bodies other than
+space_11.txt$g	  e  t		      earth where g  98 ms2 and g	is the surface
+space_11.txt$e		      t
+space_11.txt$gravity of the target body this scaling is
+space_11.txt$cited for lunar craters and may hold true for
+space_11.txt$other bodies
+space_11.txt$s  p  p 	     correction factor for target density p  
+space_11.txt$p	  a   t							    t
+space_11.txt$p   18 gcm3 for alluvium at the jangle u
+space_11.txt$a
+space_11.txt$crater site p  26 gcm3 for average
+space_11.txt$rock on the continental shields
+space_11.txt$c			     crater collapse factor 1 for craters  3 km
+space_11.txt$in diameter 13 for larger craters on earth
+space_11.txt$k			     074 km  kt tnt equivalent
+space_11.txt$n			      empirically determined from the jangle u
+space_11.txt$nuclear test crater
+space_11.txt$w  pi  d	 delta  v   12  4185  10  
+space_11.txt$ projectile kinetic energy in kt tnt equivalent
+space_11.txt$given diameter d velocity v and projectile
+space_11.txt$density delta in cgs units delta of around 3
+space_11.txt$gcm3 is fairly good for an asteroid
+space_11.txt$an rms velocity of v  20 kmsec may be used for earthcrossing
+space_11.txt$asteroids
+space_11.txt$under these assumptions the body which created the barringer meteor
+space_11.txt$crater in arizona 113 km diameter would have been about 40 meters in
+space_11.txt$diameter
+space_11.txt$more generally one can use after gehrels 1985
+space_11.txt$asteroid	    number of objects  impact probability  impact energy
+space_11.txt$diameter km		       impactsyear	    51020 ergs
+space_11.txt$assuming simple scaling laws note that 51020 ergs  13 000 tons tnt
+space_11.txt$equivalent or the energy released by the hiroshima abomb
+space_11.txt$references
+space_11.txt$gehrels t 1985 asteroids and comets physics today 38 3241 an
+space_11.txt$excellent general overview of the subject for the layman
+space_11.txt$shoemaker em 1983 asteroid and comet bombardment of the earth ann
+space_11.txt$rev earth planet sci 11 461494 very long and fairly
+space_11.txt$technical but a comprehensive examination of the
+space_11.txt$subject
+space_11.txt$shoemaker em jg williams ef helin  rf wolfe 1979
+space_11.txt$earthcrossing asteroids orbital classes collision rates with
+space_11.txt$earth and origin in asteroids t gehrels ed pp 253282
+space_11.txt$university of arizona press tucson
+space_11.txt$cunningham cj 1988 introduction to asteroids the next frontier
+space_11.txt$richmond willmanbell inc covers all aspects of asteroid
+space_11.txt$studies and is an excellent introduction to the subject for people
+space_11.txt$of all experience levels it also has a very extensive reference
+space_11.txt$list covering essentially all of the reference material in the
+space_11.txt$field
+space_11.txt$two easytofind sources of map projections are the encyclopaedia
+space_11.txt$brittanica particularly the older volumes and a tutorial appearing
+space_11.txt$in graphics gems academic press 1990 the latter was written with
+space_11.txt$simplicity of exposition and suitability of digital computation in mind
+space_11.txt$spherical trig formulae also appear as do digitallyplotted examples
+space_11.txt$more than you ever cared to know about map projections is in john
+space_11.txt$snyders usgs publication map projectionsa working manual usgs
+space_11.txt$professional paper 1395 this contains detailed descriptions of 32
+space_11.txt$projections with history features projection formulas for both
+space_11.txt$spherical earth and ellipsoidal earth and numerical test cases its a
+space_11.txt$neat book all 382 pages worth this ones 20
+space_11.txt$you might also want the companion volume by snyder and philip voxland
+space_11.txt$an album of map projections usgs professional paper 1453 this
+space_11.txt$contains less detail on about 130 projections and variants formulas are
+space_11.txt$in the back example plots in the front 14 250 pages
+space_11.txt$you can order these 2 ways the cheap slow way is direct from usgs
+space_11.txt$earth science information center us geological survey 507 national
+space_11.txt$center reston va 22092 800usamaps they can quote you a price and
+space_11.txt$tell you where to send your money expect a 68 week turnaround time
+space_11.txt$a much faster way about 1 week is through timely discount topos
+space_11.txt$3034695022 9769 w 119th drive suite 9 broomfield co 80021 call
+space_11.txt$them and tell them what you want theyll quote a price you send a
+space_11.txt$check and then they go to usgs customer service counter and pick it up
+space_11.txt$for you add about a 34 service charge plus shipping
+space_11.txt$a perhaps more accessible mapping article is
+space_11.txt$r miller and f reddy mapping the world in pascal
+space_11.txt$byte v12 14 december 1987
+space_11.txt$contains turbo pascal procedures for five common map projections a
+space_11.txt$demo program cartogpas and a small 6000 point coastline data
+space_11.txt$is available on compuserve genie and many bbss
+space_11.txt$some references for spherical trignometry are
+space_11.txt$spherical astronomy wm smart cambridge u press 1931
+space_11.txt$a compendium of spherical astronomy s newcomb dover 1960
+space_11.txt$spherical astronomy rm green cambridge u press 1985 update
+space_11.txt$of smart
+space_11.txt$spherical astronomy e woolard and gclemence academic
+space_11.txt$press 1966
+space_11.txt$computer simulation using particles
+space_11.txt$r w hockney and j w eastwood
+space_11.txt$adam hilger bristol and philadelphia 1988
+space_11.txt$the rapid evaluation of potential fields in particle systems
+space_11.txt$l greengard
+space_11.txt$mit press 1988
+space_11.txt$a breakthrough on simulation method has been parallelized
+space_11.txt$l greengard and v rokhlin a fast algorithm for particle
+space_11.txt$simulations journal of computational physics 73325348 1987
+space_11.txt$an on algorithm for threedimensional nbody simulations msee
+space_11.txt$thesis feng zhao mit ailab technical report 995 1987
+space_11.txt$galactic dynamics
+space_11.txt$j binney  s tremaine
+space_11.txt$princeton u press princeton 1987
+space_11.txt$includes an on2 fortran code written by aarseth a pioneer in
+space_11.txt$the field
+space_11.txt$hierarchical n log n tree methods are described in these papers
+space_11.txt$a w appel an efficient program for manybody simulation siam
+space_11.txt$journal of scientific and statistical computing vol 6 p 85
+space_11.txt$barnes  hut a hierarchical on log n forcecalculation
+space_11.txt$algorithm nature v324  6096 410 dec 1986
+space_11.txt$l hernquist hierarchical nbody methods computer physics
+space_11.txt$communications vol 48 p 107 1988
+space_11.txt$if you just need to examine fits images use the ppm package see the
+space_11.txt$compgraphics faq to convert them to your preferred format for more
+space_11.txt$information on the format and other software to read and write it see
+space_11.txt$the sciastrofits faq
+space_11.txt$the 6th edition of the unix operating system came with several software
+space_11.txt$systems not distributed because of older media capacity limitations
+space_11.txt$included were an ephmeris a satellite track and speech synthesis
+space_11.txt$software the ephmeris sky6 is available within att and to sites
+space_11.txt$possessing a unix source code license the program is regarded as unix
+space_11.txt$source code sky is 05mb send proof of source code license to
+space_11.txt$e miya
+space_11.txt$nasa ames research center
+space_11.txt$moffett field ca 940351000
+space_11.txt$eugeneorvillenasnasagov
+space_11.txt$to generate 3d coordinates of astronomical objects first obtain an
+space_11.txt$astronomical database which specifies right ascension declination and
+space_11.txt$parallax for the objects convert parallax into distance using the
+space_11.txt$formula in part 6 of the faq convert ra and declination to coordinates
+space_11.txt$on a unit sphere see some of the references on planetary positions and
+space_11.txt$spherical trignometry earlier in this section for details on this and
+space_11.txt$scale this by the distance
+space_11.txt$two databases useful for this purpose are the yale bright star catalog
+space_11.txt$sources listed in faq section 3 or the catalogue of stars within 25
+space_11.txt$parsecs of the sun in pubspacefaqstarsdata and starsdoc on
+space_11.txt$amesarcnasagov
+space_11.txt$next faq 515  references on specific areas

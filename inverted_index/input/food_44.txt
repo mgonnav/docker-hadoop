@@ -1,0 +1,13 @@
+food_44.txt$2   tablespoons  margarine
+food_44.txt$1         stalk  celery  chopped
+food_44.txt$1        cloves  garlic  minced
+food_44.txt$12           cup  med onion  chopped
+food_44.txt$2          cups  vegetable stock
+food_44.txt$16        ounces  frozen peas
+food_44.txt$1          dash  white pepper
+food_44.txt$12           cup  lowfat milk
+food_44.txt$1          dash  nutmeg
+food_44.txt$
+food_44.txt$garnish herbed garlic croutons 14 c chopped fresh parsley and 2 t lemon peel or grated parmesan cheese optional in a dutch oven or 45 qt saucepan melt margarine add celery garlic and onion saute until softened about 5 minutes  add vegetable stock peas and white pepper over med heat cover and simmer 5 minutes  transfer mixture to bowl of food processor cool slightly puree  return mixture to pan add milk and nutmeg heat through about 5 minutes stirring constantly top each serving with garnish if desired
+food_44.txt$
+food_44.txt$

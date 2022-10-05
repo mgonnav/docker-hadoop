@@ -1,0 +1,15 @@
+graphics_8.txt$i am looking for publically accessible sources of data depicting brain
+graphics_8.txt$and neuron functions  especially interesting would be volumetric data from
+graphics_8.txt$brain scans electromicographs and so forth  please email me and let me know
+graphics_8.txt$if you know of such
+graphics_8.txt$the humbio project is a cdrombased curriculum tool for sixth seventh and
+graphics_8.txt$eigthgraders studying the function of the human brain and the effects of
+graphics_8.txt$neurotransmitters alcohol and drugs  the will be a special focus in depicting
+graphics_8.txt$the effects of neurotransmitters on behavior
+graphics_8.txt$volotta interactive video is producing this project for stanford univers
+graphics_8.txt$ity
+graphics_8.txt$we are currently in a preproduction phase and we are looking for data sets and
+graphics_8.txt$visualizations depicting brain function on the whole brain neuron and molecular
+graphics_8.txt$levels  we intend to use stateoftheart visualization tools to render
+graphics_8.txt$instructive visualizations from two three and fourdimensional data sets as
+graphics_8.txt$well as using alreadycompleted visualizations to their best effect

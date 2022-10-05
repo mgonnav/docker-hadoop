@@ -1,0 +1,77 @@
+space_58.txt$ssf is up for redesign again  lets do it right this
+space_58.txt$time  lets step back and consider the functionality we want
+space_58.txt$1 microgravityvacuum process research
+space_58.txt$2 life sciences research adaptation to space
+space_58.txt$3 spacecraft maintenence
+space_58.txt$the old nasa approach explified by shuttle and ssf so far was to
+space_58.txt$centralize functionality  these projects failed to meet
+space_58.txt$their targets by a wide margin the military and commercial users
+space_58.txt$took most of their payloads off shuttle after wasting much effort to
+space_58.txt$tie their payloads to it and ssf has crumbled into disorganization
+space_58.txt$and miscommunication  over 50 billion has been spent on these
+space_58.txt$two projects with no reduction in launch costs and littel improvement
+space_58.txt$in commercial space industrialization  meanwhile military and commercial
+space_58.txt$users have come up with a superior strategy for space development the
+space_58.txt$constellation
+space_58.txt$firstly different functions are broken down into different
+space_58.txt$constellations placed in the optimal orbit for each function
+space_58.txt$thus we have the gpsnavstar constellation in 12hour orbits
+space_58.txt$comsats in clarke and molniya orbits etc  secondly the task
+space_58.txt$is distributed amongst several spacecraft in a constellation
+space_58.txt$providing for redundancy and full coverage where needed
+space_58.txt$ssfs 3 main functions require quite different environments
+space_58.txt$and are also prime candidates for constellization
+space_58.txt$1 we have the makings of a microgravity constellation now
+space_58.txt$comet and mir for longduration flights shuttlespacelab for
+space_58.txt$shortduration flights  the best strategy for this area is
+space_58.txt$inexpensive incremental improvement installation of us facilities
+space_58.txt$on mir shuttlemir linkup and transition from shuttlespacelab
+space_58.txt$to a much less expensive sstospacehabcomet or sstosifcomet
+space_58.txt$we might also expand the research program to take advantage of
+space_58.txt$interesting space environments eg the highradiation van allen belt
+space_58.txt$or gasplasma gradients in comet tails  the comet system can
+space_58.txt$be much more easily retrofitted for these tasks where a
+space_58.txt$station is too large to affordably launch beyond leo
+space_58.txt$2 we need to study life sciences not just in microgravity
+space_58.txt$but also in lunar and martian gravities and in the radiation
+space_58.txt$environments of deep space instead of the protected shelter
+space_58.txt$of leo  this is a very longterm lowpriority project since
+space_58.txt$astronauts will have little practical use in the space program
+space_58.txt$until costs come down orders of magnitude  furthermore using
+space_58.txt$astronauts severely restricts the scope of the investigation
+space_58.txt$and the sample size  so i propose labratsat a constellation
+space_58.txt$tetherbolo satellites that test out various levels of gravity
+space_58.txt$in supervanallenbelt orbits that are representative of the
+space_58.txt$radiation environment encountered on earthmoon earthmars
+space_58.txt$earthasteroid etc trips  the miniaturized life support
+space_58.txt$machinery might be operated realtime from earth thru a vr
+space_58.txt$interface  after several orbital missions have been flown
+space_58.txt$followons can act as ldefs on the lunar and martian surface
+space_58.txt$testing out the actual environment at low cost before billions
+space_58.txt$are spent on astronauts
+space_58.txt$3 by far the largest market for spacecraft servicing is in
+space_58.txt$clarke orbit  i propose a fleet of small teleoperated
+space_58.txt$robots and small test satellites on which ground engineers can
+space_58.txt$practice their skills  once in place robots can pry stuck
+space_58.txt$solar arrays and antennas attach solar battery power packs
+space_58.txt$inject fuel etc  once the fleet is working it can be
+space_58.txt$spun off to commercial companys who can work with the comsat
+space_58.txt$companies to develop comsat replaceable module standards
+space_58.txt$by applying the successful constellation strategy and getting
+space_58.txt$rid of the failed centralized strategy of sts and old ssf we
+space_58.txt$have radically improved the capability of the program while
+space_58.txt$greatly cutting its cost  for a fraction of ssfs pricetag
+space_58.txt$we can fix satellites where the satellites are we can study
+space_58.txt$lifes adaptation to a much large  more representative variety
+space_58.txt$of space environments and we can do microgravity and vacuum
+space_58.txt$research inexpensively and if needed in specialpurpose
+space_58.txt$orbits
+space_58.txt$nb we can apply the constellation strategy to space exploration
+space_58.txt$as well greatly cutting its cost and increasing its functionality
+space_58.txt$mars network and artemis are two good examples of this more ambitiously
+space_58.txt$we can set up a network of native propellant plants on mars that can be used
+space_58.txt$to fuel planetwide roverballistic hopper prospecting and
+space_58.txt$sample return  the descendants of labratsats technology can
+space_58.txt$be used as a mars surface ldef and to test out closedecology
+space_58.txt$greenhouses on mars at low cost
+space_58.txt$nick szabo					 szabotechboookcom

@@ -1,0 +1,505 @@
+medical_646.txt$ cut here 
+medical_646.txt$call for employers to keep  information about the hiv status of healthcare
+medical_646.txt$workers  confidential  but doctors who know of an hivpositive colleague  who
+medical_646.txt$has not sought advice must inform the employing authority and the appropriate
+medical_646.txt$professional regulatory body  the guidelines  also emphasize the significance
+medical_646.txt$of notifying all patients on whom an invasive procedure has been done by an
+medical_646.txt$infected healthcare  worker  a model letter to patients who have come into
+medical_646.txt$contact  with such an individual is provided along with suggestions for
+medical_646.txt$health officials on how to deal with the media  in addition a  uk advisory
+medical_646.txt$panel on hiv infection in healthcare workers has  been formed to provide
+medical_646.txt$specific occupational recommendations to  those treating such patients
+medical_646.txt$properties of an hiv vaccine nature 040893 vol 362 no 6420 p 504
+medical_646.txt$volvovitz franklin and smith gale
+medical_646.txt$the questions raised by moore et al about recombinant gp160  envelope
+medical_646.txt$glycoprotein precursor from hiv1 produced by  microgenesys are advantages
+medical_646.txt$rather than disadvantages write  franklin volvovitz and gale smith of
+medical_646.txt$microgenesys in meriden  conn  moore et al says that gp160 in a baculovirus
+medical_646.txt$expression  system does not bind strongly to the cd4 receptor and that this
+medical_646.txt$recombinant gp160 does not stimulate the same antibodies as the  hiv1 virus
+medical_646.txt$does in natural infection  but vaccination with  recombinant gp160 in
+medical_646.txt$patients infected with hiv1 broadens hiv1  specific envelopedirected immune
+medical_646.txt$responses including  crossreactive antibodies to gp160 epitopes and cd4 and
+medical_646.txt$cd8  cytotoxic tcell responses  volvovitz and smith claim that they  never
+medical_646.txt$intended their gp160 molecule to be identical to the native protein  antibody
+medical_646.txt$responses against native hiv1 proteins  including the types described by
+medical_646.txt$moore et al exist in nearly  all aids patients but do not prevent
+medical_646.txt$hicnet medical newsletter                                              page 42
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$progression of hiv disease  in addition the binding of gp120 or gp120
+medical_646.txt$antibody complexes to  cd4 has been shown to interfere with antigen specific
+medical_646.txt$activation  of cd4 cells and trigger programmed cell death in vitro which
+medical_646.txt$may contribute to the pathogenesis of hiv infection  the absence of cd4
+medical_646.txt$binding by the microgenesys gp160 vaccine may therefore be viewed as an added
+medical_646.txt$safety feature  phase i studies have  demonstrated stable cd4 counts
+medical_646.txt$stimulation of cytotoxic t cells and the suggestion of restoration of immune
+medical_646.txt$function  based on  these and other clinical results microgenesys gp160 was
+medical_646.txt$chosen  by researchers at the karolinska institute in sweden for the  first
+medical_646.txt$phase iii vaccine therapy studies conclude volvovitz and  smith
+medical_646.txt$hiv1 infection breast milk and hiv1 transmission lancet 041093 vol
+medical_646.txt$341 no 8850 p 930  mok jacqueline
+medical_646.txt$there are still more questions than answers regarding  hiv1positive
+medical_646.txt$women breastfeeding their babies writes  jacqueline mok of the lancet  the
+medical_646.txt$antiinfective properties of  milk are well documented  while the numbers of
+medical_646.txt$leukocytes  concentrations of lactoferrin and iga and lymphocyte mitogenic
+medical_646.txt$activity decline sharply during the first two to three months of  lactation to
+medical_646.txt$barely detectable levels lactoferrin and iga then  increase from three to
+medical_646.txt$twelve months with 90 percent of total  iga in milk being secretory iga
+medical_646.txt$breastfeeding protects infants  against gastrointestinal and respiratory
+medical_646.txt$illnesses in both  normal and uninfected children born to hivpositive
+medical_646.txt$mothers  the italian national registry of aids discovered that breastfed hiv
+medical_646.txt$1 infected children had a longer median incubation time 19 months than
+medical_646.txt$bottlefed infants 97 months  breastfed children also had a slower
+medical_646.txt$progression to aids  there is no agreement on which  antibodies offer
+medical_646.txt$protection against hiv1 infection  studies of  the biological properties of
+medical_646.txt$milk from 15 hiv1 infected women  showed the presence of igg and iga
+medical_646.txt$antibodies against envelope  glycoproteins as well as iga antibodies against
+medical_646.txt$core antigens   binding of hiv1 to the cd4 receptor can be inhibited by a
+medical_646.txt$human  milk factor  in the developing world where infectious disease  and
+medical_646.txt$malnutrition contribute significantly to infant mortality  breast milk is
+medical_646.txt$still the best food for infants regardless of the mothers hiv status
+medical_646.txt$transmission might be restricted by  breastfeeding after colostrum and early
+medical_646.txt$milk have been expressed  and discarded  the possibility remains that breast
+medical_646.txt$milk could  protect the infant who is already infected with hiv at birth and
+medical_646.txt$may even delay progression to aids concludes mok
+medical_646.txt$absence of hiv transmission from an infected dentist to his patients journal
+medical_646.txt$of the american medical association 041493 vol 269  no 14 p 1802
+medical_646.txt$dickinson gordon m et al
+medical_646.txt$if universal precautions are practiced the risk of hiv  transmission
+medical_646.txt$from dentist to patient appears to be infinitesimal write gordon m dickinson
+medical_646.txt$hicnet medical newsletter                                              page 43
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$et al of the university of miami  school of medicine in miami fla  the
+medical_646.txt$researchers contacted all  patients treated by a dentist with aids and
+medical_646.txt$attempts were made to contact all patients for hiv testing  living patients
+medical_646.txt$with newly detected hiv infection were interviewed and dna sequence  analysis
+medical_646.txt$was performed to compare genetic relatedness of their  hiv to that of the
+medical_646.txt$dentist  death certificates were obtained for deceased patients and the
+medical_646.txt$medical records of those with  diagnoses suggestive of hiv disease or drug
+medical_646.txt$abuse and those dying under the age of 50 years were examined in detail
+medical_646.txt$there were  1192 patients who had undergone 9267 procedures of whom 124
+medical_646.txt$were deceased  an examination of the death certificates of  patients
+medical_646.txt$identified five who had died with hiv infection all of  whom were either
+medical_646.txt$homosexuals or ivdrug users  the researchers  were able to detect 962 of the
+medical_646.txt$remaining 1048 patients and 900  agreed to be tested  hiv infection was
+medical_646.txt$reported in five of the  900 patients including four who had clear evidence
+medical_646.txt$of risk  factors for the disease  one patient who had only a single
+medical_646.txt$evaluation by the dentist denied highrisk behavior  comparative dna sequence
+medical_646.txt$analysis showed that the viruses from the dentists  and these five patients
+medical_646.txt$were not closely related  the study  suggests the potential for hiv
+medical_646.txt$transmission from a general  dentist to his patients is minimal in a setting
+medical_646.txt$in which  universal precautions are strictly observed conclude dickinson  et
+medical_646.txt$al
+medical_646.txt$april 22 1993
+medical_646.txt$aids patients are susceptible to recurrences of tb study says washington
+medical_646.txt$post 042293 p a13
+medical_646.txt$tuberculosis can strike aids patients more than once which makes the
+medical_646.txt$resurging health hazard harder to control according to a  study published in
+medical_646.txt$todays new england journal of medicine   people who contract tb usually
+medical_646.txt$develop an immunity that protects  them if they are exposed to the bacteria
+medical_646.txt$again  but a person  whose immune system is depleted may not be able to fight
+medical_646.txt$off a  new tb infection doctors found  peter m small of the howard  hughes
+medical_646.txt$medical institute at stanford university director of the  study said that in
+medical_646.txt$order to protect against reinfection it may  be necessary for some people to
+medical_646.txt$use tb medicines permanently   the study examined the genetic makeup of tb
+medical_646.txt$bacteria and how the  germs changed over time in 17 patients at kings county
+medical_646.txt$hospital  in new york
+medical_646.txt$hiv1 infection breast milk and hiv1 transmission lancet 041093 vol
+medical_646.txt$341 no 8850 p 930  mok jacqueline
+medical_646.txt$there are still more questions than answers regarding  hiv1positive
+medical_646.txt$women breastfeeding their babies writes  jacqueline mok of the lancet  the
+medical_646.txt$antiinfective properties of  milk are well documented  while the numbers of
+medical_646.txt$hicnet medical newsletter                                              page 44
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$leukocytes  concentrations of lactoferrin and iga and lymphocyte mitogenic
+medical_646.txt$activity decline sharply during the first two to three months of  lactation to
+medical_646.txt$barely detectable levels lactoferrin and iga then  increase from three to
+medical_646.txt$twelve months with 90 percent of total  iga in milk being secretory iga
+medical_646.txt$breastfeeding protects infants  against gastrointestinal and respiratory
+medical_646.txt$illnesses in both  normal and uninfected children born to hivpositive
+medical_646.txt$mothers  the italian national registry of aids discovered that breastfed hiv
+medical_646.txt$1 infected children had a longer median incubation time 19 months than
+medical_646.txt$bottlefed infants 97 months  breastfed children also had a slower
+medical_646.txt$progression to aids  there is no agreement on which  antibodies offer
+medical_646.txt$protection against hiv1 infection  studies of  the biological properties of
+medical_646.txt$milk from 15 hiv1 infected women  showed the presence of igg and iga
+medical_646.txt$antibodies against envelope  glycoproteins as well as iga antibodies against
+medical_646.txt$core antigens   binding of hiv1 to the cd4 receptor can be inhibited by a
+medical_646.txt$human  milk factor  in the developing world where infectious disease  and
+medical_646.txt$malnutrition contribute significantly to infant mortality  breast milk is
+medical_646.txt$still the best food for infants regardless of the mothers hiv status
+medical_646.txt$transmission might be restricted by  breastfeeding after colostrum and early
+medical_646.txt$milk have been expressed  and discarded  the possibility remains that breast
+medical_646.txt$milk could  protect the infant who is already infected with hiv at birth and
+medical_646.txt$may even delay progression to aids concludes mok
+medical_646.txt$hiv and the aetiology of aids lancet 041093 vol 341 no 8850 p 957
+medical_646.txt$duesberg peter
+medical_646.txt$because there is no proof that hiv is the cause of aids the  hypothesis
+medical_646.txt$that drug use leads to aids will hopefully become a  hindrance to the
+medical_646.txt$physiologically azt and psychologically  positive aids test toxic public
+medical_646.txt$health initiatives writes  peter duesberg of the university of california
+medical_646.txt$berkeley  in the lancets march 13 issue schechter et al call duesbergs
+medical_646.txt$hypothesis that injected and orally used recreational drugs and  azt lead to
+medical_646.txt$aids a hindrance to public health initiatives   however their hypothesis
+medical_646.txt$that hiv is the cause of aids has not  attained any public health benefits
+medical_646.txt$the us government spends  4 billion annually but no vaccine no therapy
+medical_646.txt$no prevention  and no aids control have resulted from work on this
+medical_646.txt$hypothesis   schechter et al conclude that hiv has a key role in cd4
+medical_646.txt$depletion and aids based on epidemiological correlations with  antibodies
+medical_646.txt$against hiv and with self reported recreational drug  use among homosexuals
+medical_646.txt$from vancouver  however their survey  neglects to disprove duesbergs drug
+medical_646.txt$aids hypothesis because it  does not provide controlsie confirmed drug
+medical_646.txt$free aids  casesand because it does not quantify drug use and ignores azt
+medical_646.txt$use altogether  to refute duesbergs hypothesis schechter would  have to
+medical_646.txt$produce a controlled study demonstrating that over a  period of up to 10 years
+medical_646.txt$hivpositive patients who use  recreational drugs or azt or both have the same
+medical_646.txt$aids risks as  positives who do not do so  the 10 year period is claimed by
+medical_646.txt$hicnet medical newsletter                                              page 45
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$proponents of the hiv hypothesis to be the time needed for hiv to cause aids
+medical_646.txt$alternatively they could show that hivfree  individuals who have used drugs
+medical_646.txt$for 10 years never get  aidsdefining illnesses concludes duesberg
+medical_646.txt$rapid decline of cd4 cells after ifna treatment in hiv1  infection
+medical_646.txt$lancet 041093 vol 341 no 8850 p 959   vento sandro et al
+medical_646.txt$interferon ifn which induces autoantibodies and autoimmune  diseases
+medical_646.txt$in some settings may hasten cd4 tcell loss in some  hiv1 infected
+medical_646.txt$individuals through the amplification of harmful  autoimmune reactions
+medical_646.txt$write sandro vento et al of the a  pugliese hospital in catanzaro italy
+medical_646.txt$the researchers report  three asymptomatic hiv1 infected individuals with
+medical_646.txt$hepatitis c  virus related chronic active hepatitis cah who had a rapid
+medical_646.txt$profound decline of cd4 cells after ifn  all three patients  throughout the
+medical_646.txt$observation were consistently negative for serum  hiv p24 antigen and had
+medical_646.txt$circulating antibodies to p24  sera from all three patients obtained at the
+medical_646.txt$end of ifn treatment and  testing in enzymelinked immunosorbent assay
+medical_646.txt$contained high  titres of antibodies reacting to a sequence located in the
+medical_646.txt$aminoterminal of the beta chain of all human hla class ii  antigens
+medical_646.txt$homologous to a sequence located in the carboxy  terminus of hiv1 gp41
+medical_646.txt$these autoantibodies which also  recognize native class ii molecules and
+medical_646.txt$may contribute to the  elimination of cd4 t cells in vivo were at low tires
+medical_646.txt$50100  in all three patients six months after stopping ifn  such
+medical_646.txt$autoantibodies were not detected in 28 other patients with hiv  infection and
+medical_646.txt$hcv related cah treated with ifn and who did not  experience cd4 tcell loss
+medical_646.txt$in some hiv1 infected individuals  through the amplification of harmful
+medical_646.txt$autoimmune reactions  the subjects had a1 b8 dr3 and b35 dr1 hla
+medical_646.txt$antigen combinations  which are linked with a more rapid fall in cd4 cell
+medical_646.txt$counts and  clinical progression of hiv1 disease  ifn can induce a very
+medical_646.txt$rapid decline of cd4 cells and should be used cautiously in  patients with
+medical_646.txt$these hla haplotypes the researchers conclude
+medical_646.txt$april 23 1993
+medical_646.txt$tb makes a comeback state government news 0493 vol 36 no 4 p 6
+medical_646.txt$voit william and knapp elaine s
+medical_646.txt$although tuberculosis was once believed to be eliminated in the  united
+medical_646.txt$states it is emerging again among the homeless aids  patients immigrants
+medical_646.txt$minorities and prisoners  dr lee b  reichman professor of medicine at the
+medical_646.txt$university of new jersey  medical school and president of the american lung
+medical_646.txt$association  said right now its a big city problem but potentially its
+medical_646.txt$everyones problem  the ala predicts that 10 million americans  are infected
+medical_646.txt$with tb and about 10 percent of them will develop  the disease because their
+medical_646.txt$immune systems are depressed  especially those with aids or hiv  gene
+medical_646.txt$hicnet medical newsletter                                              page 46
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$tammes a centers for  disease control expert said that is why the cdc has
+medical_646.txt$issued  guidelines warning hospitals and institutions not to mix aids  with tb
+medical_646.txt$patients  state health officials believe the tb is also  spreading because
+medical_646.txt$those who are most susceptible are the least  likely to follow through with
+medical_646.txt$treatment  in addition the  increase is attributed to a shortage of public
+medical_646.txt$health services   in new york city tb is an epidemic because the number of
+medical_646.txt$cases  is increasing faster than we can treat people said dr george
+medical_646.txt$diferdinando director of the new york state tb control   according to
+medical_646.txt$diferdinando curbing the spread of tb entails  keeping 85 percent or more of
+medical_646.txt$diagnosed tb cases in treatment   about 40 percent of infected new york city
+medical_646.txt$residents dont  complete therapy  when tb patients dont finish taking their
+medical_646.txt$medication multidrug resistant tb can develop which requires  taking more
+medical_646.txt$expensive drugs and can take two years instead of the normal six months to
+medical_646.txt$treat
+medical_646.txt$increasing frequency of heterosexually transmitted aids in  southern
+medical_646.txt$florida artifact or reality american journal of public health 0493 vol
+medical_646.txt$83 no 4 p 571  nwanyanwu okey c et al
+medical_646.txt$the alarmingly high rate of heterosexually acquired aids cases in
+medical_646.txt$southern florida was partially related to misclassification of  risk write
+medical_646.txt$okey c nwanyanwu et al of the centers for disease  control in atlanta ga
+medical_646.txt$the researchers investigated 168 such  aids cases from broward and coastal
+medical_646.txt$palm beach counties  all of  these cases attributed to heterosexual
+medical_646.txt$transmission reported  sexual contact with bisexual men injecting drug users
+medical_646.txt$or  persons born in countries where heterosexual contact is the  primary route
+medical_646.txt$of hiv transmission  medical records of patients  in addition to records
+medical_646.txt$from social services hiv counseling and  testing centers and sexually
+medical_646.txt$transmitted disease std clinics  were reviewed  if no other hiv risk factor
+medical_646.txt$was found from  medical record review patients were interviewed using a
+medical_646.txt$standardized questionnaire  once std clinic and other medical  records were
+medical_646.txt$reviewed 29 men and 7 women were reclassified into  other hiv transmission
+medical_646.txt$categories  after adjustments were made  for the reclassification the
+medical_646.txt$percentage of aids cases reported  from palm beach and broward counties
+medical_646.txt$between january 1 1989 and march 31 1990 that was attributed to
+medical_646.txt$heterosexual transmission  decreased from 10 percent to 6 percent among men
+medical_646.txt$and from 33  percent to 28 percent among women  while the percentage of
+medical_646.txt$heterosexually transmitted aids cases in southern florida  decreased after
+medical_646.txt$adjustment was made for reclassified cases it  still remained above the
+medical_646.txt$national average the researchers  conclude
+medical_646.txt$hicnet medical newsletter                                              page 47
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$aids statistics
+medical_646.txt$world health organization geneva
+medical_646.txt$organisation mondiale de la sante geneve
+medical_646.txt$15 january 1993  68th year
+medical_646.txt$data as at 31 december 1992
+medical_646.txt$donnees au 31 decembre 1992
+medical_646.txt$algeria  algerie                              92                 310891
+medical_646.txt$angola                                        514                 240992
+medical_646.txt$benin  benin                                 247                 310392
+medical_646.txt$botswana                                      353                 300692
+medical_646.txt$burkina faso                                1263                 200392
+medical_646.txt$burundi                                     6052                 200392
+medical_646.txt$cameroon  cameroun                         1407                 051092
+medical_646.txt$cape verde  capvert                          52                 080292
+medical_646.txt$central african republic 
+medical_646.txt$republique centrafricaine           1864                 200392
+medical_646.txt$chad  tchad                                  382                 170992
+medical_646.txt$comoros  comores                               3                 110392
+medical_646.txt$congo                                       3482                 300192
+medical_646.txt$cote divoire                              10792                 090392
+medical_646.txt$djibouti                                      265                 171292
+medical_646.txt$egypt  egypte                                 57                 171292
+medical_646.txt$equatorial guinea 
+medical_646.txt$guinee equatoriale                     13                 160592
+medical_646.txt$ethiopia  ethiopie                         3978                 111192
+medical_646.txt$hicnet medical newsletter                                              page 48
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$gabon                                         215                 310592
+medical_646.txt$gambia  gambie                               180                 250292
+medical_646.txt$ghana                                       3612                 010792
+medical_646.txt$guinea  guinee                               338                 200392
+medical_646.txt$guineabissau  guineebissau                 189                 130792
+medical_646.txt$kenya                                      31185                 011092
+medical_646.txt$lesotho                                        64                 310392
+medical_646.txt$liberia  liberia                              28                 310392
+medical_646.txt$libyan arab jamahiriya 
+medical_646.txt$jamahiriya arabe libyenne               7                 171292
+medical_646.txt$madagascar                                      2                 061192
+medical_646.txt$malawi                                     22300                 021292
+medical_646.txt$mali                                        1111                 170792
+medical_646.txt$mauritania  mauritanie                        36                 190792
+medical_646.txt$mauritius  maurice                            11                 290292
+medical_646.txt$morocco  maroc                               121                 171292
+medical_646.txt$mozambique                                    538                 101092
+medical_646.txt$namibia  namibie                             311                 200392
+medical_646.txt$niger                                         497                 070292
+medical_646.txt$nigeria  nigeria                             184                 120392
+medical_646.txt$reunion  reunion                              65                 200392
+medical_646.txt$rwanda                                      8483                 121192
+medical_646.txt$sao tome and principe 
+medical_646.txt$sao tomeetprincipe                   11                 030792
+medical_646.txt$senegal  senegal                             648                 090392
+medical_646.txt$seychelles                                                     180292
+medical_646.txt$sierra leone                                   40                 200392
+medical_646.txt$somalia  somalie                              13                 171292
+medical_646.txt$south africa 
+medical_646.txt$afrique du sud                      1316                 300692
+medical_646.txt$sudan  soudan                                650                 171292
+medical_646.txt$swaziland                                     197                 080792
+medical_646.txt$togo                                        1278                 030492
+medical_646.txt$tunisia  tunisie                             114                 171292
+medical_646.txt$uganda  ouganda                           34611                 011192
+medical_646.txt$united republic of tanzania 
+medical_646.txt$republiqueunie de
+medical_646.txt$tanzanie                           34605                 310592
+medical_646.txt$zaire  zaire                              18186                 140592
+medical_646.txt$zambia  zambie                             6556                 151092
+medical_646.txt$zimbabwe                                   12514                 310392
+medical_646.txt$hicnet medical newsletter                                              page 49
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$anguilla                                        6                 101292
+medical_646.txt$antigua and barbuda 
+medical_646.txt$antiguaetbarbuda                      6                 101292
+medical_646.txt$argentina  argentine                       1820                 101292
+medical_646.txt$bahamas                                       934                 101292
+medical_646.txt$barbados  barbade                            315                 101292
+medical_646.txt$belize                                         53                 101292
+medical_646.txt$bermuda  bermudes                            199                 101292
+medical_646.txt$bolivia  bolivie                              49                 101292
+medical_646.txt$brazil  bresil                            31364                 101292
+medical_646.txt$british virgin islands 
+medical_646.txt$iles vierges
+medical_646.txt$britanniques                            4                 101292
+medical_646.txt$canada                                      6889                 101292
+medical_646.txt$cayman islands  iles caimanes                 13                 101292
+medical_646.txt$chile  chili                                 573                 101292
+medical_646.txt$colombia  colombie                         2957                 101292
+medical_646.txt$costa rica                                    419                 101292
+medical_646.txt$cuba                                          137                 101292
+medical_646.txt$dominica  dominique                           12                 101292
+medical_646.txt$dominican republic 
+medical_646.txt$republique dominicaine              1809                 101292
+medical_646.txt$ecuador  equateur                            224                 101292
+medical_646.txt$el salvador                                   382                 101292
+medical_646.txt$french guiana 
+medical_646.txt$guyane francaise                      232                 101292
+medical_646.txt$grenada  grenade                              32                 101292
+medical_646.txt$guadeloupe                                    182                 101292
+medical_646.txt$guatemala                                     273                 101292
+medical_646.txt$guyana                                        333                 101292
+medical_646.txt$haiti  haiti                               3086                 101292
+medical_646.txt$honduras                                    1976                 101292
+medical_646.txt$jamaica  jamaique                            361                 101292
+medical_646.txt$martinique                                    227                 101292
+medical_646.txt$mexico  mexique                           11034                 101292
+medical_646.txt$montserrat                                      1                 101292
+medical_646.txt$netherlands antilles and aruba 
+medical_646.txt$antilles neerlandaises et
+medical_646.txt$aruba                                 110                 101292
+medical_646.txt$nicaragua                                      31                 101292
+medical_646.txt$panama                                        388                 101292
+medical_646.txt$paraguay                                       51                 101292
+medical_646.txt$peru  perou                                  614                 101292
+medical_646.txt$hicnet medical newsletter                                              page 50
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$saint kitts and nevis 
+medical_646.txt$saintkittsetnevis                   37                 101292
+medical_646.txt$saint lucia  saintelucie                     48                 101292
+medical_646.txt$saint vincent and the
+medical_646.txt$grenadines  saint
+medical_646.txt$vincentetgrenadines                  41                 101292
+medical_646.txt$suriname                                      122                 101292
+medical_646.txt$trinidad and tobago 
+medical_646.txt$triniteettobago                   1085                 101292
+medical_646.txt$turks and caicos islands 
+medical_646.txt$iles turques et
+medical_646.txt$caiques                                25                 101292
+medical_646.txt$united states of america 
+medical_646.txt$etatsunis damerique             242146                 101292
+medical_646.txt$uruguay                                       310                 101292
+medical_646.txt$venezuela                                   2173                 101292
+medical_646.txt$afghanistan                                                    171292
+medical_646.txt$bahrain  bahrein                               3                 310392
+medical_646.txt$bangladesh                                      1                 301192
+medical_646.txt$bhutan  bhoutan                                               301192
+medical_646.txt$brunei darussalam 
+medical_646.txt$brunei darussalam                       2                 191291
+medical_646.txt$burma see myanmar 
+medical_646.txt$birmanie voir myanmar
+medical_646.txt$cambodia  cambodge                                            311092
+medical_646.txt$chinaa  chinea                            11                 280492
+medical_646.txt$cyprus  chypre                                24                 171292
+medical_646.txt$democratic peoples republic
+medical_646.txt$of korea   republique
+medical_646.txt$populaire democratique
+medical_646.txt$de coree                                               301192
+medical_646.txt$hong kong                                      61                 260992
+medical_646.txt$india  inde                                  242                 301192
+medical_646.txt$indonesia  indonesie                          24                 301192
+medical_646.txt$iran islamic republic of 
+medical_646.txt$iran republique
+medical_646.txt$islamique d                          56                 171292
+medical_646.txt$iraq                                            7                 171292
+medical_646.txt$israel  israel                               192                 171292
+medical_646.txt$hicnet medical newsletter                                              page 51
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$japan  japon                                 508                 041292
+medical_646.txt$jordan  jordanie                              24                 171292
+medical_646.txt$kuwait  koweit                                 7                 171292
+medical_646.txt$lao peoples democratic republic 
+medical_646.txt$republique democratique
+medical_646.txt$populaire lao                           1                 230492
+medical_646.txt$lebanon  liban                                35                 171292
+medical_646.txt$macao                                           2                 031192
+medical_646.txt$malaysia  malaisie                            46                 250592
+medical_646.txt$maldives                                                       301192
+medical_646.txt$mongolia  mongolie                             1                 301192
+medical_646.txt$myanmar                                        16                 301192
+medical_646.txt$nepal  nepal                                  12                 301192
+medical_646.txt$oman                                           27                 171292
+medical_646.txt$pakistan                                       25                 171292
+medical_646.txt$philippines                                    80                 071092
+medical_646.txt$qatar                                          31                 171292
+medical_646.txt$republic of korea 
+medical_646.txt$republique de coree                    10                 191192
+medical_646.txt$saudi arabia  arabie saoudite                 46                 171292
+medical_646.txt$singapore  singapour                          43                 050892
+medical_646.txt$sri lanka                                      20                 301192
+medical_646.txt$syrian arab republic 
+medical_646.txt$republique arabe syrienne              19                 171292
+medical_646.txt$thailand  thailande                          909                 301192
+medical_646.txt$turkey  turquie                               89                 171292
+medical_646.txt$united arab emirates  emirats
+medical_646.txt$arabes unis                             8                 171292
+medical_646.txt$viet nam                                                       280492
+medical_646.txt$yemen  yemen                                                  171292
+medical_646.txt$albania  albanie                                              300992
+medical_646.txt$austria  autriche                            828                 300992
+medical_646.txt$belarus  belarus                               6                 300992
+medical_646.txt$belgium  belgique                          1224                 171292
+medical_646.txt$bulgaria  bulgarie                            16                 171292
+medical_646.txt$czechoslovakia  tchecoslovaquie               32                 171292
+medical_646.txt$denmark  danemark                          1072                 171292
+medical_646.txt$finland  finlande                            112                 171292
+medical_646.txt$hicnet medical newsletter                                              page 52
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$france                                     21487                 171292
+medical_646.txt$germany  allemagne                         8893                 171292
+medical_646.txt$greece  grece                                689                 171292
+medical_646.txt$hungary  hongrie                             105                 171292
+medical_646.txt$iceland  islande                              22                 171292
+medical_646.txt$ireland  irlande                             294                 171292
+medical_646.txt$italy  italie                             14783                 171292
+medical_646.txt$latvia  lettonie                               2                 300992
+medical_646.txt$lithuania  lituanie                            2                 300992
+medical_646.txt$luxembourg                                     55                 171292
+medical_646.txt$malta  malte                                  25                 171292
+medical_646.txt$monaco                                          9                 171292
+medical_646.txt$netherlands  paysbas                      2330                 171292
+medical_646.txt$norway  norvege                              283                 171292
+medical_646.txt$poland  pologne                              118                 171292
+medical_646.txt$portugal                                    1007                 171292
+medical_646.txt$romania  roumanie                          2073                 171292
+medical_646.txt$russian federation  federation
+medical_646.txt$de russie                              94                 300992
+medical_646.txt$san marino  saintmarin                        1                 171292
+medical_646.txt$spain  espagne                            14991                 171292
+medical_646.txt$sweden  suede                                743                 171292
+medical_646.txt$switzerland  suisse                        2691                 171292
+medical_646.txt$united kingdom  royaumeuni                6510                 171292
+medical_646.txt$yugoslaviab  yougoslavieb                313                 300992
+medical_646.txt$american samoa  samoa americaines                             181192
+medical_646.txt$australia  australie                       3615                 021292
+medical_646.txt$cook islands  iles cook                                       180292
+medical_646.txt$federated states of micronesia 
+medical_646.txt$etats federes de micronesie             2                 010992
+medical_646.txt$fiji  fidji                                    4                 281191
+medical_646.txt$french polynesia  polynesie francaise         27                 281191
+medical_646.txt$guam                                           10                 130991
+medical_646.txt$kiribati                                                       081191
+medical_646.txt$mariana islands  iles mariannes                4                 141092
+medical_646.txt$marshall islands  iles marshall                2                 180391
+medical_646.txt$nauru                                                          171292
+medical_646.txt$new caledonia and dependencies 
+medical_646.txt$hicnet medical newsletter                                              page 53
+medical_646.txt$volume  6 number 11                                           april 25 1993
+medical_646.txt$nouvellecaledonie et
+medical_646.txt$dependances                            22                 260892
+medical_646.txt$new zealand  nouvellezelande                348                 031192
+medical_646.txt$niue                                                           180292
+medical_646.txt$palau                                                          151092
+medical_646.txt$papua new guinea  papouasie
+medical_646.txt$nouvelleguinee                        45                 100892
+medical_646.txt$samoa                                           1                 180292
+medical_646.txt$solomon islands  iles salomon                                 191291
+medical_646.txt$tokelau                                                        180292
+medical_646.txt$tonga                                           2                 240792
+medical_646.txt$tuvalu                                                         221192
+medical_646.txt$vanuatu                                                        080692
+medical_646.txt$wallis and futuna islands  iles
+medical_646.txt$wallis et futuna                                       270591
+medical_646.txt$a the above statistics relating to china do not include 48 cases of aids in
+medical_646.txt$the province of taiwan  les statistiques cidessus se rapportant a la chine
+medical_646.txt$ne comprennent pas 48 cas de sida dans la province de taiwan
+medical_646.txt$b refers to republics and areas of the former socialist federal republic of
+medical_646.txt$yugoslavia  bosnia and herzegovina croatia macedonia montenegro
+medical_646.txt$serbia slovenia  se refere aux republiques et territoires de lancienne
+medical_646.txt$republique federative socialiste de yougoslavie bosnieherzegovine croatie
+medical_646.txt$macedoine montenegro serbie slovenie
+medical_646.txt$hicnet medical newsletter                                              page 54
+medical_646.txt$ cut here 
+medical_646.txt$ this is the last part 
+medical_646.txt$internet davidstatcom                  fax 1 602 4511165
+medical_646.txt$bitnet atw1hasuacad                     fidonet 111415
+medical_646.txt$amateur packet ax25 wb7tpywb7tpyazusana

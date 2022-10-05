@@ -1,0 +1,76 @@
+space_78.txt$archivename spacelaunchers
+space_78.txt$lastmodified date 930401 143911 
+space_78.txt$the following data comes from international reference guide to space launch
+space_78.txt$systems by steven j isakowitz 1991 edition
+space_78.txt$notes
+space_78.txt$ unless otherwise specified leo and polar paylaods are for a 100 nm
+space_78.txt$orbit
+space_78.txt$ reliablity data includes launches through dec 1990 reliabity for a
+space_78.txt$familiy of vehicles includes launches by types no longer built when
+space_78.txt$applicable
+space_78.txt$ prices are in millions of 1990 us and are subject to change
+space_78.txt$ only operational vehicle families are included individual vehicles
+space_78.txt$which have not yet flown are marked by an asterisk  if a vehicle
+space_78.txt$had first launch after publication of my data it may still be
+space_78.txt$marked with an asterisk
+space_78.txt$vehicle             payload  kg  lbs    reliability  price  launch site
+space_78.txt$nation         leo	   polar    gto   			 lat  long
+space_78.txt$ariane					    3540  875	  kourou
+space_78.txt$atlas					   213245 869	 cape canaveral
+space_78.txt$atlas e	 	   820	          1517	  45m	 vandeberg afb
+space_78.txt$atlas i	5580	  4670    2250    11		  70m
+space_78.txt$atlas ii	6395	  5400    2680    00		  75m
+space_78.txt$atlas iia	6760	  5715    2810    00		  85m
+space_78.txt$ atlas iias	8390	  6805    3490    00		  115m
+space_78.txt$delta					   189201 940	 cape canaveral
+space_78.txt$usa								 vandenberg afb
+space_78.txt$delta 6925	3900	  2950    1450   1414	  45m
+space_78.txt$delta 7925	5045	  3830    1820    11		  50m
+space_78.txt$energia					    22  100		 baikonur
+space_78.txt$russia							 456 n 634 e
+space_78.txt$energia      88000	 80000          22		  110m
+space_78.txt$h series				    2222 100		 tangeshima
+space_78.txt$japan								302 n 1306 e
+space_78.txt$kosmos					   371377 984	 plestek
+space_78.txt$russia							 628 n 401 e
+space_78.txt$kosmos      1100  1350  2300  3000		 	 kapustin yar
+space_78.txt$400 km orbit  inclination			 484 n 458 e
+space_78.txt$long march				    2325 920		 jiquan slc
+space_78.txt$china								 41 n	100 e
+space_78.txt$ cz1d		 720	  	    200     00		  10m	 xichang slc
+space_78.txt$taiyuan slc
+space_78.txt$pegasustaurus				    22   100		peg  b52l1011
+space_78.txt$usa								taur canaveral
+space_78.txt$pegasus	 455	   365	    125     22		  10m	  or vandenberg
+space_78.txt$ taurus	1450	  1180     375     00		  15m
+space_78.txt$proton					   164187 877	 baikonour
+space_78.txt$russia
+space_78.txt$proton       20000	   	   5500   164187	  3570m
+space_78.txt$scout					    99113 876	vandenberg afb
+space_78.txt$usa								wallops ff
+space_78.txt$600	  460    120			san marco
+space_78.txt$ enhanced scout 525	   372	   110	    00		  15m
+space_78.txt$shavit					    22   100		palmachim afb
+space_78.txt$israel							 31 n
+space_78.txt$shavit	 	   160	   	    22		  22m
+space_78.txt$space shuttle				    3738  974	kennedy space
+space_78.txt$usa								center
+space_78.txt$shuttlesrb  23500	   	   5900    3738	  248m 285 n 810 w
+space_78.txt$ shuttleasrm 27100	   	   	    00
+space_78.txt$slv					    26    333	shar center
+space_78.txt$india       400km  900km polar				139 n 804 e
+space_78.txt$titan					    160172 930	cape canaveral
+space_78.txt$usa								vandenberg
+space_78.txt$titan ii	 	  1905          22		   43m
+space_78.txt$titan iii    14515	  	   5000    23		   140m
+space_78.txt$titan ivsrm 17700	 14100    6350    33		   154m227m
+space_78.txt$titan ivsrmu 21640	 18600    8620    00		   m
+space_78.txt$vostok					    13581401 969	baikonur
+space_78.txt$russia		 650km				plesetsk
+space_78.txt$vostok	4730	  1840          149	   14m
+space_78.txt$soyuz		7000	   	         944	   15m
+space_78.txt$molniya	1500kg 3300 lbs in	    258	   m
+space_78.txt$highly eliptical orbit
+space_78.txt$zenit					    1213  923	baikonur
+space_78.txt$russia
+space_78.txt$zenit        13740	 11380    4300    1213	   65m

@@ -1,0 +1,9 @@
+food_52.txt$how you cook fish may affect your risk of stroke
+food_52.txt$fish seems to be synonymous with healthy eating however how you cook fish may determine how much benefit you get from its consumption and this may be particularly true for older individuals
+food_52.txt$
+food_52.txt$a study conducted by dr daariush mozaffarian found that elderly individuals who consumed more tuna and other types of fish experienced a lower risk of stroke incidence
+food_52.txt$
+food_52.txt$however the level of stroke occurrence varied partly according to whether or not the fish was fried or nonfried individuals who ate tuna and nonfried fish 14 times per week lowered their risk of stroke by 27 percent while those who consumed tuna and nonfried fish at least five times per week decreased their risk of stroke by 30 percent
+food_52.txt$
+food_52.txt$individuals who consumed fried fish did not seem to gain any advantage from eating fish their risk of stroke was actually fortyfour percent higher if they ate fried fish more than one time per week
+food_52.txt$

@@ -1,0 +1,13 @@
+food_5.txt$2 14          cups  flour
+food_5.txt$1 14          cups  sugar
+food_5.txt$1         pinch  salt
+food_5.txt$3                eggs  lightly beaten
+food_5.txt$1    tablespoon  oil
+food_5.txt$14      teaspoon  almond extract
+food_5.txt$finely grated zest of 1 orange
+food_5.txt$12           cup  almonds  chopped
+food_5.txt$2      teaspoon  baking powder
+food_5.txt$
+food_5.txt$preheat oven to 350 f  grease and flour cookie sheet  in a large bowl sift the flour sugar baking powder and salt  make a well in the center of the mixture add the remaining ingredients and mix well  divide the dough in halt  shape each half into flatbottomed cylinders 1inch high x 2 12inches wide x 8inches long bake 3035 minutes or until brown on top remove from oven and cool slightly  cut into 34inch slices  return to oven with cut side down for 15 minutes or until slices are brown  remove from oven and cool on racks
+food_5.txt$
+food_5.txt$

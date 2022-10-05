@@ -1,0 +1,17 @@
+graphics_67.txt$in article 734553308snxrjckuucp robrjckuucp robert jc kyanko writes
+graphics_67.txt$gchenessexecnuoknoredu writes in article c55doh2aiconstellationecnuoknoredu
+graphics_67.txt$ greetings
+graphics_67.txt$ does anybody know if it is possible to set vga graphics mode to 640x400
+graphics_67.txt$ instead of 640x480  any info is appreciated
+graphics_67.txt$some vesa bioss support this mode 0x100  and any vga should be able to
+graphics_67.txt$support this 640x480 by 256 colors since it only requires 256000 bytes
+graphics_67.txt$my 8514a vesa tsr supports this its the only vesa mode by card can support
+graphics_67.txt$due to 8514a restrictions a wdparadise
+graphics_67.txt$i am not responsible for anything i do or say  im just an opinion
+graphics_67.txt$             robert jc kyanko robrjckuucp
+graphics_67.txt$ahh no  possibly you punched in the wrong numbers on your
+graphics_67.txt$calculator  256 color modes take a byte per pixel so 640 time 480 is
+graphics_67.txt$307200 which is 300k to be exact  640x400x256 only takes 250k but i
+graphics_67.txt$dont think it is a bios mode  i wouldnt bet that all vga cards can do
+graphics_67.txt$that either  if a vga card has 512k i bet it can do both 640x400 and
+graphics_67.txt$640x480  that by definition is svga though not very high svga
