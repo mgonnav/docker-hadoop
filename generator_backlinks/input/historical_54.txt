@@ -1,0 +1,75 @@
+historical_54.txt$algerian war
+historical_54.txt$
+historical_54.txt$background french algeria
+historical_54.txt$conquest of algeria
+historical_54.txt$
+historical_54.txt$on the pretext of a slight to their consul the french invaded algeria in 1830 directed by marshall bugeaud who became the first governorgeneral of algeria the conquest was violent marked by a scorched earth policy designed to reduce the power of the native rulers the dey including massacres mass rapes and other atrocities between 500000 and 1000000 from approximately 3 million algerians were killed within the first three decades of the conquest french losses from 183051 were 3336 killed in action and 92329 dead in the hospital
+historical_54.txt$
+historical_54.txt$in 1834 algeria became a french military colony and was subsequently declared by the constitution of 1848 to be an integral part of france and divided into three departments alger oran and constantine many french and other europeans spanish italians maltese and others later settled in algeria
+historical_54.txt$
+historical_54.txt$under the second empire 18521871 the code de lindigénat indigenous code was implemented by the sénatusconsulte of 14 july 1865 it allowed muslims to apply for full french citizenship a measure that few took since it involved renouncing the right to be governed by sharia law in personal matters and was considered a kind of apostasy its first article stipulated
+historical_54.txt$
+historical_54.txt$the indigenous muslim is french however he will continue to be subjected to muslim law he may be admitted to serve in the army armée de terre and the navy armée de mer he may be called to functions and civil employment in algeria he may on his demand be admitted to enjoy the rights of a french citizen in this case he is subjected to the political and civil laws of france
+historical_54.txt$
+historical_54.txt$prior to 1870 fewer than 200 demands were registered by muslims and 152 by jewish algerians the 1865 decree was then modified by the 1870 crémieux decrees which granted french nationality to jews living in one of the three algerian departments in 1881 the code de lindigénat made the discrimination official by creating specific penalties for indigènes and organizing the seizure or appropriation of their lands
+historical_54.txt$
+historical_54.txt$after world war ii equality of rights was proclaimed by the ordonnance of 7 march 1944 and later confirmed by the loi lamine guèye of 7 may 1946 which granted french citizenship to all the subjects of frances territories and overseas departments and by the 1946 constitution the law of 20 september 1947 granted french citizenship to all algerian subjects who were not required to renounce their muslim personal status
+historical_54.txt$
+historical_54.txt$algeria was unique to france because unlike all other overseas possessions acquired by france during the 19th century only algeria was considered and legally classified an integral part of france
+historical_54.txt$food_93.txt
+historical_54.txt$graphics_20.txt
+historical_54.txt$sport_83.txt
+historical_54.txt$medical_424.txt
+historical_54.txt$space_68.txt
+historical_54.txt$sport_65.txt
+historical_54.txt$entertainment_37.txt
+historical_54.txt$medical_572.txt
+historical_54.txt$business_20.txt
+historical_54.txt$business_28.txt
+historical_54.txt$politics_136.txt
+historical_54.txt$medical_500.txt
+historical_54.txt$technologie_13.txt
+historical_54.txt$food_78.txt
+historical_54.txt$graphics_29.txt
+historical_54.txt$graphics_13.txt
+historical_54.txt$historical_23.txt
+historical_54.txt$food_53.txt
+historical_54.txt$politics_131.txt
+historical_54.txt$historical_100.txt
+historical_54.txt$historical_26.txt
+historical_54.txt$technologie_84.txt
+historical_54.txt$business_99.txt
+historical_54.txt$medical_1.txt
+historical_54.txt$space_76.txt
+historical_54.txt$business_19.txt
+historical_54.txt$graphics_75.txt
+historical_54.txt$medical_40.txt
+historical_54.txt$graphics_6.txt
+historical_54.txt$business_75.txt
+historical_54.txt$medical_691.txt
+historical_54.txt$graphics_52.txt
+historical_54.txt$business_58.txt
+historical_54.txt$business_13.txt
+historical_54.txt$entertainment_33.txt
+historical_54.txt$historical_88.txt
+historical_54.txt$business_40.txt
+historical_54.txt$politics_229.txt
+historical_54.txt$graphics_65.txt
+historical_54.txt$sport_8.txt
+historical_54.txt$graphics_7.txt
+historical_54.txt$historical_74.txt
+historical_54.txt$historical_81.txt
+historical_54.txt$entertainment_24.txt
+historical_54.txt$food_5.txt
+historical_54.txt$historical_44.txt
+historical_54.txt$space_5.txt
+historical_54.txt$historical_98.txt
+historical_54.txt$technologie_50.txt
+historical_54.txt$politics_111.txt
+historical_54.txt$historical_99.txt
+historical_54.txt$business_65.txt
+historical_54.txt$sport_59.txt
+historical_54.txt$politics_15.txt
+historical_54.txt$food_87.txt
+historical_54.txt$historical_25.txt
+historical_54.txt$graphics_86.txt

@@ -1,0 +1,43 @@
+graphics_77.txt$i have posted a dos mpeg decoderplayer to altbinariespicturesutilities
+graphics_77.txt$here is a short description and some technical information taken from the
+graphics_77.txt$accompanying documentation
+graphics_77.txt$public domain mpeg decoder
+graphics_77.txt$by stefan eckart
+graphics_77.txt$0 features
+graphics_77.txt$dmpegdmplay is another mpeg decoderplayer for the pc
+graphics_77.txt$ decodes nearly the full mpeg video standard
+graphics_77.txt$ipb frames frame size up to at least 352x240 supported
+graphics_77.txt$ saves decoded sequence in 8 or 24bit raw file for later display
+graphics_77.txt$ optional onscreen display during decoding requires vga
+graphics_77.txt$ several dithering options ordered dither floydsteinberg grayscale
+graphics_77.txt$ colorspace selection
+graphics_77.txt$ runs under dos 640kb ram no mswindows required
+graphics_77.txt$ very compact small code  small data models 16 bit arithmetic
+graphics_77.txt$ real time display of the raw file by a separate player for
+graphics_77.txt$vga and many supervgas
+graphics_77.txt$4 technical information
+graphics_77.txt$the player is a rather straightforward implementation of the mpeg spec 1
+graphics_77.txt$the idct is based on the chenwang 13 multiplication algorithm 2
+graphics_77.txt$not quite the optimum i know blocks with not more than eight nonzero
+graphics_77.txt$coefficients use a nonseparated direct multiplyaccumulate 2didct
+graphics_77.txt$sounds great doesnt it which turned out to be faster than a fast
+graphics_77.txt$algorithm in this quite common case dithering is pretty standard main
+graphics_77.txt$difference to the berkeley decoder except for the fewer number of supported
+graphics_77.txt$algorithms is the use of 256 instead of 128 colors the default option to
+graphics_77.txt$use a restricted colorspace and the implementation of a color saturation
+graphics_77.txt$dominant ordered dither this leads to a significantly superior quality of
+graphics_77.txt$the dithered image i claim judge yourself
+graphics_77.txt$restricted colorspace means that the u and v components are clipped to
+graphics_77.txt$025 instead of 05 and the display colorspace points are distributed
+graphics_77.txt$over this restricted space since the distance between colorspace points
+graphics_77.txt$is thus reduced by a factor of two the color resolution is doubled at the
+graphics_77.txt$expense of not being able to represent fully saturated colors
+graphics_77.txt$saturation dominant ordered dither is a method by which a color lying
+graphics_77.txt$somewhere between the points of the display color space is approximated
+graphics_77.txt$by primarily alternating between two points of constant hue instead of
+graphics_77.txt$constant saturation this yields subjectivly better quality due to the
+graphics_77.txt$lower sensitivity of the human viewing system to saturation changes than
+graphics_77.txt$to hue changes the same reasoning as used by the pal tv standard to improve
+graphics_77.txt$on ntsc the improvement is particularly visible in dark brown or redish
+graphics_77.txt$areas
+graphics_77.txt$stefan eckart stefanlisetechniktumuenchende

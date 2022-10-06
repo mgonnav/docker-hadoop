@@ -1,0 +1,59 @@
+food_37.txt$4        cloves  garlic finely chopped
+food_37.txt$1  28 ounce can  tomatoes coarsely
+food_37.txt$1         pound  fin fish red snapper
+food_37.txt$chopped with liquid
+food_37.txt$flounder  trout
+food_37.txt$2           cup  fish stock  clam juice or
+food_37.txt$12            lb  shrimp lobster  12 to 1
+food_37.txt$chicken broth
+food_37.txt$scallops  crab meatany or
+food_37.txt$12           cup  dry sherry
+food_37.txt$all
+food_37.txt$2      teaspoon  salt
+food_37.txt$18            sm  clams mussels  or lobster
+food_37.txt$12      teaspoon  thyme basil  saffron
+food_37.txt$clawsany or all
+food_37.txt$pepper to taste
+food_37.txt$14           cup  olive oil
+food_37.txt$fresh chopped parsley for
+food_37.txt$1            lg  onion finely chopped
+food_37.txt$garnish
+food_37.txt$2                shallots minced
+food_37.txt$
+food_37.txt$cut boneless pieces of fish into bite size pieces remove shells from shrimp lobster crab scrub clams and mussels saute onions garlic and shallots in oil on low heat until lightly golden in a large pot put in all liquids and seasonings except parsley bring to a boil lower heat and simmer 15 minutes add all seafood mix and simmer 10 minutes serve hot in large bowls top with parsley serve with crusty bread semisoft cheese and a tossed salad
+food_37.txt$food_93.txt
+food_37.txt$graphics_20.txt
+food_37.txt$sport_83.txt
+food_37.txt$medical_424.txt
+food_37.txt$space_68.txt
+food_37.txt$sport_65.txt
+food_37.txt$entertainment_37.txt
+food_37.txt$medical_572.txt
+food_37.txt$business_20.txt
+food_37.txt$business_28.txt
+food_37.txt$politics_136.txt
+food_37.txt$medical_500.txt
+food_37.txt$technologie_13.txt
+food_37.txt$food_78.txt
+food_37.txt$graphics_29.txt
+food_37.txt$graphics_13.txt
+food_37.txt$historical_23.txt
+food_37.txt$food_53.txt
+food_37.txt$politics_131.txt
+food_37.txt$historical_100.txt
+food_37.txt$historical_26.txt
+food_37.txt$technologie_84.txt
+food_37.txt$business_99.txt
+food_37.txt$medical_1.txt
+food_37.txt$space_76.txt
+food_37.txt$business_19.txt
+food_37.txt$graphics_75.txt
+food_37.txt$medical_40.txt
+food_37.txt$graphics_6.txt
+food_37.txt$business_75.txt
+food_37.txt$medical_691.txt
+food_37.txt$graphics_52.txt
+food_37.txt$business_58.txt
+food_37.txt$business_13.txt
+food_37.txt$entertainment_33.txt
+food_37.txt$graphics_86.txt

@@ -1,0 +1,17 @@
+food_22.txt$3    tablespoon  oil
+food_22.txt$1      teaspoon  cornstarch
+food_22.txt$1         pound  boneless chicken breasts 
+food_22.txt$12      teaspoon  ground ginger
+food_22.txt$12           cup  broccoli forets
+food_22.txt$1 12           cup  water
+food_22.txt$2         ounce  snow peas about 12 c
+food_22.txt$2      teaspoon  imported soy sauce
+food_22.txt$1           med  carrot thinly sliced
+food_22.txt$1      teaspoon  white or rice vinegar
+food_22.txt$12           med  red or green pepper 
+food_22.txt$hot cooked rice
+food_22.txt$1           env  golden onion soup mix
+food_22.txt$
+food_22.txt$     chicken breasts should be cut into thin strips  sweet pepper should be cut into thin strips   in large skillet heat oil and cook chicken with vegetables over medium high heat stirring constantly 10 minutes or until chicken is golden and vegetables are crisptender  thoroughly blend golden onion recipe soup mix cornstarch ginger water soy sauce and vinegar stir into chicken mixture  bring to a boil then simmer uncovered t minutes or until sauce is thickened serve over hot rice and garnish if desired with sliced green onion and toasted sesame seeds microwave directions omit oil and degrease ginger to 14 t  in 2quart casserole heat chicken uncovered at high full power 4 minutes or until almost done remove chicken and drain add vegetables to casserole and heat uncovered 5 minutes at high full power thoroughly blend golden onion soup mix cornstarch ginger water soy sauce and vinegar stir into vegetables heat uncovered 5 minutes on high full power or until sauce is thickened stirring once return chicken to casserole and heat 1 minute or until heated through let stand covered 5 minutes  serve and garnish as above converted by mmconv vers 100
+food_22.txt$
+food_22.txt$

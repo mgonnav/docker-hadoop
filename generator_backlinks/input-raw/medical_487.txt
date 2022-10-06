@@ -1,0 +1,455 @@
+medical_487.txt$ cut here 
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$              health infocom network           
+medical_487.txt$                medical newsletter              
+medical_487.txt$editor david dodell dmd
+medical_487.txt$10250 north 92nd street suite 210 scottsdale arizona 852584599 usa
+medical_487.txt$telephone 1 602 8601121
+medical_487.txt$compilation copyright 1993 by david dodell  dmd  all  rights  reserved
+medical_487.txt$license  is  hereby  granted  to republish on electronic media for which no
+medical_487.txt$fees are charged  so long as the text of this copyright notice and license
+medical_487.txt$are attached intact to any and all republished portion or portions
+medical_487.txt$the health infocom network newsletter is  distributed  biweekly  articles
+medical_487.txt$on  a medical nature are welcomed  if you have an article  please contact
+medical_487.txt$the editor for information on how to submit it  if you are  interested  in
+medical_487.txt$joining the automated distribution system please contact the editor
+medical_487.txt$email address
+medical_487.txt$editor
+medical_487.txt$internet davidstatcom
+medical_487.txt$fidonet  111415
+medical_487.txt$bitnet  atw1hasuacad
+medical_487.txt$listserv  mednewsasuacadbitnet or internet mednewsasuvminreasuedu
+medical_487.txt$anonymous ftp  vm1nodakedu
+medical_487.txt$notification list  hicnnotifyrequeststatcom
+medical_487.txt$fax delivery  contact editor for information
+medical_487.txt$1  comments  news from the editor
+medical_487.txt$ocr  scanner news   1
+medical_487.txt$2  centers for disease control and prevention  mmwr
+medical_487.txt$16 april 1993 emerging infectious diseases   3
+medical_487.txt$outbreak of e coli infections from hamburgers   5
+medical_487.txt$use of smokeless tobacoo among adults  10
+medical_487.txt$gonorrhea  14
+medical_487.txt$impact of adult safetybelt use on children less than 11 years age  17
+medical_487.txt$publication of cdc surveillance summaries  21
+medical_487.txt$3  clinical research news
+medical_487.txt$high tech assisted reproductive technologies  24
+medical_487.txt$4  articles
+medical_487.txt$low levels airborne particles linked to serious asthma attacks  29
+medical_487.txt$nih consensus development conference on melanoma  31
+medical_487.txt$national cancer insitute designated cancer centers  32
+medical_487.txt$5  general announcments
+medical_487.txt$uci medical education software repository  40
+medical_487.txt$6  aids news summaries
+medical_487.txt$aids daily summary april 12 to april 15 1993  41
+medical_487.txt$7  aidshiv articles
+medical_487.txt$first hiv vaccine trial begins in hivinfected children  47
+medical_487.txt$new evidence that the hiv can cause disease independently  50
+medical_487.txt$clinical consultation telephone service for aids  52
+medical_487.txt$hicnet medical newsletter                                            page    i
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$comments  news from the editor
+medical_487.txt$i would like to continue to thank everyone who has sent in a donation for the
+medical_487.txt$mednews ocrscanner fund  we have reached our goal  a hewlett packard
+medical_487.txt$scanjet iip was purchased this week
+medical_487.txt$thank you to the following individuals whose contributions i just received
+medical_487.txt$john sorenson
+medical_487.txt$carol sigelman
+medical_487.txt$carla moore
+medical_487.txt$barbara moose
+medical_487.txt$judith schrier
+medical_487.txt$again thank you to all who gave
+medical_487.txt$i have been using wordscan plus for the past couple of weeks and would like to
+medical_487.txt$review the product  wordscan plus is a product of calera recognition systems
+medical_487.txt$it runs under windows 31 and supports that accufont technology of the hewlett
+medical_487.txt$packard scanners
+medical_487.txt$when initially bringing up the software it lets you select several options
+medical_487.txt$1 text  graphics 2 input source ie scanner fax file disk file 3
+medical_487.txt$automatic versus manual decomposition of the scanned image
+medical_487.txt$i like manual decomposition since the software then lets me select which
+medical_487.txt$parts of the document i would like scanned and in what order
+medical_487.txt$once an image is scanned you can bring up the popup image verification  the
+medical_487.txt$software gives you two errors at this point  blue which are words that were
+medical_487.txt$converted reliability but do not match anything in the builtin dictionary
+medical_487.txt$yellow shade which are words that wordscan plus doesnt think it converted
+medical_487.txt$correctly at all  i have found that the software should give itself more
+medical_487.txt$credit  it is usually correct instead of wrong  if a word is shaded blue
+medical_487.txt$you can add it to your personal dictionary  the only problem is the personal
+medical_487.txt$dictionary will only handle about 200 words  i find this to be very limited
+medical_487.txt$considering how many medical terms are not in a normal dictionary
+medical_487.txt$after a document is converted you can save it in a multitude of word
+medical_487.txt$processor formats  also any images that were captured can be stored in a
+medical_487.txt$seperate tiff or pcx file format
+medical_487.txt$i was extremely impressed on the percent accuracy for fax files  i use
+medical_487.txt$hicnet medical newsletter                                              page  1
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$an intel satisfaxtion card which stores incoming faxs in a pcxdcx format
+medical_487.txt$while most of my faxes were received in standard mode 200x100 dpi the
+medical_487.txt$accuracy of wordscan plus was excellent
+medical_487.txt$overall a very impressive product  the only fault i could find is the
+medical_487.txt$limitations of the size of the user dictionary  200 specialized words is just
+medical_487.txt$too small
+medical_487.txt$if anyone has any specific questions please do not hesitate to send me email
+medical_487.txt$hicnet medical newsletter                                              page  2
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$centers for disease control and prevention  mmwr
+medical_487.txt$emerging infectious diseases
+medical_487.txt$introduction
+medical_487.txt$despite predictions earlier this century that infectious diseases would
+medical_487.txt$soon be eliminated as a public health problem 1 infectious diseases remain
+medical_487.txt$the major cause of death worldwide and a leading cause of illness and death in
+medical_487.txt$the united states since the early 1970s the us public health system has
+medical_487.txt$been challenged by a myriad of newly identified pathogens and syndromes eg
+medical_487.txt$escherichia coli o157h7 hepatitis c virus human immunodeficiency virus
+medical_487.txt$legionnaires disease lyme disease and toxic shock syndrome the incidences
+medical_487.txt$of many diseases widely presumed to be under control such as cholera
+medical_487.txt$malaria and tuberculosis tb have increased in many areas furthermore
+medical_487.txt$control and prevention of infectious diseases are undermined by drug
+medical_487.txt$resistance in conditions such as gonorrhea malaria pneumococcal disease
+medical_487.txt$salmonellosis shigellosis tb and staphylococcal infections 2 emerging
+medical_487.txt$infections place a disproportionate burden on immunocompromised persons those
+medical_487.txt$in institutional settings eg hospitals and child day care centers and
+medical_487.txt$minority and underserved populations the substantial economic burden of
+medical_487.txt$emerging infections on the us healthcare system could be reduced by more
+medical_487.txt$effective surveillance systems and targeted control and prevention programs
+medical_487.txt$this issue of mmwr introduces a new series emerging infectious
+medical_487.txt$diseases future articles will address these diseases as well as
+medical_487.txt$surveillance control and prevention efforts by healthcare providers and
+medical_487.txt$public health officials this first article updates the ongoing investigation
+medical_487.txt$of an outbreak of e coli o157h7 in the western united states 4
+medical_487.txt$references
+medical_487.txt$1 burnet m natural history of infectious disease cambridge england
+medical_487.txt$cambridge university press 1963
+medical_487.txt$2 kunin cm resistance to antimicrobial drugs  a worldwide calamity ann
+medical_487.txt$intern med 199311855761
+medical_487.txt$3 lederberg j shope re oaks sc jr eds emerging infections microbial
+medical_487.txt$threats to health in the united states washington dc national academy
+medical_487.txt$press 1992
+medical_487.txt$hicnet medical newsletter                                              page  3
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$4 cdc preliminary report foodborne outbreak of escherichia coli o157h7
+medical_487.txt$infections from hamburgers western united states 1993 mmwr 199342856
+medical_487.txt$hicnet medical newsletter                                              page  4
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$update multistate outbreak of escherichia coli o157h7
+medical_487.txt$infections from hamburgers  western united states
+medical_487.txt$from november 15 1992 through february 28 1993 more than 500
+medical_487.txt$laboratoryconfirmed infections with e coli o157h7 and four associated
+medical_487.txt$deaths occurred in four states  washington idaho california and nevada
+medical_487.txt$this report summarizes the findings from an ongoing investigation 1 that
+medical_487.txt$identified a multistate outbreak resulting from consumption of hamburgers from
+medical_487.txt$one restaurant chain washington
+medical_487.txt$on january 13 1993 a physician reported to the washington department of
+medical_487.txt$health a cluster of children with hemolytic uremic syndrome hus and an
+medical_487.txt$increase in emergency room visits for bloody diarrhea during january 1617 a
+medical_487.txt$casecontrol study comparing 16 of the first cases of bloody diarrhea or
+medical_487.txt$postdiarrheal hus identified with age and neighborhoodmatched controls
+medical_487.txt$implicated eating at chain a restaurants during the week before symptom onset
+medical_487.txt$matched odds ratio orundefined lower confidence limit35 on january
+medical_487.txt$18 a multistate recall of unused hamburger patties from chain a restaurants
+medical_487.txt$was initiated
+medical_487.txt$as a result of publicity and casefinding efforts during january
+medical_487.txt$february 1993 602 patients with bloody diarrhea or hus were reported to the
+medical_487.txt$state health department a total of 477 persons had illnesses meeting the case
+medical_487.txt$definition of cultureconfirmed e coli o157h7 infection or postdiarrheal hus
+medical_487.txt$figure 1 of the 477 persons 52 11 had close contact with a person with
+medical_487.txt$confirmed e coli o157h7 infection during the week preceding onset of
+medical_487.txt$symptoms of the remaining 425 persons 372 88 reported eating in a chain a
+medical_487.txt$restaurant during the 9 days preceding onset of symptoms of the 338 patients
+medical_487.txt$who recalled what they ate in a chain a restaurant 312 92 reported eating
+medical_487.txt$a regularsized hamburger patty onsets of illness peaked from january 17
+medical_487.txt$through january 20 of the 477 casepatients 144 30 were hospitalized 30
+medical_487.txt$developed hus and three died the median age of patients was 75 years
+medical_487.txt$range 074 years idaho
+medical_487.txt$following the outbreak report from washington the division of health
+medical_487.txt$idaho department of health and welfare identified 14 persons with culture
+medical_487.txt$confirmed e coli o157h7 infection with illness onset dates from december
+medical_487.txt$11 1992 through february 16 1993 figure 2a four persons were
+medical_487.txt$hospitalized one developed hus during the week preceding illness onset 13
+medical_487.txt$93 had eaten at a chain a restaurant california
+medical_487.txt$in late december the san diego county department of health services was
+medical_487.txt$notified of a child with e coli o157h7 infection who subsequently died
+medical_487.txt$active surveillance and record review then identified eight other persons with
+medical_487.txt$e coli o157h7 infections or hus from midnovember through midjanuary 1993
+medical_487.txt$four of the nine reportedly had recently eaten at a chain a restaurant and
+medical_487.txt$hicnet medical newsletter                                              page  5
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$four at a chain b restaurant in san diego after the washington outbreak was
+medical_487.txt$reported reviews of medical records at five hospitals revealed an overall 27
+medical_487.txt$increase in visits or admissions for diarrhea during december 1992 and january
+medical_487.txt$1993 compared with the same period 1 year earlier a case was defined as
+medical_487.txt$postdiarrheal hus bloody diarrhea that was culture negative or not cultured
+medical_487.txt$or any diarrheal illness in which stool culture yielded e coli o157h7 with
+medical_487.txt$onset from november 15 1992 through january 31 1993
+medical_487.txt$illnesses of 34 patients met the case definition figure 2b the
+medical_487.txt$outbreak strain was identified in stool specimens of six patients fourteen
+medical_487.txt$persons were hospitalized seven developed hus and one child died the median
+medical_487.txt$age of casepatients was 10 years range 158 years a casecontrol study of
+medical_487.txt$the first 25 casepatients identified and age and sexmatched community
+medical_487.txt$controls implicated eating at a chain a restaurant in san diego matched
+medical_487.txt$or13 95 confidence interval ci1799 a study comparing casepatients
+medical_487.txt$who ate at chain a restaurants with well meal companions implicated regular
+medical_487.txt$sized hamburger patties matched orundefined lower confidence limit13
+medical_487.txt$chain b was not statistically associated with illness nevada
+medical_487.txt$on january 22 after receiving a report of a child with hus who had eaten
+medical_487.txt$at a local chain a restaurant the clark county las vegas health district
+medical_487.txt$issued a press release requesting that persons with recent bloody diarrhea
+medical_487.txt$contact the health department a case was defined as postdiarrheal hus bloody
+medical_487.txt$diarrhea that was culture negative or not cultured or any diarrheal illness
+medical_487.txt$with a stool culture yielding the washington strain of e coli o157h7 with
+medical_487.txt$onset from december 1 1992 through february 7 1993 because local
+medical_487.txt$laboratories were not using sorbitol macconkey smac medium to screen stools
+medical_487.txt$for e coli o157h7 this organism was not identified in any patient after
+medical_487.txt$smac medium was distributed the outbreak strain was detected in the stool of
+medical_487.txt$one patient 38 days after illness onset
+medical_487.txt$of 58 persons whose illnesses met the case definition figure 2c nine
+medical_487.txt$were hospitalized three developed hus the median age was 305 years range
+medical_487.txt$083 years analysis of the first 21 patients identified and age and sex
+medical_487.txt$matched community controls implicated eating at a chain a restaurant during
+medical_487.txt$the week preceding illness onset matched orundefined lower confidence
+medical_487.txt$limit49 a casecontrol study using well meal companions of casepatients
+medical_487.txt$also implicated eating hamburgers at chain a matched or60 95 ci07
+medical_487.txt$498 other investigation findings
+medical_487.txt$during the outbreak chain a restaurants in washington linked with cases
+medical_487.txt$primarily were serving regularsized hamburger patties produced on november
+medical_487.txt$19 1992 some of the same meat was used in jumbo patties produced on
+medical_487.txt$november 20 1992 the outbreak strain of e coli o157h7 was isolated from 11
+medical_487.txt$lots of patties produced on those two dates these lots had been distributed
+medical_487.txt$to restaurants in all states where illness occurred approximately 272672
+medical_487.txt$20 of the implicated patties were recovered by the recall
+medical_487.txt$a meat traceback by a cdc team identified five slaughter plants in the
+medical_487.txt$united states and one in canada as the likely sources of carcasses used in the
+medical_487.txt$hicnet medical newsletter                                              page  6
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$contaminated lots of meat and identified potential control points for reducing
+medical_487.txt$the likelihood of contamination the animals slaughtered in domestic slaughter
+medical_487.txt$plants were traced to farms and auctions in six western states no one
+medical_487.txt$slaughter plant or farm was identified as the source
+medical_487.txt$further investigation of cases related to secondary transmission in
+medical_487.txt$families and child day care settings is ongoing
+medical_487.txt$reported by m davis dvm c osaki msph seattleking county dept of public
+medical_487.txt$health d gordon ms mw hinds md snohomish health district everett k
+medical_487.txt$mottram c winegar mph tacomapierce county health dept ed avner md pi
+medical_487.txt$tarr md dept of pediatrics d jardine md depts of anesthesiology and
+medical_487.txt$pediatrics univ of washington school of medicine and childrens hospital and
+medical_487.txt$medical center seattle m goldoft md b bartleson mph j lewis jm
+medical_487.txt$kobayashi md state epidemiologist washington dept of health g billman md
+medical_487.txt$j bradley md childrens hospital san diego s hunt p tanner res m
+medical_487.txt$ginsberg md san diego county dept of health svcs l barrett dvm sb werner
+medical_487.txt$md gw rutherford iii md state epidemiologist california dept of health
+medical_487.txt$svcs rw jue central district health dept boise h root southwest district
+medical_487.txt$health dept caldwell d brothers ma rl chehey ms rh hudson phd div of
+medical_487.txt$health idaho state public health laboratory fr dixon md state
+medical_487.txt$epidemiologist div of health idaho dept of health and welfare dj maxson
+medical_487.txt$environmental epidemiology program l empey pa o ravenholt md vh ueckart
+medical_487.txt$dvm clark county health district las vegas a disalvo md nevada state
+medical_487.txt$public health laboratory ds kwalick md r salcido mph d brus dvm state
+medical_487.txt$epidemiologist div of health nevada state dept of human resources center
+medical_487.txt$for food safety and applied nutrition food and drug administration food
+medical_487.txt$safety inspection svc animal and plant health inspection svc us dept of
+medical_487.txt$agriculture div of field epidemiology epidemiology program office enteric
+medical_487.txt$diseases br div of bacterial and mycotic diseases national center for
+medical_487.txt$infectious diseases cdc
+medical_487.txt$editorial note e coli o157h7 is a pathogenic gramnegative bacterium first
+medical_487.txt$identified as a cause of illness in 1982 during an outbreak of severe bloody
+medical_487.txt$diarrhea traced to contaminated hamburgers 2 this pathogen has since
+medical_487.txt$emerged as an important cause of both bloody diarrhea and hus the most common
+medical_487.txt$cause of acute renal failure in children outbreak investigations have linked
+medical_487.txt$most cases with the consumption of undercooked ground beef although other
+medical_487.txt$food vehicles including roast beef raw milk and apple cider also have been
+medical_487.txt$implicated 3 preliminary data from a cdc 2year nationwide multicenter
+medical_487.txt$study revealed that when stools were routinely cultured for e coli o157h7
+medical_487.txt$that organism was isolated more frequently than shigella in four of 10
+medical_487.txt$participating hospitals and was isolated from 78 of all bloody stools a
+medical_487.txt$higher rate than for any other pathogen
+medical_487.txt$infection with e coli o157h7 often is not recognized because most
+medical_487.txt$clinical laboratories do not routinely culture stools for this organism on
+medical_487.txt$hicnet medical newsletter                                              page  7
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$smac medium and many clinicians are unaware of the spectrum of illnesses
+medical_487.txt$associated with infection 4 the usual clinical manifestations are diarrhea
+medical_487.txt$often bloody and abdominal cramps fever is infrequent younger age groups
+medical_487.txt$and the elderly are at highest risk for clinical manifestations and
+medical_487.txt$complications illness usually resolves after 68 days but 27 of patients
+medical_487.txt$develop hus which is characterized by hemolytic anemia thrombocytopenia
+medical_487.txt$renal failure and a death rate of 35
+medical_487.txt$this report illustrates the difficulties in recognizing community
+medical_487.txt$outbreaks of e coli o157h7 in the absence of routine surveillance despite
+medical_487.txt$the magnitude of this outbreak the problem may not have been recognized in
+medical_487.txt$three states if the epidemiologic link had not been established in washington
+medical_487.txt$1 clinical laboratories should routinely culture stool specimens from
+medical_487.txt$persons with bloody diarrhea or hus for e coli o157h7 using smac agar 5
+medical_487.txt$when infections with e coli o157h7 are identified they should be reported
+medical_487.txt$to local health departments for further evaluation and if necessary public
+medical_487.txt$health action to prevent further cases
+medical_487.txt$e coli o157h7 lives in the intestines of healthy cattle and can
+medical_487.txt$contaminate meat during slaughter cdc is collaborating with the us
+medical_487.txt$department of agricultures food safety inspection service to identify
+medical_487.txt$critical control points in processing as a component of a program to reduce
+medical_487.txt$the likelihood of pathogens such as e coli o157h7 entering the meat supply
+medical_487.txt$because slaughtering practices can result in contamination of raw meat with
+medical_487.txt$pathogens and because the process of grinding beef may transfer pathogens
+medical_487.txt$from the surface of the meat to the interior ground beef is likely to be
+medical_487.txt$internally contaminated the optimal food protection practice is to cook
+medical_487.txt$ground beef thoroughly until the interior is no longer pink and the juices
+medical_487.txt$are clear in this outbreak undercooking of hamburger patties likely played
+medical_487.txt$an important role the food and drug administration fda has issued interim
+medical_487.txt$recommendations to increase the internal temperature for cooked hamburgers to
+medical_487.txt$155 f 861 c fda personal communication 1993
+medical_487.txt$regulatory actions stimulated by the outbreak described in this report
+medical_487.txt$and the recovery of thousands of contaminated patties before they could be
+medical_487.txt$consumed emphasize the value of rapid public health investigations of
+medical_487.txt$outbreaks the public health impact and increasing frequency of isolation of
+medical_487.txt$this pathogen underscore the need for improved surveillance for infections
+medical_487.txt$caused by e coli o157h7 and for hus to better define the epidemiology of e
+medical_487.txt$coli o157h7
+medical_487.txt$references
+medical_487.txt$1 cdc preliminary report foodborne outbreak of escherichia coli o157h7
+medical_487.txt$infections from hamburgers western united states 1993 mmwr 199342856
+medical_487.txt$2 riley lw remis rs helgerson sd et al hemorrhagic colitis associated
+medical_487.txt$with a rare escherichia coli serotype n engl j med 19833086815
+medical_487.txt$hicnet medical newsletter                                              page  8
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$3 griffin pm tauxe rv the epidemiology of infections caused by escherichia
+medical_487.txt$coli o157h7 other enterohemorrhagic e coli and the associated hemolytic
+medical_487.txt$uremic syndrome epidemiol rev 1991136098
+medical_487.txt$4 griffin pm ostroff sm tauxe rv et al illnesses associated with
+medical_487.txt$escherichia coli o157h7 infections a broad clinical spectrum ann intern med
+medical_487.txt$5 march sb ratnam s latex agglutination test
+medical_487.txt$hicnet medical newsletter                                              page  9
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$use of smokeless tobacco among adults  united states
+medical_487.txt$consumption of moist snuff and other smokeless tobacco products in the
+medical_487.txt$united states almost tripled from 1972 through 1991 1 longterm use of
+medical_487.txt$smokeless tobacco is associated with nicotine addiction and increased risk of
+medical_487.txt$oral cancer 2  the incidence of which could increase if young persons who
+medical_487.txt$currently use smokeless tobacco continue to use these products frequently 1
+medical_487.txt$to monitor trends in the prevalence of use of smokeless tobacco products
+medical_487.txt$cdcs 1991 national health interview surveyhealth promotion and disease
+medical_487.txt$prevention supplement nhishpdp collected information on snuff and chewing
+medical_487.txt$tobacco use and smoking from a representative sample of the us civilian
+medical_487.txt$noninstitutionalized population aged greater than or equal to 18 years this
+medical_487.txt$report summarizes findings from this survey
+medical_487.txt$the 1991 nhishpdp supplement asked have you used snuff at least 20
+medical_487.txt$times in your entire life and do you use snuff now similar questions were
+medical_487.txt$asked about chewing tobacco use and cigarette smoking current users of
+medical_487.txt$smokeless tobacco were defined as those who reported snuff or chewing tobacco
+medical_487.txt$use at least 20 times and who reported using snuff or chewing tobacco at the
+medical_487.txt$time of the interview former users were defined as those who reported having
+medical_487.txt$used snuff or chewing tobacco at least 20 times and not using either at the
+medical_487.txt$time of the interview ever users of smokeless tobacco included current and
+medical_487.txt$former users current smokers were defined as those who reported smoking at
+medical_487.txt$least 100 cigarettes and who were currently smoking and former smokers as
+medical_487.txt$those who reported having smoked at least 100 cigarettes and who were not
+medical_487.txt$smoking now ever smokers included current and former smokers data on
+medical_487.txt$smokeless tobacco use were available for 43732 persons aged greater than or
+medical_487.txt$equal to 18 years and were adjusted for nonresponse and weighted to provide
+medical_487.txt$national estimates confidence intervals cis were calculated by using
+medical_487.txt$standard errors generated by the software for survey data analysis sudaan
+medical_487.txt$in 1991 an estimated 53 million 29 us adults were current users
+medical_487.txt$of smokeless tobacco including 48 million 56 men and 533000 06
+medical_487.txt$women for all categories of comparison the prevalence of smokeless tobacco
+medical_487.txt$use was substantially higher among men for men the prevalence of use was
+medical_487.txt$highest among those aged 1824 years table 1 for women the prevalence was
+medical_487.txt$highest among those aged greater than or equal to 75 years the prevalence of
+medical_487.txt$smokeless tobacco use among men was highest among american indiansalaskan
+medical_487.txt$natives and whites the prevalence among women was highest among american
+medical_487.txt$indiansalaskan natives and blacks among both men and women prevalence of
+medical_487.txt$smokeless tobacco use declined with increasing education prevalence was
+medical_487.txt$substantially higher among residents of the southern united states and in
+medical_487.txt$rural areas although the prevalence of smokeless tobacco use was higher among
+medical_487.txt$hicnet medical newsletter                                              page 10
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$men and women below the poverty level  this difference was significant only
+medical_487.txt$for women p less than 005 table 1
+medical_487.txt$among men the prevalence of current use of snuff was highest among those
+medical_487.txt$aged 1844 years but varied considerably by age the prevalence of use of
+medical_487.txt$chewing tobacco was more evenly distributed by age group table 2 although
+medical_487.txt$women rarely used smokeless tobacco the prevalence of snuff use was highest
+medical_487.txt$among those aged greater than or equal to 75 years
+medical_487.txt$an estimated 79 million 44 95 ci4146 adults reported being
+medical_487.txt$former smokeless tobacco users among ever users the proportion who were
+medical_487.txt$former smokeless tobacco users was 599 95 ci577621 among persons
+medical_487.txt$aged 1824 years the proportion of former users was lower among snuff users
+medical_487.txt$562 95 ci494630 than among chewing tobacco users 704 95
+medical_487.txt$ci642766 among persons aged 4564 years the proportion of former users
+medical_487.txt$was similar for snuff 689 95 ci631747 and chewing tobacco 735
+medical_487.txt$among current users of smokeless tobacco 229 95 ci199260
+medical_487.txt$currently smoked 333 95 ci300365 formerly smoked and 438 95
+medical_487.txt$ci399477 never smoked in comparison among current smokers 26 95
+medical_487.txt$ci2330 were current users of smokeless tobacco
+medical_487.txt$daily use of smokeless tobacco was more common among snuff users 673
+medical_487.txt$95 ci632714 than among chewing tobacco users 451 95 ci406
+medical_487.txt$reported by office on smoking and health national center for chronic disease
+medical_487.txt$prevention and health promotion div of health interview statistics national
+medical_487.txt$center for health statistics cdc
+medical_487.txt$editorial note the findings in this report indicate that the use of smokeless
+medical_487.txt$tobacco was highest among young males adolescent and young adult males in
+medical_487.txt$particular are the target of marketing strategies by tobacco companies that
+medical_487.txt$link smokeless tobacco with athletic performance and virility use of oral
+medical_487.txt$snuff has risen markedly among professional baseball players encouraging this
+medical_487.txt$behavior among adolescent and young adult males and increasing their risk for
+medical_487.txt$nicotine addiction oral cancer and other mouth disorders 4
+medical_487.txt$differences in the prevalence of smokeless tobacco use among
+medical_487.txt$racialethnic groups may be influenced by differences in educational levels
+medical_487.txt$and socioeconomic status as well as social and cultural phenomena that require
+medical_487.txt$further explanation for example targeted marketing practices may play a role
+medical_487.txt$in maintaining or increasing prevalence among some groups and affecting the
+medical_487.txt$differential initiation of smokeless tobacco use by young persons 56
+medical_487.txt$in this report one concern is that nearly one fourth of current
+medical_487.txt$smokeless tobacco users also smoke cigarettes in the 1991 nhishpdp the
+medical_487.txt$prevalence of cigarette smoking was higher among former smokeless tobacco
+medical_487.txt$users than among current and never smokeless tobacco users in a previous
+medical_487.txt$study among college students 18 of current smokeless tobacco users smoked
+medical_487.txt$hicnet medical newsletter                                              page 11
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$occasionally 7 in addition approximately 7 of adults who formerly smoked
+medical_487.txt$reported substituting other tobacco products for cigarettes in an effort to
+medical_487.txt$stop smoking 8 healthcare providers should recognize the potential health
+medical_487.txt$implications of concurrent smokeless tobacco and cigarette use
+medical_487.txt$the national health objectives for the year 2000 have established special
+medical_487.txt$population target groups for the reduction of the prevalence of smokeless
+medical_487.txt$tobacco use including males aged 1224 years to no more than 4 by the year
+medical_487.txt$2000 objective 39 and american indianalaskan native youth to no more
+medical_487.txt$than 10 by the year 2000 objective 39a 9 strategies to lower the
+medical_487.txt$prevalence of smokeless tobacco use include continued monitoring of smokeless
+medical_487.txt$tobacco use integrating smoking and smokeless tobaccocontrol efforts
+medical_487.txt$enforcing laws that restrict minors access to tobacco making excise taxes
+medical_487.txt$commensurate with those on cigarettes encouraging healthcare providers to
+medical_487.txt$routinely provide cessation advice and followup providing schoolbased
+medical_487.txt$prevention and cessation interventions and adopting policies that prohibit
+medical_487.txt$tobacco use on school property and at schoolsponsored events 5
+medical_487.txt$references
+medical_487.txt$1 office of evaluations and inspections spit tobacco and youth washington
+medical_487.txt$dc us department of health and human services office of the inspector
+medical_487.txt$general 1992 dhhs publication no oei069200500
+medical_487.txt$2 national institutes of health the health consequences of using smokeless
+medical_487.txt$tobacco a report of the advisory committee to the surgeon general bethesda
+medical_487.txt$maryland us department of health and human services public health service
+medical_487.txt$1986 dhhs publication no nih862874
+medical_487.txt$3 shah bv software for survey data analysis sudaan version 530 software
+medical_487.txt$documentation research triangle park north carolina research triangle
+medical_487.txt$institute 1989
+medical_487.txt$4 connolly gn orleans ct blum a snuffing tobacco out of sport am j public
+medical_487.txt$health 1992823513
+medical_487.txt$5 national cancer institute smokeless tobacco or health an international
+medical_487.txt$perspective bethesda maryland us department of health and human services
+medical_487.txt$public health service national institutes of health 1992 dhhs publication
+medical_487.txt$no nih923461
+medical_487.txt$6 foreyt jp jackson as squires wg hartung gh murray td gotto am
+medical_487.txt$psychological profile of college students who use smokeless tobacco addict
+medical_487.txt$behav 19931810716
+medical_487.txt$7 glover ed laflin m edwards sw age of initiation and switching patterns
+medical_487.txt$hicnet medical newsletter                                              page 12
+medical_487.txt$volume  6 number 10                                           april 20 1993
+medical_487.txt$between smokeless tobacco and cigarettes among college students in the united
+medical_487.txt$states am j public health 1989792078
+medical_487.txt$8 cdc tobacco use in 1986 methods and tabulations from adult use of tobacco
+medical_487.txt$survey rockville maryland us department of health and human services
+medical_487.txt$public health service cdc 1990 dhhs publication no om902004
+medical_487.txt$9 public health service healthy people 2000 national health promotion and
+medical_487.txt$disease prevention objectives washington dc us department of health and
+medical_487.txt$human services public health service 1991 dhhs publication no phs91
+medical_487.txt$ end of part 1 
+medical_487.txt$internet davidstatcom                  fax 1 602 4511165
+medical_487.txt$bitnet atw1hasuacad                     fidonet 111415
+medical_487.txt$amateur packet ax25 wb7tpywb7tpyazusana

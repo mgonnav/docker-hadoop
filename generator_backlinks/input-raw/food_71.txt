@@ -1,0 +1,7 @@
+food_71.txt$food allergies can be confusing to figure out once a food item has wrecked havoc on any part of your body whether its an itchy rash or a bout of diarrhea its easy to dismiss that reaction as an allergy but how many of us actually have true food allergies a recent study suggests that number is far less than what you might think
+food_71.txt$
+food_71.txt$even though common wisdom holds that allergies of all kinds have been on the rise in recent years researchers actually have very little data on allergies in adults since many of them never get diagnosed by a physician some studies have attempted to use hospitalization data as a proxy but that only picks up people with sufficiently serious allergies to go to the er for anaphylaxis another study used data from nhanes a massive national survey study that occurs every few years to look at actual blood test results
+food_71.txt$
+food_71.txt$one study in the journal jama network open took a far broader approach and focused solely on food allergies researchers based out of northwestern university surveyed some 40443 american adults and asked them a series of questions designed to figure out how many people actually had food allergies versus how many just thought they did their findings although one in five people surveyed reported having an allergy only about one in 10 actually does
+food_71.txt$
+food_71.txt$to understand how they came to this conclusion we first have to understand the difference between a true food allergy and a food intolerance both of which can seem similar to the untrained eye

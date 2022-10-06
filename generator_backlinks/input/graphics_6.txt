@@ -1,0 +1,173 @@
+graphics_6.txt$d9hhdtekchalmersse henrik harmsen writes
+graphics_6.txt$14 bits per rgb gives horrible machbanding visible in almost any picture
+graphics_6.txt$5 bits per rgb 32768 65000 colors gives visible machbanding
+graphics_6.txt$colorgradient picture has almost no machbanding this colorresolution is
+graphics_6.txt$see some small machbanding on the smooth colorgradient picture but all in all
+graphics_6.txt$there are situiations where you get visible machbanding even in
+graphics_6.txt$a 24 bit card if
+graphics_6.txt$you create a very smooth color gradient of darkgreenwhiteyellow
+graphics_6.txt$or something and turn
+graphics_6.txt$up the contrast on the monitor you will probably see some machbanding
+graphics_6.txt$while i dont mean to damn henriks attempt to be helpful here
+graphics_6.txt$hes using a common misconception that should be corrected
+graphics_6.txt$mach banding will occur for any image  it is not the color
+graphics_6.txt$quantization you see when you dont have enough bits  it is the
+graphics_6.txt$human eyes response to transitions or edges between intensities
+graphics_6.txt$the result is that colors near the transistion look brighter on
+graphics_6.txt$the brighter side and darker on the darker side
+graphics_6.txt$andre
+graphics_6.txt$andre yew andreyccocaltechedu 1312151392
+graphics_6.txt$food_93.txt
+graphics_6.txt$graphics_20.txt
+graphics_6.txt$sport_83.txt
+graphics_6.txt$medical_424.txt
+graphics_6.txt$space_68.txt
+graphics_6.txt$sport_65.txt
+graphics_6.txt$entertainment_37.txt
+graphics_6.txt$medical_572.txt
+graphics_6.txt$business_20.txt
+graphics_6.txt$business_28.txt
+graphics_6.txt$politics_136.txt
+graphics_6.txt$medical_500.txt
+graphics_6.txt$technologie_13.txt
+graphics_6.txt$food_78.txt
+graphics_6.txt$graphics_29.txt
+graphics_6.txt$graphics_13.txt
+graphics_6.txt$historical_23.txt
+graphics_6.txt$food_53.txt
+graphics_6.txt$politics_131.txt
+graphics_6.txt$historical_100.txt
+graphics_6.txt$historical_26.txt
+graphics_6.txt$technologie_84.txt
+graphics_6.txt$business_99.txt
+graphics_6.txt$medical_1.txt
+graphics_6.txt$space_76.txt
+graphics_6.txt$business_19.txt
+graphics_6.txt$graphics_75.txt
+graphics_6.txt$medical_40.txt
+graphics_6.txt$business_75.txt
+graphics_6.txt$medical_691.txt
+graphics_6.txt$graphics_52.txt
+graphics_6.txt$business_58.txt
+graphics_6.txt$business_13.txt
+graphics_6.txt$entertainment_33.txt
+graphics_6.txt$historical_88.txt
+graphics_6.txt$business_40.txt
+graphics_6.txt$politics_229.txt
+graphics_6.txt$graphics_65.txt
+graphics_6.txt$sport_8.txt
+graphics_6.txt$graphics_7.txt
+graphics_6.txt$historical_74.txt
+graphics_6.txt$historical_81.txt
+graphics_6.txt$entertainment_24.txt
+graphics_6.txt$food_5.txt
+graphics_6.txt$historical_44.txt
+graphics_6.txt$space_5.txt
+graphics_6.txt$historical_98.txt
+graphics_6.txt$technologie_50.txt
+graphics_6.txt$politics_111.txt
+graphics_6.txt$historical_99.txt
+graphics_6.txt$business_65.txt
+graphics_6.txt$sport_59.txt
+graphics_6.txt$politics_15.txt
+graphics_6.txt$food_87.txt
+graphics_6.txt$historical_25.txt
+graphics_6.txt$sport_88.txt
+graphics_6.txt$food_12.txt
+graphics_6.txt$politics_319.txt
+graphics_6.txt$sport_52.txt
+graphics_6.txt$historical_12.txt
+graphics_6.txt$graphics_59.txt
+graphics_6.txt$food_48.txt
+graphics_6.txt$space_74.txt
+graphics_6.txt$business_14.txt
+graphics_6.txt$space_1.txt
+graphics_6.txt$entertainment_85.txt
+graphics_6.txt$entertainment_27.txt
+graphics_6.txt$space_71.txt
+graphics_6.txt$politics_128.txt
+graphics_6.txt$entertainment_90.txt
+graphics_6.txt$technologie_43.txt
+graphics_6.txt$entertainment_30.txt
+graphics_6.txt$sport_78.txt
+graphics_6.txt$technologie_42.txt
+graphics_6.txt$food_81.txt
+graphics_6.txt$politics_117.txt
+graphics_6.txt$historical_50.txt
+graphics_6.txt$technologie_89.txt
+graphics_6.txt$technologie_53.txt
+graphics_6.txt$technologie_59.txt
+graphics_6.txt$historical_80.txt
+graphics_6.txt$space_44.txt
+graphics_6.txt$business_29.txt
+graphics_6.txt$entertainment_39.txt
+graphics_6.txt$food_11.txt
+graphics_6.txt$historical_33.txt
+graphics_6.txt$politics_231.txt
+graphics_6.txt$sport_26.txt
+graphics_6.txt$graphics_3.txt
+graphics_6.txt$politics_282.txt
+graphics_6.txt$politics_31.txt
+graphics_6.txt$entertainment_38.txt
+graphics_6.txt$graphics_44.txt
+graphics_6.txt$historical_42.txt
+graphics_6.txt$business_85.txt
+graphics_6.txt$business_92.txt
+graphics_6.txt$politics_232.txt
+graphics_6.txt$historical_16.txt
+graphics_6.txt$historical_7.txt
+graphics_6.txt$space_32.txt
+graphics_6.txt$graphics_32.txt
+graphics_6.txt$historical_73.txt
+graphics_6.txt$entertainment_99.txt
+graphics_6.txt$business_21.txt
+graphics_6.txt$historical_51.txt
+graphics_6.txt$business_90.txt
+graphics_6.txt$politics_316.txt
+graphics_6.txt$politics_326.txt
+graphics_6.txt$politics_335.txt
+graphics_6.txt$medical_619.txt
+graphics_6.txt$medical_376.txt
+graphics_6.txt$historical_60.txt
+graphics_6.txt$sport_28.txt
+graphics_6.txt$graphics_28.txt
+graphics_6.txt$food_85.txt
+graphics_6.txt$graphics_96.txt
+graphics_6.txt$space_65.txt
+graphics_6.txt$medical_565.txt
+graphics_6.txt$graphics_92.txt
+graphics_6.txt$technologie_6.txt
+graphics_6.txt$entertainment_100.txt
+graphics_6.txt$entertainment_50.txt
+graphics_6.txt$space_81.txt
+graphics_6.txt$entertainment_14.txt
+graphics_6.txt$food_66.txt
+graphics_6.txt$entertainment_62.txt
+graphics_6.txt$technologie_11.txt
+graphics_6.txt$technologie_72.txt
+graphics_6.txt$graphics_72.txt
+graphics_6.txt$historical_17.txt
+graphics_6.txt$technologie_83.txt
+graphics_6.txt$medical_645.txt
+graphics_6.txt$technologie_18.txt
+graphics_6.txt$business_59.txt
+graphics_6.txt$food_89.txt
+graphics_6.txt$entertainment_58.txt
+graphics_6.txt$space_37.txt
+graphics_6.txt$medical_694.txt
+graphics_6.txt$business_68.txt
+graphics_6.txt$medical_590.txt
+graphics_6.txt$sport_3.txt
+graphics_6.txt$space_83.txt
+graphics_6.txt$historical_55.txt
+graphics_6.txt$technologie_79.txt
+graphics_6.txt$graphics_61.txt
+graphics_6.txt$politics_275.txt
+graphics_6.txt$space_20.txt
+graphics_6.txt$food_79.txt
+graphics_6.txt$entertainment_19.txt
+graphics_6.txt$business_42.txt
+graphics_6.txt$technologie_10.txt
+graphics_6.txt$politics_212.txt
+graphics_6.txt$entertainment_92.txt
+graphics_6.txt$graphics_86.txt

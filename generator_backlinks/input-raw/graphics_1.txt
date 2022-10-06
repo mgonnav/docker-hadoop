@@ -1,0 +1,41 @@
+graphics_1.txt$tuesday june 22 1993
+graphics_1.txt$carderock division naval surface warfare center
+graphics_1.txt$formerly the david taylor research center
+graphics_1.txt$bethesda maryland
+graphics_1.txt$sponsor ness navy engineering software system is sponsoring a
+graphics_1.txt$oneday navy scientific visualization and virtual reality seminar
+graphics_1.txt$the purpose of the seminar is to present and exchange information for
+graphics_1.txt$navyrelated scientific visualization and virtual reality programs
+graphics_1.txt$research developments and applications
+graphics_1.txt$presentations presentations are solicited on all aspects of
+graphics_1.txt$navyrelated scientific visualization and virtual reality  all
+graphics_1.txt$current work worksinprogress and proposed work by navy
+graphics_1.txt$organizations will be considered  four types of presentations are
+graphics_1.txt$available
+graphics_1.txt$1 regular presentation 2030 minutes in length
+graphics_1.txt$2 short presentation 10 minutes in length
+graphics_1.txt$3 video presentation a standalone videotape author need not
+graphics_1.txt$attend the seminar
+graphics_1.txt$4 scientific visualization or virtual reality demonstration byoh
+graphics_1.txt$accepted presentations will not be published in any proceedings
+graphics_1.txt$however viewgraphs and other materials will be reproduced for
+graphics_1.txt$seminar attendees
+graphics_1.txt$abstracts authors should submit a one page abstract andor videotape to
+graphics_1.txt$robert lipman
+graphics_1.txt$naval surface warfare center carderock division
+graphics_1.txt$code 2042
+graphics_1.txt$bethesda maryland  200845000
+graphics_1.txt$email  lipmanoasysdtnavymil
+graphics_1.txt$authors should include the type of presentation their affiliations
+graphics_1.txt$addresses telephone and fax numbers and addresses  multiauthor
+graphics_1.txt$papers should designate one point of contact
+graphics_1.txt$deadlines the abstact submission deadline is april 30 1993
+graphics_1.txt$notification of acceptance will be sent by may 14 1993
+graphics_1.txt$materials for reproduction must be received by june 1 1993
+graphics_1.txt$for further information contact robert lipman at the above address
+graphics_1.txt$robert lipman                      internet lipmanoasysdtnavymil
+graphics_1.txt$david taylor model basin  cdnswc        or lipoceandtnavymil
+graphics_1.txt$computational signatures and       voicenet 301 2273618
+graphics_1.txt$structures group code 2042     factsnet 301 2275753
+graphics_1.txt$bethesda maryland  200845000     phishnet stockingslonglegs
+graphics_1.txt$the sixth sick shieks sixth sheeps sick

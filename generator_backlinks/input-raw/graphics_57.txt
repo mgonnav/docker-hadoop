@@ -1,0 +1,10 @@
+graphics_57.txt$gchenessexecnuoknoredu writes in article c55doh2aiconstellationecnuoknoredu
+graphics_57.txt$ greetings
+graphics_57.txt$ does anybody know if it is possible to set vga graphics mode to 640x400
+graphics_57.txt$ instead of 640x480  any info is appreciated
+graphics_57.txt$some vesa bioss support this mode 0x100  and any vga should be able to
+graphics_57.txt$support this 640x480 by 256 colors since it only requires 256000 bytes
+graphics_57.txt$my 8514a vesa tsr supports this its the only vesa mode by card can support
+graphics_57.txt$due to 8514a restrictions a wdparadise
+graphics_57.txt$i am not responsible for anything i do or say  im just an opinion
+graphics_57.txt$robert jc kyanko robrjckuucp

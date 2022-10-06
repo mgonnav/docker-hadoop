@@ -1,0 +1,487 @@
+medical_644.txt$ cut here 
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$              health infocom network           
+medical_644.txt$                medical newsletter              
+medical_644.txt$editor david dodell dmd
+medical_644.txt$10250 north 92nd street suite 210 scottsdale arizona 852584599 usa
+medical_644.txt$telephone 1 602 8601121
+medical_644.txt$compilation copyright 1993 by david dodell  dmd  all  rights  reserved
+medical_644.txt$license  is  hereby  granted  to republish on electronic media for which no
+medical_644.txt$fees are charged  so long as the text of this copyright notice and license
+medical_644.txt$are attached intact to any and all republished portion or portions
+medical_644.txt$the health infocom network newsletter is  distributed  biweekly  articles
+medical_644.txt$on  a medical nature are welcomed  if you have an article  please contact
+medical_644.txt$the editor for information on how to submit it  if you are  interested  in
+medical_644.txt$joining the automated distribution system please contact the editor
+medical_644.txt$email address
+medical_644.txt$editor
+medical_644.txt$internet davidstatcom
+medical_644.txt$fidonet  111415
+medical_644.txt$bitnet  atw1hasuacad
+medical_644.txt$listserv  mednewsasuacadbitnet or internet mednewsasuvminreasuedu
+medical_644.txt$anonymous ftp  vm1nodakedu
+medical_644.txt$notification list  hicnnotifyrequeststatcom
+medical_644.txt$fax delivery  contact editor for information
+medical_644.txt$1  centers for disease control and prevention  mmwr
+medical_644.txt$23 april 1993 rates of cesarean delivery   1
+medical_644.txt$malaria among us embassy personnel   5
+medical_644.txt$fda approval of hib vaccine for childreninfants   8
+medical_644.txt$2  dental news
+medical_644.txt$workshop explores oral manifestations of hiv infection  11
+medical_644.txt$3  food  drug administration news
+medical_644.txt$fda approves depo provera injectable contraceptive  14
+medical_644.txt$new rules speed approval of drugs for lifethreatening illnesses  16
+medical_644.txt$4  articles
+medical_644.txt$research promises preventingslowing blindness from retinal disease  18
+medical_644.txt$affluent diet increases risk of heart disease  20
+medical_644.txt$5  general announcments
+medical_644.txt$publications for health professionals from national cancer institute  23
+medical_644.txt$publications for patients available from national cancer institute  30
+medical_644.txt$6  aids news summaries
+medical_644.txt$aids daily summary for april 19 to april 23 1993  38
+medical_644.txt$7  aids statistics
+medical_644.txt$worldwide aids statistics  48
+medical_644.txt$hicnet medical newsletter                                            page    i
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$centers for disease control and prevention  mmwr
+medical_644.txt$rates of cesarean delivery  united states 1991
+medical_644.txt$cesarean deliveries have accounted for nearly 1 million of the
+medical_644.txt$approximately 4 million annual deliveries in the united states since 1986
+medical_644.txt$table 1 the cesarean rate in the united states is the third highest among
+medical_644.txt$21 reporting countries exceeded only by brazil and puerto rico 1 this
+medical_644.txt$report presents data on cesarean deliveries from cdcs national hospital
+medical_644.txt$discharge survey nhds for 1991 and compares these data with previous years
+medical_644.txt$data on discharges from shortstay nonfederal hospitals have been
+medical_644.txt$collected annually since 1965 in the nhds conducted by cdcs national center
+medical_644.txt$for health statistics for 1991 medical and demographic information were
+medical_644.txt$abstracted from a sample of 274000 inpatients discharged from 484
+medical_644.txt$participating hospitals the 1991 cesareans and vaginal births after a prior
+medical_644.txt$cesarean vbac presented in this report are based on weighted national
+medical_644.txt$estimates from the nhds sample of approximately 31000 11 women discharged
+medical_644.txt$after delivery the estimated numbers of live births by type of delivery were
+medical_644.txt$calculated by applying cesarean rates from the nhds to live births from
+medical_644.txt$national vital registration data therefore estimates of the number of
+medical_644.txt$cesareans in this report will not agree with previously published data based
+medical_644.txt$solely on the nhds 2 stated differences in this analysis are significant at
+medical_644.txt$the 95 confidence level based on the twotailed ttest with a critical value
+medical_644.txt$of 196
+medical_644.txt$in 1991 there were 235 cesareans per 100 deliveries the same rate as
+medical_644.txt$in 1990 and similar to rates during 19861989 table 1 the primary cesarean
+medical_644.txt$rate ie number of first cesareans per 100 deliveries to women who had no
+medical_644.txt$previous cesareans for 19861991 also was stable ranging from 168 to 175
+medical_644.txt$in 1991 the cesarean rate in the south was 276 significantly p005
+medical_644.txt$higher than the rates for the west 198 midwest 218 and northeast
+medical_644.txt$226 rates were higher for mothers aged greater than or equal to 30 years
+medical_644.txt$than for younger women in proprietary hospitals than in nonprofit or
+medical_644.txt$government hospitals in hospitals with fewer than 300 beds than in larger
+medical_644.txt$hospitals and for deliveries for which blue crossblue shield  and other
+medical_644.txt$private insurance is the expected source of payment than for other sources of
+medical_644.txt$payment table 2 the same pattern characterized primary cesarean deliveries
+medical_644.txt$since the early 1970s the number and percentage of births to older women
+medical_644.txt$increased however if the age distribution of mothers in 1991 had remained
+medical_644.txt$the same as in 1986 the overall cesarean rate in 1991 would have been 233
+medical_644.txt$essentially the same as the 235 observed
+medical_644.txt$based on the nhds of the approximately 4111000 live births in 1991 an
+medical_644.txt$hicnet medical newsletter                                              page  1
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$estimated 966000 235 were by cesarean delivery of these an estimated
+medical_644.txt$338000 350 births were repeat cesareans and 628000 650 were primary
+medical_644.txt$cesareans since 1986 approximately 600000 primary cesareans have been
+medical_644.txt$performed annually in 1986 85 of women who had a previous cesarean
+medical_644.txt$delivered vaginally compared with 242 in 1991 of all cesareans in 1991
+medical_644.txt$350 were associated with a previous cesarean 304 with dystocia ie
+medical_644.txt$failure of labor to progress 117 with breech presentation 92 with fetal
+medical_644.txt$distress and 137 with all other specified complications
+medical_644.txt$the average hospital stay for all deliveries in 1991 was 28 days in
+medical_644.txt$comparison the hospital stay for a primary cesarean delivery was 45 days
+medical_644.txt$and for a repeat cesarean 42 days  nearly twice the duration for vbac
+medical_644.txt$deliveries 22 days or for vaginal deliveries that were not vbacs 23
+medical_644.txt$days in 1986 the average hospital stay for all deliveries was 32 days for
+medical_644.txt$primary cesareans 52 days for repeat cesareans 47 days and for vbac and
+medical_644.txt$nonvbac vaginal deliveries 27 and 26 days respectively
+medical_644.txt$reported by office of vital and health statistics systems national center
+medical_644.txt$for health statistics cdc
+medical_644.txt$editorial note the cesarean rate in the united states steadily increased from
+medical_644.txt$1965 through 1986 however the findings in this report indicate that rates
+medical_644.txt$have been stable since 1986 3 because there is little evidence that
+medical_644.txt$maternal and child health status has improved during this time and because
+medical_644.txt$cesareans are associated with an increased risk for complications of
+medical_644.txt$childbirth a national health objective for the year 2000 4 is to reduce the
+medical_644.txt$overall cesarean rate to 15 or fewer per 100 deliveries and the primary
+medical_644.txt$cesarean rate to 12 or fewer per 100 deliveries objective 148
+medical_644.txt$postpartum complications  including urinary tract and wound infections
+medical_644.txt$ may account in part for the longer hospital stays for cesarean deliveries
+medical_644.txt$than for vaginal births 5 moreover the prolonged hospital stays for
+medical_644.txt$cesarean deliveries substantially increase healthcare costs for example in
+medical_644.txt$1991 the average costs for cesarean and vaginal deliveries were 7826 and
+medical_644.txt$4720 respectively the additional cost for each cesarean delivery includes
+medical_644.txt$611 for physician fees and 2495 for hospital charges 6 if the cesarean
+medical_644.txt$rate in 1991 had been 15 the year 2000 objective instead of 235 the number
+medical_644.txt$of cesarean births would have decreased by 349000 617000 versus 966000
+medical_644.txt$resulting in a savings of more than 1 billion in physician fees and hospital
+medical_644.txt$charges
+medical_644.txt$despite the steady increase in vbac rates since 1986 several factors may
+medical_644.txt$impede progress toward the year 2000 national health objectives for cesarean
+medical_644.txt$delivery for example vbac rates substantially reflect the number of women
+medical_644.txt$offered trial of labor which has been increasingly encouraged since 1982 7
+medical_644.txt$of women who are offered a trial of labor 5070 could deliver vaginally 7
+medical_644.txt$a level already achieved by many hospitals 8 trial of labor was routinely
+medical_644.txt$offered in 46 of hospitals surveyed in 1984 the most recent year for which
+medical_644.txt$hicnet medical newsletter                                              page  2
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$national data are available 9 when the vbac rate according to nhds data
+medical_644.txt$was 57 the year 2000 objective specifies a vbac rate of 35 based on all
+medical_644.txt$women who had a prior cesarean regardless of whether a trial of labor was
+medical_644.txt$attempted to reach the overall cesarean rate goal however increases in the
+medical_644.txt$vbac rate will need to be combined with a substantial reduction in the primary
+medical_644.txt$rate
+medical_644.txt$one hospital succeeded in reducing the rate of cesarean delivery by
+medical_644.txt$applying objective criteria for the four most common indications for cesarean
+medical_644.txt$delivery by requiring a second opinion and by instituting a peerreview
+medical_644.txt$process 10 other recommendations for decreasing cesarean delivery rates
+medical_644.txt$include eliminating incentives for physicians and hospitals by equalizing
+medical_644.txt$reimbursement for vaginal and cesarean deliveries public dissemination of
+medical_644.txt$physician and hospitalspecific cesarean delivery rates to increase public
+medical_644.txt$awareness of differences in practices and addressing malpractice concerns
+medical_644.txt$which may be an important factor in maintaining the high rates of cesarean
+medical_644.txt$delivery 4
+medical_644.txt$references
+medical_644.txt$1 notzon fc international differences in the use of obstetric interventions
+medical_644.txt$2 graves ej nchs 1991 summary national hospital discharge survey
+medical_644.txt$hyattsville maryland us department of health and human services public
+medical_644.txt$health service cdc 1993 advance data no 227
+medical_644.txt$3 taffel sm placek pj kosary cl us cesarean section rates 1990 an
+medical_644.txt$update birth 199219212
+medical_644.txt$4 public health service healthy people 2000 national health promotion and
+medical_644.txt$disease prevention objectives  full report with commentary washington dc
+medical_644.txt$us department of health and human services public health service 1991 dhhs
+medical_644.txt$publication no phs9150212
+medical_644.txt$5 danforth dn cesarean section jama 19852538118
+medical_644.txt$6 hospital insurance association of america table 415 cost of maternity
+medical_644.txt$care physicians fees and hospital charges by census region based on
+medical_644.txt$consumer price index 1991 in 1992 source book of health insurance data
+medical_644.txt$washington dc hospital insurance association of america 1992
+medical_644.txt$7 committee on obstetrics acog committee opinion no 64 guidelines for
+medical_644.txt$vaginal delivery after a previous cesarean birth washington dc american
+medical_644.txt$college of obstetricians and gynecologists 1988
+medical_644.txt$hicnet medical newsletter                                              page  3
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$8 rosen mg dickinson jc vaginal birth after cesarean a metaanalysis of
+medical_644.txt$indicators for success obstet gynecol 1990768659
+medical_644.txt$9 shiono ph fielden jg mcnellis d rhoads gg pearse wh recent trends in
+medical_644.txt$cesarean birth and trial of labor rates in the united states jama
+medical_644.txt$10 myers sa gleicher n a successful program to lower cesareansection
+medical_644.txt$rates n engl j med 198831915116
+medical_644.txt$ use of trade names and commercial sources is for identification only and
+medical_644.txt$does not imply endorsement by the public health service or the us department
+medical_644.txt$of health and human services
+medical_644.txt$hicnet medical newsletter                                              page  4
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$malaria among us embassy personnel  kampala uganda 1992
+medical_644.txt$the treatment and prevention of malaria in africa has become a
+medical_644.txt$challenging and complex problem because of increasing drug resistance
+medical_644.txt$although the risk of acquiring malaria for us citizens and their dependents
+medical_644.txt$stationed overseas generally has been low this risk varies substantially and
+medical_644.txt$unpredictably during may 1992 the office of medical services department of
+medical_644.txt$state omsdos and cdc were notified of an increased number of malaria cases
+medical_644.txt$among official us personnel stationed in kampala uganda a review of the
+medical_644.txt$health records from the embassy health unit ehu in kampala indicated that 27
+medical_644.txt$cases of malaria were diagnosed in official personnel from march through june
+medical_644.txt$1992 compared with two cases during the same period in 1991 ehu omsdos and
+medical_644.txt$cdc conducted an investigation to confirm all reported malaria cases and
+medical_644.txt$identify potential risk factors for malaria among us embassy personnel this
+medical_644.txt$report summarizes the results of the investigation
+medical_644.txt$malaria blood smears from 25 of the 27 reported casepatients were
+medical_644.txt$available for review by omsdos and cdc a case of malaria was confirmed if
+medical_644.txt$the slide was positive for plasmodium sp of the 25 persons 17 were slide
+medical_644.txt$confirmed as having malaria
+medical_644.txt$a questionnaire was distributed to all persons served by the ehu to
+medical_644.txt$obtain information about residence activities use of malaria
+medical_644.txt$chemoprophylaxis and use of personal protection measures ie using bednets
+medical_644.txt$and insect repellents having window and door screens and wearing long
+medical_644.txt$sleeves and pants in the evening of the 157 persons eligible for the survey
+medical_644.txt$128 82 responded
+medical_644.txt$risk for malaria was not associated with sex or location of residence in
+medical_644.txt$kampala although the risk for malaria was higher among children aged less
+medical_644.txt$than or equal to 15 years 632 19 than among persons greater than 15
+medical_644.txt$years 1194 12 this difference was not significant relative risk
+medical_644.txt$rr16 95 confidence interval ci0640 eightytwo percent of the
+medical_644.txt$cases occurred among persons who had been living in kampala for 15 years
+medical_644.txt$compared with those living there less than 1 year travel outside of the
+medical_644.txt$kampala area to more rural settings was not associated with increased risk for
+medical_644.txt$malaria
+medical_644.txt$four malaria chemoprophylaxis regimens were used by persons who
+medical_644.txt$participated in the survey mefloquine chloroquine and proguanil chloroquine
+medical_644.txt$alone and proguanil alone in addition 23 18 persons who responded were
+medical_644.txt$not using any malaria chemoprophylaxis the risk for malaria was significantly
+medical_644.txt$lower among persons using either mefloquine or chloroquine and proguanil 888
+medical_644.txt$9 than among persons using the other regimens or no prophylaxis 937
+medical_644.txt$24 rr04 95 ci0209 twelve persons not using prophylaxis reported
+medical_644.txt$side effects or fear of possible side effects as a reason
+medical_644.txt$the risk for malaria was lower among persons who reported using bednets
+medical_644.txt$hicnet medical newsletter                                              page  5
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$all or most of the time 227 7 than among persons who sometimes or rarely
+medical_644.txt$used bednets 1599 15 rr05 95 ci0120 the risk for malaria was
+medical_644.txt$also lower among persons who consistently used insect repellent in the evening
+medical_644.txt$016 compared with those who rarely used repellent 17110 15 rr0
+medical_644.txt$upper 95 confidence limit12 risk for malaria was not associated with
+medical_644.txt$failure to have window or door screens or wear long sleeves or pants in the
+medical_644.txt$evening
+medical_644.txt$as a result of this investigation ehu staff reviewed with all personnel
+medical_644.txt$the need to use and comply with the recommended malaria chemoprophylaxis
+medical_644.txt$regimens ehu staff also emphasized the need to use personal protection
+medical_644.txt$measures and made plans to obtain insecticideimpregnated bednets and to
+medical_644.txt$provide window and door screens for all personnel
+medical_644.txt$reported by us embassy health unit kampala uganda office of medical
+medical_644.txt$svcs dept of state washington dc malaria br div of parasitic diseases
+medical_644.txt$national center for infectious diseases cdc
+medical_644.txt$editorial note in uganda the increase in malaria among us personnel was
+medical_644.txt$attributed to poor adherence to both recommended malaria chemoprophylaxis
+medical_644.txt$regimens and use of personal protection measures during a period of increased
+medical_644.txt$malaria transmission and intensified chloroquine resistance in subsaharan
+medical_644.txt$africa the findings in this report underscore the need to provide initial and
+medical_644.txt$continued counseling regarding malaria prevention for persons living abroad in
+medical_644.txt$malariaendemic areas  preventive measures that are also important for
+medical_644.txt$shortterm travelers to such areas
+medical_644.txt$mefloquine is an effective prophylaxis regimen in africa and in most
+medical_644.txt$other areas with chloroquineresistant p falciparum however in some areas
+medical_644.txt$eg thailand resistance to mefloquine may limit its effectiveness in
+medical_644.txt$africa the efficacy of mefloquine compared with chloroquine alone in
+medical_644.txt$preventing infection with p falciparum is 92 1  mefloquine is safe and
+medical_644.txt$well tolerated when given at 250 mg per week over a 2year period the risk
+medical_644.txt$for serious adverse reactions possibly associated with mefloquine prophylaxis
+medical_644.txt$eg psychosis and convulsions is low ie 1319 episodes per 100000
+medical_644.txt$users 2 while the risk for less severe adverse reactions eg dizziness
+medical_644.txt$gastrointestinal complaints and sleep disturbances is similar to that for
+medical_644.txt$other antimalarial chemoprophylactics 1
+medical_644.txt$doxycycline has similar prophylactic efficacy to mefloquine but the need
+medical_644.txt$for daily dosing may reduce compliance with and effectiveness of this regimen
+medical_644.txt$34 chloroquine alone is not effective as prophylaxis in areas of intense
+medical_644.txt$chloroquine resistance eg southeast asia and africa in africa for
+medical_644.txt$persons who cannot take mefloquine or doxycycline chloroquine and proguanil
+medical_644.txt$is an alternative although less effective regimen chloroquine should be
+medical_644.txt$used for malaria prevention in areas only where chloroquineresistant p
+medical_644.txt$falciparum has not been reported
+medical_644.txt$countryspecific recommendations for preventing malaria and information
+medical_644.txt$hicnet medical newsletter                                              page  6
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$on the dosage and precautions for malaria chemoprophylaxis regimens are
+medical_644.txt$available from health information for international travel 1992 ie
+medical_644.txt$yellow book 5 or 24 hours a day by telephone or fax 404 3324555
+medical_644.txt$references
+medical_644.txt$1 lobel ho miani m eng t et al longterm malaria prophylaxis with weekly
+medical_644.txt$mefloquine in peace corps volunteers an effective and well tolerated regimen
+medical_644.txt$lancet 199334184851
+medical_644.txt$2 world health organization review of central nervous system adverse events
+medical_644.txt$related to the antimalarial drug mefloquine 19851990 geneva world health
+medical_644.txt$organization 1991 publication no whomal911063
+medical_644.txt$3 pang l limsomwong n singharaj p prophylactic treatment of vivax and
+medical_644.txt$falciparum malaria with lowdose doxycycline j infect dis 198815811247
+medical_644.txt$4 pang l limsomwong n boudreau ef singharaj p doxycycline prophylaxis for
+medical_644.txt$falciparum malaria lancet 1987111614
+medical_644.txt$5 cdc health information for international travel 1992 atlanta us
+medical_644.txt$department of health and human services public health service 199298 dhhs
+medical_644.txt$publication no cdc928280
+medical_644.txt$hicnet medical newsletter                                              page  7
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$fda approval of use of a new haemophilus b conjugate vaccine and a
+medical_644.txt$combined diphtheriatetanuspertussis and haemophilus b conjugate
+medical_644.txt$vaccine for infants and children
+medical_644.txt$haemophilus influenzae type b hib conjugate vaccines have been
+medical_644.txt$recommended for use in infants since 1990 and their routine use in infant
+medical_644.txt$vaccination has contributed to the substantial decline in the incidence of hib
+medical_644.txt$disease in the united states 13 vaccines against diphtheria tetanus and
+medical_644.txt$pertussis during infancy and childhood have been administered routinely in the
+medical_644.txt$united states since the late 1940s and has been associated with a greater than
+medical_644.txt$90 reduction in morbidity and mortality associated with infection by these
+medical_644.txt$organisms because of the increasing number of vaccines now routinely
+medical_644.txt$recommended for infants a high priority is the development of combined
+medical_644.txt$vaccines that allow simultaneous administration with fewer separate
+medical_644.txt$injections
+medical_644.txt$the food and drug administration fda recently licensed two new products
+medical_644.txt$for vaccinating children against these diseases 1 the haemophilus b
+medical_644.txt$conjugate vaccine tetanus toxoid conjugate acthib trademark  for
+medical_644.txt$vaccination against hib disease only and 2 a combined diphtheria and tetanus
+medical_644.txt$toxoids and wholecell pertussis vaccine dtp and hib conjugate vaccine
+medical_644.txt$tetramune trademark a combination of vaccines formulated for use in
+medical_644.txt$vaccinating children against diphtheria tetanus pertussis and hib disease
+medical_644.txt$acthib trademark
+medical_644.txt$on march 30 1993 the fda approved a new haemophilus b conjugate
+medical_644.txt$vaccine polyribosylribitol phosphatetetanus toxoid conjugate prpt
+medical_644.txt$manufactured by pasteur merieux serum et vaccins and distributed as acthib
+medical_644.txt$trademark by connaught laboratories inc swiftwater pennsylvania this
+medical_644.txt$vaccine has been licensed for use in infants in a threedose primary
+medical_644.txt$vaccination series administered at ages 2 4 and 6 months previously
+medical_644.txt$unvaccinated infants 711 months of age should receive two doses 2 months
+medical_644.txt$apart previously unvaccinated children 1214 months of age should receive one
+medical_644.txt$dose a booster dose administered at 15 months of age is recommended for all
+medical_644.txt$children previously unvaccinated children 1559 months of age should receive
+medical_644.txt$a single dose and do not require a booster more than 90 of infants receiving
+medical_644.txt$a primary vaccination series of acthib trademark consecutive doses at 2 4
+medical_644.txt$and 6 months of age develop a geometric mean titer of antihaemophilus b
+medical_644.txt$polysaccharide antibody greater than 1 ugml 4 this response is similar to
+medical_644.txt$that of infants who receive recommended series of previously licensed
+medical_644.txt$haemophilus b conjugate vaccines for which efficacy has been demonstrated in
+medical_644.txt$prospective trials two us efficacy trials of prpt were terminated early
+medical_644.txt$because of the concomitant licensure of other haemophilus b conjugate vaccines
+medical_644.txt$hicnet medical newsletter                                              page  8
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$for use in infants 4 in these studies no cases of invasive hib disease
+medical_644.txt$were detected in approximately 6000 infants vaccinated with prpt these and
+medical_644.txt$other studies suggest that the efficacy of prpt vaccine will be similar to
+medical_644.txt$that of the other licensed hib vaccines tetramune trademark
+medical_644.txt$on march 30 1993 the fda approved a combined diphtheria and tetanus
+medical_644.txt$toxoids and wholecell pertussis vaccine dtp and haemophilus b conjugate
+medical_644.txt$vaccine tetramune trademark available from lederlepraxis biologicals pearl
+medical_644.txt$river new york combines two previously licensed products dtp triimmunol
+medical_644.txt$registered manufactured by lederle laboratories pearl river new york and
+medical_644.txt$haemophilus b conjugate vaccine hibtiter registered manufactured by praxis
+medical_644.txt$biologics inc rochester new york
+medical_644.txt$this vaccine has been licensed for use in children aged 2 months5 years
+medical_644.txt$for protection against diphtheria tetanus pertussis and hib disease when
+medical_644.txt$indications for vaccination with dtp vaccine and haemophilus b conjugate
+medical_644.txt$vaccine coincide based on demonstration of co mparable or higher antibody
+medical_644.txt$responses to each of the components of the two vaccines tetramune trademark
+medical_644.txt$is expected to provide protection against hib as well as diphtheria tetanus
+medical_644.txt$and pertussis equivalent to that of already licensed formulations of other
+medical_644.txt$dtp and haemophilus b vaccines
+medical_644.txt$the advisory committee for immunization practices acip recommends that
+medical_644.txt$all infants receive a primary series of one of the licensed haemophilus b
+medical_644.txt$conjugate vaccines beginning at 2 months of age and a booster dose at age 12
+medical_644.txt$15 months 5 the acip also recommends that all infants receive a fourdose
+medical_644.txt$primary series of diphtheria and tetanus toxoids and pertussis vaccine at 2
+medical_644.txt$4 6 and 1518 months of age and a booster dose at 46 years 68 a
+medical_644.txt$complete statement regarding recommendations for use of acthib trademark and
+medical_644.txt$tetramune trademark is being developed
+medical_644.txt$reported by office of vaccines research and review center for biologics
+medical_644.txt$evaluation and research food and drug administration div of immunization
+medical_644.txt$national center for prevention svcs meningitis and special pathogens br div
+medical_644.txt$of bacterial and mycotic diseases national center for infectious diseases
+medical_644.txt$references
+medical_644.txt$1 adams wg deaver ka cochi sl et al decline of childhood haemophilus
+medical_644.txt$influenzae type b hib disease in the hib vaccine era jama 19932692216
+medical_644.txt$2 broadhurst le erickson rl kelley pw decrease in invasive haemophilus
+medical_644.txt$influenzae disease in us army children 1984 through 1991 jama
+medical_644.txt$3 murphy tv white ke pastor p et al declining incidence of haemophilus
+medical_644.txt$influenzae type b disease since introduction of vaccination jama
+medical_644.txt$hicnet medical newsletter                                              page  9
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$4 fritzell b plotkin s efficacy and safety of a haemophilus influenzae type
+medical_644.txt$b capsular polysaccharidetetanus protein conjugate vaccine j pediatr
+medical_644.txt$5 acip haemophilus b conjugate vaccines for prevention of haemophilus
+medical_644.txt$influenzae type b disease among infants and children two months of age and
+medical_644.txt$older recommendations of the immunization practices advisory committee
+medical_644.txt$acip mmwr 199140no rr1
+medical_644.txt$6 acip diphtheria tetanus and pertussis  recommendations for vaccine use
+medical_644.txt$and other preventive measures recommendations of the immunization practices
+medical_644.txt$advisory committee acip mmwr 199140no rr10
+medical_644.txt$7 acip pertussis vaccination acellular pertussis vaccine for reinforcing
+medical_644.txt$and booster use  supplementary acip statement recommendations of the
+medical_644.txt$immunization practices advisory committee acip mmwr 199241no rr1
+medical_644.txt$8 acip pertussis vaccination acellular pertussis vaccine for the fourth and
+medical_644.txt$fifth doses of the dtp series  update to supplementary acip statement
+medical_644.txt$recommendations of the immunization practices advisory committee acip mmwr
+medical_644.txt$199241no rr15
+medical_644.txt$ use of trade names and commercial sources is for identification only and
+medical_644.txt$does not imply endorsement by the public health service or the us department
+medical_644.txt$of health and human services
+medical_644.txt$hicnet medical newsletter                                              page 10
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$dental news
+medical_644.txt$international workshop explores oral manifestations of
+medical_644.txt$hiv infection
+medical_644.txt$nidr research digest
+medical_644.txt$written by jody dove
+medical_644.txt$march 1993
+medical_644.txt$national institute of dental research
+medical_644.txt$at the second international workshop on the oral manifestations of hiv
+medical_644.txt$infection held january 31february 3 in san francisco participants explored
+medical_644.txt$issues related to the epidemiology basic molecular virology mucosal
+medical_644.txt$immunology and oral clinical presentations of hiv infection
+medical_644.txt$the workshop was organized by dr john greenspan and dr deborah
+medical_644.txt$greenspan of the department of stomatology school of dentistry university of
+medical_644.txt$california san francisco  an international steering committee and scientific
+medical_644.txt$program committee provided guidance
+medical_644.txt$the conference drew more than 260 scientists from 39 countries including
+medical_644.txt$asia africa europe central america south america as well as the united
+medical_644.txt$states and canada  support tor the workshop was provided by the national
+medical_644.txt$institute of dental research the national cancer institute the national
+medical_644.txt$institute of allergy and infectious diseases the nih office of aids research
+medical_644.txt$and the procter and gamble company
+medical_644.txt$among the topics discussed were the epidemiology of hiv lesions ethics
+medical_644.txt$professional responsibility and public policy occupational issues provision
+medical_644.txt$of oral care to the hivpositive population salivary hiv transmission and
+medical_644.txt$mucosal immunity opportunistic infections pediatric hiv infection and
+medical_644.txt$womens issues
+medical_644.txt$recommendations
+medical_644.txt$recommendations emerged from the workshop to define the association
+medical_644.txt$between the appearance of oral lesions and rate of progression of hiv to
+medical_644.txt$establish a universal terminology for hivassociated oral lesions to look for
+medical_644.txt$more effective treatments for oral manifestations to expand molecular biology
+medical_644.txt$studies to understand the relationship between hiv infection and common oral
+medical_644.txt$lesions and to study the effects of hiv therapy on oral lesions
+medical_644.txt$epidemiology
+medical_644.txt$since the first international workshop on oral manifestations of hiv
+medical_644.txt$infection was convened five years ago the epidemiology of hiv infection has
+medical_644.txt$hicnet medical newsletter                                              page 11
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$radically changed  in 1988 hiv infection was detected and reported largely
+medical_644.txt$in homosexual and bisexual males intravenous drug users and hemophiliacs
+medical_644.txt$today more hiv infection is seen in heterosexual males and females and in
+medical_644.txt$children and adolescents
+medical_644.txt$while the predominant impact of hiv infection has been felt in africa a
+medical_644.txt$major increase in infection rate is being seen in southeast asia as well
+medical_644.txt$five hundred thousand cases have been reported to date in this region and more
+medical_644.txt$are appearing all the time
+medical_644.txt$researchers are continuing to document the epidemiology of oral lesions
+medical_644.txt$such as hairy leukoplakia and candidiasis  they also are beginning to explore
+medical_644.txt$the relationships between specific oral lesions and hiv disease progression
+medical_644.txt$and prognosis
+medical_644.txt$socialpolitical issues
+medical_644.txt$discussion on the social and political implications of hiv infection
+medical_644.txt$focused on changing the publics attitude that aids is retribution for
+medical_644.txt$indiscriminate sexual behavior and drug use  speakers also addressed health
+medical_644.txt$care delivery for hivinfected patients and the need to educate the public
+medical_644.txt$about what aids is and how it is acquired
+medical_644.txt$saliva and salivary glands
+medical_644.txt$conference speakers described transmission issues and the hivinhibitory
+medical_644.txt$activity of saliva the strength of which varies among the different salivary
+medical_644.txt$secretions  whole saliva has a greater inhibitory effect than submandibular
+medical_644.txt$secretions which in turn have a greater inhibitory effect than parotid
+medical_644.txt$secretions  research has shown that at least two mechanisms are responsible
+medical_644.txt$for salivary inhibitory activity  they attributed the hivinhibitory effect
+medical_644.txt$of saliva to the 1 aggregationagglutination of hiv by saliva which may both
+medical_644.txt$promote clearance of virus and prevent it reaching a target cell and 2
+medical_644.txt$direct effects on the virus or target cells
+medical_644.txt$other topics discussed were the manifestation of salivary gland disease
+medical_644.txt$in hivinfected persons and current research on oral mucosal immunity
+medical_644.txt$pediatric issues
+medical_644.txt$pediatric aids recently has emerged as an area of intense interest  with
+medical_644.txt$early and accurate diagnosis and proper treatment the life expectancy of hiv
+medical_644.txt$infected children has tripled  the prevention of transmission of hiv from
+medical_644.txt$mother to child may be possible in many cases particularly if the mothers
+medical_644.txt$serostatus is known prior to giving birth
+medical_644.txt$periodontal and gingival tissue disease
+medical_644.txt$hicnet medical newsletter                                              page 12
+medical_644.txt$volume  6 number 11                                           april 25 1993
+medical_644.txt$oral health researchers continue to explore periodontal diseases and
+medical_644.txt$gingivitis found in individuals with hiv infection  recommendations made at
+medical_644.txt$the workshop include the standardization of terminology refinement of
+medical_644.txt$diagnostic markers standardization of study design and proper consideration
+medical_644.txt$of confounding variables resulting from periodontal therapy
+medical_644.txt$occupational and treatment issues
+medical_644.txt$occupational issues surrounding the treatment of hivinfected individuals
+medical_644.txt$and treatment rendered by hivinfected health care professionals still command
+medical_644.txt$considerable attention  factors under consideration include the costbenefit
+medical_644.txt$of hiv testing patienttohealth care provider transmission of hiv infection
+medical_644.txt$and the reverse and the use of mainstream versus dedicated facilities for the
+medical_644.txt$treatment of hivinfected patients
+medical_644.txt$conference participants anticipate that a third international workshop on
+medical_644.txt$the oral manifestations of hiv infection will be held in five years or less
+medical_644.txt$proceedings from the second workshop will be published by the quintessence
+medical_644.txt$company in late 1993
+medical_644.txt$ end of part 1 
+medical_644.txt$internet davidstatcom                  fax 1 602 4511165
+medical_644.txt$bitnet atw1hasuacad                     fidonet 111415
+medical_644.txt$amateur packet ax25 wb7tpywb7tpyazusana

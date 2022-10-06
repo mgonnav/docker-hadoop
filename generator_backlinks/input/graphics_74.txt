@@ -1,0 +1,1270 @@
+graphics_74.txt$archivename graphicsresourceslistpart3
+graphics_74.txt$lastmodified 19930427
+graphics_74.txt$computer graphics resource listing  weekly posting  part 33 
+graphics_74.txt$last change  27 april 1993
+graphics_74.txt$11 scene generatorsgeographical datamapsdata files
+graphics_74.txt$dems digital elevation models
+graphics_74.txt$dems digital elevation models as well as other cartographic data
+graphics_74.txt$huge is available from spectrumxeroxcom 1927022578 pubmap
+graphics_74.txt$contact
+graphics_74.txt$lee moore  webster research center xerox corp 
+graphics_74.txt$voice 1 716 422 2496
+graphics_74.txt$arpa internet  moorewbst128xeroxcom
+graphics_74.txt$ check also on ncgiaucsbedu 128111254105 pubdems  nfotis 
+graphics_74.txt$many of these files are also available on cdrom selled by usgs
+graphics_74.txt$12000000 scale  digital line graph dlg data contains datas
+graphics_74.txt$for all 50 states price is about 28 call to or visit in offices
+graphics_74.txt$in menlo park in reston virginia 800usamaps
+graphics_74.txt$the data user services division of the bureau of the census also has
+graphics_74.txt$data on cdrom tso standard format that is derived from usgs
+graphics_74.txt$1100000 map data call 301 7634100 for more info or they have
+graphics_74.txt$a bbs at 301 7631568
+graphics_74.txt$ from drdobbs 198 march 1993 
+graphics_74.txt$the us defense mapping agency in cooperation with their counterpart
+graphics_74.txt$agencies in canada the uk and australia have released the digital chart
+graphics_74.txt$of the world dcw this chart consists of over 15 gigabytes of reasonable
+graphics_74.txt$quality vector data distributed on four cdroms  includes coastlines
+graphics_74.txt$rivers roads railrays airportscities towns spot elevations and depths
+graphics_74.txt$and over 100000 place names
+graphics_74.txt$it is iso9660 compatible and only 20000 available from
+graphics_74.txt$us geological survey
+graphics_74.txt$po box 25286
+graphics_74.txt$denver federal center
+graphics_74.txt$denver co 80225
+graphics_74.txt$digital distribution services
+graphics_74.txt$energy mines and resources canada
+graphics_74.txt$615 booth street
+graphics_74.txt$ottawa on
+graphics_74.txt$k1a 0e9 canada
+graphics_74.txt$director general of military survey
+graphics_74.txt$survey 3
+graphics_74.txt$elmwood avenue
+graphics_74.txt$feltham middlesex
+graphics_74.txt$tw13 7ah united kingdom
+graphics_74.txt$director of survey australian army
+graphics_74.txt$department of defense
+graphics_74.txt$campbell park offices cp2424
+graphics_74.txt$campbell act 2601 australia
+graphics_74.txt$fractal landscape generators
+graphics_74.txt$public domain
+graphics_74.txt$many people have written fractal landscape generators for example
+graphics_74.txt$for the mac some of these generators were written by
+graphics_74.txt$pdbourkeccu1aukuniacnz paul d bourke
+graphics_74.txt$many of the programs are available from the ftp sites and mail
+graphics_74.txt$archive servers check with archie
+graphics_74.txt$commercial
+graphics_74.txt$vista pro 30 for the amiga from virtual reality labs  list price
+graphics_74.txt$is about 100 their address is
+graphics_74.txt$2341 ganador court
+graphics_74.txt$san luis obispo
+graphics_74.txt$telephone or fax 805 5458515
+graphics_74.txt$scenery animator also for the amiga is of the same caliber with vista pro 2
+graphics_74.txt$check with
+graphics_74.txt$natural graphics
+graphics_74.txt$po box 1963
+graphics_74.txt$raklin ca 95677
+graphics_74.txt$phone 916 6241436
+graphics_74.txt$dont forget to ask about companion programs and data diskstapes
+graphics_74.txt$vista pro 3 has been ported to the pcs
+graphics_74.txt$cia world map ii
+graphics_74.txt$  note this database is quite out of date and not topologically structured
+graphics_74.txt$if you need a standard for world cartographic data wait for the
+graphics_74.txt$digital chart of the world this 11m database has been produced from
+graphics_74.txt$the defense mapping agencys oncs and will be available together with
+graphics_74.txt$searching and viewing software on a number of cdroms later this summer 
+graphics_74.txt$check into hanaumastanfordedu and ucsdedu see ftp list above
+graphics_74.txt$the cia database consists of coastlines rivers and political boundaries
+graphics_74.txt$in the form of line strokes also on hanaumastanfordedu is a 720x360
+graphics_74.txt$array of elevation data containing one ieee floating point number for
+graphics_74.txt$every half degree longitude and latitude
+graphics_74.txt$a program for decoding the database mfil can be found on the machine
+graphics_74.txt$pi1arcumnedu 1376613011
+graphics_74.txt$theres another program which reads a compressed cia data bank file and
+graphics_74.txt$builds a phigs hierachical structure it uses a phigs extension known as
+graphics_74.txt$polyline sets for performance but you can use regular polylines ask
+graphics_74.txt$joe stewart joeslpiliantcom
+graphics_74.txt$the raw data at stanford require the vplot package to be able to view it
+graphics_74.txt$was posted in compsourcesunix to be more exact youll have to
+graphics_74.txt$compile just the libvplot routines not the whole package
+graphics_74.txt$ncar data
+graphics_74.txt$ncar national center for atmospheric research has many types of
+graphics_74.txt$terrain  data ranging from elevation datasets at
+graphics_74.txt$various resolutions to information about soil types vegetation etc
+graphics_74.txt$this data is not free  they charge from 40 to 90 or more depending
+graphics_74.txt$on the data volume and media exabyte tape 3480 cartridge 9track tape
+graphics_74.txt$ibm pc floppy and ftp transfer are all available  their data archive
+graphics_74.txt$is mostly research oriented not hobbyist oriented  for more information
+graphics_74.txt$email to ilanancarucaredu
+graphics_74.txt$unc data tapes with voxel data
+graphics_74.txt$there are 2 public domain tapes with data for the comparison and
+graphics_74.txt$testing of various volume rendering algorithms mainly mri and ct
+graphics_74.txt$scans these tapes are distributed by the softlab of unc  chapel hill
+graphics_74.txt$softlabcsuncedu
+graphics_74.txt$the data sets volume i and ii are also available via anonymous ftp from
+graphics_74.txt$omicroncsuncedu 128109136159 in pubsoftlabchvrtd
+graphics_74.txt$many us agencies such as nasa publish cdroms with many altimetry data
+graphics_74.txt$from various space missions eg viking for mars magellan for venus
+graphics_74.txt$etc especially for nasa i would suggest to call the following
+graphics_74.txt$address for more info
+graphics_74.txt$national space science date center
+graphics_74.txt$goddard space flight center
+graphics_74.txt$greenbelt maryland 20771
+graphics_74.txt$telephone 301 2866695
+graphics_74.txt$email address  requestnssdcagsfcnasagov
+graphics_74.txt$the data catalog not the data itself is available online
+graphics_74.txt$internet users can telnet to nssdcagsfcnasagov 128183104 and log
+graphics_74.txt$in as nodis no password
+graphics_74.txt$you can also dial in at 3012869000 300 1200 or 2400 baud 8 bits
+graphics_74.txt$no parity one stop at the enter number prompt enter md and
+graphics_74.txt$carriage return when the system responds call complete enter a few
+graphics_74.txt$more carriage returns to get the username and log in as nodis no
+graphics_74.txt$password
+graphics_74.txt$nssdca is also an anonymous ftp site but no comprehensive list of
+graphics_74.txt$whats there is available at present
+graphics_74.txt$earth sciences data
+graphics_74.txt$theres a listing of anonymous ftp sites for earth science data including
+graphics_74.txt$imagery this listing is called earth sciences resources on internet
+graphics_74.txt$and you can get it via anonymous ftp from csnorg 12813821321
+graphics_74.txt$in the directory cogs under the name internetresourcesearthsci
+graphics_74.txt$some sites include
+graphics_74.txt$aureliesoesthawaiiedu 128171151121 pubavhrrimages  avhrr images
+graphics_74.txt$amesarcnasagov 128102183 pubspacecdrom   images from
+graphics_74.txt$magellan and viking missions etc
+graphics_74.txt$pubspaceindex contains a listing of files available in the whole
+graphics_74.txt$archive the index is about 200k by itself theres also an
+graphics_74.txt$email server for the people without internet access send a letter
+graphics_74.txt$to archiveserveramesarcnasagov or amesarchiveserver in the
+graphics_74.txt$subject of your letter or in the body use commands like
+graphics_74.txt$send space index
+graphics_74.txt$send space shuttless012391
+graphics_74.txt$capitalization is important only text files are handled by the
+graphics_74.txt$email server at present
+graphics_74.txt$vab02larcnasagov 1281552347 pubgifsmisclandsat 
+graphics_74.txt$landsat photos in gif and jpeg format
+graphics_74.txt$ it was shut down  nfotis anyone has a copy of this archive 
+graphics_74.txt$others
+graphics_74.txt$daily values of river discharge streamflow and daily weather data is
+graphics_74.txt$available from earthinfo 5541 central ave boulder co  80301  these
+graphics_74.txt$disks are expensive around 500 but there are quantity discounts
+graphics_74.txt$check vmdcsouiucedu 128174598 the wx directory carries
+graphics_74.txt$data regarding surface analysis weather radar and sat view pics in
+graphics_74.txt$gif format updated hourly
+graphics_74.txt$pioneerunmedu 129249217 is the space and planetary image facility
+graphics_74.txt$located on the university of new mexico campus ftp server it provides
+graphics_74.txt$anonymous ftp access to 150 cdroms  with dataimages
+graphics_74.txt$a disk with earthquake data topography gravity geopolitical info
+graphics_74.txt$is available from ngdc national geophysical data center 325 broadway
+graphics_74.txt$boulder co  80303  303 4976958
+graphics_74.txt$eosat at least in the us now sells landsat mss data older than two years
+graphics_74.txt$old for 200 per scene and they have been talking about a similar deal
+graphics_74.txt$for landsat tm data the mss data are 4 bands 80 meter resolution
+graphics_74.txt$check out anonymous ftp to ftpncsauiucedu in
+graphics_74.txt$unixpolyviewalphashape for a tool that creates convex hulls
+graphics_74.txt$alphashapes a generalization of the convex hull from 3d point sets
+graphics_74.txt$the grips ii gov raster image processing software cdrom
+graphics_74.txt$is available from cdrom inc at 18008215245 for 49
+graphics_74.txt$code for viewing adrg arc digitised raster graphics files is
+graphics_74.txt$available on the grips ii cdrom the us army engineer
+graphics_74.txt$topographic labs juan perez code is also available via ftp
+graphics_74.txt$ adrgzip archive in  spectrumxeroxcom 
+graphics_74.txt$nrcc range data
+graphics_74.txt$rioux m cournoyer l the nrcc threedimensional image data files
+graphics_74.txt$tech report cnrc 29077 national research council canada
+graphics_74.txt$ottawa canada 1988
+graphics_74.txt$ from what i understand these data are from a laser range finder
+graphics_74.txt$and you can a copy for research purposes 
+graphics_74.txt$12 3d scanners  digitized 3d data
+graphics_74.txt$a cyberware labs monterey ca manufactures a 3d color laser digitizer
+graphics_74.txt$which can be used to model parts of or a complete human body
+graphics_74.txt$they run a service bureau also so they can digitize models for you
+graphics_74.txt$address
+graphics_74.txt$cyberware labs inc
+graphics_74.txt$8 harris ct suite 3d
+graphics_74.txt$monterey ca 93940
+graphics_74.txt$phone 4083731441 fax 4083733582
+graphics_74.txt$b polhemus makes a 6d input device actually a couple of models
+graphics_74.txt$that senses position 3d and orientation 3d based on electromagnetic
+graphics_74.txt$field interference  this equipment is also incorporated in the
+graphics_74.txt$vpl dataglove
+graphics_74.txt$this hardware is also called isotrack from keiser aerospace
+graphics_74.txt$ascension technology makes a similar 3d input device
+graphics_74.txt$there is a company applied sciences that makes a 3d input
+graphics_74.txt$device position only based on speed of sound triangulation
+graphics_74.txt$c a company that specializes in digitizing is viewpoint you can ask
+graphics_74.txt$for viewpoints free 100 page catalog full of ready to
+graphics_74.txt$ship datasets from categories such as cars anatomy aircraftsports
+graphics_74.txt$boats trains animals and others though these objects are
+graphics_74.txt$quite expensive the cataloge is nevertheless of interest for it
+graphics_74.txt$has pictures of all the available objects in wireframe  polygon mesh
+graphics_74.txt$contact
+graphics_74.txt$viewpoint
+graphics_74.txt$870 west center
+graphics_74.txt$orem utah 84057
+graphics_74.txt$fax 8012242272
+graphics_74.txt$some addresses for companies that make digitizers
+graphics_74.txt$ascension technology
+graphics_74.txt$bird flock of birds big bird 6d trackers
+graphics_74.txt$po box 527
+graphics_74.txt$burlington vt 05402
+graphics_74.txt$phone 802 6557879 fax 802 6555904
+graphics_74.txt$polhemus incorporated
+graphics_74.txt$digitizer 6d trackers
+graphics_74.txt$po box 560 hercules dr
+graphics_74.txt$colchester vt 05446
+graphics_74.txt$tel 802 6553159
+graphics_74.txt$logitech inc
+graphics_74.txt$red baron ultrasonic 6d mouse
+graphics_74.txt$6506 kaiser dr
+graphics_74.txt$freemont ca 94555
+graphics_74.txt$tel 415 7958500w
+graphics_74.txt$shooting star technology
+graphics_74.txt$mechanical headtracker
+graphics_74.txt$1921 holdom ave
+graphics_74.txt$burnaby bc canada v5b 3w4
+graphics_74.txt$tel 604 2988574
+graphics_74.txt$fax 604 2988580
+graphics_74.txt$spaceball technologies inc
+graphics_74.txt$spaceball 6d stationary input device
+graphics_74.txt$600 suffolk street
+graphics_74.txt$lowell ma 01854
+graphics_74.txt$tel 508 9700330
+graphics_74.txt$fax 508 9700199
+graphics_74.txt$tel in mountain view 415 9668123
+graphics_74.txt$transfinite systems
+graphics_74.txt$gold brick powerglove for macintosh
+graphics_74.txt$po box n
+graphics_74.txt$mit branch post office
+graphics_74.txt$cambridge ma 021390903
+graphics_74.txt$tel 617 9699570
+graphics_74.txt$email d2002applelinkapplecom
+graphics_74.txt$vpl research inc
+graphics_74.txt$eyephone headmounted display
+graphics_74.txt$dataglove glovehand input device
+graphics_74.txt$vpl research inc
+graphics_74.txt$950 tower lane
+graphics_74.txt$14th floor
+graphics_74.txt$foster city ca 94404
+graphics_74.txt$tel 415 3120200
+graphics_74.txt$fax 415 3129356
+graphics_74.txt$simgraphics engineering
+graphics_74.txt$flying mouse 6d input device
+graphics_74.txt$1137 huntington rd suite a1
+graphics_74.txt$south pasadena ca 910304563
+graphics_74.txt$13 background imagerytexturesdatafiles
+graphics_74.txt$first check in the ftp places that are mentioned in the faq or in the ftp
+graphics_74.txt$list above
+graphics_74.txt$24bit scanning
+graphics_74.txt$get a good 24bit scanner like epsons suggested is an scsi port for
+graphics_74.txt$speed eric haines had a suggestion in rt news volume 4 3 
+graphics_74.txt$scan textures for wallpapers and floor coverings etc from doll
+graphics_74.txt$house supplies
+graphics_74.txt$so you have a rather cheap way to scan patterns that dont have
+graphics_74.txt$scaling troubles associated with real materials and scanning area
+graphics_74.txt$books with textures
+graphics_74.txt$find some housesbooksmagazines that carry photographic material
+graphics_74.txt$educorp 16195369999 sells cdroms with various imagery  also
+graphics_74.txt$a wide variety of stock art is available
+graphics_74.txt$stock art from bigname stock art houses such as comstock
+graphics_74.txt$uniphoto and metro image base is available
+graphics_74.txt$in italy theres a company called belvedere that makes such books
+graphics_74.txt$for the purpose of clipping their pages for inclusion in your
+graphics_74.txt$graphics work their address is
+graphics_74.txt$edition belvedere co ltd
+graphics_74.txt$00196 rome italy
+graphics_74.txt$piazzale flaminio 19
+graphics_74.txt$tel 06 3604488 fax 06  3602960
+graphics_74.txt$texture libraries
+graphics_74.txt$a mannikin sceptre graphics announced textiles a set of 256x256 24bit
+graphics_74.txt$textures initial shipments in 24bit iff for amigas soon in 24bit
+graphics_74.txt$tiff format algorithmically built for tiled surfaces srp is 40  volume
+graphics_74.txt$each volume  40 images  10 disks demo disks for 5 are available
+graphics_74.txt$contact
+graphics_74.txt$mannikin sceptre graphics
+graphics_74.txt$1600 indiana ave
+graphics_74.txt$winter park fl 32789
+graphics_74.txt$phone 407 3849484
+graphics_74.txt$b essence is a library of 65 sixtyfive new algoritmic textures for imagine
+graphics_74.txt$by impulse inc these textures are fully compatible with the floating point
+graphics_74.txt$versions of imagine 20 imagine 11 and even turbo silver
+graphics_74.txt$written by steve worley
+graphics_74.txt$for more info contact
+graphics_74.txt$essence info
+graphics_74.txt$apex software publishing
+graphics_74.txt$405 el camino real suite 121
+graphics_74.txt$menlo park ca 94025 usa
+graphics_74.txt$ what about texture city  
+graphics_74.txt$14 introduction to rendering algorithms
+graphics_74.txt$a raytracing
+graphics_74.txt$i assume you have a general understanding of computer graphics no then read
+graphics_74.txt$some of the books that the faq contains for raytracing i would
+graphics_74.txt$suggest
+graphics_74.txt$an introduction to ray tracing andrew glassner ed academic press
+graphics_74.txt$note that i have not read the book but i feel that you cant be wrong
+graphics_74.txt$using his book an errata list was posted in compgraphics by eric haines
+graphics_74.txt$ericheyecom
+graphics_74.txt$theres a more concise reference also
+graphics_74.txt$roman kuchkuda  unc  chapel hill an introduction to ray tracing in
+graphics_74.txt$theoretical foundations for computer graphics and cad ed raeearnshaw
+graphics_74.txt$nato as vol f40 pp 10391060 printed by springerverlag 1988
+graphics_74.txt$it contains code for a small but fundamentally complete raytracer
+graphics_74.txt$b zbuffer depthbuffer
+graphics_74.txt$a good reference is
+graphics_74.txt$procedural elements for computer graphics david f rogers
+graphics_74.txt$mcgrawhill new york 1985 pages 265272 and 280284
+graphics_74.txt$c others
+graphics_74.txt$ more info is needed  nfotis 
+graphics_74.txt$15 where can i find the geometric data for the
+graphics_74.txt$a teapot 
+graphics_74.txt$displays on display column of ieee cga jan 87 has the whole
+graphics_74.txt$story about origin of the martin newells teapot the article also has
+graphics_74.txt$the bezier patch model and a pascal program to display the wireframe
+graphics_74.txt$model of the teapot
+graphics_74.txt$ieee cga sep 87 in jim blinns column jim blinns corner describes
+graphics_74.txt$an another way to model the teapot bezier curves with rotations for
+graphics_74.txt$example are used
+graphics_74.txt$the off and spd packages have these objects so youre advised to get
+graphics_74.txt$them to avoid typing the data yourself  the off data is triangles at
+graphics_74.txt$a specific resolution around 8x8x4 triangles meshing per patch
+graphics_74.txt$the spd package provides the spline patch descriptions and performs a
+graphics_74.txt$tessellation at any specified resolution
+graphics_74.txt$b space shuttle 
+graphics_74.txt$tolis lerios tolisnovastanfordedu has built a list of space shuttle
+graphics_74.txt$datafiles heres a summary from his scispace list
+graphics_74.txt$model1
+graphics_74.txt$a modified version of the newsgroup model model2
+graphics_74.txt$406 vertices 296 useful ie referred to in the polygon descriptions
+graphics_74.txt$389 polygons 233 3vertex 146 4vertex 7 5vertex 3 6vertex
+graphics_74.txt$payload doors nonexistent
+graphics_74.txt$units unknown
+graphics_74.txt$simon marshall smarshallsequentcchullacuk has a copy he
+graphics_74.txt$said there is no proprietary information associated with it
+graphics_74.txt$model2
+graphics_74.txt$the newsgroup model in off format you can find it in
+graphics_74.txt$gondwanaecrmuozau  file puboffobjectsshuttlegeo
+graphics_74.txt$hanaumastanfordedu   pubgraphicscompgraphicsobjectsshuttledata
+graphics_74.txt$model3
+graphics_74.txt$the triangles model
+graphics_74.txt$this model is stored in several files each defining portions of the model
+graphics_74.txt$greg henderson hendersinfonodeingrcom has a copy  he did
+graphics_74.txt$not mention any restriction on the models distribution
+graphics_74.txt$model4
+graphics_74.txt$the nasa model
+graphics_74.txt$the file starts off with a header line containing three real numbers
+graphics_74.txt$defining the offsets used by lockheed in their simulations
+graphics_74.txt$x offset y offset z offset
+graphics_74.txt$from then on the file consists of a sequence of polygon descriptions
+graphics_74.txt$3473 vertices
+graphics_74.txt$2748 polygons 407 3vertex 2268 4vertex 33 5vertex 14 6vertex
+graphics_74.txt$10 7vertex 8 8vertex 8 12vertex 2 13vertex 2 15vertex
+graphics_74.txt$17 16vertex 2 17vertex 2 18vertex 3 19vertex 8 24vertex
+graphics_74.txt$payload doors closed
+graphics_74.txt$units inches
+graphics_74.txt$jon berndt jonl14h11jscnasagov seems to be responsible for the model
+graphics_74.txt$proprietary info unknown
+graphics_74.txt$model5
+graphics_74.txt$the old shuttle model
+graphics_74.txt$the file consists of a sequence of polygon descriptions
+graphics_74.txt$104 vertices
+graphics_74.txt$452 polygons 11 3vertex 41 4vertex
+graphics_74.txt$payload doors open
+graphics_74.txt$units meters
+graphics_74.txt$we have been using this model at star labs stanford university for
+graphics_74.txt$some years now contact me tolisnovastanfordedu or my supervisor
+graphics_74.txt$scott williams scottstar5stanfordedu if you want a copy
+graphics_74.txt$16 image annotation software
+graphics_74.txt$a touchup runs in sunview and is pretty good  it reads in
+graphics_74.txt$rasterfiles but even if your image isnt normally stored
+graphics_74.txt$in rasterfile format you could use screendump to make it a
+graphics_74.txt$rasterfile
+graphics_74.txt$b idraw part of stanfords interviews distribution can handle some
+graphics_74.txt$image formats in addition to being a macdraw like tool  im not
+graphics_74.txt$sure exactly what they are
+graphics_74.txt$you can ftp the idraws binary from interviewsstanfordedu
+graphics_74.txt$c tgif is another macdraw like tool that can handle x11 bitmap xbm
+graphics_74.txt$and x11 pixmap xpm formats  if the image you have is in formats
+graphics_74.txt$other than xbm or xpm you can get the pbmplus toolkit to convert
+graphics_74.txt$things like gif or even some macintosh formats to xpm
+graphics_74.txt$tgifs sources are available in the pub directory on csuclaedu
+graphics_74.txt$version 212 of tgif at patchlevel 7 plus patch8 and patch9
+graphics_74.txt$d use the editimage facility of khoros see below
+graphics_74.txt$this is just one utility in the overall system you can essentially do all
+graphics_74.txt$your image processing and macdrawtype graphics using this package
+graphics_74.txt$e you might be able to get by with pbmplus  pbmtext gives you text output
+graphics_74.txt$bitmaps which can be overlaid on top of your image
+graphics_74.txt$f ice requires sun hardware running openwindows 3its a postscriptbased
+graphics_74.txt$graphical editorand its available for anonymous ftp from internet host
+graphics_74.txt$eosoesthawaiiedu 12817115112 requires sun c 20 and
+graphics_74.txt$two other locally developed packages the lxt library an xlibbased
+graphics_74.txt$toolkit and a small c class library all files pubicetarz
+graphics_74.txt$publxttarz and publdgoctarz are available in compressed
+graphics_74.txt$tar format pubicetarz contains a readme that gives installation
+graphics_74.txt$instructions as well as an extensive man page ice1
+graphics_74.txt$a staticallylinked compressed executable pubicesun4z for
+graphics_74.txt$sparc systems is also available for ftp
+graphics_74.txt$all software is the property of columbia university and may not
+graphics_74.txt$be redistributed without permission
+graphics_74.txt$ice means image composition environment and its an imaging tool that
+graphics_74.txt$allows raster images to be combined with a wide variety of
+graphics_74.txt$postscript annotations in wysiwyg fashion via x11 imaging
+graphics_74.txt$routines and news postscript rasterizing
+graphics_74.txt$g use imagemagick to annotate an image from your x server  pick the
+graphics_74.txt$position of your text with the cursor and choose your font and pen
+graphics_74.txt$color from a pulldown menu  imagemagick can read and write many
+graphics_74.txt$of the more popular image formats  imagemagick is available as
+graphics_74.txt$exportlcsmitedu contribimagemagicktarz or at your nearest
+graphics_74.txt$x11 archive
+graphics_74.txt$17 scientific visualization stuff
+graphics_74.txt$x data slice xds
+graphics_74.txt$bundled with the x11 distribution from mit
+graphics_74.txt$in the contrib directory available at ftpncsauiucedu 1411422050
+graphics_74.txt$either as a source or binaries for various platforms
+graphics_74.txt$national center for supercomputing applications ncsa tool suite
+graphics_74.txt$platforms unix workstations dec ibm sgi sun
+graphics_74.txt$apple macintosh
+graphics_74.txt$cray supercomputers
+graphics_74.txt$availability now available  source code in the public domain
+graphics_74.txt$ftp from ftpncsauiucedu
+graphics_74.txt$contact national center for supercomputing applications
+graphics_74.txt$computing applications building
+graphics_74.txt$605 e springfield ave
+graphics_74.txt$champaign il 61820
+graphics_74.txt$cost free zero dollars
+graphics_74.txt$the suite includes tools for 2d image and 3d scene analysis and visualization
+graphics_74.txt$the code is actively maintained and updated
+graphics_74.txt$spyglass
+graphics_74.txt$they sell commercial versions of the ncsa tools examples are
+graphics_74.txt$spyglass dicer 3d volumetric data analysis package
+graphics_74.txt$platform mac
+graphics_74.txt$spyglass transform 2d data analysis package
+graphics_74.txt$platforms mac sgi sun dec hp ibm
+graphics_74.txt$contact
+graphics_74.txt$spyglass inc
+graphics_74.txt$po box 6388
+graphics_74.txt$champaign il  61826
+graphics_74.txt$khoros 10 patch 5
+graphics_74.txt$available via anonymous ftp at pprgeeceunmedu 129242410
+graphics_74.txt$cd to pubkhoros to see what is available it is huge  100 mb but good
+graphics_74.txt$needs unix and x11r4 freely copied not pd complete with sources
+graphics_74.txt$and docs very extensive and at its heart is visual programming
+graphics_74.txt$khoros components include a visual programming language code
+graphics_74.txt$generators for extending the visual language and adding new application
+graphics_74.txt$packages to the system an interactive user interface editor an
+graphics_74.txt$interactive image display package an extensive library of image and
+graphics_74.txt$signal processing routines and 2d3d plotting packages
+graphics_74.txt$see compsoftsyskhoros on usenet and the relative faq for more info
+graphics_74.txt$contact
+graphics_74.txt$the khoros group
+graphics_74.txt$room 110 eece dept
+graphics_74.txt$university of new mexico
+graphics_74.txt$albuquerque nm 87131
+graphics_74.txt$email khorosrequestchamaeeceunmedu
+graphics_74.txt$macphase
+graphics_74.txt$analysis  visualization application for the macintosh
+graphics_74.txt$operates on 1d and 2d data arrays importexport several different file
+graphics_74.txt$formats  several different plotting options such as gray scale
+graphics_74.txt$color raster 3d wire frame 3d surface contour vector line and
+graphics_74.txt$combinations  ffts filtering and other math functions color look up
+graphics_74.txt$editor array calculator etc shareware available via anonymous ftp from
+graphics_74.txt$sumexaimstanfordedu in the infomacapp directory
+graphics_74.txt$for other information contact doug norton email 74017461compuservecom
+graphics_74.txt$iris explorer
+graphics_74.txt$its an application creation system developed by silicon
+graphics_74.txt$graphics that provides visualisation and analysis functionality for
+graphics_74.txt$computational scientists engineers and other scientists the explorer
+graphics_74.txt$gui allows users to build custom applications without having to write
+graphics_74.txt$any or a minimal amount of traditonal code also existing code can
+graphics_74.txt$be easily integrated into the explorer environment explorer currently
+graphics_74.txt$is available now on sgi and cray machines but will become available on
+graphics_74.txt$other platforms in time  bundled with every new sgi machine as far as
+graphics_74.txt$i know
+graphics_74.txt$see compgraphicsexplorer or compsyssgi for discussion of the package
+graphics_74.txt$there are also two ftp servers for related stuff modules etc
+graphics_74.txt$ftpepccedacuk 1292155629
+graphics_74.txt$swedishcheflercnasagov 139885433  mirror of the uk site
+graphics_74.txt$ape
+graphics_74.txt$back in the old good days you could get ape for nearly free
+graphics_74.txt$now has gone commercial and the following vendor supplies it
+graphics_74.txt$taravisual corporation
+graphics_74.txt$929 harrison avenue
+graphics_74.txt$columbus ohio 43215
+graphics_74.txt$tel 18004588731 and 614 2912912
+graphics_74.txt$fax 614 2912867
+graphics_74.txt$cost
+graphics_74.txt$895 plus tax runtime version with a sitelicense for a single user
+graphics_74.txt$at a time no limit on the number of machines in a cluster
+graphics_74.txt$895 includes supportmaintenance and upgrades
+graphics_74.txt$source code more  additional user licenses 360
+graphics_74.txt$the name of the package has become ape iii tm
+graphics_74.txt$khoros is very similar to ape on philosophy as are avs and explorer
+graphics_74.txt$see also
+graphics_74.txt$compgraphicsavs
+graphics_74.txt$platforms convex cray dec evans  sutherland hp ibm kubota
+graphics_74.txt$set technologies sgi stardent sun wavetracer
+graphics_74.txt$availability avs4 available on all the above
+graphics_74.txt$for all unix workstations
+graphics_74.txt$contact
+graphics_74.txt$advanced visual systems inc
+graphics_74.txt$300 fifth ave
+graphics_74.txt$waltham ma    02154
+graphics_74.txt$6178904300   telephone
+graphics_74.txt$6178908287   fax
+graphics_74.txt$avsavscom      email
+graphics_74.txt$advanced visual systems inc for cray hp ibm sgi stardent sun
+graphics_74.txt$convex for convex
+graphics_74.txt$advanced visual systems inc or cray for cray
+graphics_74.txt$dec for dec
+graphics_74.txt$evans  sutherland for evans  sutherland
+graphics_74.txt$advanced visual systems inc or ibm for ibm
+graphics_74.txt$kubota pacific inc for kubota
+graphics_74.txt$set technologies for set technologies
+graphics_74.txt$wavetracer for wavetracer
+graphics_74.txt$ftp site for modules data sets other info
+graphics_74.txt$avsncscorg 12810917823
+graphics_74.txt$in a nutshell its a package of the same genre as avsexploreretc
+graphics_74.txt$it seems more a image processing system than a generic scivi system imho
+graphics_74.txt$major elements are
+graphics_74.txt$ a visual programming language which automatically exploits the inherent
+graphics_74.txt$parallelism
+graphics_74.txt$ a code generator which converts the graph to a standalone program
+graphics_74.txt$iconified libraries present a rich set of point filter io transform
+graphics_74.txt$morphological segmentation and measurement operations
+graphics_74.txt$a flow library allows graphs to employ broadcast merge
+graphics_74.txt$synchronization conditional and sequencing control strategies
+graphics_74.txt$wit delivers an objectoriented distributed visual programming
+graphics_74.txt$environment which allows users to rapidly design solutions to their
+graphics_74.txt$imaging problems users can consolidate both software and hardware
+graphics_74.txt$developments within a complete cadlike workspace by adding their
+graphics_74.txt$own operators c functions objects data structures and servers
+graphics_74.txt$specialized hardware wit runs on sun hp90007xx sgi and supports
+graphics_74.txt$datacube mv20200 hardware allowing you to run your graphs in realtime
+graphics_74.txt$for a free wit demo disk call fax or email pooneeubcca
+graphics_74.txt$us stating your complete name address voice fax email info
+graphics_74.txt$and desired platform
+graphics_74.txt$pricing wit for sparc one yr free upgrades 30 days
+graphics_74.txt$technical support5000 us
+graphics_74.txt$academic institutions discounts available
+graphics_74.txt$contact
+graphics_74.txt$logical vision ltd
+graphics_74.txt$suite 1083700 gilmore way
+graphics_74.txt$burnaby bc canada
+graphics_74.txt$tel 6044352587
+graphics_74.txt$fax 6044358840
+graphics_74.txt$terry arden pooneeubcca
+graphics_74.txt$a system for visually exploring the output of 5d gridded data sets
+graphics_74.txt$such as those made by weather models platforms
+graphics_74.txt$sgi iris with vgx gtx tg or g graphics
+graphics_74.txt$sgi crimson or indigo r4000 elan graphics suggested irix 40x
+graphics_74.txt$ibm rs6000 with gl graphics aix version 3 or later
+graphics_74.txt$stardent gs1000 and gs2000 with truecolor display
+graphics_74.txt$in any case 32 or more mb of ram are suggested
+graphics_74.txt$you can get it freely thanks to nasa support via anonymous ftp
+graphics_74.txt$ftp irisssecwiscedu  or ftp 1449210863 then
+graphics_74.txt$ftp cd pubvis5d
+graphics_74.txt$ftp ascii
+graphics_74.txt$ftp get readme
+graphics_74.txt$ftp bye
+graphics_74.txt$note you can find the package also on wuarchivewustledu in the
+graphics_74.txt$graphicsgraphicspackages directory
+graphics_74.txt$read section 2 of the readme file for full instructions
+graphics_74.txt$on how to get and install vis5d
+graphics_74.txt$contact
+graphics_74.txt$bill hibbard whibbardvmsmaccwiscedu
+graphics_74.txt$brian paul bpaulvmsmaccwiscedu
+graphics_74.txt$dataexplorer ibm
+graphics_74.txt$platforms  ibm risc system 6000 ibm power visualization server
+graphics_74.txt$simd mesh 32 i860s 40 mhz
+graphics_74.txt$working on announced  sgi hp sun
+graphics_74.txt$contact
+graphics_74.txt$your local ibm rep  for a trial package ask your rep to contact 
+graphics_74.txt$david kilgore
+graphics_74.txt$data explorer product marketing
+graphics_74.txt$wavefront
+graphics_74.txt$data visualizer personal visualizer advanced visualizer
+graphics_74.txt$platforms sgi sun ibm rs6000 hp dec
+graphics_74.txt$availability
+graphics_74.txt$available on all the above platforms from wavefront
+graphics_74.txt$technologies  educational programs and site licenses are
+graphics_74.txt$available
+graphics_74.txt$contacts
+graphics_74.txt$mike wilson mikewticom
+graphics_74.txt$wavefront technologies inc
+graphics_74.txt$530 east montecito street
+graphics_74.txt$santa barbara ca 93103
+graphics_74.txt$wavefront europe
+graphics_74.txt$guldenspoorstraat 2123
+graphics_74.txt$b9000 gent belgium
+graphics_74.txt$wavefront technologies japan
+graphics_74.txt$17f shinjukusumitomo bldg
+graphics_74.txt$261  nishishinjuku shunjukuku
+graphics_74.txt$tokyo 168 japan
+graphics_74.txt$plot3d and fast from nasa ames
+graphics_74.txt$these packages are distributed from cosmic at least
+graphics_74.txt$for fast ask pat elson pelsonnasnasagov for
+graphics_74.txt$distribution information in general these codes are for us
+graphics_74.txt$citizens only 
+graphics_74.txt$on the contrib tape of x11r5 its specialty is display of up
+graphics_74.txt$to 64 data sets 2d
+graphics_74.txt$national center for atmospheric research one of the original graphics
+graphics_74.txt$packages runs on sun rs6000 sgi vax cray ymp decstations and more
+graphics_74.txt$contact
+graphics_74.txt$graphics information
+graphics_74.txt$ncar scientific computing division
+graphics_74.txt$po box 3000
+graphics_74.txt$boulder co   803073000
+graphics_74.txt$scdinfoncarucaredu
+graphics_74.txt$cost
+graphics_74.txt$edu
+graphics_74.txt$750 unlimited users
+graphics_74.txt$gov
+graphics_74.txt$750 1 user
+graphics_74.txt$1500 5 users
+graphics_74.txt$3000 25 users
+graphics_74.txt$com users multiply gov  20
+graphics_74.txt$an environment for scientific computing and visualization
+graphics_74.txt$based on an array oriented language idl includes 2d and 3d
+graphics_74.txt$graphics matrix manupulation signal and image processing
+graphics_74.txt$basic statistics gridding mapping and a widget based system
+graphics_74.txt$for building gui for idl applications open look motif or
+graphics_74.txt$mswindows
+graphics_74.txt$environments  dec vms and ultrix hp ibm rs6000 sgi sun
+graphics_74.txt$microsoft windows  mac version in progress
+graphics_74.txt$cost  1500 to 3750 educational and quantity discounts
+graphics_74.txt$available
+graphics_74.txt$see also   complangidlpvwave the idlpvwave bundle
+graphics_74.txt$contact    research systems inc
+graphics_74.txt$777 29th street suite 302
+graphics_74.txt$boulder co  80303
+graphics_74.txt$phone  3037869900
+graphics_74.txt$email inforsinccom
+graphics_74.txt$demo available via ftp  call or email for details
+graphics_74.txt$a lot of people are using idl with a package called sips this was
+graphics_74.txt$developed at the university of colorado boulder by some people working
+graphics_74.txt$for alex goetz  you might try contacting them if you already have idl
+graphics_74.txt$or would be willing to buy it  its a few thousand dollars american i
+graphics_74.txt$expect for idl and the other should be free  those are the general
+graphics_74.txt$purpose packages ive heard of besides what terramar has
+graphics_74.txt$sips was written for aviris imagery  im not sure how general purpose
+graphics_74.txt$it is  you would have to contact goetz or one of his people and ask  i
+graphics_74.txt$have another piece of software pcw that does pc and walsh
+graphics_74.txt$transformations with pseudocoloring and clustering and limited image
+graphics_74.txt$modification you can compute an image using selected components  ive
+graphics_74.txt$used it on 70 megabyte aviris images without problems but for the best
+graphics_74.txt$speed you need an external dsp card  it will work without it but large
+graphics_74.txt$images take quite a while 5070 times as long to process  thats a
+graphics_74.txt$freebie if you want it
+graphics_74.txt$my  favorite is idl interactive data language from research systems
+graphics_74.txt$inc  idl is in my opinion much better and infinitely easier its
+graphics_74.txt$programming language is very strong and easy  very pascallike it
+graphics_74.txt$handles the numbercrunching very well also personally i like doing
+graphics_74.txt$the numbercrunching with idl on the vax or mathematica igor or even
+graphics_74.txt$excel on the mac if its not too hairy then bringing it over to nih
+graphics_74.txt$image for the imaging part i have yet to encounter any situation which
+graphics_74.txt$that combination couldnt handle and the speed and ease of use
+graphics_74.txt$compared to iraf was incredible by the way its mostly astronomical
+graphics_74.txt$image processing which ive been doing this means image enhancement
+graphics_74.txt$cleaning up bad linespixels and some other traditional image
+graphics_74.txt$processing routines then for example taking a graph of intensity
+graphics_74.txt$versus position along a line i choose with the mouse then doing a curve
+graphics_74.txt$fit to that line which i might do like in kaleidagraph 
+graphics_74.txt$ for idl call research systems  for pvwave call precision visuals and
+graphics_74.txt$for sips call university of colorado  boulder  from what i can
+graphics_74.txt$understand you can get packaged programs from research systems though
+graphics_74.txt$ nfotis 
+graphics_74.txt$visual3
+graphics_74.txt$contact robert haimes mit
+graphics_74.txt$fieldview
+graphics_74.txt$an interactive program designed to assist an engineer in
+graphics_74.txt$investigating fluid dynamics data sets
+graphics_74.txt$platforms  sgi ibm hp sun xterminals
+graphics_74.txt$availability  currently available on all of the above
+graphics_74.txt$platforms  educational programs and volume
+graphics_74.txt$discounts are available
+graphics_74.txt$contact
+graphics_74.txt$intelligent light
+graphics_74.txt$po box 65
+graphics_74.txt$fair lawn nj 07410
+graphics_74.txt$steve kramer kramerilightcom
+graphics_74.txt$scian
+graphics_74.txt$scian is primarily intended to do 3d visualizations of data in an
+graphics_74.txt$interactive environment with the ability to generate animations using
+graphics_74.txt$frameaccurate video recording devices  a user manual online help and
+graphics_74.txt$technical notes will help you use the program
+graphics_74.txt$cost  0 free source code provided via ftp
+graphics_74.txt$platforms  sgi 4d machines and ibm rs6000 with the gl card  zbuffer
+graphics_74.txt$where to find it
+graphics_74.txt$ftpscrifsuedu 14417412834  pubscian
+graphics_74.txt$a mirror is monu1ccmonasheduau 1301941101  pubscian
+graphics_74.txt$ from the readme  
+graphics_74.txt$scry is a distributed image handling system  that  pro
+graphics_74.txt$vides image transport and compression on local and wide area
+graphics_74.txt$networks image viewing on workstations recording on  video
+graphics_74.txt$equipment  and  storage on disk  the system can be distri
+graphics_74.txt$buted among workstations between supercomputers and  works
+graphics_74.txt$tations  and between supercomputers workstations and video
+graphics_74.txt$animation controllers  the system is most commonly used  to
+graphics_74.txt$produce  video based movie displays of images resulting from
+graphics_74.txt$visualization of time dependent data complex 3d data  sets
+graphics_74.txt$and  image  processing  operations   both  the  clients and
+graphics_74.txt$servers run on a variety of systems that provide unixlike c
+graphics_74.txt$runtime environments and 4bsd sockets
+graphics_74.txt$the source is available for anonymous ftp
+graphics_74.txt$csamlblgov 12832546  pubscrytarz
+graphics_74.txt$contact
+graphics_74.txt$bill johnston wejohnstonlblgov ucbvaxcsamlblgovjohnston
+graphics_74.txt$or
+graphics_74.txt$david robertson dwrobertsonlblgov ucbvaxcsamlblgovdavidr
+graphics_74.txt$imaging technologies group
+graphics_74.txt$lawrence berkeley laboratory
+graphics_74.txt$1 cyclotron road
+graphics_74.txt$berkeley ca  94720
+graphics_74.txt$svlib is an xwindows widget set based on the osf open software
+graphics_74.txt$foundation motif widget set svlib widgets are macrowidgets
+graphics_74.txt$comprising lower level motif widgets such as buttons scrollbars
+graphics_74.txt$menus and drawing areas it is designed to address the reusability
+graphics_74.txt$of 2d visualization routines and each widget in the library is an
+graphics_74.txt$encapsulation of a specific visualization technique such as colormap
+graphics_74.txt$manipulation image display and contour plotting it is targetted
+graphics_74.txt$to run on unix workstations supporting osfmotif currently only
+graphics_74.txt$color monitors are supported since svlib is a collection of widgets
+graphics_74.txt$developed in the same spirit as the osfmotif user interface widget
+graphics_74.txt$set it integrates seamlessly with the motif widgets programmers
+graphics_74.txt$using svlib widgets see the same interface and design as other
+graphics_74.txt$motif widgets
+graphics_74.txt$fvs is a visualization software for computational fluid dynamics cfd
+graphics_74.txt$simulations  fvs is designed to accept data generated from these
+graphics_74.txt$simulations and apply various visualization techniques to present these
+graphics_74.txt$data graphically
+graphics_74.txt$fvs accepts threedimensional multiblock data recorded in ncsa hdf format
+graphics_74.txt$itigovsg 192122132130  pubsvlib scientific visualization
+graphics_74.txt$pufvs these directories contain demo binaries for sun4sgi
+graphics_74.txt$cost  us200 for academic and us300 for nonacademic institutions
+graphics_74.txt$for each of the above items youre getting the source for the licence
+graphics_74.txt$contact
+graphics_74.txt$miss quek lee hian
+graphics_74.txt$member of technical staff
+graphics_74.txt$information technology institute
+graphics_74.txt$national computer board
+graphics_74.txt$ncb building
+graphics_74.txt$71 sicence park drive
+graphics_74.txt$singapore 0511
+graphics_74.txt$republic of singapore
+graphics_74.txt$tel  657720435
+graphics_74.txt$fax  657795966
+graphics_74.txt$email  leehianitigovsg
+graphics_74.txt$gvlware distribution
+graphics_74.txt$bob   an interactive volume renderer for the sgi
+graphics_74.txt$raz   a disk based movie player for the sgi
+graphics_74.txt$icol  motif color editor
+graphics_74.txt$the army high performance computing research center ahpcrc has been
+graphics_74.txt$developing a set of tools to work with large time dependent 2d and 3d
+graphics_74.txt$data sets  in the graphics and visualization lab gvl we are using
+graphics_74.txt$these tools along side standard packages such as sgi explorer and the
+graphics_74.txt$utah raster toolkit to render 3d volumes and create digital movies
+graphics_74.txt$a couple of the more general purpose programs have been bundled into a
+graphics_74.txt$package called gvlware
+graphics_74.txt$gvlware currently consisting of bob raz and icol is now available
+graphics_74.txt$via ftp  the most interesting program is probably bob an interactive
+graphics_74.txt$volume renderer for the sgi  raz streams raster images from disk to
+graphics_74.txt$an sgi screen enabling movies larger than memory to be played  icol
+graphics_74.txt$is a color map editor that works with bob and raz  source and
+graphics_74.txt$prebuilt binaries for irix 405 are included
+graphics_74.txt$to acquire gvlware anonymous ftp to
+graphics_74.txt$machine  ftparcumnedu
+graphics_74.txt$file     pubgvltarz
+graphics_74.txt$to use gvlware
+graphics_74.txt$mkdir gvl  cd gvl
+graphics_74.txt$zcat gvltarz  tar xvf 
+graphics_74.txt$more readme
+graphics_74.txt$some bob features
+graphics_74.txt$motif interface sgi gl rendering
+graphics_74.txt$renders 64 cubed data set in 01 to 10 seconds on a vgx
+graphics_74.txt$alpha compositing and maximum value rendering in perspective
+graphics_74.txt$only maximum value rendering on personal iris
+graphics_74.txt$data must be a brick of bytes on a regularly spaced grid
+graphics_74.txt$animation subvolumes subsampling stereo
+graphics_74.txt$some raz features
+graphics_74.txt$motif interface sgi gl rendering
+graphics_74.txt$loads files to a raw disk partition then streams to screen
+graphics_74.txt$requires an empty disk partition to be set aside
+graphics_74.txt$script interface available for movie sequences
+graphics_74.txt$can stream from memory like ncsa ximage
+graphics_74.txt$some icol features
+graphics_74.txt$motif interface
+graphics_74.txt$easy to create interpolated color maps between key points
+graphics_74.txt$rgb hsv and yuv color spaces multiple file formats
+graphics_74.txt$communicates changes automatically to bob and raz
+graphics_74.txt$has been tested on sgi sun dec and cray systems
+graphics_74.txt$btw    bob   brick of bytes
+graphics_74.txt$icol  interpolated color
+graphics_74.txt$raz    just a name
+graphics_74.txt$please send any comments to
+graphics_74.txt$gvlwareahpcrcumnedu
+graphics_74.txt$this software collection is supported by the army research office
+graphics_74.txt$contract number daalo389c0038 with the university of minnesota army
+graphics_74.txt$high performance computing research center
+graphics_74.txt$imaging applications platform is a commercial package for medical and
+graphics_74.txt$scientific visualization it does volume rendering binary surface
+graphics_74.txt$rendering multiplanar reformating image manipulation cine sequencing
+graphics_74.txt$intermixes geometry and text with images and provides measurement and
+graphics_74.txt$coordinate transform abilities
+graphics_74.txt$it can provide hardcopy on most medical film printers image database
+graphics_74.txt$functionality and interconnection to most medical ctmrietc scanners
+graphics_74.txt$it is clientserver based and provides an object oriented interface it
+graphics_74.txt$runs on most high performance workstations and takes full advantage of
+graphics_74.txt$parallelism where it is available it is robust efficient and
+graphics_74.txt$will be submitted for fda approval for use in medical applications
+graphics_74.txt$cost 20k for oem developer 10k for educational developer
+graphics_74.txt$and run times starting at 8900 and going down based on quantity
+graphics_74.txt$the developer packages include two days training for two people in toronto
+graphics_74.txt$available from
+graphics_74.txt$isg technologies
+graphics_74.txt$6509 airport road
+graphics_74.txt$mississauga ontario
+graphics_74.txt$canada l4v1s7
+graphics_74.txt$email rod gilchrist rodisgteccom
+graphics_74.txt$18 molecular visualization stuff
+graphics_74.txt$ based on a list from cristydupontcom  cristy   which asked for
+graphics_74.txt$systems for displaying molecular dynamics md for short 
+graphics_74.txt$flex
+graphics_74.txt$it is a public domain package written by michael pique at the scripps
+graphics_74.txt$research institute la jolla ca flex is stored as a compressed
+graphics_74.txt$tared archive about 34mb at perutzscrippsedu 13713115227 in
+graphics_74.txt$pubflex it displays molecular models and md trajectories
+graphics_74.txt$macmolecule
+graphics_74.txt$for macintosh i searched with archie and the most
+graphics_74.txt$promising place is sumexaimstanfordedu infomacapp and
+graphics_74.txt$infomacartqt for a demo
+graphics_74.txt$runs on sgi machines call terry lybrand lybrandmiltonuwashingtonedu
+graphics_74.txt$xtalview
+graphics_74.txt$it is a crystallography package that does visualize molecules and much more
+graphics_74.txt$it uses the xview toolkit
+graphics_74.txt$call duncan mcree demscrippsedu
+graphics_74.txt$landmanhalphysicswayneedu
+graphics_74.txt$i am writing my own visualization code right now  i look at md output
+graphics_74.txt$a specific format easy to alter for the subroutine on pcs  my
+graphics_74.txt$program has hooks into gks  if your friend has access to phigs for x
+graphics_74.txt$pex and fortran bindings i would be happy to share my evolving code
+graphics_74.txt$free of charge  right now it can display supercells of up to 65
+graphics_74.txt$atoms easy to change and up to 100 time steps drawing nearest
+graphics_74.txt$neighbor bonds between 2 defining nn radii  it works acceptably fast
+graphics_74.txt$on a 10mhz 286
+graphics_74.txt$icsg0001caesarcsmontanaedu
+graphics_74.txt$i did a project on molecular visualization for my masters thesis using
+graphics_74.txt$unixx11motif which generates a simple point and spacefilling model
+graphics_74.txt$kgngraf is part of motecc91 look on malenacrs4it 156148712
+graphics_74.txt$in pubmotecc
+graphics_74.txt$moteccinfotxt          information about motecc91 in plain ascii format
+graphics_74.txt$moteccinfotroff        information about motecc91 in troff format
+graphics_74.txt$moteccformtroff        motecc91 order form in troff format
+graphics_74.txt$motecclicensetroff     motecc91 license agreement in troff format
+graphics_74.txt$moteccinfops           information about motecc91 in postscript format
+graphics_74.txt$moteccformps           motecc91 order form in postscript format
+graphics_74.txt$motecclicenseps        motecc91 license agreement in postscript format
+graphics_74.txt$ditollaitnsg1cinecait
+graphics_74.txt$im working on molecular dynamic too  a friend of mine and i have
+graphics_74.txt$developed a program to display an md run dynamically on silicon
+graphics_74.txt$graphics  we are working to improve it but it doesnt work under x
+graphics_74.txt$we are using the graphi lib of the silicon gr because they are much
+graphics_74.txt$faster then x  when well end it well post on the news info about
+graphics_74.txt$where to get it with ftp will be free software
+graphics_74.txt$xball v20
+graphics_74.txt$written by david nedde call davenmaxinewpiedu
+graphics_74.txt$xmol
+graphics_74.txt$an x window system program that uses osfmotif  for  the
+graphics_74.txt$display and  analysis  of  molecular  model data  data from several
+graphics_74.txt$common file formats can be read and written current formats include
+graphics_74.txt$alchemy chemlabii gaussian molsim mopac pdb and mscis xyz
+graphics_74.txt$format which has been designed  for  simplicity  in  translating to
+graphics_74.txt$and from other formats xmol also allows for conversion between
+graphics_74.txt$several of these formats
+graphics_74.txt$xmol is available at ftpmscedu read pubxmolreadme for
+graphics_74.txt$further details
+graphics_74.txt$from biosym technologies inc
+graphics_74.txt$the program has been published in j molecular graphics 10
+graphics_74.txt$1992 33 the program can analyze and display charmm discover yasp
+graphics_74.txt$and mumod trajectories the program package contains also software for
+graphics_74.txt$the generation of probe surfaces proton affinity
+graphics_74.txt$surfaces and molecular orbitals from an extended huckel program
+graphics_74.txt$it works on silicon graphics machines
+graphics_74.txt$contact leif laaksonen leiflaaksonencscfi or laaksonecscfi
+graphics_74.txt$nsniehsnihgov 1579888  pub  multi 30 multiprocess
+graphics_74.txt$molecular modeling suite
+graphics_74.txt$mindtool
+graphics_74.txt$it runs under sunview and requires a fortran compiler and suns cgi
+graphics_74.txt$libraries mindtool is a tool  provided  for  the  interactive  graphic
+graphics_74.txt$manipulation  of  molecules  and  atoms currently up to 10000
+graphics_74.txt$atoms may be input
+graphics_74.txt$available via anonymous ftp at ranichemyaleedu directory
+graphics_74.txt$pubmindtool  check with archie for other  sites if thats too far 
+graphics_74.txt$ i would also suggest looking at least in sgis applications directory
+graphics_74.txt$it contains many more packages  nfotis 
+graphics_74.txt$19 gis geographical information systems software
+graphics_74.txt$geographic resource analysis support system of the us army
+graphics_74.txt$construction engineering research lab cerl it is a popular geographic and
+graphics_74.txt$remote sensing image processing package many may think of grass as a
+graphics_74.txt$geographic information system rather than an image processing package
+graphics_74.txt$although it is reported to have significant image processing
+graphics_74.txt$capabilities
+graphics_74.txt$feature descriptions
+graphics_74.txt$i use grass  because its public domain and can be obtained through the
+graphics_74.txt$internet for free  grass runs in unix and is written in c  the source
+graphics_74.txt$code can be obtained through an anonymous ftp from the office of grass
+graphics_74.txt$integration  you then compile the source code for your machine using
+graphics_74.txt$scripts provided with grass  i would recommend grass for someone who
+graphics_74.txt$already has a workstation and is on a limited budget grass is not very
+graphics_74.txt$userfriendly compared to macintosh software a first review  of
+graphics_74.txt$overview documentation indicates that it looks useful and has some pixel
+graphics_74.txt$resampling functions not in other packages plus good general purpose
+graphics_74.txt$image enhancement routines fft kelly maurice at vexcel corp in
+graphics_74.txt$boulder co is a primary user of grass   this gentleman has used the
+graphics_74.txt$grass software and developed multispectral 238 bands  volumetric
+graphics_74.txt$rendering full color on suns and stardents it was a really effective
+graphics_74.txt$interface  vexcel corp currently has a contract to map part of venus
+graphics_74.txt$and convert the magellan radar data into contour maps you can call them
+graphics_74.txt$at 303 4440094 or email care of gregvexcelcom 192929068
+graphics_74.txt$host configuration requirements
+graphics_74.txt$if you are willing to run aux you could install grass   on a macintosh
+graphics_74.txt$which has significant image analysis and import capabilities for
+graphics_74.txt$satellite data grass  is publicdomain and can run on a highend pc
+graphics_74.txt$under unix it is rasterbased has some imageprocessing capability
+graphics_74.txt$and can display vector data but analysis must be done in the raster
+graphics_74.txt$environment i have used grass v3 on a sun workstation and found it
+graphics_74.txt$easy to use it is best of course for data that are well represented
+graphics_74.txt$in raster gridcell form
+graphics_74.txt$availability
+graphics_74.txt$cerls office of grass integration ogi  maintains an ftp server
+graphics_74.txt$mooncecerarmymil 12922920254
+graphics_74.txt$mail regarding this site should be addressed to
+graphics_74.txt$grassftpadminmooncecerarmymil
+graphics_74.txt$this location will be the new canonical source for grass software as
+graphics_74.txt$well as bug fixes contributed sources documentation and other files
+graphics_74.txt$this ftp server also supports dynamic compression and uncompression and
+graphics_74.txt$tar archiving of files  a feature attraction of the server is john
+graphics_74.txt$parks grass tutorial  because the manual is still in betatest stage
+graphics_74.txt$john requests that people only acquire it if they are willing to review
+graphics_74.txt$it and mail him commentscorrections the ogi is not currently
+graphics_74.txt$maintaining this document so all correspondence about it should be
+graphics_74.txt$directed to grassxtanguarkedu
+graphics_74.txt$support
+graphics_74.txt$listserv mailing lists
+graphics_74.txt$grassulistambercecerarmymil for grass users applicationlevel
+graphics_74.txt$questions support concerns miscellaneous questions etc send
+graphics_74.txt$subscribe commands to grassurequestambercecerarmymil
+graphics_74.txt$grassplistambercecerarmymil for grass programmers systemlevel
+graphics_74.txt$questions and tips tricks and techniques of design and implementation
+graphics_74.txt$of grass applications send subscribe commands to
+graphics_74.txt$grassprequestambercecerarmymil
+graphics_74.txt$both lists are maintained by the office of grass integration subset of
+graphics_74.txt$the army corps of engineers construction engineering research lab in
+graphics_74.txt$champaign il the ogi is providing the lists as a service to the
+graphics_74.txt$community while ogi and cerl employees will participate in the lists
+graphics_74.txt$we can make no claim as to content or veracity of messages that pass
+graphics_74.txt$through the list  if you have questions problems or comments send
+graphics_74.txt$email to listsownerambercecerarmymil and a human will respond
+graphics_74.txt$microstation imager
+graphics_74.txt$intergraph based in huntsville alabama sells a wide range of gis
+graphics_74.txt$softwarehardware microstation is a base  graphics package that imager
+graphics_74.txt$sits on top of imager is basically an  image processing package with a
+graphics_74.txt$heavy gisremote sensing flavor
+graphics_74.txt$feature description
+graphics_74.txt$basic geometry manipulations flip mirror rotate generalized affine
+graphics_74.txt$rectification affine 2nd 3rd 4th and 5th order models as well as a
+graphics_74.txt$projective model warp an image to a vector map or to another image
+graphics_74.txt$rgb to ihs and ihs to rgb conversion  principal component analysis
+graphics_74.txt$classification kmeans and isodata  fourier xforms forward filtering
+graphics_74.txt$and reverse  filters high pass low pass edge enhancing median
+graphics_74.txt$generic  complex histogramcontrast control  layer controller manages
+graphics_74.txt$up to 64 images at a time  user can extract single bands from a 3 band
+graphics_74.txt$image or create color images by combining various individual bands etc
+graphics_74.txt$the package is designed for a remote sensing application it can handle
+graphics_74.txt$very large images and there is all kinds of other software available
+graphics_74.txt$for gis applications
+graphics_74.txt$host configuration requirements
+graphics_74.txt$it runs on intergraph workstations a unix machine similar to a sun
+graphics_74.txt$though there  were rumors there are always rumors that the software
+graphics_74.txt$would be  ported to pc and possibly a sun environment
+graphics_74.txt$a company called pci inc out of richmond hill ontario canada makes
+graphics_74.txt$an array of software utilities for processing manipulation and use of
+graphics_74.txt$remote sensing data in eight or ten different industry standard
+graphics_74.txt$formats lgsowg bsq landsat and a couple of others whose titles i
+graphics_74.txt$forget  the software is available in versions for msdos unix
+graphics_74.txt$workstations among them hp sun and ibm and vms and quite possibly
+graphics_74.txt$other platforms by now  i use the vms version
+graphics_74.txt$the pci software consists of several classesgroupspackages of
+graphics_74.txt$utilities grouped by function but all operating on a common pci
+graphics_74.txt$database disk file  the tape io package is a set of utility
+graphics_74.txt$programs which read from the various remotesensing industry tape
+graphics_74.txt$formats into or write those formats out from the pci database file
+graphics_74.txt$this is the only package i use or know much about  other packages can
+graphics_74.txt$display data from the pci database to one or another of several
+graphics_74.txt$pcisupported thirdparty color displays output numeric or bitmap
+graphics_74.txt$representation of image data to an attached printer eg an epsontype
+graphics_74.txt$dotmatrix graphics printer  you might be more spe cifically
+graphics_74.txt$interested in the mathematical operations package histo gram and
+graphics_74.txt$fourier analysis equalization userspecified operations eg
+graphics_74.txt$multiply channel 1 by 3 add channel 2 and store as channel 5 and
+graphics_74.txt$god only knows what all else  theres a lot  i dont have and dont
+graphics_74.txt$use these so cant say much about them you only buy the packages your
+graphics_74.txt$particular applicationinterest calls for
+graphics_74.txt$each utility is controlled by from one to eight parameters read from
+graphics_74.txt$a common parameter file which must be in vms anyway in your default
+graphics_74.txt$directory  some utilities will share parameters and use the same
+graphics_74.txt$parameter for a different purpose so it can get a bit confusing setting
+graphics_74.txt$up a series of operations  the standard pci environment contains a
+graphics_74.txt$scripting language very similar to ibmpc basic but which allows you to
+graphics_74.txt$automate the process of setting up parameters for a common complicated
+graphics_74.txt$lengthy or difficult series of utility executions  in vms i can also
+graphics_74.txt$invoke utilities independently from a dcl command procedure  theres
+graphics_74.txt$also an optional programming library which allows you to write compiled
+graphics_74.txt$language programs which can interface with read fromwrite to the pci
+graphics_74.txt$data structures database file parameter file
+graphics_74.txt$the pci software is designed specifically for remotesensing images but
+graphics_74.txt$requires such a level of operator expertise that once you reach the
+graphics_74.txt$level where you can handle rs images you can figure out ways to handle
+graphics_74.txt$a few other things as well  for instance the tape io package offers a
+graphics_74.txt$utility for reading headerless multiband what adobe photoshop on the
+graphics_74.txt$macintosh calls raw data from tape in a number of different
+graphics_74.txt$interleave orders this turns out to be ideal for manipulating the
+graphics_74.txt$graphicarts industrys ct2t format would probably i havent tried
+graphics_74.txt$handle targa and so on above all however you have to know what
+graphics_74.txt$youre doing or you can screw up to the nth degree and have to start
+graphics_74.txt$over  its worth noting that the pci database file is designed to
+graphics_74.txt$contain not only raster image data but vectors for overlaying map
+graphics_74.txt$information entered via digitizing table landuse and all manner of
+graphics_74.txt$other information i observe that a remotesensing image tape often
+graphics_74.txt$contains all manner of information about the spectral bands latitude
+graphics_74.txt$longitude time date etc of the original satellite pass all of this
+graphics_74.txt$can go into the pci database
+graphics_74.txt$i believe that on workstations the builtin display is used  on vax
+graphics_74.txt$systems other than workstations pci supports only a couple of specific
+graphics_74.txt$thirdparty display systems the name goulddeanza seems to come to
+graphics_74.txt$mind  one of my personal workarounds was a display program which would
+graphics_74.txt$display directly from a pci database file to a peritek vctq qbus
+graphics_74.txt$24bit directcolor display subsystem  pci software could be overkill
+graphics_74.txt$in your case it seems designed for the very high end
+graphics_74.txt$applicationsusers ie those for whom a macpc largely doesnt suffice
+graphics_74.txt$although as you know the gap is getting smaller all the time  its
+graphics_74.txt$probably no coincidence that pci is located in canada a country which
+graphics_74.txt$does a lot of its landresource management via remote sensing i believe
+graphics_74.txt$the canadian government uses pci software for some of its work in these
+graphics_74.txt$areas
+graphics_74.txt$spam spectral analysis manager
+graphics_74.txt$back in 1985 jpl developed something called spam spectral analysis
+graphics_74.txt$manager which got a fair amount of use at the time  that was designed
+graphics_74.txt$for airborne imaging spectrometer imagery byte data  256 pixels
+graphics_74.txt$across by  512 lines by  256 bands a modified version has since
+graphics_74.txt$been developed for aviris airborne visual and infrared imaging
+graphics_74.txt$spectrometer which uses much larger images
+graphics_74.txt$spam does none of these things rectification classification pc and
+graphics_74.txt$ihs transformations filtering contrast enhancement overlays
+graphics_74.txt$actually it does limited filtering and contrast enhancement
+graphics_74.txt$stretching  spam is aimed at spectral identification and clustering
+graphics_74.txt$the original spam uses x or sunview to display  the aviris version may
+graphics_74.txt$require vicar an executive based on tae and may also require a frame
+graphics_74.txt$buffer  i can refer you to people if youre interested  pcw requires x
+graphics_74.txt$for display
+graphics_74.txt$among the mac gis systems map ii is distributed by john wiley
+graphics_74.txt$clrview
+graphics_74.txt$clrview is a 3dimensional visualization program designed to exploit
+graphics_74.txt$the realtime capabilities of silicon graphics iris computers
+graphics_74.txt$this program is designed to provide a core set of tools to aid in the
+graphics_74.txt$visualization of information from cad and gis sources  it supports
+graphics_74.txt$the integration of many common but disperate data sources such as dxf
+graphics_74.txt$tin dem lattices and arcinfo coverages among others
+graphics_74.txt$clrview can be obtained from explorerdgputorontoca 1281001129
+graphics_74.txt$in the directory pubsgiclrview
+graphics_74.txt$contact
+graphics_74.txt$rodney hoinkes
+graphics_74.txt$head of design applications
+graphics_74.txt$centre for landscape research
+graphics_74.txt$university of toronto
+graphics_74.txt$tel   416 9787197
+graphics_74.txt$email rodneydgputorontoca
+graphics_74.txt$end of resource listing
+graphics_74.txt$nick nikolaos fotis         national technical univ of athens greece
+graphics_74.txt$home 16 esperidon st       internet  nfotistheseasntuagr
+graphics_74.txt$halandri gr  152 32   uucp    mcsunariadnetheseasnfotis
+graphics_74.txt$athens greece          fax 30 1 77 84 578
+graphics_74.txt$food_93.txt
+graphics_74.txt$graphics_20.txt
+graphics_74.txt$sport_83.txt
+graphics_74.txt$medical_424.txt
+graphics_74.txt$space_68.txt
+graphics_74.txt$sport_65.txt
+graphics_74.txt$entertainment_37.txt
+graphics_74.txt$medical_572.txt
+graphics_74.txt$business_20.txt
+graphics_74.txt$business_28.txt
+graphics_74.txt$politics_136.txt
+graphics_74.txt$medical_500.txt
+graphics_74.txt$technologie_13.txt
+graphics_74.txt$food_78.txt
+graphics_74.txt$graphics_29.txt
+graphics_74.txt$graphics_13.txt
+graphics_74.txt$historical_23.txt
+graphics_74.txt$food_53.txt
+graphics_74.txt$politics_131.txt
+graphics_74.txt$historical_100.txt
+graphics_74.txt$historical_26.txt
+graphics_74.txt$technologie_84.txt
+graphics_74.txt$business_99.txt
+graphics_74.txt$medical_1.txt
+graphics_74.txt$space_76.txt
+graphics_74.txt$business_19.txt
+graphics_74.txt$graphics_75.txt
+graphics_74.txt$medical_40.txt
+graphics_74.txt$graphics_6.txt
+graphics_74.txt$business_75.txt
+graphics_74.txt$medical_691.txt
+graphics_74.txt$graphics_52.txt
+graphics_74.txt$business_58.txt
+graphics_74.txt$business_13.txt
+graphics_74.txt$entertainment_33.txt
+graphics_74.txt$historical_88.txt
+graphics_74.txt$business_40.txt
+graphics_74.txt$politics_229.txt
+graphics_74.txt$graphics_65.txt
+graphics_74.txt$sport_8.txt
+graphics_74.txt$graphics_7.txt
+graphics_74.txt$historical_74.txt
+graphics_74.txt$historical_81.txt
+graphics_74.txt$entertainment_24.txt
+graphics_74.txt$food_5.txt
+graphics_74.txt$historical_44.txt
+graphics_74.txt$space_5.txt
+graphics_74.txt$historical_98.txt
+graphics_74.txt$technologie_50.txt
+graphics_74.txt$politics_111.txt
+graphics_74.txt$historical_99.txt
+graphics_74.txt$business_65.txt
+graphics_74.txt$sport_59.txt
+graphics_74.txt$politics_15.txt
+graphics_74.txt$food_87.txt
+graphics_74.txt$historical_25.txt
+graphics_74.txt$sport_88.txt
+graphics_74.txt$food_12.txt
+graphics_74.txt$politics_319.txt
+graphics_74.txt$sport_52.txt
+graphics_74.txt$historical_12.txt
+graphics_74.txt$graphics_59.txt
+graphics_74.txt$food_48.txt
+graphics_74.txt$space_74.txt
+graphics_74.txt$business_14.txt
+graphics_74.txt$space_1.txt
+graphics_74.txt$entertainment_85.txt
+graphics_74.txt$entertainment_27.txt
+graphics_74.txt$space_71.txt
+graphics_74.txt$politics_128.txt
+graphics_74.txt$entertainment_90.txt
+graphics_74.txt$technologie_43.txt
+graphics_74.txt$entertainment_30.txt
+graphics_74.txt$sport_78.txt
+graphics_74.txt$technologie_42.txt
+graphics_74.txt$food_81.txt
+graphics_74.txt$politics_117.txt
+graphics_74.txt$historical_50.txt
+graphics_74.txt$technologie_89.txt
+graphics_74.txt$technologie_53.txt
+graphics_74.txt$technologie_59.txt
+graphics_74.txt$historical_80.txt
+graphics_74.txt$space_44.txt
+graphics_74.txt$business_29.txt
+graphics_74.txt$entertainment_39.txt
+graphics_74.txt$food_11.txt
+graphics_74.txt$historical_33.txt
+graphics_74.txt$politics_231.txt
+graphics_74.txt$sport_26.txt
+graphics_74.txt$graphics_3.txt
+graphics_74.txt$politics_282.txt
+graphics_74.txt$politics_31.txt
+graphics_74.txt$entertainment_38.txt
+graphics_74.txt$graphics_44.txt
+graphics_74.txt$historical_42.txt
+graphics_74.txt$business_85.txt
+graphics_74.txt$business_92.txt
+graphics_74.txt$politics_232.txt
+graphics_74.txt$historical_16.txt
+graphics_74.txt$historical_7.txt
+graphics_74.txt$space_32.txt
+graphics_74.txt$graphics_32.txt
+graphics_74.txt$historical_73.txt
+graphics_74.txt$entertainment_99.txt
+graphics_74.txt$business_21.txt
+graphics_74.txt$historical_51.txt
+graphics_74.txt$business_90.txt
+graphics_74.txt$politics_316.txt
+graphics_74.txt$politics_326.txt
+graphics_74.txt$politics_335.txt
+graphics_74.txt$medical_619.txt
+graphics_74.txt$medical_376.txt
+graphics_74.txt$historical_60.txt
+graphics_74.txt$sport_28.txt
+graphics_74.txt$graphics_28.txt
+graphics_74.txt$food_85.txt
+graphics_74.txt$graphics_96.txt
+graphics_74.txt$space_65.txt
+graphics_74.txt$medical_565.txt
+graphics_74.txt$graphics_92.txt
+graphics_74.txt$technologie_6.txt
+graphics_74.txt$entertainment_100.txt
+graphics_74.txt$entertainment_50.txt
+graphics_74.txt$space_81.txt
+graphics_74.txt$entertainment_14.txt
+graphics_74.txt$food_66.txt
+graphics_74.txt$entertainment_62.txt
+graphics_74.txt$technologie_11.txt
+graphics_74.txt$technologie_72.txt
+graphics_74.txt$graphics_72.txt
+graphics_74.txt$historical_17.txt
+graphics_74.txt$technologie_83.txt
+graphics_74.txt$medical_645.txt
+graphics_74.txt$technologie_18.txt
+graphics_74.txt$business_59.txt
+graphics_74.txt$food_89.txt
+graphics_74.txt$entertainment_58.txt
+graphics_74.txt$space_37.txt
+graphics_74.txt$medical_694.txt
+graphics_74.txt$business_68.txt
+graphics_74.txt$medical_590.txt
+graphics_74.txt$sport_3.txt
+graphics_74.txt$space_83.txt
+graphics_74.txt$historical_55.txt
+graphics_74.txt$technologie_79.txt
+graphics_74.txt$graphics_61.txt
+graphics_74.txt$politics_275.txt
+graphics_74.txt$space_20.txt
+graphics_74.txt$food_79.txt
+graphics_74.txt$entertainment_19.txt
+graphics_74.txt$business_42.txt
+graphics_74.txt$technologie_10.txt
+graphics_74.txt$politics_212.txt
+graphics_74.txt$entertainment_92.txt
+graphics_74.txt$sport_2.txt
+graphics_74.txt$entertainment_88.txt
+graphics_74.txt$technologie_14.txt
+graphics_74.txt$graphics_60.txt
+graphics_74.txt$space_4.txt
+graphics_74.txt$politics_222.txt
+graphics_74.txt$politics_34.txt
+graphics_74.txt$graphics_100.txt
+graphics_74.txt$technologie_80.txt
+graphics_74.txt$medical_610.txt
+graphics_74.txt$historical_89.txt
+graphics_74.txt$politics_217.txt
+graphics_74.txt$technologie_75.txt
+graphics_74.txt$business_89.txt
+graphics_74.txt$space_16.txt
+graphics_74.txt$sport_69.txt
+graphics_74.txt$business_1.txt
+graphics_74.txt$sport_94.txt
+graphics_74.txt$business_60.txt
+graphics_74.txt$politics_139.txt
+graphics_74.txt$business_93.txt
+graphics_74.txt$space_23.txt
+graphics_74.txt$space_69.txt
+graphics_74.txt$sport_24.txt
+graphics_74.txt$politics_357.txt
+graphics_74.txt$space_80.txt
+graphics_74.txt$food_2.txt
+graphics_74.txt$historical_48.txt
+graphics_74.txt$graphics_86.txt

@@ -1,0 +1,12 @@
+food_17.txt$12           cup  butter  at room temperature
+food_17.txt$1           cup  sugar
+food_17.txt$2                eggs
+food_17.txt$1 12     teaspoons  vanilla extract
+food_17.txt$2          cups  allpurpose flour
+food_17.txt$12      teaspoon  baking powder
+food_17.txt$12      teaspoon  baking soda
+food_17.txt$1 12          cups  nuts  chopped
+food_17.txt$
+food_17.txt$this comes from the dallas morning news dallas life magazine the highland park restaurant patrizio contributes this recipe for biscotti  combine butter sugar and eggs mixing well beat in vanilla  combine flour baking powder baking soda and chopped nuts add to the egg mixture the batter will be very stiff and sticky cover the dough with plastic wrap and refrigerate for 1 hour or over night  with floured hands divide the dough into two portions and shape each into a loaf about 12 inched long  grease a 10 by 14 baking sheet place both loaves on the sheet leaving at least 3 inches between them flatten each loaf slightly as evenly as possible  place in preheated 400 degree oven and bake for 20 min or until firm to the touch  remove can cool on wire rack slightly lower oven to 375  while still warm slice the loaves into diagonal slices about 13 inch thick  arrange on ungreased baking sheet and bake at 375 fro 15 mintues  do not brown  var     chocolate basic recipe adding 1 cup of cocoa powder and 1 12 cups chocolate chips      banana basic recipe adding 14 cup banana flavoring not extract and use walnuts or pecans      cinnamon basic recipe adding 14 cup ground cinnamon for the nuts use almonds or pecans
+food_17.txt$
+food_17.txt$

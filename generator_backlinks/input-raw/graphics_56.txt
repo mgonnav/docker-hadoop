@@ -1,0 +1,17 @@
+graphics_56.txt$in article 1993apr10160929696galkitoppointde ulrichgalkitoppointde
+graphics_56.txt$writes
+graphics_56.txt$ according to the tiff 50 specification the tiff version number
+graphics_56.txt$ bytes 23 42 has been chosen for its deep philosophical
+graphics_56.txt$ significance
+graphics_56.txt$ last week i read the hitchhikers guide to the galaxy
+graphics_56.txt$ is this actually how they picked the number 42
+graphics_56.txt$im sure it is and i am not amused  every time i read that part of the
+graphics_56.txt$tiff spec it infuriates me and im none too happy about the
+graphics_56.txt$complexity of the spec anyway because i think their arbitrary but
+graphics_56.txt$carefully chosen number is neither  additionally i find their
+graphics_56.txt$choice of 4 bytes to begin a file with meaningless of themselves why
+graphics_56.txt$not just use the letters tiff
+graphics_56.txt$and no i dont think they should have bothered to support both word
+graphics_56.txt$orders either and ive found that many tiff readers actually
+graphics_56.txt$dont
+graphics_56.txt$ab

@@ -1,0 +1,785 @@
+space_14.txt$archivename spaceacronyms
+space_14.txt$edition 8
+space_14.txt$acronym list for sciastro scispace and scispaceshuttle
+space_14.txt$edition 8 1992 dec 7
+space_14.txt$last posted 1992 aug 27
+space_14.txt$this list is offered as a reference for translating commonly appearing
+space_14.txt$acronyms in the spacerelated newsgroups  if i forgot or botched your
+space_14.txt$favorite acronym please let me know  also if theres an acronym not
+space_14.txt$on this list that confuses you drop me a line and if i can figure
+space_14.txt$it out ill add it to the list
+space_14.txt$note that this is intended to be a reference for frequently seen
+space_14.txt$acronyms and is most emphatically not encyclopedic  if i incorporated
+space_14.txt$every acronym i ever saw id soon run out of disk space  
+space_14.txt$the list will be posted at regular intervals every 30 days  all
+space_14.txt$comments regarding it are welcome im reachable as bradfrd2ncarucaredu
+space_14.txt$note that this just tells what the acronyms stand for  youre on your
+space_14.txt$own for figuring out what they mean  note also that the total number of
+space_14.txt$acronyms in use far exceeds what i can list specialpurpose acronyms that
+space_14.txt$are essentially always explained as theyre introduced are omitted
+space_14.txt$further some acronyms stand for more than one thing as of edition 3 of
+space_14.txt$the list these acronyms appear on multiple lines unless theyre simply
+space_14.txt$different ways of referring to the same thing
+space_14.txt$thanks to everybody whos sent suggestions since the first version of
+space_14.txt$the list and especially to garrett a wollman wollmangriffinuvmedu
+space_14.txt$who is maintaining an independent list somewhat more verbose in
+space_14.txt$character than mine and to daniel fischer dfispecklecmpifrbonnmpgde
+space_14.txt$who is maintaining a truly huge list 535 at last count of acronyms and
+space_14.txt$terms mostly in german which i read fortunately
+space_14.txt$special thanks this time to ken hollis at nasa who sent me a copy of nasa
+space_14.txt$reference publication 1059 revised space transportation system and
+space_14.txt$associated payloads glossary acronyms and abbreviations a truly
+space_14.txt$mammoth tome  almost 300 pages of tlas
+space_14.txt$special bonus  at the end of this posting you will find a perl program
+space_14.txt$written by none other than larry wall whose purpose is to scramble the
+space_14.txt$acronym list in an entertaining fashion  thanks larry
+space_14.txt$aa astronomy and astrophysics
+space_14.txt$aao angloaustralian observatory
+space_14.txt$aas american astronomical society
+space_14.txt$aas american astronautical society
+space_14.txt$aavso american association of variable star observers
+space_14.txt$ace advanced composition explorer
+space_14.txt$acrv assured crew return vehicle or astronaut crew rescue vehicle
+space_14.txt$adfrf amesdryden flight research facility was dfrf nasa
+space_14.txt$agn active galactic nucleus
+space_14.txt$agu american geophysical union
+space_14.txt$aiaa american institute of aeronautics and astronautics
+space_14.txt$aips astronomical image processing system
+space_14.txt$aj astronomical journal
+space_14.txt$alexis array of low energy xray imaging sensors
+space_14.txt$alpo association of lunar and planetary observers
+space_14.txt$als advanced launch system
+space_14.txt$ansi american national standards institute
+space_14.txt$aoa abort once around shuttle abort plan
+space_14.txt$aocs attitude and orbit control system
+space_14.txt$apj astrophysical journal
+space_14.txt$apm attached pressurized module aka columbus
+space_14.txt$apu auxiliary power unit
+space_14.txt$arc ames research center nasa
+space_14.txt$artemis advanced relay technology mission
+space_14.txt$asa astronomical society of the atlantic
+space_14.txt$asi agenzia spaziale italiano
+space_14.txt$asrm advanced solid rocket motor
+space_14.txt$atdrs advanced tracking and data relay satellite
+space_14.txt$atlas atmospheric laboratory for applications and science
+space_14.txt$atm amateur telescope maker
+space_14.txt$ato abort to orbit shuttle abort plan
+space_14.txt$au astronomical unit
+space_14.txt$aura association of universities for research in astronomy
+space_14.txt$awst aviation week and space technology aka avleak
+space_14.txt$axaf advanced xray astrophysics facility
+space_14.txt$batse burst and transient source experiment on cgro
+space_14.txt$bbxrt broadband xray telescope astro package
+space_14.txt$bem bugeyed monster
+space_14.txt$bh black hole
+space_14.txt$bima berkeley illinois maryland array
+space_14.txt$bnsc british national space centre
+space_14.txt$btw by the way
+space_14.txt$ct communications  tracking
+space_14.txt$ccafs cape canaveral air force station
+space_14.txt$ccd chargecoupled device
+space_14.txt$ccds centers for the commercial development of space
+space_14.txt$cdrom compact disk readonly memory
+space_14.txt$cfa center for astrophysics
+space_14.txt$cfc chlorofluorocarbon
+space_14.txt$cff columbus free flyer
+space_14.txt$cfht canadafrancehawaii telescope
+space_14.txt$cgro arthur holley compton gamma ray observatory was gro
+space_14.txt$chara center for high angular resolution astronomy
+space_14.txt$cirris cryogenic infrared radiance instrument for shuttle
+space_14.txt$cit circumstellar imaging telescope
+space_14.txt$cm command module apollo spacecraft
+space_14.txt$cmcc central mission control centre esa
+space_14.txt$cnes centre national detude spatiales
+space_14.txt$cno carbonnitrogenoxygen
+space_14.txt$cnsr comet nucleus sample return
+space_14.txt$cobe cosmic background explorer
+space_14.txt$comptel compton telescope on cgro
+space_14.txt$costar corrective optics space telescope axial replacement
+space_14.txt$craf comet rendezvous  asteroid flyby
+space_14.txt$crres combined release  radiation effects satellite
+space_14.txt$csm command and service module apollo spacecraft
+space_14.txt$cstc consolidated satellite test center usaf
+space_14.txt$ctio cerro tololo interamerican observatory
+space_14.txt$dcx delta clipper experimental
+space_14.txt$ddcu dctodc converter unit
+space_14.txt$dfrf dryden flight research facility now adfrf
+space_14.txt$dmsp defense meteorological satellite program
+space_14.txt$dod department of defense sometimes dod
+space_14.txt$doe department of energy
+space_14.txt$dot department of transportation
+space_14.txt$dscs defense satellite communications system
+space_14.txt$dsn deep space network
+space_14.txt$dsp defense support program usafnro
+space_14.txt$eafb edwards air force base
+space_14.txt$ecs environmental control system
+space_14.txt$edo extended duration orbiter
+space_14.txt$egret energetic gamma ray experiment telescope on cgro
+space_14.txt$ejasa electronic journal of the astronomical society of the atlantic
+space_14.txt$elv expendable launch vehicle
+space_14.txt$emu extravehicular mobility unit
+space_14.txt$eos earth observing system
+space_14.txt$ers earth resources satellite as in ers1
+space_14.txt$esa european space agency
+space_14.txt$eso european southern observatory
+space_14.txt$et shuttle external tank
+space_14.txt$etla extended three letter acronym
+space_14.txt$etr eastern test range
+space_14.txt$euv extreme ultraviolet
+space_14.txt$euve extreme ultraviolet explorer
+space_14.txt$eva extravehicular activity
+space_14.txt$faq frequently asked questions
+space_14.txt$fast fast auroral snapshot explorer
+space_14.txt$fft fast fourier transform
+space_14.txt$fgs fine guidance sensors on hst
+space_14.txt$fhst fixed head star trackers on hst
+space_14.txt$fir far infrared
+space_14.txt$fits flexible image transport system
+space_14.txt$foc faint object camera on hst
+space_14.txt$fos faint object spectrograph on hst
+space_14.txt$frr flightreadiness review
+space_14.txt$ftp file transfer protocol
+space_14.txt$fts flight telerobotic servicer
+space_14.txt$fuse far ultraviolet spectroscopic explorer
+space_14.txt$fwhm full width at half maximum
+space_14.txt$fyi for your information
+space_14.txt$gas getaway special
+space_14.txt$gbt green bank telescope
+space_14.txt$gcvs general catalog of variable stars
+space_14.txt$gem giotto extended mission
+space_14.txt$geo geosynchronous earth orbit
+space_14.txt$gds great dark spot
+space_14.txt$ghrs goddard high resolution spectrograph on hst
+space_14.txt$gif graphics interchange format
+space_14.txt$glomr global loworbiting message relay
+space_14.txt$gmc giant molecular cloud
+space_14.txt$gmrt giant meterwave radio telescope
+space_14.txt$gmt greenwich mean time also called ut
+space_14.txt$goes geostationary orbiting environmental satellite
+space_14.txt$gox gaseous oxygen
+space_14.txt$gpc general purpose computer
+space_14.txt$gps global positioning system
+space_14.txt$gro gamma ray observatory now cgro
+space_14.txt$grs gamma ray spectrometer on mars observer
+space_14.txt$grs great red spot
+space_14.txt$gsc guide star catalog for hst
+space_14.txt$gsfc goddard space flight center nasa
+space_14.txt$gto geostationary transfer orbit
+space_14.txt$hao high altitude observatory
+space_14.txt$hd henry draper catalog entry
+space_14.txt$heao high energy astronomical observatory
+space_14.txt$hera hermes robotic arm
+space_14.txt$hf high frequency
+space_14.txt$hga high gain antenna
+space_14.txt$hlc heavy lift capability
+space_14.txt$hlv heavy lift vehicle
+space_14.txt$hmc halley multicolor camera on giotto
+space_14.txt$hr hertzsprungrussell diagram
+space_14.txt$hri high resolution imager on rosat
+space_14.txt$hsp high speed photometer on hst
+space_14.txt$hst hubble space telescope
+space_14.txt$hut hopkins ultraviolet telescope astro package
+space_14.txt$hv high voltage
+space_14.txt$iappp international amateurprofessional photoelectric photometry
+space_14.txt$iau international astronomical union
+space_14.txt$iauc iau circular
+space_14.txt$ice international cometary explorer
+space_14.txt$ida international darksky association
+space_14.txt$idl interactive data language
+space_14.txt$igm intergalactic medium
+space_14.txt$igy international geophysical year
+space_14.txt$imho in my humble opinion
+space_14.txt$iota infraredoptical telescope array
+space_14.txt$iota international occultation timing association
+space_14.txt$ips inertial pointing system
+space_14.txt$ir infrared
+space_14.txt$iraf image reduction and analysis facility
+space_14.txt$iras infrared astronomical satellite
+space_14.txt$isas institute of space and astronautical science japan
+space_14.txt$ism interstellar medium
+space_14.txt$iso infrared space observatory
+space_14.txt$iso international standards organization
+space_14.txt$ispm international solar polar mission now ulysses
+space_14.txt$isy international space year
+space_14.txt$iue international ultraviolet explorer
+space_14.txt$ius inertial upper stage
+space_14.txt$jem japanese experiment module for ssf
+space_14.txt$jgr journal of geophysical research
+space_14.txt$jila joint institute for laboratory astrophysics
+space_14.txt$jpl jet propulsion laboratory
+space_14.txt$jsc johnson space center nasa
+space_14.txt$kao kuiper airborne observatory
+space_14.txt$kpno kitt peak national observatory
+space_14.txt$ksc kennedy space center nasa
+space_14.txt$ktb cretaceoustertiary boundary from german
+space_14.txt$lanl los alamos national laboratory
+space_14.txt$larc langley research center nasa
+space_14.txt$ldef long duration exposure facility
+space_14.txt$lem lunar excursion module aka lm apollo spacecraft
+space_14.txt$leo low earth orbit
+space_14.txt$lerc lewis research center nasa
+space_14.txt$lest large earthbased solar telescope
+space_14.txt$lfsa list of frequently seen acronyms 
+space_14.txt$lga low gain antenna
+space_14.txt$lgm little green men
+space_14.txt$lh liquid hydrogen also lh2 or lhx
+space_14.txt$llnl lawrencelivermore national laboratory
+space_14.txt$lm lunar module aka lem apollo spacecraft
+space_14.txt$lmc large magellanic cloud
+space_14.txt$ln2 liquid n2 nitrogen
+space_14.txt$lox liquid oxygen
+space_14.txt$lrb liquid rocket booster
+space_14.txt$lsr local standard of rest
+space_14.txt$ltp lunar transient phenomenon
+space_14.txt$mb manned base
+space_14.txt$mcc mission control center
+space_14.txt$meco main engine cutoff
+space_14.txt$mmh monomethyl hydrazine
+space_14.txt$mmt multiple mirror telescope
+space_14.txt$mmu manned maneuvering unit
+space_14.txt$mnras monthly notices of the royal astronomical society
+space_14.txt$moc mars observer camera on mars observer
+space_14.txt$mol manned orbiting laboratory
+space_14.txt$mola mars observer laser altimeter on mars observer
+space_14.txt$momv manned orbital maneuvering vehicle
+space_14.txt$motv manned orbital transfer vehicle
+space_14.txt$mpc minor planets circular
+space_14.txt$mrsr mars rover and sample return
+space_14.txt$mrsrm mars rover and sample return mission
+space_14.txt$msfc george c marshall space flight center nasa
+space_14.txt$mtc man tended capability
+space_14.txt$naca national advisory committee on aeronautics became nasa
+space_14.txt$nasa national aeronautics and space administration
+space_14.txt$nasda national space development agency japan
+space_14.txt$nasm national air and space museum
+space_14.txt$nasp national aerospace plane
+space_14.txt$nbs national bureau of standards now nist
+space_14.txt$ndv nasp derived vehicle
+space_14.txt$nerva nuclear engine for rocket vehicle application
+space_14.txt$ngc new general catalog
+space_14.txt$nicmos near infrared camera  multi object spectrometer hst upgrade
+space_14.txt$nims nearinfrared mapping spectrometer on galileo
+space_14.txt$nir near infrared
+space_14.txt$nist national institute for standards and technology was nbs
+space_14.txt$nldp national launch development program
+space_14.txt$noaa national oceanic and atmospheric administration
+space_14.txt$noao national optical astronomy observatories
+space_14.txt$nrao national radio astronomy observatory
+space_14.txt$nro national reconnaissance office
+space_14.txt$ns neutron star
+space_14.txt$nsa national security agency
+space_14.txt$nsf national science foundation
+space_14.txt$nso national solar observatory
+space_14.txt$nssdc national space science data center
+space_14.txt$ntr nuclear thermal rocketry
+space_14.txt$ntt new technology telescope
+space_14.txt$oao orbiting astronomical observatory
+space_14.txt$ocst office of commercial space transportation
+space_14.txt$omb office of management and budget
+space_14.txt$oms orbital maneuvering system
+space_14.txt$opf orbiter processing facility
+space_14.txt$orfeus orbiting and retrievable far and extreme ultraviolet spectrometer
+space_14.txt$osc orbital sciences corporation
+space_14.txt$oscar orbiting satellite carrying amateur radio
+space_14.txt$ossa office of space science and applications
+space_14.txt$osse oriented scintillation spectrometer experiment on cgro
+space_14.txt$ota optical telescope assembly on hst
+space_14.txt$othb over the horizon backscatter
+space_14.txt$otv orbital transfer vehicle
+space_14.txt$ov orbital vehicle
+space_14.txt$pam payload assist module
+space_14.txt$pamd payload assist module deltaclass
+space_14.txt$pi principal investigator
+space_14.txt$plss portable life support system
+space_14.txt$pm pressurized module
+space_14.txt$pmc permanently manned capability
+space_14.txt$pmirr pressure modulated infrared radiometer on mars observer
+space_14.txt$pmt photomultiplier tube
+space_14.txt$psf point spread function
+space_14.txt$psr pulsar
+space_14.txt$pv photovoltaic
+space_14.txt$pvo pioneer venus orbiter
+space_14.txt$qso quasistellar object
+space_14.txt$rci rodent cage interface for sls mission
+space_14.txt$rcs reaction control system
+space_14.txt$rem rat enclosure module for sls mission
+space_14.txt$rf radio frequency
+space_14.txt$rfi radio frequency interference
+space_14.txt$riacs research institute for advanced computer science
+space_14.txt$rms remote manipulator system
+space_14.txt$rngc revised new general catalog
+space_14.txt$rosat roentgen satellite
+space_14.txt$rous rodents of unusual size i dont believe they exist
+space_14.txt$rsn real soon now
+space_14.txt$rtg radioisotope thermoelectric generator
+space_14.txt$rtls return to launch site shuttle abort plan
+space_14.txt$saa south atlantic anomaly
+space_14.txt$saga solar array gain augmentation for hst
+space_14.txt$sampex solar anomalous and magnetospheric particle explorer
+space_14.txt$sao smithsonian astrophysical observatory
+space_14.txt$sar search and rescue
+space_14.txt$sar synthetic aperture radar
+space_14.txt$sara satellite pour astronomie radio amateur
+space_14.txt$sarex search and rescue exercise
+space_14.txt$sarex shuttle amateur radio experiment
+space_14.txt$sas space activity suit
+space_14.txt$sas space adaptation syndrome
+space_14.txt$sat synthetic aperture telescope
+space_14.txt$sc spacecraft
+space_14.txt$sca shuttle carrier aircraft
+space_14.txt$sct schmidtcassegrain telescope
+space_14.txt$sdi strategic defense initiative
+space_14.txt$sdio strategic defense initiative organization
+space_14.txt$sei space exploration initiative
+space_14.txt$sest swedish eso submillimeter telescope
+space_14.txt$seti search for extraterrestrial intelligence
+space_14.txt$sid sudden ionospheric disturbance
+space_14.txt$sir shuttle imaging radar
+space_14.txt$sirtf space formerly shuttle infrared telescope facility
+space_14.txt$sl spacelab
+space_14.txt$slar sidelooking airborne radar
+space_14.txt$slc space launch complex
+space_14.txt$sls spacelab life sciences
+space_14.txt$smc small magellanic cloud
+space_14.txt$sme solar mesosphere explorer
+space_14.txt$smex small explorers
+space_14.txt$smm solar maximum mission
+space_14.txt$sn supernova eg sn1987a
+space_14.txt$snr signal to noise ratio
+space_14.txt$snr supernova remnant
+space_14.txt$snu solar neutrino units
+space_14.txt$sofia stratospheric observatory for infrared astronomy
+space_14.txt$soho solar heliospheric observatory
+space_14.txt$span space physics and analysis network
+space_14.txt$spdm special purpose dextrous manipulator
+space_14.txt$spot systeme probatoire pour lobservation de la terre
+space_14.txt$sps solar power satellite
+space_14.txt$srb solid rocket booster
+space_14.txt$srm solid rocket motor
+space_14.txt$ssf space station fred er freedom
+space_14.txt$ssi solidstate imager on galileo
+space_14.txt$ssi space studies institut
+space_14.txt$ssme space shuttle main engine
+space_14.txt$sspf space station processing facility
+space_14.txt$ssrms space station remote manipulator system
+space_14.txt$sst spectroscopic survey telescope
+space_14.txt$sst supersonic transport
+space_14.txt$ssto single stage to orbit
+space_14.txt$stis space telescope imaging spectrometer to replace foc and ghrs
+space_14.txt$sts shuttle transport system or space transportation system
+space_14.txt$stsci space telescope science institute
+space_14.txt$swas submillimeter wave astronomy satellite
+space_14.txt$swf shortwave fading
+space_14.txt$tal transatlantic abort landing shuttle abort plan
+space_14.txt$tau thousand astronomical unit mission
+space_14.txt$tcs thermal control system
+space_14.txt$tdrs tracking and data relay satellite
+space_14.txt$tdrss tracking and data relay satellite system
+space_14.txt$tes thermal emission spectrometer on mars observer
+space_14.txt$tiros television infrared observation satellite
+space_14.txt$tla three letter acronym
+space_14.txt$toms total ozone mapping spectrometer
+space_14.txt$tps thermal protection system
+space_14.txt$tss tethered satellite system
+space_14.txt$uars upper atmosphere research satellite
+space_14.txt$ubm unpressurized berthing mechanism
+space_14.txt$udmh unsymmetrical dimethyl hydrazine
+space_14.txt$ufo unidentified flying object
+space_14.txt$ugc uppsala general catalog
+space_14.txt$uhf ultra high frequency
+space_14.txt$uit ultraviolet imaging telescope astro package
+space_14.txt$ukst united kingdom schmidt telescope
+space_14.txt$usaf united states air force
+space_14.txt$usmp united states microgravity payload
+space_14.txt$ut universal time aka gmt utc or zulu time
+space_14.txt$utc coordinated universal time aka ut
+space_14.txt$uv ultraviolet
+space_14.txt$uvs ultraviolet spectrometer
+space_14.txt$vab vehicle assembly building formerly vertical assembly building
+space_14.txt$vafb vandenberg air force base
+space_14.txt$veega venusearthearth gravity assist galileo flight path
+space_14.txt$vhf very high frequency
+space_14.txt$vla very large array
+space_14.txt$vlba very long baseline array
+space_14.txt$vlbi very long baseline interferometry
+space_14.txt$vlf very low frequency
+space_14.txt$vlt very large telescope
+space_14.txt$vms vertical motion simulator
+space_14.txt$voir venus orbiting imaging radar superseded by vrm
+space_14.txt$vpf vertical processing facility
+space_14.txt$vrm venus radar mapper now called magellan
+space_14.txt$wd white dwarf
+space_14.txt$wfpc wide field  planetary camera on hst
+space_14.txt$wfpcii replacement for wfpc
+space_14.txt$wiyn wisconsin  indiana  yale  noao telescope
+space_14.txt$wsmr white sands missile range
+space_14.txt$wtr western test range
+space_14.txt$wuppe wisconsin ultraviolet photopolarimter experiment astro package
+space_14.txt$xmm xray multi mirror
+space_14.txt$xuv extreme ultraviolet
+space_14.txt$yso young stellar object
+space_14.txt$usrbinperl
+space_14.txt$ alt an acronym scrambling program by larry wall
+space_14.txt$srand
+space_14.txt$while  
+space_14.txt$next unless azs 
+space_14.txt$key  1
+space_14.txt$acrokey  
+space_14.txt$words  splitw
+space_14.txt$unshiftwordskey
+space_14.txt$off  0
+space_14.txt$foreach word words 
+space_14.txt$next unless word  az
+space_14.txt$vecwword off  6 1  1
+space_14.txt$foreach letter a  z 
+space_14.txt$w  letter
+space_14.txt$w  keys w
+space_14.txt$if w  threshold 
+space_14.txt$d  egrep letter usrdictwords
+space_14.txt$chop d
+space_14.txt$pushw d
+space_14.txt$foreach key sort keys acro 
+space_14.txt$off  0
+space_14.txt$acro  acrokey
+space_14.txt$acro  sazazaz pick3 2 1 off   eg
+space_14.txt$print key acro
+space_14.txt$sub pick 
+space_14.txt$localletter prefix oldword off  
+space_14.txt$i  0
+space_14.txt$if lengthprefix  1  indexkeyprefix  0 
+space_14.txt$if prefix eq oldword 
+space_14.txt$prefix  
+space_14.txt$else 
+space_14.txt$prefix  letter
+space_14.txt$if lengthprefix  1 
+space_14.txt$localw  substrprefix01
+space_14.txt$do 
+space_14.txt$word  wrand w
+space_14.txt$ until word ne oldword  word  prefixi  i  30
+space_14.txt$word  sprefixprefixi
+space_14.txt$word
+space_14.txt$elsif lengthprefix  1 
+space_14.txt$localw  prefix
+space_14.txt$do 
+space_14.txt$word  wrand w
+space_14.txt$ until word ne oldword  vecwword off 1  i  10
+space_14.txt$word  ulword if word  trazaz
+space_14.txt$word
+space_14.txt$else 
+space_14.txt$localw  substroldword01
+space_14.txt$do 
+space_14.txt$word  wrand w
+space_14.txt$ until word ne oldword  word  trazaz  0  i  30
+space_14.txt$word
+space_14.txt$ mark bradford bradfrd2ncarucaredu  to err is human to moo bovine
+space_14.txt$its an ill wind that gathers no moss
+space_14.txt$food_93.txt
+space_14.txt$graphics_20.txt
+space_14.txt$sport_83.txt
+space_14.txt$medical_424.txt
+space_14.txt$space_68.txt
+space_14.txt$sport_65.txt
+space_14.txt$entertainment_37.txt
+space_14.txt$medical_572.txt
+space_14.txt$business_20.txt
+space_14.txt$business_28.txt
+space_14.txt$politics_136.txt
+space_14.txt$medical_500.txt
+space_14.txt$technologie_13.txt
+space_14.txt$food_78.txt
+space_14.txt$graphics_29.txt
+space_14.txt$graphics_13.txt
+space_14.txt$historical_23.txt
+space_14.txt$food_53.txt
+space_14.txt$politics_131.txt
+space_14.txt$historical_100.txt
+space_14.txt$historical_26.txt
+space_14.txt$technologie_84.txt
+space_14.txt$business_99.txt
+space_14.txt$medical_1.txt
+space_14.txt$space_76.txt
+space_14.txt$business_19.txt
+space_14.txt$graphics_75.txt
+space_14.txt$medical_40.txt
+space_14.txt$graphics_6.txt
+space_14.txt$business_75.txt
+space_14.txt$medical_691.txt
+space_14.txt$graphics_52.txt
+space_14.txt$business_58.txt
+space_14.txt$business_13.txt
+space_14.txt$entertainment_33.txt
+space_14.txt$historical_88.txt
+space_14.txt$business_40.txt
+space_14.txt$politics_229.txt
+space_14.txt$graphics_65.txt
+space_14.txt$sport_8.txt
+space_14.txt$graphics_7.txt
+space_14.txt$historical_74.txt
+space_14.txt$historical_81.txt
+space_14.txt$entertainment_24.txt
+space_14.txt$food_5.txt
+space_14.txt$historical_44.txt
+space_14.txt$space_5.txt
+space_14.txt$historical_98.txt
+space_14.txt$technologie_50.txt
+space_14.txt$politics_111.txt
+space_14.txt$historical_99.txt
+space_14.txt$business_65.txt
+space_14.txt$sport_59.txt
+space_14.txt$politics_15.txt
+space_14.txt$food_87.txt
+space_14.txt$historical_25.txt
+space_14.txt$sport_88.txt
+space_14.txt$food_12.txt
+space_14.txt$politics_319.txt
+space_14.txt$sport_52.txt
+space_14.txt$historical_12.txt
+space_14.txt$graphics_59.txt
+space_14.txt$food_48.txt
+space_14.txt$space_74.txt
+space_14.txt$business_14.txt
+space_14.txt$space_1.txt
+space_14.txt$entertainment_85.txt
+space_14.txt$entertainment_27.txt
+space_14.txt$space_71.txt
+space_14.txt$politics_128.txt
+space_14.txt$entertainment_90.txt
+space_14.txt$technologie_43.txt
+space_14.txt$entertainment_30.txt
+space_14.txt$sport_78.txt
+space_14.txt$technologie_42.txt
+space_14.txt$food_81.txt
+space_14.txt$politics_117.txt
+space_14.txt$historical_50.txt
+space_14.txt$technologie_89.txt
+space_14.txt$technologie_53.txt
+space_14.txt$technologie_59.txt
+space_14.txt$historical_80.txt
+space_14.txt$space_44.txt
+space_14.txt$business_29.txt
+space_14.txt$entertainment_39.txt
+space_14.txt$food_11.txt
+space_14.txt$historical_33.txt
+space_14.txt$politics_231.txt
+space_14.txt$sport_26.txt
+space_14.txt$graphics_3.txt
+space_14.txt$politics_282.txt
+space_14.txt$politics_31.txt
+space_14.txt$entertainment_38.txt
+space_14.txt$graphics_44.txt
+space_14.txt$historical_42.txt
+space_14.txt$business_85.txt
+space_14.txt$business_92.txt
+space_14.txt$politics_232.txt
+space_14.txt$historical_16.txt
+space_14.txt$historical_7.txt
+space_14.txt$space_32.txt
+space_14.txt$graphics_32.txt
+space_14.txt$historical_73.txt
+space_14.txt$entertainment_99.txt
+space_14.txt$business_21.txt
+space_14.txt$historical_51.txt
+space_14.txt$business_90.txt
+space_14.txt$politics_316.txt
+space_14.txt$politics_326.txt
+space_14.txt$politics_335.txt
+space_14.txt$medical_619.txt
+space_14.txt$medical_376.txt
+space_14.txt$historical_60.txt
+space_14.txt$sport_28.txt
+space_14.txt$graphics_28.txt
+space_14.txt$food_85.txt
+space_14.txt$graphics_96.txt
+space_14.txt$space_65.txt
+space_14.txt$medical_565.txt
+space_14.txt$graphics_92.txt
+space_14.txt$technologie_6.txt
+space_14.txt$entertainment_100.txt
+space_14.txt$entertainment_50.txt
+space_14.txt$space_81.txt
+space_14.txt$entertainment_14.txt
+space_14.txt$food_66.txt
+space_14.txt$entertainment_62.txt
+space_14.txt$technologie_11.txt
+space_14.txt$technologie_72.txt
+space_14.txt$graphics_72.txt
+space_14.txt$historical_17.txt
+space_14.txt$technologie_83.txt
+space_14.txt$medical_645.txt
+space_14.txt$technologie_18.txt
+space_14.txt$business_59.txt
+space_14.txt$food_89.txt
+space_14.txt$entertainment_58.txt
+space_14.txt$space_37.txt
+space_14.txt$medical_694.txt
+space_14.txt$business_68.txt
+space_14.txt$medical_590.txt
+space_14.txt$sport_3.txt
+space_14.txt$space_83.txt
+space_14.txt$historical_55.txt
+space_14.txt$technologie_79.txt
+space_14.txt$graphics_61.txt
+space_14.txt$politics_275.txt
+space_14.txt$space_20.txt
+space_14.txt$food_79.txt
+space_14.txt$entertainment_19.txt
+space_14.txt$business_42.txt
+space_14.txt$technologie_10.txt
+space_14.txt$politics_212.txt
+space_14.txt$entertainment_92.txt
+space_14.txt$sport_2.txt
+space_14.txt$entertainment_88.txt
+space_14.txt$technologie_14.txt
+space_14.txt$graphics_60.txt
+space_14.txt$space_4.txt
+space_14.txt$politics_222.txt
+space_14.txt$politics_34.txt
+space_14.txt$graphics_100.txt
+space_14.txt$technologie_80.txt
+space_14.txt$medical_610.txt
+space_14.txt$historical_89.txt
+space_14.txt$politics_217.txt
+space_14.txt$technologie_75.txt
+space_14.txt$business_89.txt
+space_14.txt$space_16.txt
+space_14.txt$sport_69.txt
+space_14.txt$business_1.txt
+space_14.txt$sport_94.txt
+space_14.txt$business_60.txt
+space_14.txt$politics_139.txt
+space_14.txt$business_93.txt
+space_14.txt$space_23.txt
+space_14.txt$space_69.txt
+space_14.txt$sport_24.txt
+space_14.txt$politics_357.txt
+space_14.txt$space_80.txt
+space_14.txt$food_2.txt
+space_14.txt$historical_48.txt
+space_14.txt$space_46.txt
+space_14.txt$politics_130.txt
+space_14.txt$food_84.txt
+space_14.txt$sport_42.txt
+space_14.txt$entertainment_54.txt
+space_14.txt$technologie_19.txt
+space_14.txt$entertainment_59.txt
+space_14.txt$medical_586.txt
+space_14.txt$graphics_47.txt
+space_14.txt$medical_449.txt
+space_14.txt$technologie_23.txt
+space_14.txt$business_17.txt
+space_14.txt$entertainment_6.txt
+space_14.txt$politics_221.txt
+space_14.txt$politics_301.txt
+space_14.txt$technologie_77.txt
+space_14.txt$medical_542.txt
+space_14.txt$sport_7.txt
+space_14.txt$sport_27.txt
+space_14.txt$medical_559.txt
+space_14.txt$food_30.txt
+space_14.txt$graphics_38.txt
+space_14.txt$technologie_92.txt
+space_14.txt$sport_91.txt
+space_14.txt$technologie_81.txt
+space_14.txt$space_90.txt
+space_14.txt$medical_60.txt
+space_14.txt$graphics_53.txt
+space_14.txt$food_42.txt
+space_14.txt$sport_13.txt
+space_14.txt$politics_101.txt
+space_14.txt$food_90.txt
+space_14.txt$entertainment_84.txt
+space_14.txt$medical_286.txt
+space_14.txt$entertainment_95.txt
+space_14.txt$food_52.txt
+space_14.txt$medical_145.txt
+space_14.txt$sport_33.txt
+space_14.txt$food_97.txt
+space_14.txt$technologie_88.txt
+space_14.txt$space_51.txt
+space_14.txt$entertainment_71.txt
+space_14.txt$entertainment_68.txt
+space_14.txt$space_29.txt
+space_14.txt$technologie_60.txt
+space_14.txt$sport_14.txt
+space_14.txt$space_7.txt
+space_14.txt$technologie_47.txt
+space_14.txt$business_39.txt
+space_14.txt$space_93.txt
+space_14.txt$politics_220.txt
+space_14.txt$graphics_50.txt
+space_14.txt$historical_94.txt
+space_14.txt$politics_272.txt
+space_14.txt$food_68.txt
+space_14.txt$historical_47.txt
+space_14.txt$business_15.txt
+space_14.txt$entertainment_61.txt
+space_14.txt$space_48.txt
+space_14.txt$technologie_22.txt
+space_14.txt$entertainment_63.txt
+space_14.txt$food_21.txt
+space_14.txt$historical_97.txt
+space_14.txt$space_73.txt
+space_14.txt$sport_40.txt
+space_14.txt$politics_172.txt
+space_14.txt$historical_93.txt
+space_14.txt$graphics_67.txt
+space_14.txt$technologie_52.txt
+space_14.txt$historical_79.txt
+space_14.txt$sport_67.txt
+space_14.txt$graphics_84.txt
+space_14.txt$technologie_64.txt
+space_14.txt$medical_121.txt
+space_14.txt$graphics_2.txt
+space_14.txt$medical_608.txt
+space_14.txt$politics_155.txt
+space_14.txt$sport_4.txt
+space_14.txt$graphics_40.txt
+space_14.txt$business_78.txt
+space_14.txt$sport_36.txt
+space_14.txt$entertainment_2.txt
+space_14.txt$graphics_35.txt
+space_14.txt$business_32.txt
+space_14.txt$business_81.txt
+space_14.txt$entertainment_34.txt
+space_14.txt$medical_458.txt
+space_14.txt$historical_53.txt
+space_14.txt$space_62.txt
+space_14.txt$food_44.txt
+space_14.txt$politics_283.txt
+space_14.txt$graphics_5.txt
+space_14.txt$graphics_17.txt
+space_14.txt$graphics_16.txt
+space_14.txt$business_25.txt
+space_14.txt$politics_230.txt
+space_14.txt$historical_70.txt
+space_14.txt$business_18.txt
+space_14.txt$medical_289.txt
+space_14.txt$business_30.txt
+space_14.txt$food_72.txt
+space_14.txt$food_47.txt
+space_14.txt$entertainment_40.txt
+space_14.txt$graphics_21.txt
+space_14.txt$space_88.txt
+space_14.txt$business_66.txt
+space_14.txt$historical_72.txt
+space_14.txt$entertainment_89.txt
+space_14.txt$business_50.txt
+space_14.txt$sport_61.txt
+space_14.txt$medical_382.txt
+space_14.txt$business_4.txt
+space_14.txt$food_9.txt
+space_14.txt$graphics_49.txt
+space_14.txt$space_34.txt
+space_14.txt$graphics_39.txt
+space_14.txt$entertainment_25.txt
+space_14.txt$business_98.txt
+space_14.txt$space_10.txt
+space_14.txt$politics_277.txt
+space_14.txt$politics_208.txt
+space_14.txt$historical_58.txt
+space_14.txt$business_56.txt
+space_14.txt$space_64.txt
+space_14.txt$politics_237.txt
+space_14.txt$business_33.txt
+space_14.txt$graphics_81.txt
+space_14.txt$graphics_86.txt

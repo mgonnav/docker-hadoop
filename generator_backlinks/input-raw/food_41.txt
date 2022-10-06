@@ -1,0 +1,13 @@
+food_41.txt$14           cup  margarine
+food_41.txt$2   tablespoons  vegetable oil
+food_41.txt$1         large  onion  minced
+food_41.txt$2        cloves  garlic
+food_41.txt$3        pounds  yellow squash  thinly sliced
+food_41.txt$4          cups  chicken broth
+food_41.txt$1           cup  half and half
+food_41.txt$1 12     teaspoons  white pepper
+food_41.txt$parsley  chopped
+food_41.txt$
+food_41.txt$combine butter and oil in dutch oven  add onion and garlic saute til tender  stir in squash and chicken broth simmer covered 15 to 20 minutes spoon 13 squash mixture into container of electric blender and process until smooth repeat with remaining squash
+food_41.txt$
+food_41.txt$return to dutch oven stir in half and half salt and pepper  cook over low heat stirring constantly till hot  serve hot or chilled  garnish with parsley

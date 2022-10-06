@@ -1,0 +1,389 @@
+space_54.txt$archivename spaceprobe
+space_54.txt$lastmodified date 930401 143919 
+space_54.txt$this section was lightly adapted from an original posting by larry klaes
+space_54.txt$klaesvergaenetdeccom mostly minor formatting changes matthew
+space_54.txt$wiener weembalibrawistarupennedu contributed the section on
+space_54.txt$voyager and the section on sakigake was obtained from isas material
+space_54.txt$posted by yoshiro yamada yamadayscvaxyscgojp
+space_54.txt$mariner 1 the first us attempt to send a spacecraft to venus failed
+space_54.txt$minutes after launch in 1962 the guidance instructions from the ground
+space_54.txt$stopped reaching the rocket due to a problem with its antenna so the
+space_54.txt$onboard computer took control however there turned out to be a bug in
+space_54.txt$the guidance software and the rocket promptly went off course so the
+space_54.txt$range safety officer destroyed it although the bug is sometimes claimed
+space_54.txt$to have been an incorrect fortran do statement it was actually a
+space_54.txt$transcription error in which the bar indicating smoothing was omitted
+space_54.txt$from the expression rdotbar sub n nth smoothed value of derivative
+space_54.txt$of radius this error led the software to treat normal minor variations
+space_54.txt$of velocity as if they were serious leading to incorrect compensation
+space_54.txt$mariner 2 became the first successful probe to flyby venus in december
+space_54.txt$of 1962 and it returned information which confirmed that venus is a
+space_54.txt$very hot 800 degrees fahrenheit now revised to 900 degrees f world
+space_54.txt$with a cloudcovered atmosphere composed primarily of carbon dioxide
+space_54.txt$sulfuric acid was later confirmed in 1978
+space_54.txt$mariner 3 launched on november 5 1964 was lost when its protective
+space_54.txt$shroud failed to eject as the craft was placed into interplanetary
+space_54.txt$space unable to collect the suns energy for power from its solar
+space_54.txt$panels the probe soon died when its batteries ran out and is now in
+space_54.txt$solar orbit it was intended for a mars flyby with mariner 4
+space_54.txt$mariner 4 the sister probe to mariner 3 did reach mars in 1965 and
+space_54.txt$took the first closeup images of the martian surface 22 in all as it
+space_54.txt$flew by the planet the probe found a cratered world with an atmosphere
+space_54.txt$much thinner than previously thought many scientists concluded from
+space_54.txt$this preliminary scan that mars was a dead world in both the
+space_54.txt$geological and biological sense
+space_54.txt$mariner 5 was sent to venus in 1967 it reconfirmed the data on that
+space_54.txt$planet collected five years earlier by mariner 2 plus the information
+space_54.txt$that venus atmospheric pressure at its surface is at least 90 times
+space_54.txt$that of earths or the equivalent of being 3300 feet under the surface
+space_54.txt$of an ocean
+space_54.txt$mariner 6 and 7 were sent to mars in 1969 and expanded upon the work
+space_54.txt$done by mariner 4 four years earlier however they failed to take away
+space_54.txt$the concept of mars as a dead planet first made from the basic
+space_54.txt$measurements of mariner 4
+space_54.txt$mariner 8 ended up in the atlantic ocean in 1971 when the rocket
+space_54.txt$launcher autopilot failed
+space_54.txt$mariner 9 the sister probe to mariner 8 became the first craft to
+space_54.txt$orbit mars in 1971 it returned information on the red planet that no
+space_54.txt$other probe had done before revealing huge volcanoes on the martian
+space_54.txt$surface as well as giant canyon systems and evidence that water once
+space_54.txt$flowed across the planet the probe also took the first detailed closeup
+space_54.txt$images of mars two small moons phobos and deimos
+space_54.txt$mariner 10 used venus as a gravity assist to mercury in 1974 the probe
+space_54.txt$did return the first closeup images of the venusian atmosphere in
+space_54.txt$ultraviolet revealing previously unseen details in the cloud cover
+space_54.txt$plus the fact that the entire cloud system circles the planet in four
+space_54.txt$earth days mariner 10 eventually made three flybys of mercury from 1974
+space_54.txt$to 1975 before running out of attitude control gas the probe revealed
+space_54.txt$mercury as a heavily cratered world with a mass much greater than
+space_54.txt$thought this would seem to indicate that mercury has an iron core which
+space_54.txt$makes up 75 percent of the entire planet
+space_54.txt$pioneer moon sun venus jupiter and saturn flybys and orbiters
+space_54.txt$pioneer 1 through 3 failed to meet their main objective  to photograph
+space_54.txt$the moon closeup  but they did reach far enough into space to provide
+space_54.txt$new information on the area between earth and the moon including new
+space_54.txt$data on the van allen radiation belts circling earth all three craft
+space_54.txt$had failures with their rocket launchers pioneer 1 was launched on
+space_54.txt$october 11 1958 pioneer 2 on november 8 and pioneer 3 on december 6
+space_54.txt$pioneer 4 was a moon probe which missed the moon and became the first
+space_54.txt$us spacecraft to orbit the sun in 1959 pioneer 5 was originally
+space_54.txt$designed to flyby venus but the mission was scaled down and it instead
+space_54.txt$studied the interplanetary environment between venus and earth out to
+space_54.txt$362 million kilometers in 1960 a record until mariner 2 pioneer 6
+space_54.txt$through 9 were placed into solar orbit from 1965 to 1968 pioneer 6 7
+space_54.txt$and 8 are still transmitting information at this time pioneer e would
+space_54.txt$have been number 10 suffered a launch failure in 1969
+space_54.txt$pioneer 10 became the first spacecraft to flyby jupiter in 1973 pioneer
+space_54.txt$11 followed it in 1974 and then went on to become the first probe to
+space_54.txt$study saturn in 1979 both vehicles should continue to function through
+space_54.txt$1995 and are heading off into interstellar space the first craft ever
+space_54.txt$to do so
+space_54.txt$pioneer venus 1 1978 also known as pioneer venus orbiter or pioneer
+space_54.txt$12 burned up in the venusian atmosphere on october 8 1992 pvo made
+space_54.txt$the first radar studies of the planets surface via probe pioneer venus
+space_54.txt$2 also known as pioneer 13 sent four small probes into the atmosphere
+space_54.txt$in december of 1978 the main spacecraft bus burned up high in the
+space_54.txt$atmosphere while the four probes descended by parachute towards the
+space_54.txt$surface though none were expected to survive to the surface the day
+space_54.txt$probe did make it and transmitted for 675 minutes on the ground before
+space_54.txt$its batteries failed
+space_54.txt$ranger 1 and 2 were test probes for the ranger lunar impact series they
+space_54.txt$were meant for high earth orbit testing in 1961 but rocket problems
+space_54.txt$left them in useless low orbits which quickly decayed
+space_54.txt$ranger 3 launched on january 26 1962 was intended to land an
+space_54.txt$instrument capsule on the surface of the moon but problems during the
+space_54.txt$launch caused the probe to miss the moon and head into solar orbit
+space_54.txt$ranger 3 did try to take some images of the moon as it flew by but the
+space_54.txt$camera was unfortunately aimed at deep space during the attempt
+space_54.txt$ranger 4 launched april 23 1962 had the same purpose as ranger 3 but
+space_54.txt$suffered technical problems enroute and crashed on the lunar farside
+space_54.txt$the first us probe to reach the moon albeit without returning data
+space_54.txt$ranger 5 launched october 18 1962 and similar to ranger 3 and 4 lost
+space_54.txt$all solar panel and battery power enroute and eventually missed the moon
+space_54.txt$and drifted off into solar orbit
+space_54.txt$ranger 6 through 9 had more modified lunar missions they were to send
+space_54.txt$back live images of the lunar surface as they headed towards an impact
+space_54.txt$with the moon ranger 6 failed this objective in 1964 when its cameras
+space_54.txt$did not operate ranger 7 through 9 performed well becoming the first
+space_54.txt$us lunar probes to return thousands of lunar images through 1965
+space_54.txt$lunar orbiter 1 through 5 were designed to orbit the moon and image
+space_54.txt$various sites being studied as landing areas for the manned apollo
+space_54.txt$missions of 19691972 the probes also contributed greatly to our
+space_54.txt$understanding of lunar surface features particularly the lunar farside
+space_54.txt$all five probes of the series launched from 1966 to 1967 were
+space_54.txt$essentially successful in their missions they were the first us
+space_54.txt$probes to orbit the moon all los were eventually crashed into the lunar
+space_54.txt$surface to avoid interference with the manned apollo missions
+space_54.txt$the surveyor series were designed primarily to see if an apollo lunar
+space_54.txt$module could land on the surface of the moon without sinking into the
+space_54.txt$soil before this time it was feared by some that the moon was covered
+space_54.txt$in great layers of dust which would not support a heavy landing
+space_54.txt$vehicle surveyor was successful in proving that the lunar surface was
+space_54.txt$strong enough to hold up a spacecraft from 1966 to 1968
+space_54.txt$only surveyor 2 and 4 were unsuccessful missions the rest became the
+space_54.txt$first us probes to soft land on the moon taking thousands of images
+space_54.txt$and scooping the soil for analysis apollo 12 landed 600 feet from
+space_54.txt$surveyor 3 in 1969 and returned parts of the craft to earth surveyor 7
+space_54.txt$the last of the series was a purely scientific mission which explored
+space_54.txt$the tycho crater region in 1968
+space_54.txt$viking 1 was launched from cape canaveral florida on august 20 1975 on
+space_54.txt$a titan 3ecentaur d1 rocket the probe went into martian orbit on june
+space_54.txt$19 1976 and the lander set down on the western slopes of chryse
+space_54.txt$planitia on july 20 1976 it soon began its programmed search for
+space_54.txt$martian microorganisms there is still debate as to whether the probes
+space_54.txt$found life there or not and sent back incredible color panoramas of
+space_54.txt$its surroundings one thing scientists learned was that mars sky was
+space_54.txt$pinkish in color not dark blue as they originally thought the sky is
+space_54.txt$pink due to sunlight reflecting off the reddish dust particles in the
+space_54.txt$thin atmosphere the lander set down among a field of red sand and
+space_54.txt$boulders stretching out as far as its cameras could image
+space_54.txt$the viking 1 orbiter kept functioning until august 7 1980 when it ran
+space_54.txt$out of attitudecontrol propellant the lander was switched into a
+space_54.txt$weatherreporting mode where it had been hoped it would keep
+space_54.txt$functioning through 1994 but after november 13 1982 an errant command
+space_54.txt$had been sent to the lander accidentally telling it to shut down until
+space_54.txt$further orders communication was never regained again despite the
+space_54.txt$engineers efforts through may of 1983
+space_54.txt$an interesting side note viking 1s lander has been designated the
+space_54.txt$thomas a mutch memorial station in honor of the late leader of the
+space_54.txt$lander imaging team the national air and space museum in washington
+space_54.txt$dc is entrusted with the safekeeping of the mutch station plaque until
+space_54.txt$it can be attached to the lander by a manned expedition
+space_54.txt$viking 2 was launched on september 9 1975 and arrived in martian orbit
+space_54.txt$on august 7 1976 the lander touched down on september 3 1976 in
+space_54.txt$utopia planitia it accomplished essentially the same tasks as its
+space_54.txt$sister lander with the exception that its seisometer worked recording
+space_54.txt$one marsquake the orbiter had a series of attitudecontrol gas leaks in
+space_54.txt$1978 which prompted it being shut down that july the lander was shut
+space_54.txt$down on april 12 1980
+space_54.txt$the orbits of both viking orbiters should decay around 2025
+space_54.txt$voyager 1 was launched september 5 1977 and flew past jupiter on march
+space_54.txt$5 1979 and by saturn on november 13 1980 voyager 2 was launched
+space_54.txt$august 20 1977 before voyager 1 and flew by jupiter on august 7
+space_54.txt$1979 by saturn on august 26 1981 by uranus on january 24 1986 and
+space_54.txt$by neptune on august 8 1989 voyager 2 took advantage of a rare
+space_54.txt$onceevery189years alignment to slingshot its way from outer planet to
+space_54.txt$outer planet voyager 1 could in principle have headed towards pluto
+space_54.txt$but jpl opted for the sure thing of a titan close up
+space_54.txt$between the two probes our knowledge of the 4 giant planets their
+space_54.txt$satellites and their rings has become immense voyager 12 discovered
+space_54.txt$that jupiter has complicated atmospheric dynamics lightning and
+space_54.txt$aurorae three new satellites were discovered two of the major
+space_54.txt$surprises were that jupiter has rings and that io has active sulfurous
+space_54.txt$volcanoes with major effects on the jovian magnetosphere
+space_54.txt$when the two probes reached saturn they discovered over 1000 ringlets
+space_54.txt$and 7 satellites including the predicted shepherd satellites that keep
+space_54.txt$the rings stable the weather was tame compared with jupiter massive
+space_54.txt$jet streams with minimal variance a 33year great white spotband cycle
+space_54.txt$is known titans atmosphere was smoggy mimas appearance was
+space_54.txt$startling one massive impact crater gave it the death star appearance
+space_54.txt$the big surprise here was the stranger aspects of the rings braids
+space_54.txt$kinks and spokes were both unexpected and difficult to explain
+space_54.txt$voyager 2 thanks to heroic engineering and programming efforts
+space_54.txt$continued the mission to uranus and neptune uranus itself was highly
+space_54.txt$monochromatic in appearance one oddity was that its magnetic axis was
+space_54.txt$found to be highly skewed from the already completely skewed rotational
+space_54.txt$axis giving uranus a peculiar magnetosphere icy channels were found on
+space_54.txt$ariel and miranda was a bizarre patchwork of different terrains 10
+space_54.txt$satellites and one more ring were discovered
+space_54.txt$in contrast to uranus neptune was found to have rather active weather
+space_54.txt$including numerous cloud features the ring arcs turned out to be bright
+space_54.txt$patches on one ring two other rings and 6 other satellites were
+space_54.txt$discovered neptunes magnetic axis was also skewed triton had a
+space_54.txt$canteloupe appearance and geysers whats liquid at 38k
+space_54.txt$the two voyagers are expected to last for about two more decades their
+space_54.txt$ontarget journeying gives negative evidence about possible planets
+space_54.txt$beyond pluto their next major scientific discovery should be the
+space_54.txt$location of the heliopause
+space_54.txt$since there have been so many soviet probes to the moon venus and
+space_54.txt$mars i will highlight only the primary missions
+space_54.txt$luna 1  lunar impact attempt in 1959 missed moon and became first
+space_54.txt$craft in solar orbit
+space_54.txt$luna 2  first craft to impact on lunar surface in 1959
+space_54.txt$luna 3  took first images of lunar farside in 1959
+space_54.txt$zond 3  took first images of lunar farside in 1965 since luna 3 was
+space_54.txt$also a test for future mars missions
+space_54.txt$luna 9  first probe to soft land on the moon in 1966 returned images
+space_54.txt$from surface
+space_54.txt$luna 10  first probe to orbit the moon in 1966
+space_54.txt$luna 13  second successful soviet lunar soft landing mission in 1966
+space_54.txt$zond 5  first successful circumlunar craft zond 6 through 8
+space_54.txt$accomplished similar missions through 1970 the probes were
+space_54.txt$unmanned tests of a manned orbiting soyuztype lunar vehicle
+space_54.txt$luna 16  first probe to land on moon and return samples of lunar soil
+space_54.txt$to earth in 1970 luna 20 accomplished similar mission in
+space_54.txt$luna 17  delivered the first unmanned lunar rover to the moons
+space_54.txt$surface lunokhod 1 in 1970 a similar feat was accomplished
+space_54.txt$with luna 21lunokhod 2 in 1973
+space_54.txt$luna 24  last soviet lunar mission to date returned soil samples in
+space_54.txt$venera 1  first acknowledged attempt at venus mission transmissions
+space_54.txt$lost enroute in 1961
+space_54.txt$venera 2  attempt to image venus during flyby mission in tandem with
+space_54.txt$venera 3 probe ceased transmitting just before encounter in
+space_54.txt$february of 1966 no images were returned
+space_54.txt$venera 3  attempt to place a lander capsule on venusian surface
+space_54.txt$transmissions ceased just before encounter and entire probe
+space_54.txt$became the first craft to impact on another planet in 1966
+space_54.txt$venera 4  first probe to successfully return data while descending
+space_54.txt$through venusian atmosphere crushed by air pressure before
+space_54.txt$reaching surface in 1967 venera 5 and 6 mission profiles
+space_54.txt$similar in 1969
+space_54.txt$venera 7  first probe to return data from the surface of another planet
+space_54.txt$in 1970 venera 8 accomplished a more detailed mission in
+space_54.txt$venera 9  sent first image of venusian surface in 1975 was also the
+space_54.txt$first probe to orbit venus venera 10 accomplished similar
+space_54.txt$mission
+space_54.txt$venera 13  returned first color images of venusian surface in 1982
+space_54.txt$venera 14 accomplished similar mission
+space_54.txt$venera 15  accomplished radar mapping with venera 16 of sections of
+space_54.txt$planets surface in 1983 more detailed than pvo
+space_54.txt$vega 1  accomplished with vega 2 first balloon probes of venusian
+space_54.txt$atmosphere in 1985 including two landers flyby buses went on
+space_54.txt$to become first spacecraft to study comet halley closeup in
+space_54.txt$march of 1986
+space_54.txt$mars 1  first acknowledged mars probe in 1962 transmissions ceased
+space_54.txt$enroute the following year
+space_54.txt$zond 2  first possible attempt to place a lander capsule on martian
+space_54.txt$surface probe signals ceased enroute in 1965
+space_54.txt$mars 2  first soviet mars probe to land  albeit crash  on martian
+space_54.txt$surface orbiter section first soviet probe to circle the red
+space_54.txt$planet in 1971
+space_54.txt$mars 3  first successful soft landing on martian surface but lander
+space_54.txt$signals ceased after 90 seconds in 1971
+space_54.txt$mars 4  attempt at orbiting mars in 1974 braking rockets failed to
+space_54.txt$fire probe went on into solar orbit
+space_54.txt$mars 5  first fully successful soviet mars mission orbiting mars in
+space_54.txt$1974 returned images of martian surface comparable to us
+space_54.txt$probe mariner 9
+space_54.txt$mars 6  landing attempt in 1974 lander crashed into the surface
+space_54.txt$mars 7  lander missed mars completely in 1974 went into a solar orbit
+space_54.txt$with its flyby bus
+space_54.txt$phobos 1  first attempt to land probes on surface of mars largest
+space_54.txt$moon phobos probe failed enroute in 1988 due to
+space_54.txt$humancomputer error
+space_54.txt$phobos 2  attempt to land probes on martian moon phobos the probe did
+space_54.txt$enter mars orbit in early 1989 but signals ceased one week
+space_54.txt$before scheduled phobos landing
+space_54.txt$while there has been talk of soviet jupiter saturn and even
+space_54.txt$interstellar probes within the next thirty years no major steps have
+space_54.txt$yet been taken with these projects more intensive studies of the moon
+space_54.txt$mars venus and various comets have been planned for the 1990s and a
+space_54.txt$mercury mission to orbit and land probes on the tiny world has been
+space_54.txt$planned for 2003 how the many changes in the former soviet union now
+space_54.txt$the commonwealth of independent states will affect the future of their
+space_54.txt$space program remains to be seen
+space_54.txt$sakigake mst5 was launched from the kagoshima space center by isas on
+space_54.txt$january 8 1985 and approached halleys comet within about 7 million km
+space_54.txt$on march 11 1986 the spacecraft is carrying three instru ments to
+space_54.txt$measure interplanetary magnetic fieldplasma wavessolar wind all of
+space_54.txt$which work normally now so isas made an earth swingby by sakigake on
+space_54.txt$january 8 1992 into an orbit similar to the earths the closest
+space_54.txt$approach was at 23h08m47s jstutc9h on january 8 1992 the
+space_54.txt$geocentric distance was 88997 km this is the first planetswingby for
+space_54.txt$a japanese spacecraft
+space_54.txt$during the approach sakigake observed the geotail some geotail
+space_54.txt$passages will be scheduled in some years hence the second earthswingby
+space_54.txt$will be on june 14 1993 at 40 re earths radius and the third
+space_54.txt$october 28 1994 at 86 re
+space_54.txt$hiten a small lunar probe was launched into earth orbit on january 24
+space_54.txt$1990 the spacecraft was then known as musesa but was renamed to hiten
+space_54.txt$once in orbit the 430 lb probe looped out from earth and made its first
+space_54.txt$lunary flyby on march 19 where it dropped off its 26 lb midget
+space_54.txt$satellite hagoromo japan at this point became the third nation to
+space_54.txt$orbit a satellite around the moon joining the unites states and ussr
+space_54.txt$the smaller spacecraft hagoromo remained in orbit around the moon an
+space_54.txt$apparently broken transistor radio caused the japanese space scientists
+space_54.txt$to lose track of it hagoromos rocket motor fired on schedule on march
+space_54.txt$19 but the spacecrafts tracking transmitter failed immediately the
+space_54.txt$rocket firing of hagoromo was optically confirmed using the schmidt
+space_54.txt$camera 105cm f31 at the kiso observatory in japan
+space_54.txt$hiten made multiple lunar flybys at approximately monthly intervals and
+space_54.txt$performed aerobraking experiments using the earths atmosphere hiten
+space_54.txt$made a close approach to the moon at 2233 jst utc9h on february 15
+space_54.txt$1992 at the height of 423 km from the moons surface 353n 97e and
+space_54.txt$fired its propulsion system for about ten minutes to put the craft into
+space_54.txt$lunar orbit the following is the orbital calculation results after the
+space_54.txt$approach
+space_54.txt$apoapsis altitude about 49400 km
+space_54.txt$periapsis altitude about 9600 km
+space_54.txt$inclination	 347 deg to ecliptic plane
+space_54.txt$period		 47 days
+space_54.txt$i also recommend reading the following works categorized in three
+space_54.txt$groups general overviews specific books on particular space missions
+space_54.txt$and periodical sources on space probes this list is by no means
+space_54.txt$complete it is primarily designed to give you places to start your
+space_54.txt$research through generally available works on the subject if anyone can
+space_54.txt$add pertinent works to the list it would be greatly appreciated
+space_54.txt$though naturally i recommend all the books listed below i think it
+space_54.txt$would be best if you started out with the general overview books in
+space_54.txt$order to give you a clear idea of the history of space exploration in
+space_54.txt$this area i also recommend that you pick up some good uptodate
+space_54.txt$general works on astronomy and the sol system to give you some extra
+space_54.txt$background most of these books and periodicals can be found in any good
+space_54.txt$public and university library some of the more recently published works
+space_54.txt$can also be purchased in andor ordered through any good mass market
+space_54.txt$bookstore
+space_54.txt$general overviews in alphabetical order by author
+space_54.txt$j kelly beatty et al the new solar system 1990
+space_54.txt$merton e davies and bruce c murray the view from space
+space_54.txt$kenneth gatland the illustrated encyclopedia of space
+space_54.txt$kenneth gatland robot explorers 1972
+space_54.txt$r greeley planetary landscapes 1987
+space_54.txt$douglas hart the encyclopedia of soviet spacecraft 1987
+space_54.txt$nicholas l johnson handbook of soviet lunar and planetary
+space_54.txt$clayton r koppes jpl and the american space program a
+space_54.txt$richard s lewis the illustrated encyclopedia of the
+space_54.txt$mark littman planets beyond discovering the outer solar
+space_54.txt$eugene f mallove and gregory l matloff the starflight
+space_54.txt$frank miles and nicholas booth race to mars the mars
+space_54.txt$bruce murray journey into space 1989
+space_54.txt$oran w nicks far travelers 1985 nasa sp480
+space_54.txt$james e oberg uncovering soviet disasters exploring the
+space_54.txt$carl sagan comet 1986
+space_54.txt$carl sagan the cosmic connection 1973
+space_54.txt$carl sagan planets 1969 life science library
+space_54.txt$arthur smith planetary exploration thirty years of unmanned
+space_54.txt$andrew wilson janes solar system log 1987
+space_54.txt$specific mission references
+space_54.txt$charles a cross and patrick moore the atlas of mercury 1977
+space_54.txt$the mariner 10 mission to venus and mercury 19731975
+space_54.txt$joel davis flyby the interplanetary odyssey of voyager 2 1987
+space_54.txt$irl newlan first to venus the story of mariner 2 1963
+space_54.txt$margaret poynter and arthur l lane voyager the story of a
+space_54.txt$carl sagan murmurs of earth 1978 deals with the earth
+space_54.txt$information records placed on voyager 1 and 2 in case the
+space_54.txt$probes are found by intelligences in interstellar space
+space_54.txt$as well as the probes and planetary mission objectives
+space_54.txt$themselves
+space_54.txt$other works and periodicals
+space_54.txt$nasa has published very detailed and technical books on every space
+space_54.txt$probe mission it has launched good university libraries will carry
+space_54.txt$these books and they are easily found simply by knowing which mission
+space_54.txt$you wish to read about i recommend these works after you first study
+space_54.txt$some of the books listed above
+space_54.txt$some periodicals i recommend for reading on space probes are national
+space_54.txt$geographic which has written articles on the pioneer probes to earths
+space_54.txt$moon luna and the jovian planets jupiter and saturn the ranger
+space_54.txt$surveyor lunar orbiter and apollo missions to luna the mariner
+space_54.txt$missions to mercury venus and mars the viking probes to mars and the
+space_54.txt$voyager missions to jupiter saturn uranus and neptune
+space_54.txt$more details on american soviet european and japanese probe missions
+space_54.txt$can be found in sky and telescope astronomy science nature and
+space_54.txt$scientific american magazines time newsweek and various major
+space_54.txt$newspapers can supply not only general information on certain missions
+space_54.txt$but also show you what else was going on with earth at the time events
+space_54.txt$were unfolding if that is of interest to you space missions are
+space_54.txt$affected by numerous political economic and climatic factors as you
+space_54.txt$probably know
+space_54.txt$depending on just how far your interest in space probes will go you
+space_54.txt$might also wish to join the planetary society one of the largest space
+space_54.txt$groups in the world dedicated to planetary exploration their
+space_54.txt$periodical the planetary report details the latest space probe
+space_54.txt$missions write to the planetary society 65 north catalina avenue
+space_54.txt$pasadena california 91106 usa
+space_54.txt$good luck with your studies in this area of space exploration i
+space_54.txt$personally find planetary missions to be one of the more exciting areas
+space_54.txt$in this field and the benefits human society has and will receive from
+space_54.txt$it are incredible with many yet to be realized
+space_54.txt$larry klaes  klaesvergaenetdeccom
+space_54.txt$next faq 1115  upcoming planetary probes  missions and schedules

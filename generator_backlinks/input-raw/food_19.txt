@@ -1,0 +1,15 @@
+food_19.txt$12      teaspoon  ground cinnamon
+food_19.txt$14           cup  soy sauce
+food_19.txt$1                green onion  cut in half
+food_19.txt$2    tablespoon  dry red wine
+food_19.txt$1         clove  garlic  crushed
+food_19.txt$1    tablespoon  brown sugar
+food_19.txt$2         whole  pork tenderloins
+food_19.txt$1    tablespoon  honey
+food_19.txt$about 12 oz each
+food_19.txt$2      teaspoon  red food coloring  optional
+food_19.txt$trimmed
+food_19.txt$
+food_19.txt$combine soy sauce winesugarhoney food coloring cinnamon onion and garlic in large bowl add pork turning tenderloins to coat completely cover and refrigerate 1 hour or overnight turning meat occasionally drain pork reserving marinade place tenderloins on wire rack over baking pan bake in preheated 350f oven turning and basting often with reserved marinade until cooked through about 45 minutes remove pork from oven cool cut into diagonal slices makes about 8 appetizer size servings this is very nice served with green onion curls
+food_19.txt$
+food_19.txt$pam in va formatted by elaine radis converted by mmconv vers 100

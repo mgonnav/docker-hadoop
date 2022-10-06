@@ -1,0 +1,12 @@
+graphics_72.txt$in article 1993apr1113260413400ornlgov ednoblessacamorenortnedu edward d nobles writes
+graphics_72.txt$ive been trying to view tga files created in povray  i have the diamond
+graphics_72.txt$speedstar 24 video board not the 24x  so far i can convert them to
+graphics_72.txt$jpeg using cjpeg and view them with cview but that only displays 8 bit color
+graphics_72.txt$im looking for some way to convert andor view them in 24 bit
+graphics_72.txt$just want to see the darn things in real color
+graphics_72.txt$thanks
+graphics_72.txt$jim nobles
+graphics_72.txt$the best program ive seen for viewing such files is vpic  youll want version 59 or later  60x is current  it allows you to view in 15 and 24 bit modes  it really is quite nice
+graphics_72.txt$now for a return question  do you run windows  if so what are the dates on your drivers  the newest ones i can find are from around 492  my problem is they conflict with star trek after dark and other things as well  im willing to bet that its the drivers and not the programs  anyone out there have info on newer ss24 not x drivers for windows or os2
+graphics_72.txt$thanks
+graphics_72.txt$justin

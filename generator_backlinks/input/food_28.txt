@@ -1,0 +1,26 @@
+food_28.txt$4         small  oriental dried black mushrooms
+food_28.txt$12           cup  bamboo shoots  slivered
+food_28.txt$14         pound  boneless pork center rib  slivered
+food_28.txt$1    tablespoon  soy sauce
+food_28.txt$1      teaspoon  salt
+food_28.txt$1         quart  chicken broth
+food_28.txt$1           cup  bean curds  slivered
+food_28.txt$1      teaspoon  white pepper
+food_28.txt$3   tablespoons  red wine vinegar
+food_28.txt$2   tablespoons  cornstarch  blended with
+food_28.txt$3   tablespoons  cold water
+food_28.txt$1                egg  beaten
+food_28.txt$1    tablespoon  sesame oil
+food_28.txt$1                green onion whole  chopped
+food_28.txt$
+food_28.txt$soak mushrooms in warm water until softened  drain remove stems and shred caps  combine mushrooms bamboo shoots prok soy sauce salt and chicken broth in large sauce pan  bring to a boil over high heat
+food_28.txt$
+food_28.txt$reduce heat and simmer 3 minutes  add bean curd pepper and vinegar  bring to a boil again  stir until soup thickens
+food_28.txt$
+food_28.txt$slowly pour in beaten egg stirring gently  remove from heat and ladle into serving bowl  stir in sesame oil  garnish with green onion
+food_28.txt$food_93.txt
+food_28.txt$graphics_20.txt
+food_28.txt$sport_83.txt
+food_28.txt$medical_424.txt
+food_28.txt$space_68.txt
+food_28.txt$graphics_86.txt

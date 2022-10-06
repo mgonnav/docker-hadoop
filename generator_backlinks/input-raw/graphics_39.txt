@@ -1,0 +1,26 @@
+graphics_39.txt$andreyccocaltechedu andre t yew writes
+graphics_39.txt$d9hhdtekchalmersse henrik harmsen writes
+graphics_39.txt$14 bits per rgb gives horrible machbanding visible in almost any picture
+graphics_39.txt$5 bits per rgb 32768 65000 colors gives visible machbanding
+graphics_39.txt$colorgradient picture has almost no machbanding this colorresolution is
+graphics_39.txt$see some small machbanding on the smooth colorgradient picture but all in all
+graphics_39.txt$there are situiations where you get visible machbanding even in
+graphics_39.txt$a 24 bit card if
+graphics_39.txt$you create a very smooth color gradient of darkgreenwhiteyellow
+graphics_39.txt$or something and turn
+graphics_39.txt$up the contrast on the monitor you will probably see some machbanding
+graphics_39.txt$    while i dont mean to damn henriks attempt to be helpful here
+graphics_39.txt$hes using a common misconception that should be corrected
+graphics_39.txt$    mach banding will occur for any image  it is not the color
+graphics_39.txt$quantization you see when you dont have enough bits  it is the
+graphics_39.txt$human eyes response to transitions or edges between intensities
+graphics_39.txt$the result is that colors near the transistion look brighter on
+graphics_39.txt$the brighter side and darker on the darker side
+graphics_39.txt$andre
+graphics_39.txt$yeah of course the term mach banding was not the correct one it shouldve
+graphics_39.txt$been color quantization effect although a bad color quantization effect could
+graphics_39.txt$result in some visible machbands on a picture that was smooth before it was
+graphics_39.txt$quantizised
+graphics_39.txt$henrik harmsen     internet  d9hhdtekchalmersse
+graphics_39.txt$chalmers university of technology sweden
+graphics_39.txt$i havent lost my mind  its backed up on tape somewhere

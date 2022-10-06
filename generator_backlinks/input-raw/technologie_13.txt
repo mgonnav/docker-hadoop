@@ -1,0 +1,18 @@
+technologie_13.txt$fact chrome rules the world
+technologie_13.txt$now with 692 of the worlds browser user share  a measure of browser activity calculated by californiabased analytics company net applications  googles chrome has no equal at least in popularity rivals like microsofts edge mozillas firefox and apples safari eke out single digits while niche browsers under them fight over the smallest scraps
+technologie_13.txt$its no surprise then that when chrome speaks everyone listens whether about each browser upgrade  something computerworld tracks in the whats in the latest chrome update series  or about googles plans for the future
+technologie_13.txt$every chrome upgrade is accompanied by enterprisecentric release notes that highlight some of the planned additions substitutions enhancements and modifications weve collected the most important for this whatscoming roundup
+technologie_13.txt$just remember nothing is guaranteed as google says they might be changed delayed or canceled before launching to the stable channel
+technologie_13.txt$chrome 84 fullpage tls 10 11 warnings
+technologie_13.txt$last year google spelled out the stages of warnings it would put in front of chrome users about obsolete tls transport layer security 10 or 11 encryption a first step  a not secure alert in the address bar  was taken in january 2020
+technologie_13.txt$with chrome 81 the browser was to display a fullpage interstitial alert that interrupted attempts to reach the destinations secured with tls 10 or 11 that schedule however was abandoned in early april
+technologie_13.txt$ become a microsoft office 365 administrator in record time with this quick start course from pluralsight 
+technologie_13.txt$now its chrome 84 slated for release july 14 that is to contain the pagesized warning
+technologie_13.txt$it administrators can disable both warnings with the sslversionmin policy setting that policy to tls1 allows chrome to connect to tls 10 and 11encrypted sites sans alerts the sslversionmin policy will work until january 2021 when it will be deprecated
+technologie_13.txt$chrome 84 risky downloads rescheduled
+technologie_13.txt$starting with chrome 84 the browser will warn users when executable files begin their downloading from a secure page one marked as https but actually transfer their bits over an insecure http connection these cases are especially concerning because chrome currently gives no indication to the user that their privacy and security are at risk joe deblasio a software engineer on the chrome security team wrote in a feb 6 post announcing the scheme
+technologie_13.txt$at the time chrome 81 was pegged to begin the warnings but as with the tls 10 and 11 alerts these were rescheduled in early april pushed back to later versions of the browser google did not say aloud what prompted the change but it likely was related to the march decision to pause chromes release cadence and when distribution was restored abandon chrome 82 skipping from 81 to mays 83
+technologie_13.txt$with chrome 85 set to ship aug25 google will drop the hammer barring those executable files from downloading
+technologie_13.txt$over several more versions google will warn then block additional file types including in order archives such as zip all other nonsafe types like pdf and docx then finally image files such as png for example chrome 85 will institute warnings for archives and chrome 86 will block them
+technologie_13.txt$by chrome 88 a jan 19 2021 appearance the browser will be blocking all mixedcontent downloads
+technologie_13.txt$organizations managing chrome can disable this future blocking on a persite basis with the insecurecontentallowedforurls policy

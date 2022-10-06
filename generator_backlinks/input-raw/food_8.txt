@@ -1,0 +1,21 @@
+food_8.txt$3 12          cups  flour
+food_8.txt$1           cup  sugar
+food_8.txt$12           cup  butter  softened
+food_8.txt$2     teaspoons  baking powder
+food_8.txt$12      teaspoon  lemon rind  grated
+food_8.txt$12      teaspoon  salt
+food_8.txt$2                eggs
+food_8.txt$vanilla cream
+food_8.txt$23           cup  sugar
+food_8.txt$3    tablespoon  cornstarch
+food_8.txt$14      teaspoon  salt
+food_8.txt$3                egg yolks
+food_8.txt$2           cup  milk
+food_8.txt$1    tablespoon  butter
+food_8.txt$1      teaspoon  vanilla extract
+food_8.txt$1      teaspoon  almond extract  optional
+food_8.txt$
+food_8.txt$blend everything in large bowl and mix  roll out on floured board and cut with a four inch water glass make 12 circles  line greased cupcake pan with the 12 circles  fill each cup with pastry cream below top each with another circle cut with a 3 inch glassmake sure the cake is sealed  bake 20 to 25 minutes at 375  let cool completely in pan  this is my moms creampuff cream  its just a sweet vanilla cornstarch pudding  im giving you the microwave recipe because otherwise it takes an eternity of stirring on the stove after which your arm will fall off if you choose to cook it that way make sure you keep the heat low while youre waiting for the stuff to thicken and never ever stop stirring or the cream will stick to the bottom and burn and then you will have a million nasty little brownishblack flecks throughout your pudding which will do absolutely nothing for the texture  vanilla cream  in microwave bowl mix 23 c sugar 3 t cornstarch 14 t salt  add a fraction of  2 c milk a little at first to make a smooth paste then the rest until the mixture is smooth  microwave this at high for 89 minutes stirring every 2 min until the stuff is smooth and thickened  meanwhile put 3 egg yolks or two whole eggs into another bowl and beat them slightly  quickly stir half of the hot milk mixture into eggs and then add the new egg mixture to the original milk mixture microwave at high 1 to 2 min until mixture is thick and glossy
+food_8.txt$
+food_8.txt$add 1 t butter 1 t vanilla extract and optionally for extra flavor 1 t almond extract  let cream cool before adding to cupcakes or creampuffs  if youre eating it by itself its great while its still warm
+food_8.txt$

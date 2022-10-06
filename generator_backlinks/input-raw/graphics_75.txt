@@ -1,0 +1,6 @@
+graphics_75.txt$i have seen several raytraced scenes from mtv or was it
+graphics_75.txt$rayshade with stroked fonts appearing as objects in the image
+graphics_75.txt$the fontschars had color depth and even textures associated with
+graphics_75.txt$them  now i was wondering is it possible to do the same in pov
+graphics_75.txt$thanks
+graphics_75.txt$noel

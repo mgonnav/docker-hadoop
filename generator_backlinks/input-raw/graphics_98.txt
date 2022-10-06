@@ -1,0 +1,35 @@
+graphics_98.txt$in article jonasy734802983gouraud jonasyisyliuse jonas yngvesson
+graphics_98.txt$writes
+graphics_98.txt$ intersection between a line and a polygon undecidable
+graphics_98.txt$ 	by dave baraff tom duff
+graphics_98.txt$ 	from debcharismagraphicscornelledu
+graphics_98.txt$ in recent years many geometric problems have been successfully modeled in a
+graphics_98.txt$ new language called postscript  see postscript language by adobe systems
+graphics_98.txt$ incorporated isbn  0201101793 co 1985
+graphics_98.txt$ so given a line l and a polygon p we can write a postscript program that
+graphics_98.txt$ draws the line l and the polygon p and then outputs the answer  by
+graphics_98.txt$ output we mean the program executes a command called showpage which
+graphics_98.txt$ actually prints a page of paper containing the line and the polygon  a quick
+graphics_98.txt$ examination of the paper provides an answer to the reduced problem q and
+graphics_98.txt$thus
+graphics_98.txt$ the original problem
+graphics_98.txt$curiously in modern postscript the point in a polygon problem can
+graphics_98.txt$be solved even more easily  to wit
+graphics_98.txt$title point in polygon
+graphics_98.txt$creator allen b abccpurdueedu
+graphics_98.txt$for the amusement of compgraphics regulars
+graphics_98.txt$languagelevel 2
+graphics_98.txt$documentneededresource humor sense thereof
+graphics_98.txt$endcomments
+graphics_98.txt$ this program will test whether a point is inside a given polygon
+graphics_98.txt$ currently it uses the evenodd rule but that can be changed by
+graphics_98.txt$ replacing ineofill with infill  these are level 2 operators
+graphics_98.txt$ so if youve only got level 1 youre out of luck
+graphics_98.txt$ the result will be printed on the output stream
+graphics_98.txt$ caution only accurate to device pixels
+graphics_98.txt$ put a huge scale in first if you arent sure
+graphics_98.txt$ point to test
+graphics_98.txt$ vertices of polygon in counterclockwise order
+graphics_98.txt$dup 0 get aload pop moveto dup length 1 dup 3 1 roll
+graphics_98.txt$sub getinterval  aload pop lineto  forall closepath
+graphics_98.txt$ineofill  yes   no  ifelse 

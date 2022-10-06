@@ -1,0 +1,17 @@
+food_45.txt$potatoes  peeled  diced
+food_45.txt$1     med stalk  celery  chopped
+food_45.txt$1           med  carrots  chopped
+food_45.txt$14           cup  onion  chopped
+food_45.txt$1                garlic clove  minced
+food_45.txt$2          cups  vegetable stock
+food_45.txt$14      teaspoon  black pepper
+food_45.txt$12      teaspoon  thyme
+food_45.txt$1          dash  nutmeg
+food_45.txt$3          cups  broccoli florets
+food_45.txt$1           cup  milk
+food_45.txt$egg yolk  lightly beaten
+food_45.txt$1    tablespoon  soy sauce
+food_45.txt$
+food_45.txt$garnish minced fresh parsley dash of paprika minced fresh chives grated cheese sliced almonds or finely diced sweet red peppers opt
+food_45.txt$
+food_45.txt$in dutch oven or 45 qt saucepan place potatoes celery carrots onion garlic stock and seasonings bring to a boil cover lower heat and simmer until vegetables are very tender about 10 minutes the potatoes must be fully cooked to thicken the soup properly while the soup is simmering steam the broccoli florets  when the simmered vegetables are tender transfer it and broth to food processor and process till smooth  return pureed soup mixture to pan stir in broccoli florets in a measuring cup combine remaining ingredients add to soup and heat do not allow mixture to boil top each serving with garnish if desired

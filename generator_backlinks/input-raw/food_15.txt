@@ -1,0 +1,11 @@
+food_15.txt$4          cups  allpurpose flour
+food_15.txt$2          cups  sugar
+food_15.txt$2     teaspoons  baking powder
+food_15.txt$6                eggs
+food_15.txt$4   tablespoons  frangelico  hazelnut liquor
+food_15.txt$2     teaspoons  vanilla extract
+food_15.txt$2     teaspoons  almond extract
+food_15.txt$2          cups  hazelnuts oilroasted  coarsley chopped
+food_15.txt$
+food_15.txt$these biscotti are perfect for dipping in espresso and the sweet italian wine vin santo  since these cookies have no added shortening there is very little moisture  these cookies are hard so crunch carefully  most important enjoy  i have substituted 2 cups roasted chopped almonds for the hazelnuts and the results have been fine  also ive been thinking about substituting 4 tablespoons of anise liquor for the frangelico and tossing in a handful of anise seeds  preheat the oven to 350 degrees  mix dry ingredients except the nuts together in a bowl  in a separate bowl mix the liquids  mix the liquids into the dry ingredients until the dough is stiff  do not overmix  stir in the nuts  shape the dough into 2 flattish logs 3 inches wide and approximately 15 inches long  place the logs on a buttered cookie sheet  bake for 20 minutes at 350  remove from the oven and let cool to the touch  using a bread knife slice the log crosswise into 34 inch pieces place the pieces back on the cookie sheet side down  bake again for 15 minutes until the cookies are a golden brown  store in a tight tin  cookies store well for weeks
+food_15.txt$

@@ -1,0 +1,36 @@
+technologie_37.txt$us woman sues over cartridges
+technologie_37.txt$a us woman is suing hewlett packard hp saying its printer ink cartridges are secretly programmed to expire on a certain date
+technologie_37.txt$the unnamed woman from georgia says that a chip inside the cartridge tells the printer that it needs refilling even when it does not the lawsuit seeks to represent anyone in the us who has purchased an hp inkjet printer since february 2001 hp the worlds biggest printer firm declined to comment on the lawsuit hp ink cartridges use a chip technology to sense when they are low on ink and advise the user to make a change
+technologie_37.txt$but the suit claims the chips also shut down the cartridges at a predetermined date regardless of whether they are empty the smart chip is dually engineered to prematurely register ink depletion and to render a cartridge unusable through the use of a builtin expiration date that is not revealed to the consumer the suit said the lawsuit is asking for restitution damages and other compensation the cost of printer cartridges has been a contentious issue in europe for the last 18 months the price of inkjet printers has come down to as little as 34 but it could cost up to 1700 in running costs over an 18month period due to cartridge a study by computeractive magazine revealed last year the inkjet printer market has been the subject of an investigation by the uks office of fair trading oft which concluded in a 2002 report that retailers and manufacturers needed to make pricing more transparent for consumers
+technologie_37.txt$food_93.txt
+technologie_37.txt$graphics_20.txt
+technologie_37.txt$sport_83.txt
+technologie_37.txt$medical_424.txt
+technologie_37.txt$space_68.txt
+technologie_37.txt$sport_65.txt
+technologie_37.txt$entertainment_37.txt
+technologie_37.txt$medical_572.txt
+technologie_37.txt$business_20.txt
+technologie_37.txt$business_28.txt
+technologie_37.txt$politics_136.txt
+technologie_37.txt$medical_500.txt
+technologie_37.txt$technologie_13.txt
+technologie_37.txt$food_78.txt
+technologie_37.txt$graphics_29.txt
+technologie_37.txt$graphics_13.txt
+technologie_37.txt$historical_23.txt
+technologie_37.txt$food_53.txt
+technologie_37.txt$politics_131.txt
+technologie_37.txt$historical_100.txt
+technologie_37.txt$historical_26.txt
+technologie_37.txt$technologie_84.txt
+technologie_37.txt$business_99.txt
+technologie_37.txt$medical_1.txt
+technologie_37.txt$space_76.txt
+technologie_37.txt$business_19.txt
+technologie_37.txt$graphics_75.txt
+technologie_37.txt$medical_40.txt
+technologie_37.txt$graphics_6.txt
+technologie_37.txt$business_75.txt
+technologie_37.txt$medical_691.txt
+technologie_37.txt$graphics_86.txt

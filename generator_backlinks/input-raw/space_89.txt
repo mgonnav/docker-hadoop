@@ -1,0 +1,19 @@
+space_89.txt$in article 6apr199314571378kelvinjplnasagov baalkekelvinjplnasagov ron baalke writes
+space_89.txt$comet gehrels 3 which was discovered in 1977 was determined to have
+space_89.txt$been in a temporary jovian orbit from 1970 to 1973  comet shoemakerlevy 1993e
+space_89.txt$may remain in orbit around jupiter long enough to allow galileo to
+space_89.txt$make some closeup observations  the orbital trajectory for comet
+space_89.txt$shoemakerlevy is still being determined
+space_89.txt$a
+space_89.txt$what about positional uncertainties in sl 1993e   i assume we know where
+space_89.txt$and what galileo is doing within a few meters   but without the
+space_89.txt$hga  dont we have to have some pretty good ideas of where to look
+space_89.txt$before imaging  if the hga was working  they could slew around
+space_89.txt$in near real time less speed of light delay  but when they were
+space_89.txt$imaging toutatis  didnt someone have to get lucky on a guess to
+space_89.txt$find the first images
+space_89.txt$also i imagine sl 1993e will be mostly a visual image  so how will
+space_89.txt$that affect the other imaging missions  with the lga  there is a real
+space_89.txt$tight allocation of bandwidth   it may be premature to hope for answers
+space_89.txt$but i thought id throw it on the floor
+space_89.txt$pat

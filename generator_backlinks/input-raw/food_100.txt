@@ -1,0 +1,7 @@
+food_100.txt$eafy greens that contain betacarotene such as collard greens spinach and swiss chard contribute to the growth and repair of the bodys tissues betacarotene may also protect your skin against sun damage betacarotene is converted to vitamin a in the body and food sources of betacarotene are the best way to get your vitamin a fix since extremely high doses of vitamin a in supplements can be toxic and lead to bone liver and neural disorders as well as birth defects food sources of betacarotene are entirely safe though since the body regulates how much betacarotene is converted into vitamin a
+food_100.txt$
+food_100.txt$leafy greens are an excellent source of folate which can reduce your risk of cardiovascular disease and memory loss and since folate contributes to the production of serotonin it may help ward off depression and improve mood
+food_100.txt$
+food_100.txt$the vitamin e found in green leafy vegetables works with vitamin c to keep skin healthy as you age this vitamin also helps protect your skin from the suns damaging rays and may help reduce your risk of cataracts and macular degeneration
+food_100.txt$
+food_100.txt$while leafy greens offer many health benefits they can sometimes trigger ibs in individuals who are sensitive additionally if youre taking a blood thinner like warfarin coumadin be sure to have your doctor monitor your blood and your medication dosage as you increase your intake of dark leafy green vegetables these vegetables are rich in vitamin k which plays a key role in blood clotting

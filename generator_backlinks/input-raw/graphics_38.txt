@@ -1,0 +1,28 @@
+graphics_38.txt$in 1psctiaqetraviscsdharriscom srptraviscsdharriscom stephen pietrowicz writes
+graphics_38.txt$how do you go about orienting all normals in the same direction given a
+graphics_38.txt$set of points edges and faces
+graphics_38.txt$this algorithm works well for me
+graphics_38.txt$algorithm to attempt to find outwardfacing normals
+graphics_38.txt$first mark all faces as unknown
+graphics_38.txt$then create an edge dictionary that allows you to find all of the
+graphics_38.txt$faces sharing a given edge where an edge is two integers representing
+graphics_38.txt$the two shared vertices
+graphics_38.txt$pick an arbitrary face and mark it counterclockwise  using the edge
+graphics_38.txt$dictionary orient all surrounding faces based on the orientation of
+graphics_38.txt$this face  and recurse for all surrounding faces consistently
+graphics_38.txt$orienting the entire surface
+graphics_38.txt$find the average of the vertices in this surface  using that point
+graphics_38.txt$calculate a volume measurement taking into account the faces
+graphics_38.txt$orientation  if the volume turns out to be positive assume the faces
+graphics_38.txt$are oriented correctly  if it is negative reverse their orientations
+graphics_38.txt$mark them clockwise
+graphics_38.txt$if any faces are still unknown after this choose another face
+graphics_38.txt$and go through the algorithm again
+graphics_38.txt$at the end faces marked clockwise must have their indices reversed
+graphics_38.txt$before facet normals are found
+graphics_38.txt$note if you are running on silicon graphics machines and buy the
+graphics_38.txt$iris inventor 3d toolkit developers package you have the source to
+graphics_38.txt$this algorithm see usrsrcinventortoolsivnorm  if youre
+graphics_38.txt$not sorry i cant give out the source and even if i could it
+graphics_38.txt$relies heavily on inventor
+graphics_38.txt$gavin     gavinsgicom  4153901024

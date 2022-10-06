@@ -1,0 +1,18 @@
+food_21.txt$2         whole  chickens  quartered
+food_21.txt$14           cup  salad oil
+food_21.txt$1      teaspoon  salt
+food_21.txt$14      teaspoon  pepper
+food_21.txt$15 12        ounces  pineapple chunks in syrup  unsweetened
+food_21.txt$12           cup  sugar
+food_21.txt$2   tablespoons  cornstarch
+food_21.txt$34           cup  cider vinegar
+food_21.txt$1    tablespoon  soy sauce
+food_21.txt$14      teaspoon  ginger
+food_21.txt$1                chicken bouillon cube
+food_21.txt$1         large  green or red pepper  cut in 12 slices
+food_21.txt$
+food_21.txt$wash chicken pat dry  heat oil in large skillet add chicken a few pieces at a time and brown on all sides  remove as browned to shallow roasting pan  arrange pieces skin side up  sprinkle with salt and pepper
+food_21.txt$
+food_21.txt$meanwhile preheat oven to 350 degrees 
+food_21.txt$
+food_21.txt$make sauce drain the pineapple chunks pouring syrup into 2 cup measure add water to make 1 14 cups  in medium saucepan combine sugar cornstarch pineapple syrup vinegar soy sauce ginger and bouillon cube  bring to a boil stirring constantly  boil 2 minutes  pour over chicken bake uncovered 30 minutes  add pineapple chucks and green or red peppers  bake 30 minutes longer or until chicken is tender

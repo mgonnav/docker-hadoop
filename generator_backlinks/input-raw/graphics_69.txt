@@ -1,0 +1,34 @@
+graphics_69.txt$toronto siggraph
+graphics_69.txt$what chances art 2d graphics and animation on the indigo
+graphics_69.txt$by    ken evans imagicians artware inc
+graphics_69.txt$when  tuesday 20 april 1993 700pm900pm
+graphics_69.txt$where the mcluhan centre for culture and technology
+graphics_69.txt$university of toronto
+graphics_69.txt$39a queens park crescent
+graphics_69.txt$toronto
+graphics_69.txt$who   members and nonmembers alike
+graphics_69.txt$nonmembers encouraged to become members
+graphics_69.txt$abstract
+graphics_69.txt$imagicians artware inc is entering into early beta site testing on silicon
+graphics_69.txt$graphics workstations of a new 2d abstract artwork and animation package called
+graphics_69.txt$chances art  the package will be described and demonstrated and some of the
+graphics_69.txt$technical issues will be discussed  marketing plans will be outlined  the
+graphics_69.txt$talk will also present some of the technical and business problems increasingly
+graphics_69.txt$confronting small startup software companies today and some of the
+graphics_69.txt$opportunities this situation presents
+graphics_69.txt$time after the event will be allocated for handson demonstrations to
+graphics_69.txt$interested parties  silicon graphics is graciously providing an indigo for
+graphics_69.txt$this event  myck kupka will also be demonstrating his computerized interactive
+graphics_69.txt$reflective stereoscope which is installed upstairs in the mcluhan centre so
+graphics_69.txt$feel free to drop by for a demonstration before or after the event btw be
+graphics_69.txt$sure to sing happy birthday myck
+graphics_69.txt$the names of nominees for our siggraph executive offices will be announced at
+graphics_69.txt$this meeting  nominations will still be open until the election at our
+graphics_69.txt$may 18th event call myck kupka at 4650943 or fax to 4650729
+graphics_69.txt$directions the mcluhan coachhouse is on the east side of queens park
+graphics_69.txt$crescent just north of wellesley south of st joseph st behind east of
+graphics_69.txt$39 queens park crescent which is the centre for mediaeval studies
+graphics_69.txt$for information on toronto siggraph membership contact michael mccool via
+graphics_69.txt$internet mccooldgputorontoca
+graphics_69.txt$voice 652807297866199786027
+graphics_69.txt$fax 6531654

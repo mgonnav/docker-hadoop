@@ -1,0 +1,8 @@
+graphics_100.txt$i need help in creating my 4x4 perspective matrix  id like to use this for
+graphics_100.txt$transforming x y z w in some texture mapping code i got from graphics gems
+graphics_100.txt$i  i have many books which talk about this but none of them in simple plain
+graphics_100.txt$english  if you have graphics gems i im talking about page 678
+graphics_100.txt$id like to have a perspective matrix that handles different fieldofviews
+graphics_100.txt$and aspect of course  thanks for your help
+graphics_100.txt$yes of course everything i say is my personal opinion
+graphics_100.txt$robert jc kyanko     robrjckoauorg or robrjckuucp

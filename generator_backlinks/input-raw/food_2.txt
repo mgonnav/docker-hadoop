@@ -1,0 +1,6 @@
+food_2.txt$mexican bbq chicken
+food_2.txt$instruction
+food_2.txt$combine all of the marinade ingredients except the orange juice in a blender or food processor puree until smooth add the orange juice and puree until combined pour into a large mixing bowl and add the chicken cover and marinate overnight in the refrigerator
+food_2.txt$remove the chicken from the marinade and pat it dry with paper towels let stand at room temperature for 30 minutes while you prepare a grill
+food_2.txt$prepare an outdoor grill for medium heat if using a charcoal grill set up the coals for indirect heat when the grill is ready use tongs to rub the grate with several layers of paper towels dipped in vegetable oil or spray with cooking spray you can also use a stovetop grill over mediumhigh heat spray it with cooking spray before proceeding
+food_2.txt$arrange the chicken over the hottest part of the grill and cook turning once halfway through for about 10 minutes or until the skin starts to crisp but not burn move the chicken pieces to the cooler part of the grill cover and cook turning occasionally until cooked through a meat thermometer should read 165170f about 15 to 20 minutes longer if using a stovetop grill or gas grill turn the heat to medium low and cook until cooked through

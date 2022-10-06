@@ -1,0 +1,16 @@
+graphics_32.txt$some rendering programs require that all surface normals point in the same
+graphics_32.txt$direction  ie on a closed cube all normals point outwards  you can use
+graphics_32.txt$the points on the faces to determine the direction of the normal by making
+graphics_32.txt$sure that all points are either in clockwise or counterclockwise order
+graphics_32.txt$how do you go about orienting all normals in the same direction given a
+graphics_32.txt$set of points edges and faces   say that you had a cube with all faces that
+graphics_32.txt$have their normals facing outwards except for one face  whats the
+graphics_32.txt$best way to realize that face is flipped and should have its points
+graphics_32.txt$reordered   i thought i had a good way of telling this but then realized
+graphics_32.txt$that the algorithm i had would only tell you if you had points in clockwise
+graphics_32.txt$order for a 2d polygon  id like something for 3d data
+graphics_32.txt$any hints tips references would be appreciated
+graphics_32.txt$steve
+graphics_32.txt$where humor is concerned there are no standards  no one can say what is good
+graphics_32.txt$or bad although you can be sure that everyone will   john kenneth galbraith
+graphics_32.txt$ these opinions are my own

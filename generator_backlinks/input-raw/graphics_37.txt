@@ -1,0 +1,29 @@
+graphics_37.txt$in article 1psctiaqetraviscsdharriscom srptraviscsdharriscom stephen pietrowicz writes
+graphics_37.txt$how do you go about orienting all normals in the same direction given a
+graphics_37.txt$set of points edges and faces
+graphics_37.txt$look for edge inconsistencies  consider two vertices p and q which
+graphics_37.txt$are connected by at least one edge
+graphics_37.txt$if pq is an edge then qp should not appear
+graphics_37.txt$if both pq and qp appear as edges then the surface flips when
+graphics_37.txt$you travel across that edge  this is bad
+graphics_37.txt$assuming warningwarningwarning that you have an otherwise
+graphics_37.txt$acceptable surface  you can pick an edge any edge and traverse the
+graphics_37.txt$surface enforcing consistency with that edge
+graphics_37.txt$0 pick an edge pq and mark it as ok
+graphics_37.txt$1 for each face f containing this edge if more than 2 oops
+graphics_37.txt$make sure that all edges in f are consistent ie the face
+graphics_37.txt$should be pqqrrssttp  flip those which
+graphics_37.txt$are wrong mark all of the edges in f as ok
+graphics_37.txt$and add them to a queue check for duplicates and especially
+graphics_37.txt$inconsistencies  dont let the queue have both pq and qp
+graphics_37.txt$2 remove an edge from the queue and go to 1
+graphics_37.txt$if a marked edge is discovered to be inconsistent then you lose
+graphics_37.txt$if step 1 finds more than one face sharing a particular edge then you
+graphics_37.txt$lose
+graphics_37.txt$otherwise when done all of the edges will be consistent  which means
+graphics_37.txt$that all of the surface normals will either point in or out  deciding
+graphics_37.txt$which way is out is left as an exercise
+graphics_37.txt$kenneth sloan                   computer and information sciences
+graphics_37.txt$sloancisuabedu               university of alabama at birmingham
+graphics_37.txt$205 9342213                  115a campbell hall uab station
+graphics_37.txt$205 9345473 fax              birmingham al 352941170

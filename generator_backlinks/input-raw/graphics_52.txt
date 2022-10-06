@@ -1,0 +1,152 @@
+graphics_52.txt$in article 1rqisirhjcctutfi jk87377lehtoricctutfi kouhia juhana writes
+graphics_52.txt$in article 1993apr2920142019271nessiemccacuk
+graphics_52.txt$cclilleymccacuk writes
+graphics_52.txt$in article 1rohjcavtcctutfi jk87377lehtoricctutfi kouhia
+graphics_52.txt$juhana writes
+graphics_52.txt$i wrote something about making color modifications quickly
+graphics_52.txt$with 8bit quantized images and only at the saving the image to file
+graphics_52.txt$process we have to make the modifications to the 24bit image
+graphics_52.txt$this makes sense because the main use of xv is only viewing images
+graphics_52.txt$doing many changes to image we should keep all modifications
+graphics_52.txt$in a buffer and then before making the operations to 24bit image
+graphics_52.txt$we should simplify the operation list for unnecessary operations
+graphics_52.txt$think about what you are saying here the 24 bit image is quantised down to 8
+graphics_52.txt$bits so many similar colours are mapped onto a single palette colour this
+graphics_52.txt$colour gets modified in fairly arbitrary ways you then want to apply these
+graphics_52.txt$modifications back to the 24 bit file so you have to find which
+graphics_52.txt$colours mapped to this one palette colour
+graphics_52.txt$i suppose you dont know what about we have discussed
+graphics_52.txt$we discussed about errors in xv 221 which shows images only as 8bit
+graphics_52.txt$and my suggestion above works perfectly with it
+graphics_52.txt$look be consistent first you post something that seems to suggest that you see
+graphics_52.txt$xv being an 8 bit program as some sort of error
+graphics_52.txt$so i post and asy it is not a bug it is meant to be like that
+graphics_52.txt$so you post and say it is not a bug you never said it was i have misunderstood
+graphics_52.txt$etc
+graphics_52.txt$now you are saying
+graphics_52.txt$we discussed about errors in xv 221 which shows images only as 8bit
+graphics_52.txt$if you would make up your mind what you are claiming it would make the
+graphics_52.txt$discussion a lot easier
+graphics_52.txt$so far i have seen a colormap editing window in xv  that is there
+graphics_52.txt$must be a colormap anyway the problems you present are exist anyway
+graphics_52.txt$and i didnt tried to solve them at all because i would not make such
+graphics_52.txt$problems to my programs in the first place
+graphics_52.txt$eh sorry i dont understand what you are saying here i am aware that english is
+graphics_52.txt$not your native language and have tried hard to fathom your meaning but this
+graphics_52.txt$paragraph defeats me
+graphics_52.txt$gamma and color corrections are easily done to 24bit image
+graphics_52.txt$as i presented theres no need make tricks from 8bitquantized image
+graphics_52.txt$back to 24 bit image
+graphics_52.txt$yes as i originally said global changes are easily possible
+graphics_52.txt$but this statement contradicts what you said earlier
+graphics_52.txt$i wrote something about making color modifications quickly
+graphics_52.txt$with 8bit quantized images and only at the saving the image to file
+graphics_52.txt$process we have to make the modifications to the 24bit image
+graphics_52.txt$how would you suggest doing colour editing on a 24 bit file how
+graphics_52.txt$would you group related colours to edit them together only global
+graphics_52.txt$changes could be done unless the software were very different and
+graphics_52.txt$much more complicated
+graphics_52.txt$ok youre writing about situation that user want edit images as 24bit
+graphics_52.txt$and user want edit individual colors  your questions by the way
+graphics_52.txt$jumps off the discussion a bit
+graphics_52.txt$no i dont think so actually
+graphics_52.txt$you were talking about loading a 24 bit image into xv by quantising
+graphics_52.txt$manipulating the colours in the colour editor then somewhow applying these
+graphics_52.txt$changes to the 24 bit file when you exit xv xv lets you edit individual
+graphics_52.txt$colours where is this sudden jumping off the topic
+graphics_52.txt$my solution doesnt work because theres no colormap withing real 24bit
+graphics_52.txt$image
+graphics_52.txt$yes i am aware there is no colourmap in a 24 bit file
+graphics_52.txt$ you see user see 24bit image going back to 8bit is silly
+graphics_52.txt$i do not understand what this statement is supposed to mean
+graphics_52.txt$about changing individual colors in 8bitquantizedrasterized image
+graphics_52.txt$changing individual colors in colormap is useless in most
+graphics_52.txt$cases if the image is quantized and rasterized  small change may
+graphics_52.txt$make serious errors to anywhere in the image
+graphics_52.txt$what are you saying
+graphics_52.txt$xv allows this feature but i dont recommend to use it with the
+graphics_52.txt$mentioned type images
+graphics_52.txt$ah now we see thew problem first you want to extend xv to allow editing of 8
+graphics_52.txt$bit previews of 24 bit images then i point out problems with this now you are
+graphics_52.txt$saying there is no problem because you personally happen not to use those
+graphics_52.txt$parts of the program that cause the problem
+graphics_52.txt$moreover xv is not a paint program you can only make those global
+graphics_52.txt$changes
+graphics_52.txt$not sure what you are saying here certainly one can make local changes
+graphics_52.txt$in full 24bit xv changing individual colors sounds like
+graphics_52.txt$paint program job
+graphics_52.txt$if person have 8bit screen theres need for tricks to get the
+graphics_52.txt$original 24bit image modified because user dont see full 24bit
+graphics_52.txt$image theres need to make approximations and it is not possible to
+graphics_52.txt$modify individual colors but individual pixels or pixel groups if
+graphics_52.txt$image is rasterized to select indiavidual color there could be 7x7
+graphics_52.txt$cursor window which shows true color image in cursor window area 
+graphics_52.txt$selecting individual color is possible from that
+graphics_52.txt$yes that is one possible approach i would find a program that took such an
+graphics_52.txt$approach clumsy however
+graphics_52.txt$ok i dont have thought very much 24bit painting programs never seen
+graphics_52.txt$such in good view and are not planned to make such not to mention
+graphics_52.txt$24bit painting program in 8bit screen
+graphics_52.txt$well here we agree  you have not thought it through very much you dont seem
+graphics_52.txt$to have a consistent point to make and contradict yourself from one post to the
+graphics_52.txt$next ok we all have off days  perhaps you should step back and think this one
+graphics_52.txt$through
+graphics_52.txt$yes again what is was wrong with xv
+graphics_52.txt$it saved 8bitquantizedrasterized images as 24bit jpegs jpeg is not
+graphics_52.txt$designed for that
+graphics_52.txt$as i said in the last post jpeg is a compression algorithm it is a way of
+graphics_52.txt$saving disk space by trading off quality against compression i fail to see what
+graphics_52.txt$the problem is you have not proposed any workable alternatives
+graphics_52.txt$also human expect that 24bit will be saved as 24bit image
+graphics_52.txt$speak for yourself you are the only person i have met or spoken to who
+graphics_52.txt$having quantised a 24 bit image down to 8 bits expects this process to somehow
+graphics_52.txt$reverse when the file is saved keeping all modificvations that heve been made
+graphics_52.txt$to the 8 bit image palette
+graphics_52.txt$perhaps that is why you yused the singular
+graphics_52.txt$say
+graphics_52.txt$person would like to crop part of the image and save it then it is
+graphics_52.txt$expected that the image still is the same
+graphics_52.txt$look next time you import a 24 bit image into xv look carefully at the main
+graphics_52.txt$control panel  it tells you how many colours have been allocated to the 8 bit
+graphics_52.txt$image xv makes it abundantly clear that you are not editing the original 24 bit
+graphics_52.txt$file you are the only person who claims this is confusing
+graphics_52.txt$so xv were designed
+graphics_52.txt$without thinking about human interface and how human expect the
+graphics_52.txt$program work  design error
+graphics_52.txt$is a design error the same as a bug 
+graphics_52.txt$read my lips xv is a program for viewing and modifying 8 bit images it lets
+graphics_52.txt$you import other images it shows i would say a good deal of thought about the
+graphics_52.txt$human interface and everyone else seems to use it happily for the purpose it
+graphics_52.txt$was designed for it makes no false claims
+graphics_52.txt$i have heard xv were designed first for 8bit imagesfiles but
+graphics_52.txt$it were not good idea to take full 24bit images without making
+graphics_52.txt$major change to the original design
+graphics_52.txt$if you would come up with a solid logical well argued and lucid description of
+graphics_52.txt$precisely how these proposed extensions would work feel free to post them so
+graphics_52.txt$far you have not done so
+graphics_52.txt$so even all screen images are 8bit the processed images and saved
+graphics_52.txt$images could have been 24bit very easily instead of 8bit
+graphics_52.txt$argh after all this a comment like that very easily ok go ahead and code it
+graphics_52.txt$if it is so easy
+graphics_52.txt$or alternatively look up the terms import and nonreversible transformation
+graphics_52.txt$before anybody will make a note yes i may as well make a lift where
+graphics_52.txt$up means that the lift goes down and down means that the lift goes
+graphics_52.txt$up and put a note on this design solution to the manuals  however
+graphics_52.txt$even the manuals tells the correct situation it doesnt solve the problem
+graphics_52.txt$americans the lift is just an example 
+graphics_52.txt$i think this is a bit of an exageration
+graphics_52.txt$what you are actually saying is you got into a lift elevator if you are in
+graphics_52.txt$the states   and mistakenly pressed the down button to go up everyone else
+graphics_52.txt$had no problem now you are trying to sue the manufacturer
+graphics_52.txt$well my text may be a bit hard reading
+graphics_52.txt$you bet
+graphics_52.txt$hopefully you suggeeded to
+graphics_52.txt$read it
+graphics_52.txt$mostly leaving aside the language issue however it betrays some very wooly
+graphics_52.txt$thinking as you yourself admit which is the same in any language go think
+graphics_52.txt$some more
+graphics_52.txt$chris lilley
+graphics_52.txt$technical author itti computer graphics and visualisation training project
+graphics_52.txt$computer graphics unit manchester computing centre oxford road
+graphics_52.txt$manchester uk  m13 9pl                        internet cclilleymccacuk
+graphics_52.txt$voice 44 061 275 6045  fax 44 061 275 6040 janet cclilleyukacmcc

@@ -1,0 +1,140 @@
+graphics_36.txt$hi all
+graphics_36.txt$i have this program in which user can display many images onebyone on the
+graphics_36.txt$display now i am trying to get the best poosible color allocation so
+graphics_36.txt$each time i open a image i try to allocate the colors reqd for that image
+graphics_36.txt$approach similar to that used in xv by john bradley the problem
+graphics_36.txt$comes when i try to display the next image now i have effectively tied
+graphics_36.txt$myself to the colors of the previous image so the second image doesnot come
+graphics_36.txt$up in original colorsie the colors it would have shown had it been
+graphics_36.txt$displayed first
+graphics_36.txt$i know that i can display only 256 colors or whatever depth of the display
+graphics_36.txt$at a time but i also dont want the color reproduction dependent on the
+graphics_36.txt$sequence in whihc you display the image
+graphics_36.txt$so what is the best way out
+graphics_36.txt$please rewpond to vijayiitbernetin
+graphics_36.txt$thanks
+graphics_36.txt$vijay
+graphics_36.txt$vijay talati                        email vijayiitbernetin
+graphics_36.txt$ernet lab                          x400
+graphics_36.txt$computer centre                      stalati ougateway oiitb prmdernet cin
+graphics_36.txt$food_93.txt
+graphics_36.txt$graphics_20.txt
+graphics_36.txt$sport_83.txt
+graphics_36.txt$medical_424.txt
+graphics_36.txt$space_68.txt
+graphics_36.txt$sport_65.txt
+graphics_36.txt$entertainment_37.txt
+graphics_36.txt$medical_572.txt
+graphics_36.txt$business_20.txt
+graphics_36.txt$business_28.txt
+graphics_36.txt$politics_136.txt
+graphics_36.txt$medical_500.txt
+graphics_36.txt$technologie_13.txt
+graphics_36.txt$food_78.txt
+graphics_36.txt$graphics_29.txt
+graphics_36.txt$graphics_13.txt
+graphics_36.txt$historical_23.txt
+graphics_36.txt$food_53.txt
+graphics_36.txt$politics_131.txt
+graphics_36.txt$historical_100.txt
+graphics_36.txt$historical_26.txt
+graphics_36.txt$technologie_84.txt
+graphics_36.txt$business_99.txt
+graphics_36.txt$medical_1.txt
+graphics_36.txt$space_76.txt
+graphics_36.txt$business_19.txt
+graphics_36.txt$graphics_75.txt
+graphics_36.txt$medical_40.txt
+graphics_36.txt$graphics_6.txt
+graphics_36.txt$business_75.txt
+graphics_36.txt$medical_691.txt
+graphics_36.txt$graphics_52.txt
+graphics_36.txt$business_58.txt
+graphics_36.txt$business_13.txt
+graphics_36.txt$entertainment_33.txt
+graphics_36.txt$historical_88.txt
+graphics_36.txt$business_40.txt
+graphics_36.txt$politics_229.txt
+graphics_36.txt$graphics_65.txt
+graphics_36.txt$sport_8.txt
+graphics_36.txt$graphics_7.txt
+graphics_36.txt$historical_74.txt
+graphics_36.txt$historical_81.txt
+graphics_36.txt$entertainment_24.txt
+graphics_36.txt$food_5.txt
+graphics_36.txt$historical_44.txt
+graphics_36.txt$space_5.txt
+graphics_36.txt$historical_98.txt
+graphics_36.txt$technologie_50.txt
+graphics_36.txt$politics_111.txt
+graphics_36.txt$historical_99.txt
+graphics_36.txt$business_65.txt
+graphics_36.txt$sport_59.txt
+graphics_36.txt$politics_15.txt
+graphics_36.txt$food_87.txt
+graphics_36.txt$historical_25.txt
+graphics_36.txt$sport_88.txt
+graphics_36.txt$food_12.txt
+graphics_36.txt$politics_319.txt
+graphics_36.txt$sport_52.txt
+graphics_36.txt$historical_12.txt
+graphics_36.txt$graphics_59.txt
+graphics_36.txt$food_48.txt
+graphics_36.txt$space_74.txt
+graphics_36.txt$business_14.txt
+graphics_36.txt$space_1.txt
+graphics_36.txt$entertainment_85.txt
+graphics_36.txt$entertainment_27.txt
+graphics_36.txt$space_71.txt
+graphics_36.txt$politics_128.txt
+graphics_36.txt$entertainment_90.txt
+graphics_36.txt$technologie_43.txt
+graphics_36.txt$entertainment_30.txt
+graphics_36.txt$sport_78.txt
+graphics_36.txt$technologie_42.txt
+graphics_36.txt$food_81.txt
+graphics_36.txt$politics_117.txt
+graphics_36.txt$historical_50.txt
+graphics_36.txt$technologie_89.txt
+graphics_36.txt$technologie_53.txt
+graphics_36.txt$technologie_59.txt
+graphics_36.txt$historical_80.txt
+graphics_36.txt$space_44.txt
+graphics_36.txt$business_29.txt
+graphics_36.txt$entertainment_39.txt
+graphics_36.txt$food_11.txt
+graphics_36.txt$historical_33.txt
+graphics_36.txt$politics_231.txt
+graphics_36.txt$sport_26.txt
+graphics_36.txt$graphics_3.txt
+graphics_36.txt$politics_282.txt
+graphics_36.txt$politics_31.txt
+graphics_36.txt$entertainment_38.txt
+graphics_36.txt$graphics_44.txt
+graphics_36.txt$historical_42.txt
+graphics_36.txt$business_85.txt
+graphics_36.txt$business_92.txt
+graphics_36.txt$politics_232.txt
+graphics_36.txt$historical_16.txt
+graphics_36.txt$historical_7.txt
+graphics_36.txt$space_32.txt
+graphics_36.txt$graphics_32.txt
+graphics_36.txt$historical_73.txt
+graphics_36.txt$entertainment_99.txt
+graphics_36.txt$business_21.txt
+graphics_36.txt$historical_51.txt
+graphics_36.txt$business_90.txt
+graphics_36.txt$politics_316.txt
+graphics_36.txt$politics_326.txt
+graphics_36.txt$politics_335.txt
+graphics_36.txt$medical_619.txt
+graphics_36.txt$medical_376.txt
+graphics_36.txt$historical_60.txt
+graphics_36.txt$sport_28.txt
+graphics_36.txt$graphics_28.txt
+graphics_36.txt$food_85.txt
+graphics_36.txt$graphics_96.txt
+graphics_36.txt$space_65.txt
+graphics_36.txt$medical_565.txt
+graphics_36.txt$graphics_92.txt
+graphics_36.txt$graphics_86.txt

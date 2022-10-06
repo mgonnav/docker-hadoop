@@ -1,0 +1,15 @@
+food_40.txt$2          cups  water
+food_40.txt$skinned potatoes
+food_40.txt$1      teaspoon  salt
+food_40.txt$18      teaspoon  white pepper
+food_40.txt$2   tablespoons  butter or margarine
+food_40.txt$1         small  boiling onions 
+food_40.txt$young fresh baby carrots 
+food_40.txt$12         pound  young fresh green beans 
+food_40.txt$2          cups  fresh shelled tiny peas
+food_40.txt$2          cups  half and half light cream
+food_40.txt$3   tablespoons  all purpose flour
+food_40.txt$
+food_40.txt$ potatoes peeled and halved  or 6 green onions including tops cut into 3inch lengths  12 lb  cut into 1inch lengths heat water to boiling in a wide 5quart pan add potatoes  reduce heat cover and simmer for 5 minutes  add salt pepper butter onions carrots and green beans simmer for 8 more minutes  add peas and cook for another 2 minutes or until vegetables are crisptender
+food_40.txt$
+food_40.txt$in a small bowl stir together half and half and flour until smooth stir into simmering vegetables  cook stirring until soup slightly thickened about 5 minutes  serving size 123 cup may be served with open faced sandwiches of cream cheese on rye decorated with sliced vegetables

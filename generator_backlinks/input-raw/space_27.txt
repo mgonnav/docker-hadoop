@@ -1,0 +1,182 @@
+space_27.txt$archivename spacecontroversy
+space_27.txt$lastmodified date 930401 143906 
+space_27.txt$these issues periodically come up with much argument and few facts being
+space_27.txt$offered the summaries below attempt to represent the position on which
+space_27.txt$much of the net community has settled please dont bring them up again
+space_27.txt$unless theres something truly new to be discussed the net cant set
+space_27.txt$public policy thats what your representatives are for
+space_27.txt$despite a widespread belief to the contrary the saturn v blueprints
+space_27.txt$have not been lost they are kept at marshall space flight center on
+space_27.txt$microfilm
+space_27.txt$the problem in recreating the saturn v is not finding the drawings it
+space_27.txt$is finding vendors who can supply mid1960s vintage hardware like
+space_27.txt$guidance system components and the fact that the launch pads and vab
+space_27.txt$have been converted to space shuttle use so you have no place to launch
+space_27.txt$from
+space_27.txt$by the time you redesign to accommodate available hardware and remodify
+space_27.txt$the launch pads you may as well have started from scratch with a clean
+space_27.txt$sheet design
+space_27.txt$investigators associated with nasa missions are allowed exclusive access
+space_27.txt$for one year after the data is obtained in order to give them an
+space_27.txt$opportunity to analyze the data and publish results without being
+space_27.txt$scooped by people uninvolved in the mission however nasa frequently
+space_27.txt$releases examples in nondigital form eg photos to the public early
+space_27.txt$in a mission
+space_27.txt$there has been extensive discussion on this topic sparked by attempts to
+space_27.txt$block the galileo and ulysses launches on grounds of the plutonium
+space_27.txt$thermal sources being dangerous numerous studies claim that even in
+space_27.txt$worstcase scenarios shuttle explosion during launch or accidental
+space_27.txt$reentry at interplanetary velocities the risks are extremely small
+space_27.txt$two interesting data points are 1 the may 1968 loss of two snap 19b2
+space_27.txt$rtgs which landed intact in the pacific ocean after a nimbus b weather
+space_27.txt$satellite failed to reach orbit the fuel was recovered after 5 months
+space_27.txt$with no release of plutonium 2 in april 1970 the apollo 13 lunar
+space_27.txt$module reentered the atmosphere and its snap 27 rtg heat source which
+space_27.txt$was jettisoned fell intact into the 20000 feet deep tonga trench in
+space_27.txt$the pacific ocean the corrosion resistant materials of the rtg are
+space_27.txt$expected to prevent release of the fuel for a period of time equal to 10
+space_27.txt$halflives of the pu238 fuel or about 870 years doe 1980
+space_27.txt$to make your own informed judgement some references you may wish to
+space_27.txt$pursue are
+space_27.txt$a good review of the technical facts and issues is given by daniel
+space_27.txt$salisbury in radiation risk and planetary exploration the rtg
+space_27.txt$controversy planetary report mayjune 1987 pages 37 another good
+space_27.txt$article which also reviews the events preceding galileos launch
+space_27.txt$showdown at pad 39b by robert g nichols appeared in the november
+space_27.txt$1989 issue of ad astra both magazines are published by prospace
+space_27.txt$organizations the planetary society and the national space society
+space_27.txt$respectively
+space_27.txt$gordon l chipman jr advanced space nuclear systems aas 82261 in
+space_27.txt$developing the space frontier edited by albert naumann and grover
+space_27.txt$alexander univelt 1983 p 193213
+space_27.txt$hazards from plutonium toxicity by bernard l cohen health physics
+space_27.txt$vol 32 may 1977 page 359379
+space_27.txt$nus corporation safety status report for the ulysses mission risk
+space_27.txt$analysis book 1 document number is nus 5235 there is no gpo 
+space_27.txt$published jan 31 1990
+space_27.txt$nasa office of space science and applications final environmental
+space_27.txt$impact statement for the ulysses mission tier 2 no serial number or
+space_27.txt$gpo number but probably available from ntis or nasa june 1990
+space_27.txt$doe 1980 us  department of energy transuranic elements in the
+space_27.txt$environment wayne c  hanson editor doe document no  doetic22800
+space_27.txt$government printing office washington dc april 1980
+space_27.txt$from time to time claims are made that chemicals released from
+space_27.txt$the space shuttles solid rocket boosters srbs are responsible
+space_27.txt$for a significant amount of damage to the ozone layer studies
+space_27.txt$indicate that they in reality have only a minute impact both in
+space_27.txt$absolute terms and relative to other chemical sources the
+space_27.txt$remainder of this item is a response from the author of the quoted
+space_27.txt$study charles jackman
+space_27.txt$the atmospheric modelling study of the space shuttle effects on the
+space_27.txt$stratosphere involved three independent theoretical groups and was
+space_27.txt$organized by dr michael prather nasagoddard institute for space
+space_27.txt$studies  the three groups involved michael prather and maria garcia
+space_27.txt$nasagiss charlie jackman and anne douglass nasagoddard space
+space_27.txt$flight center and malcolm ko and dak sze atmospheric and
+space_27.txt$environmental research inc  the effort was to look at the effects
+space_27.txt$of the space shuttle and titan rockets on the stratosphere
+space_27.txt$the following are the estimated sources of stratospheric chlorine
+space_27.txt$industrial sources    300000000 kilogramsyear
+space_27.txt$natural sources     75000000 kilogramsyear
+space_27.txt$shuttle sources	  725000 kilogramsyear
+space_27.txt$the shuttle source assumes 9 space shuttles and 6 titan rockets are
+space_27.txt$launched yearly thus the launches would add less than 025 to the
+space_27.txt$total stratospheric chlorine sources
+space_27.txt$the effect on ozone is minimal  global yearly average total ozone would
+space_27.txt$be decreased by 00065 this is much less than total ozone variability
+space_27.txt$associated with volcanic activity and solar flares
+space_27.txt$the influence of humanmade chlorine products on ozone is computed
+space_27.txt$by atmospheric model calculations to be a 1 decrease in globally
+space_27.txt$averaged ozone between 1980 and 1990 the influence of the space shuttle and
+space_27.txt$titan rockets on the stratosphere is negligible  the launch
+space_27.txt$schedule of the space shuttle and titan rockets would need to be
+space_27.txt$increased by over a factor of a hundred in order to have about
+space_27.txt$the same effect on ozone as our increases in industrial halocarbons
+space_27.txt$do at the present time
+space_27.txt$theoretical results of this study have been published in the space
+space_27.txt$shuttles impact on the stratosphere mj prather mm garcia ar
+space_27.txt$douglass ch jackman mkw ko and nd sze journal of geophysical
+space_27.txt$research 95 1858318590 1990
+space_27.txt$charles jackman atmospheric chemistry and dynamics branch
+space_27.txt$code 916 nasagoddard space flight center
+space_27.txt$greenbelt md  20771
+space_27.txt$also see chemical rockets and the environment a mcdonald r bennett
+space_27.txt$j hinshaw and m barnes aerospace america may 1991
+space_27.txt$if you dont try to hold your breath exposure to space for half a
+space_27.txt$minute or so is unlikely to produce permanent injury holding your
+space_27.txt$breath is likely to damage your lungs something scuba divers have to
+space_27.txt$watch out for when ascending and youll have eardrum trouble if your
+space_27.txt$eustachian tubes are badly plugged up but theory predicts  and animal
+space_27.txt$experiments confirm  that otherwise exposure to vacuum causes no
+space_27.txt$immediate injury you do not explode your blood does not boil you do
+space_27.txt$not freeze you do not instantly lose consciousness
+space_27.txt$various minor problems sunburn possibly the bends certainly some
+space_27.txt$mild reversible painless swelling of skin and underlying tissue
+space_27.txt$start after ten seconds or so at some point you lose consciousness from
+space_27.txt$lack of oxygen injuries accumulate after perhaps one or two minutes
+space_27.txt$youre dying the limits are not really known
+space_27.txt$references
+space_27.txt$the effect on the chimpanzee of rapid decompression to a near vacuum
+space_27.txt$alfred g koestler ed nasa cr329 nov 1965
+space_27.txt$experimental animal decompression to a near vacuum environment rw
+space_27.txt$bancroft je dunn eds report samtr6548 june 1965 usaf school
+space_27.txt$of aerospace medicine brooks afb texas
+space_27.txt$the challenger shuttle launch was not destroyed in an explosion this is
+space_27.txt$a welldocumented fact see the rogers commission report for example
+space_27.txt$what looked like an explosion was fuel burning after the external tank
+space_27.txt$came apart the forces on the crew cabin were not sufficient to kill the
+space_27.txt$astronauts never mind destroy their bodies according to the kerwin
+space_27.txt$teams medicalforensic report
+space_27.txt$the astronauts were killed when the moreorless intact cabin hit the
+space_27.txt$water at circa 200mph and their bodies then spent several weeks
+space_27.txt$underwater their remains were recovered and after the kerwin team
+space_27.txt$examined them they were sent off to be buried
+space_27.txt$you cant use the shuttle orbiter for missions beyond low earth orbit
+space_27.txt$because it cant get there it is big and heavy and does not carry
+space_27.txt$enough fuel even if you fill part of the cargo bay with tanks
+space_27.txt$furthermore it is not particularly sensible to do so because much of
+space_27.txt$that weight is things like wings which are totally useless except in
+space_27.txt$the immediate vicinity of the earth the shuttle orbiter is highly
+space_27.txt$specialized for travel between earths surface and low orbit taking it
+space_27.txt$higher is enormously costly and wasteful a much better approach would
+space_27.txt$be to use shuttle subsystems to build a specialized highorbit
+space_27.txt$spacecraft
+space_27.txt$yet another concise answer by henry spencer
+space_27.txt$there really is a big rock on mars that looks remarkably like a humanoid
+space_27.txt$face it appears in two different frames of viking orbiter imagery
+space_27.txt$35a72 much more facelike in appearance and the one more often
+space_27.txt$published with the sun 10 degrees above western horizon and 70a13
+space_27.txt$with the sun 27 degrees from the west
+space_27.txt$science writer richard hoagland has championed the idea that the face is
+space_27.txt$artificial intended to resemble a human and erected by an
+space_27.txt$extraterrestrial civilization most other analysts concede that the
+space_27.txt$resemblance is most likely accidental other viking images show a
+space_27.txt$smileyfaced crater and a lava flow resembling kermit the frog elsewhere
+space_27.txt$on mars there exists a mars anomalies research society sorry dont
+space_27.txt$know the address to study the face
+space_27.txt$the mars observer mission will carry an extremely highresolution
+space_27.txt$camera and better images of the formation will hopefully settle this
+space_27.txt$question in a few years in the meantime speculation about the face is
+space_27.txt$best carried on in the altnet group altalienvisitors not scispace or
+space_27.txt$sciastro
+space_27.txt$v dipeitro and g molenaar unusual martian surface features mars
+space_27.txt$research po box 284 glen dale maryland usa 1982 18 by mail
+space_27.txt$rr pozos the face of mars chicago review press 1986 account of
+space_27.txt$an interdisciplinary speculative conference hoagland organized to
+space_27.txt$investigate the face
+space_27.txt$rc hoagland the monuments of mars a city on the edge of forever
+space_27.txt$north atlantic books berkeley california usa 1987 elaborate
+space_27.txt$discussion of evidence and speculation that formations near the face
+space_27.txt$form a city
+space_27.txt$mj carlotto digital imagery analysis of unusual martian surface
+space_27.txt$features applied optics 27 pp 19261933 1987 extracts
+space_27.txt$threedimensional model for the face from the 2d images
+space_27.txt$mj carlotto  mc stein a method of searching for artificial
+space_27.txt$objects on planetary surfaces journal of the british interplanetary
+space_27.txt$society vol 43 no 5 may 1990 p209216 uses a fractal image
+space_27.txt$analysis model to guess whether the face is artificial
+space_27.txt$b oleary analysis of images of the face on mars and possible
+space_27.txt$intelligent origin jbis vol 43 no 5 may 1990 p 203208
+space_27.txt$lights carlottos model from the two angles and shows its consistent
+space_27.txt$shows that the face doesnt look facelike if observed from the surface
+space_27.txt$next faq 1315  space activistinterestresearch groups  space publications

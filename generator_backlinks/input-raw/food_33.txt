@@ -1,0 +1,12 @@
+food_33.txt$1          loaf  french bread  unsliced
+food_33.txt$1 12        pounds  lean ground beef
+food_33.txt$2   tablespoons  onion  grated
+food_33.txt$1 12          cups  medium or sharp cheddar cheese  grated
+food_33.txt$1           cup  sour cream
+food_33.txt$1    tablespoon  worcestershire sauce
+food_33.txt$salt  pepper  totaste
+food_33.txt$2        medium  tomatoes  chopped
+food_33.txt$1                green bell pepper  seeded and chopped
+food_33.txt$
+food_33.txt$slice the bread lengthwise lightly butter the bread and wrap in foil bake at 350 degrees f for 15 minutes 
+food_33.txt$brown the meat and drain the excess fat add the onion and cook until the onion is transparent remove from the heat and add the sour cream worcestershire sauce salt and pepper remove the bread from the oven and spread the meat mixture on each half arrange the chopped tomatoes and chopped green pepper on top of the meat mixture and top with the grated cheese place back in the oven and bake only until the cheese is melted serve hot

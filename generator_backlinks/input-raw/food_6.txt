@@ -1,0 +1,20 @@
+food_6.txt$2 14          cups  flour
+food_6.txt$1 14          cups  sugar
+food_6.txt$14      teaspoon  baking powder
+food_6.txt$salt
+food_6.txt$3                eggs  lightly beaten
+food_6.txt$1    tablespoon  vegetable oil
+food_6.txt$14      teaspoon  almond extract
+food_6.txt$zest of 1 orange  fine grated
+food_6.txt$12           cup  coarsely chopped almonds
+food_6.txt$vegetable shortening
+food_6.txt$
+food_6.txt$1 preheat oven to 350 grease and flour baking sheet shake off excess 
+food_6.txt$
+food_6.txt$2 in a large bowl sift flour sugar baking powder and salt together make a well in center of mixture to the well add remaining ingredients with your hands work dry mixture with liquids until a dough has been formed divide the dough in half 
+food_6.txt$
+food_6.txt$3 on a lightly floured surface shape dough into 2 flatbottomed cylinders 1 in high 2 12 in wide and 8 in long remove each to the baking sheet bake for 30 to 35 minutes until lightly colored on top remove from oven and cool slightly 
+food_6.txt$
+food_6.txt$4 holding a long sharp knife by the handle and tip cut cylinders diagonally into 34in slices carefully place slices back on baking sheet cut sides down return to oven for 15 minutes more and bake until sides are golden and biscotti have dried a bit remove from oven and cool on wire racks the biscotti should be somewhat hard and crunchy 
+food_6.txt$
+food_6.txt$yield 20 to 24 biscotti  you can also dip one end into some melted chocolate for a nice effect and great taste

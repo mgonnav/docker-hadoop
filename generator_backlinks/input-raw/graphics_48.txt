@@ -1,0 +1,15 @@
+graphics_48.txt$youll probably have to set the palette up before you try drawing
+graphics_48.txt$in the new colours
+graphics_48.txt$use the bios interrupt calls to set the r g  b values in the range
+graphics_48.txt$from 063 for most cards for a particular palette colour in the
+graphics_48.txt$range from 0255 for 256 colour modes
+graphics_48.txt$then you should be able to draw pixels in those palette values and
+graphics_48.txt$the result should be ok
+graphics_48.txt$you might have to do a bit of colourmap compressing if you have
+graphics_48.txt$more than 256 unique rgb triplets for a 256 colour mode
+graphics_48.txt$geoff thomas			geoffreycosccanterburyacnz
+graphics_48.txt$computer science dept
+graphics_48.txt$university of canterbury
+graphics_48.txt$private bag				
+graphics_48.txt$christchurch				 oook 
+graphics_48.txt$new zealand				

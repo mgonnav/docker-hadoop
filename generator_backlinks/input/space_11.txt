@@ -1,0 +1,869 @@
+space_11.txt$archivename spacemath
+space_11.txt$lastmodified date 930401 143912 
+space_11.txt$references that have been frequently recommended on the net are
+space_11.txt$fundamentals of astrodynamics roger bate donald mueller jerry white
+space_11.txt$1971 dover press 455pp 895 us paperback isbn 0486600610
+space_11.txt$nasa spaceflight handbooks dating from the 1960s
+space_11.txt$sp33 orbital flight handbook 3 parts
+space_11.txt$sp34 lunar flight handbook   3 parts
+space_11.txt$sp35 planetary flight handbook 9 parts
+space_11.txt$these might be found in university aeronautics libraries or ordered
+space_11.txt$through the us govt printing office gpo although more
+space_11.txt$information would probably be needed to order them
+space_11.txt$m a minovitch the determination and characteristics of ballistic
+space_11.txt$interplanetary trajectories under the influence of multiple planetary
+space_11.txt$attractions technical report 32464 jet propulsion laboratory
+space_11.txt$pasadena calif oct 1963
+space_11.txt$the title says all starts of with the basics and works its way up
+space_11.txt$very good it has a companion article
+space_11.txt$m minovitch utilizing large planetary perubations for the design of
+space_11.txt$deepspace solarprobe and out of ecliptic trajectories technical
+space_11.txt$report 32849 jpl pasadena calif 1965
+space_11.txt$you need to read the first one first to realy understand this one
+space_11.txt$it does include a short summary if you can only find the second
+space_11.txt$contact jpl for availability of these reports
+space_11.txt$spacecraft attitude dynamics peter c hughes 1986 john wiley and
+space_11.txt$sons
+space_11.txt$celestial mechanics a computational guide for the practitioner
+space_11.txt$lawrence g taff wileyinterscience new york 1985
+space_11.txt$starts with the basics 2body problem coordinates and works up to
+space_11.txt$orbit determinations perturbations and differential corrections
+space_11.txt$taff also briefly discusses stellar dynamics including a short
+space_11.txt$discussion of nbody problems
+space_11.txt$more net references
+space_11.txt$van flandern  pullinen lowprecision formulae for planetary
+space_11.txt$positions astrophysical j supp series 41391411 1979 look in an
+space_11.txt$astronomy or physics library for this also said to be available from
+space_11.txt$willmannbell
+space_11.txt$gives series to compute positions accurate to 1 arc minute for a
+space_11.txt$period  or  300 years from now pluto is included but stated to
+space_11.txt$have an accuracy of only about 15 arc minutes
+space_11.txt$multiyear interactive computer almanac mica produced by the us
+space_11.txt$naval observatory valid for years 19901999 55 80 outside us
+space_11.txt$available for ibm order pb93500163hdv or macintosh order
+space_11.txt$pb93500155hdv from the ntis sales desk 7034874650 i believe
+space_11.txt$this is intended to replace the usnos interactive computer ephemeris
+space_11.txt$interactive computer ephemeris from the us naval observatory
+space_11.txt$distributed on ibmpc floppy disks 35 willmannbell covers dates
+space_11.txt$planetary programs and tables from 4000 to 2800 bretagnon  simon
+space_11.txt$1986 willmannbell
+space_11.txt$floppy disks available separately
+space_11.txt$fundamentals of celestial mechanics 2nd ed jma danby 1988
+space_11.txt$willmannbell
+space_11.txt$a good fundamental text includes basic programs a companion set of
+space_11.txt$floppy disks is available separately
+space_11.txt$astronomical formulae for calculators 4th ed j meeus 1988
+space_11.txt$willmannbell
+space_11.txt$astronomical algorithms j meeus 1991 willmannbell
+space_11.txt$if you actively use one of the editions of astronomical formulae
+space_11.txt$for calculators you will want to replace it with astronomical
+space_11.txt$algorithms this new book is more oriented towards computers than
+space_11.txt$calculators and contains formulae for planetary motion based on
+space_11.txt$modern work by the jet propulsion laboratory the us naval
+space_11.txt$observatory and the bureau des longitudes the previous books were
+space_11.txt$all based on formulae mostly developed in the last century
+space_11.txt$algorithms available separately on diskette
+space_11.txt$practical astronomy with your calculator 3rd ed p duffettsmith
+space_11.txt$1988 cambridge university press
+space_11.txt$orbits for amateurs with a microcomputer d tattersfield 1984
+space_11.txt$stanley thornes ltd
+space_11.txt$includes example programs in basic
+space_11.txt$orbits for amateurs ii d tattersfield 1987 john wiley  sons
+space_11.txt$astronomy  scientific software  catalog of shareware public domain
+space_11.txt$and commercial software for ibm and other pcs astronomy software
+space_11.txt$includes planetarium simulations ephemeris generators astronomical
+space_11.txt$databases solar system simulations satellite tracking programs
+space_11.txt$celestial mechanics simulators and more
+space_11.txt$andromeda software inc
+space_11.txt$po box 605
+space_11.txt$amherst ny 142260605
+space_11.txt$astrogeologist gene shoemaker proposes the following formula based on
+space_11.txt$studies of cratering caused by nuclear tests
+space_11.txt$d  s  s  c  k  w	     crater diameter in km
+space_11.txt$s  g g 		     gravity correction factor for bodies other than
+space_11.txt$g	  e  t		      earth where g  98 ms2 and g	is the surface
+space_11.txt$e		      t
+space_11.txt$gravity of the target body this scaling is
+space_11.txt$cited for lunar craters and may hold true for
+space_11.txt$other bodies
+space_11.txt$s  p  p 	     correction factor for target density p  
+space_11.txt$p	  a   t							    t
+space_11.txt$p   18 gcm3 for alluvium at the jangle u
+space_11.txt$a
+space_11.txt$crater site p  26 gcm3 for average
+space_11.txt$rock on the continental shields
+space_11.txt$c			     crater collapse factor 1 for craters  3 km
+space_11.txt$in diameter 13 for larger craters on earth
+space_11.txt$k			     074 km  kt tnt equivalent
+space_11.txt$n			      empirically determined from the jangle u
+space_11.txt$nuclear test crater
+space_11.txt$w  pi  d	 delta  v   12  4185  10  
+space_11.txt$ projectile kinetic energy in kt tnt equivalent
+space_11.txt$given diameter d velocity v and projectile
+space_11.txt$density delta in cgs units delta of around 3
+space_11.txt$gcm3 is fairly good for an asteroid
+space_11.txt$an rms velocity of v  20 kmsec may be used for earthcrossing
+space_11.txt$asteroids
+space_11.txt$under these assumptions the body which created the barringer meteor
+space_11.txt$crater in arizona 113 km diameter would have been about 40 meters in
+space_11.txt$diameter
+space_11.txt$more generally one can use after gehrels 1985
+space_11.txt$asteroid	    number of objects  impact probability  impact energy
+space_11.txt$diameter km		       impactsyear	    51020 ergs
+space_11.txt$assuming simple scaling laws note that 51020 ergs  13 000 tons tnt
+space_11.txt$equivalent or the energy released by the hiroshima abomb
+space_11.txt$references
+space_11.txt$gehrels t 1985 asteroids and comets physics today 38 3241 an
+space_11.txt$excellent general overview of the subject for the layman
+space_11.txt$shoemaker em 1983 asteroid and comet bombardment of the earth ann
+space_11.txt$rev earth planet sci 11 461494 very long and fairly
+space_11.txt$technical but a comprehensive examination of the
+space_11.txt$subject
+space_11.txt$shoemaker em jg williams ef helin  rf wolfe 1979
+space_11.txt$earthcrossing asteroids orbital classes collision rates with
+space_11.txt$earth and origin in asteroids t gehrels ed pp 253282
+space_11.txt$university of arizona press tucson
+space_11.txt$cunningham cj 1988 introduction to asteroids the next frontier
+space_11.txt$richmond willmanbell inc covers all aspects of asteroid
+space_11.txt$studies and is an excellent introduction to the subject for people
+space_11.txt$of all experience levels it also has a very extensive reference
+space_11.txt$list covering essentially all of the reference material in the
+space_11.txt$field
+space_11.txt$two easytofind sources of map projections are the encyclopaedia
+space_11.txt$brittanica particularly the older volumes and a tutorial appearing
+space_11.txt$in graphics gems academic press 1990 the latter was written with
+space_11.txt$simplicity of exposition and suitability of digital computation in mind
+space_11.txt$spherical trig formulae also appear as do digitallyplotted examples
+space_11.txt$more than you ever cared to know about map projections is in john
+space_11.txt$snyders usgs publication map projectionsa working manual usgs
+space_11.txt$professional paper 1395 this contains detailed descriptions of 32
+space_11.txt$projections with history features projection formulas for both
+space_11.txt$spherical earth and ellipsoidal earth and numerical test cases its a
+space_11.txt$neat book all 382 pages worth this ones 20
+space_11.txt$you might also want the companion volume by snyder and philip voxland
+space_11.txt$an album of map projections usgs professional paper 1453 this
+space_11.txt$contains less detail on about 130 projections and variants formulas are
+space_11.txt$in the back example plots in the front 14 250 pages
+space_11.txt$you can order these 2 ways the cheap slow way is direct from usgs
+space_11.txt$earth science information center us geological survey 507 national
+space_11.txt$center reston va 22092 800usamaps they can quote you a price and
+space_11.txt$tell you where to send your money expect a 68 week turnaround time
+space_11.txt$a much faster way about 1 week is through timely discount topos
+space_11.txt$3034695022 9769 w 119th drive suite 9 broomfield co 80021 call
+space_11.txt$them and tell them what you want theyll quote a price you send a
+space_11.txt$check and then they go to usgs customer service counter and pick it up
+space_11.txt$for you add about a 34 service charge plus shipping
+space_11.txt$a perhaps more accessible mapping article is
+space_11.txt$r miller and f reddy mapping the world in pascal
+space_11.txt$byte v12 14 december 1987
+space_11.txt$contains turbo pascal procedures for five common map projections a
+space_11.txt$demo program cartogpas and a small 6000 point coastline data
+space_11.txt$is available on compuserve genie and many bbss
+space_11.txt$some references for spherical trignometry are
+space_11.txt$spherical astronomy wm smart cambridge u press 1931
+space_11.txt$a compendium of spherical astronomy s newcomb dover 1960
+space_11.txt$spherical astronomy rm green cambridge u press 1985 update
+space_11.txt$of smart
+space_11.txt$spherical astronomy e woolard and gclemence academic
+space_11.txt$press 1966
+space_11.txt$computer simulation using particles
+space_11.txt$r w hockney and j w eastwood
+space_11.txt$adam hilger bristol and philadelphia 1988
+space_11.txt$the rapid evaluation of potential fields in particle systems
+space_11.txt$l greengard
+space_11.txt$mit press 1988
+space_11.txt$a breakthrough on simulation method has been parallelized
+space_11.txt$l greengard and v rokhlin a fast algorithm for particle
+space_11.txt$simulations journal of computational physics 73325348 1987
+space_11.txt$an on algorithm for threedimensional nbody simulations msee
+space_11.txt$thesis feng zhao mit ailab technical report 995 1987
+space_11.txt$galactic dynamics
+space_11.txt$j binney  s tremaine
+space_11.txt$princeton u press princeton 1987
+space_11.txt$includes an on2 fortran code written by aarseth a pioneer in
+space_11.txt$the field
+space_11.txt$hierarchical n log n tree methods are described in these papers
+space_11.txt$a w appel an efficient program for manybody simulation siam
+space_11.txt$journal of scientific and statistical computing vol 6 p 85
+space_11.txt$barnes  hut a hierarchical on log n forcecalculation
+space_11.txt$algorithm nature v324  6096 410 dec 1986
+space_11.txt$l hernquist hierarchical nbody methods computer physics
+space_11.txt$communications vol 48 p 107 1988
+space_11.txt$if you just need to examine fits images use the ppm package see the
+space_11.txt$compgraphics faq to convert them to your preferred format for more
+space_11.txt$information on the format and other software to read and write it see
+space_11.txt$the sciastrofits faq
+space_11.txt$the 6th edition of the unix operating system came with several software
+space_11.txt$systems not distributed because of older media capacity limitations
+space_11.txt$included were an ephmeris a satellite track and speech synthesis
+space_11.txt$software the ephmeris sky6 is available within att and to sites
+space_11.txt$possessing a unix source code license the program is regarded as unix
+space_11.txt$source code sky is 05mb send proof of source code license to
+space_11.txt$e miya
+space_11.txt$nasa ames research center
+space_11.txt$moffett field ca 940351000
+space_11.txt$eugeneorvillenasnasagov
+space_11.txt$to generate 3d coordinates of astronomical objects first obtain an
+space_11.txt$astronomical database which specifies right ascension declination and
+space_11.txt$parallax for the objects convert parallax into distance using the
+space_11.txt$formula in part 6 of the faq convert ra and declination to coordinates
+space_11.txt$on a unit sphere see some of the references on planetary positions and
+space_11.txt$spherical trignometry earlier in this section for details on this and
+space_11.txt$scale this by the distance
+space_11.txt$two databases useful for this purpose are the yale bright star catalog
+space_11.txt$sources listed in faq section 3 or the catalogue of stars within 25
+space_11.txt$parsecs of the sun in pubspacefaqstarsdata and starsdoc on
+space_11.txt$amesarcnasagov
+space_11.txt$next faq 515  references on specific areas
+space_11.txt$food_93.txt
+space_11.txt$graphics_20.txt
+space_11.txt$sport_83.txt
+space_11.txt$medical_424.txt
+space_11.txt$space_68.txt
+space_11.txt$sport_65.txt
+space_11.txt$entertainment_37.txt
+space_11.txt$medical_572.txt
+space_11.txt$business_20.txt
+space_11.txt$business_28.txt
+space_11.txt$politics_136.txt
+space_11.txt$medical_500.txt
+space_11.txt$technologie_13.txt
+space_11.txt$food_78.txt
+space_11.txt$graphics_29.txt
+space_11.txt$graphics_13.txt
+space_11.txt$historical_23.txt
+space_11.txt$food_53.txt
+space_11.txt$politics_131.txt
+space_11.txt$historical_100.txt
+space_11.txt$historical_26.txt
+space_11.txt$technologie_84.txt
+space_11.txt$business_99.txt
+space_11.txt$medical_1.txt
+space_11.txt$space_76.txt
+space_11.txt$business_19.txt
+space_11.txt$graphics_75.txt
+space_11.txt$medical_40.txt
+space_11.txt$graphics_6.txt
+space_11.txt$business_75.txt
+space_11.txt$medical_691.txt
+space_11.txt$graphics_52.txt
+space_11.txt$business_58.txt
+space_11.txt$business_13.txt
+space_11.txt$entertainment_33.txt
+space_11.txt$historical_88.txt
+space_11.txt$business_40.txt
+space_11.txt$politics_229.txt
+space_11.txt$graphics_65.txt
+space_11.txt$sport_8.txt
+space_11.txt$graphics_7.txt
+space_11.txt$historical_74.txt
+space_11.txt$historical_81.txt
+space_11.txt$entertainment_24.txt
+space_11.txt$food_5.txt
+space_11.txt$historical_44.txt
+space_11.txt$space_5.txt
+space_11.txt$historical_98.txt
+space_11.txt$technologie_50.txt
+space_11.txt$politics_111.txt
+space_11.txt$historical_99.txt
+space_11.txt$business_65.txt
+space_11.txt$sport_59.txt
+space_11.txt$politics_15.txt
+space_11.txt$food_87.txt
+space_11.txt$historical_25.txt
+space_11.txt$sport_88.txt
+space_11.txt$food_12.txt
+space_11.txt$politics_319.txt
+space_11.txt$sport_52.txt
+space_11.txt$historical_12.txt
+space_11.txt$graphics_59.txt
+space_11.txt$food_48.txt
+space_11.txt$space_74.txt
+space_11.txt$business_14.txt
+space_11.txt$space_1.txt
+space_11.txt$entertainment_85.txt
+space_11.txt$entertainment_27.txt
+space_11.txt$space_71.txt
+space_11.txt$politics_128.txt
+space_11.txt$entertainment_90.txt
+space_11.txt$technologie_43.txt
+space_11.txt$entertainment_30.txt
+space_11.txt$sport_78.txt
+space_11.txt$technologie_42.txt
+space_11.txt$food_81.txt
+space_11.txt$politics_117.txt
+space_11.txt$historical_50.txt
+space_11.txt$technologie_89.txt
+space_11.txt$technologie_53.txt
+space_11.txt$technologie_59.txt
+space_11.txt$historical_80.txt
+space_11.txt$space_44.txt
+space_11.txt$business_29.txt
+space_11.txt$entertainment_39.txt
+space_11.txt$food_11.txt
+space_11.txt$historical_33.txt
+space_11.txt$politics_231.txt
+space_11.txt$sport_26.txt
+space_11.txt$graphics_3.txt
+space_11.txt$politics_282.txt
+space_11.txt$politics_31.txt
+space_11.txt$entertainment_38.txt
+space_11.txt$graphics_44.txt
+space_11.txt$historical_42.txt
+space_11.txt$business_85.txt
+space_11.txt$business_92.txt
+space_11.txt$politics_232.txt
+space_11.txt$historical_16.txt
+space_11.txt$historical_7.txt
+space_11.txt$space_32.txt
+space_11.txt$graphics_32.txt
+space_11.txt$historical_73.txt
+space_11.txt$entertainment_99.txt
+space_11.txt$business_21.txt
+space_11.txt$historical_51.txt
+space_11.txt$business_90.txt
+space_11.txt$politics_316.txt
+space_11.txt$politics_326.txt
+space_11.txt$politics_335.txt
+space_11.txt$medical_619.txt
+space_11.txt$medical_376.txt
+space_11.txt$historical_60.txt
+space_11.txt$sport_28.txt
+space_11.txt$graphics_28.txt
+space_11.txt$food_85.txt
+space_11.txt$graphics_96.txt
+space_11.txt$space_65.txt
+space_11.txt$medical_565.txt
+space_11.txt$graphics_92.txt
+space_11.txt$technologie_6.txt
+space_11.txt$entertainment_100.txt
+space_11.txt$entertainment_50.txt
+space_11.txt$space_81.txt
+space_11.txt$entertainment_14.txt
+space_11.txt$food_66.txt
+space_11.txt$entertainment_62.txt
+space_11.txt$technologie_11.txt
+space_11.txt$technologie_72.txt
+space_11.txt$graphics_72.txt
+space_11.txt$historical_17.txt
+space_11.txt$technologie_83.txt
+space_11.txt$medical_645.txt
+space_11.txt$technologie_18.txt
+space_11.txt$business_59.txt
+space_11.txt$food_89.txt
+space_11.txt$entertainment_58.txt
+space_11.txt$space_37.txt
+space_11.txt$medical_694.txt
+space_11.txt$business_68.txt
+space_11.txt$medical_590.txt
+space_11.txt$sport_3.txt
+space_11.txt$space_83.txt
+space_11.txt$historical_55.txt
+space_11.txt$technologie_79.txt
+space_11.txt$graphics_61.txt
+space_11.txt$politics_275.txt
+space_11.txt$space_20.txt
+space_11.txt$food_79.txt
+space_11.txt$entertainment_19.txt
+space_11.txt$business_42.txt
+space_11.txt$technologie_10.txt
+space_11.txt$politics_212.txt
+space_11.txt$entertainment_92.txt
+space_11.txt$sport_2.txt
+space_11.txt$entertainment_88.txt
+space_11.txt$technologie_14.txt
+space_11.txt$graphics_60.txt
+space_11.txt$space_4.txt
+space_11.txt$politics_222.txt
+space_11.txt$politics_34.txt
+space_11.txt$graphics_100.txt
+space_11.txt$technologie_80.txt
+space_11.txt$medical_610.txt
+space_11.txt$historical_89.txt
+space_11.txt$politics_217.txt
+space_11.txt$technologie_75.txt
+space_11.txt$business_89.txt
+space_11.txt$space_16.txt
+space_11.txt$sport_69.txt
+space_11.txt$business_1.txt
+space_11.txt$sport_94.txt
+space_11.txt$business_60.txt
+space_11.txt$politics_139.txt
+space_11.txt$business_93.txt
+space_11.txt$space_23.txt
+space_11.txt$space_69.txt
+space_11.txt$sport_24.txt
+space_11.txt$politics_357.txt
+space_11.txt$space_80.txt
+space_11.txt$food_2.txt
+space_11.txt$historical_48.txt
+space_11.txt$space_46.txt
+space_11.txt$politics_130.txt
+space_11.txt$food_84.txt
+space_11.txt$sport_42.txt
+space_11.txt$entertainment_54.txt
+space_11.txt$technologie_19.txt
+space_11.txt$entertainment_59.txt
+space_11.txt$medical_586.txt
+space_11.txt$graphics_47.txt
+space_11.txt$medical_449.txt
+space_11.txt$technologie_23.txt
+space_11.txt$business_17.txt
+space_11.txt$entertainment_6.txt
+space_11.txt$politics_221.txt
+space_11.txt$politics_301.txt
+space_11.txt$technologie_77.txt
+space_11.txt$medical_542.txt
+space_11.txt$sport_7.txt
+space_11.txt$sport_27.txt
+space_11.txt$medical_559.txt
+space_11.txt$food_30.txt
+space_11.txt$graphics_38.txt
+space_11.txt$technologie_92.txt
+space_11.txt$sport_91.txt
+space_11.txt$technologie_81.txt
+space_11.txt$space_90.txt
+space_11.txt$medical_60.txt
+space_11.txt$graphics_53.txt
+space_11.txt$food_42.txt
+space_11.txt$sport_13.txt
+space_11.txt$politics_101.txt
+space_11.txt$food_90.txt
+space_11.txt$entertainment_84.txt
+space_11.txt$medical_286.txt
+space_11.txt$entertainment_95.txt
+space_11.txt$food_52.txt
+space_11.txt$medical_145.txt
+space_11.txt$sport_33.txt
+space_11.txt$food_97.txt
+space_11.txt$technologie_88.txt
+space_11.txt$space_51.txt
+space_11.txt$entertainment_71.txt
+space_11.txt$entertainment_68.txt
+space_11.txt$space_29.txt
+space_11.txt$technologie_60.txt
+space_11.txt$sport_14.txt
+space_11.txt$space_7.txt
+space_11.txt$technologie_47.txt
+space_11.txt$business_39.txt
+space_11.txt$space_93.txt
+space_11.txt$politics_220.txt
+space_11.txt$graphics_50.txt
+space_11.txt$historical_94.txt
+space_11.txt$politics_272.txt
+space_11.txt$food_68.txt
+space_11.txt$historical_47.txt
+space_11.txt$business_15.txt
+space_11.txt$entertainment_61.txt
+space_11.txt$space_48.txt
+space_11.txt$technologie_22.txt
+space_11.txt$entertainment_63.txt
+space_11.txt$food_21.txt
+space_11.txt$historical_97.txt
+space_11.txt$space_73.txt
+space_11.txt$sport_40.txt
+space_11.txt$politics_172.txt
+space_11.txt$historical_93.txt
+space_11.txt$graphics_67.txt
+space_11.txt$technologie_52.txt
+space_11.txt$historical_79.txt
+space_11.txt$sport_67.txt
+space_11.txt$graphics_84.txt
+space_11.txt$technologie_64.txt
+space_11.txt$medical_121.txt
+space_11.txt$graphics_2.txt
+space_11.txt$medical_608.txt
+space_11.txt$politics_155.txt
+space_11.txt$sport_4.txt
+space_11.txt$graphics_40.txt
+space_11.txt$business_78.txt
+space_11.txt$sport_36.txt
+space_11.txt$entertainment_2.txt
+space_11.txt$graphics_35.txt
+space_11.txt$business_32.txt
+space_11.txt$business_81.txt
+space_11.txt$entertainment_34.txt
+space_11.txt$medical_458.txt
+space_11.txt$historical_53.txt
+space_11.txt$space_62.txt
+space_11.txt$food_44.txt
+space_11.txt$politics_283.txt
+space_11.txt$graphics_5.txt
+space_11.txt$graphics_17.txt
+space_11.txt$graphics_16.txt
+space_11.txt$business_25.txt
+space_11.txt$politics_230.txt
+space_11.txt$historical_70.txt
+space_11.txt$business_18.txt
+space_11.txt$medical_289.txt
+space_11.txt$business_30.txt
+space_11.txt$food_72.txt
+space_11.txt$food_47.txt
+space_11.txt$entertainment_40.txt
+space_11.txt$graphics_21.txt
+space_11.txt$space_88.txt
+space_11.txt$business_66.txt
+space_11.txt$historical_72.txt
+space_11.txt$entertainment_89.txt
+space_11.txt$business_50.txt
+space_11.txt$sport_61.txt
+space_11.txt$medical_382.txt
+space_11.txt$business_4.txt
+space_11.txt$food_9.txt
+space_11.txt$graphics_49.txt
+space_11.txt$space_34.txt
+space_11.txt$graphics_39.txt
+space_11.txt$entertainment_25.txt
+space_11.txt$business_98.txt
+space_11.txt$space_10.txt
+space_11.txt$politics_277.txt
+space_11.txt$politics_208.txt
+space_11.txt$historical_58.txt
+space_11.txt$business_56.txt
+space_11.txt$space_64.txt
+space_11.txt$politics_237.txt
+space_11.txt$business_33.txt
+space_11.txt$graphics_81.txt
+space_11.txt$space_57.txt
+space_11.txt$graphics_33.txt
+space_11.txt$graphics_31.txt
+space_11.txt$graphics_82.txt
+space_11.txt$politics_307.txt
+space_11.txt$medical_334.txt
+space_11.txt$medical_624.txt
+space_11.txt$politics_119.txt
+space_11.txt$technologie_62.txt
+space_11.txt$food_35.txt
+space_11.txt$historical_45.txt
+space_11.txt$sport_34.txt
+space_11.txt$sport_11.txt
+space_11.txt$technologie_45.txt
+space_11.txt$medical_631.txt
+space_11.txt$entertainment_97.txt
+space_11.txt$space_25.txt
+space_11.txt$historical_36.txt
+space_11.txt$historical_1.txt
+space_11.txt$space_79.txt
+space_11.txt$space_8.txt
+space_11.txt$food_41.txt
+space_11.txt$technologie_16.txt
+space_11.txt$politics_193.txt
+space_11.txt$business_48.txt
+space_11.txt$politics_192.txt
+space_11.txt$sport_44.txt
+space_11.txt$entertainment_76.txt
+space_11.txt$medical_468.txt
+space_11.txt$medical_584.txt
+space_11.txt$entertainment_11.txt
+space_11.txt$medical_294.txt
+space_11.txt$sport_79.txt
+space_11.txt$sport_97.txt
+space_11.txt$historical_66.txt
+space_11.txt$historical_90.txt
+space_11.txt$medical_438.txt
+space_11.txt$graphics_9.txt
+space_11.txt$historical_28.txt
+space_11.txt$space_28.txt
+space_11.txt$food_54.txt
+space_11.txt$space_30.txt
+space_11.txt$space_99.txt
+space_11.txt$entertainment_82.txt
+space_11.txt$historical_8.txt
+space_11.txt$graphics_45.txt
+space_11.txt$historical_39.txt
+space_11.txt$technologie_15.txt
+space_11.txt$politics_149.txt
+space_11.txt$food_73.txt
+space_11.txt$technologie_68.txt
+space_11.txt$business_46.txt
+space_11.txt$politics_142.txt
+space_11.txt$sport_47.txt
+space_11.txt$historical_69.txt
+space_11.txt$food_77.txt
+space_11.txt$technologie_91.txt
+space_11.txt$space_17.txt
+space_11.txt$politics_114.txt
+space_11.txt$historical_96.txt
+space_11.txt$historical_11.txt
+space_11.txt$space_9.txt
+space_11.txt$food_46.txt
+space_11.txt$sport_22.txt
+space_11.txt$historical_9.txt
+space_11.txt$food_92.txt
+space_11.txt$business_79.txt
+space_11.txt$technologie_17.txt
+space_11.txt$medical_437.txt
+space_11.txt$business_82.txt
+space_11.txt$politics_273.txt
+space_11.txt$medical_646.txt
+space_11.txt$sport_41.txt
+space_11.txt$business_23.txt
+space_11.txt$medical_295.txt
+space_11.txt$historical_29.txt
+space_11.txt$technologie_96.txt
+space_11.txt$space_70.txt
+space_11.txt$technologie_51.txt
+space_11.txt$sport_12.txt
+space_11.txt$politics_127.txt
+space_11.txt$entertainment_17.txt
+space_11.txt$space_97.txt
+space_11.txt$politics_239.txt
+space_11.txt$entertainment_13.txt
+space_11.txt$business_96.txt
+space_11.txt$food_63.txt
+space_11.txt$medical_314.txt
+space_11.txt$food_59.txt
+space_11.txt$business_11.txt
+space_11.txt$medical_168.txt
+space_11.txt$technologie_28.txt
+space_11.txt$politics_151.txt
+space_11.txt$politics_19.txt
+space_11.txt$politics_153.txt
+space_11.txt$entertainment_87.txt
+space_11.txt$entertainment_83.txt
+space_11.txt$graphics_51.txt
+space_11.txt$food_58.txt
+space_11.txt$food_95.txt
+space_11.txt$space_92.txt
+space_11.txt$graphics_19.txt
+space_11.txt$medical_488.txt
+space_11.txt$historical_77.txt
+space_11.txt$food_45.txt
+space_11.txt$food_62.txt
+space_11.txt$space_52.txt
+space_11.txt$technologie_94.txt
+space_11.txt$sport_50.txt
+space_11.txt$sport_37.txt
+space_11.txt$graphics_34.txt
+space_11.txt$medical_499.txt
+space_11.txt$politics_175.txt
+space_11.txt$graphics_74.txt
+space_11.txt$entertainment_35.txt
+space_11.txt$politics_138.txt
+space_11.txt$entertainment_73.txt
+space_11.txt$historical_22.txt
+space_11.txt$medical_349.txt
+space_11.txt$sport_76.txt
+space_11.txt$historical_52.txt
+space_11.txt$technologie_8.txt
+space_11.txt$technologie_1.txt
+space_11.txt$space_3.txt
+space_11.txt$graphics_83.txt
+space_11.txt$space_53.txt
+space_11.txt$entertainment_23.txt
+space_11.txt$food_88.txt
+space_11.txt$politics_262.txt
+space_11.txt$entertainment_32.txt
+space_11.txt$medical_58.txt
+space_11.txt$politics_144.txt
+space_11.txt$medical_448.txt
+space_11.txt$space_49.txt
+space_11.txt$politics_303.txt
+space_11.txt$sport_29.txt
+space_11.txt$politics_226.txt
+space_11.txt$historical_14.txt
+space_11.txt$politics_325.txt
+space_11.txt$technologie_86.txt
+space_11.txt$food_61.txt
+space_11.txt$entertainment_80.txt
+space_11.txt$sport_18.txt
+space_11.txt$food_98.txt
+space_11.txt$politics_211.txt
+space_11.txt$medical_250.txt
+space_11.txt$technologie_30.txt
+space_11.txt$medical_158.txt
+space_11.txt$entertainment_65.txt
+space_11.txt$sport_6.txt
+space_11.txt$space_42.txt
+space_11.txt$politics_21.txt
+space_11.txt$food_49.txt
+space_11.txt$entertainment_1.txt
+space_11.txt$graphics_79.txt
+space_11.txt$food_64.txt
+space_11.txt$entertainment_18.txt
+space_11.txt$historical_78.txt
+space_11.txt$business_3.txt
+space_11.txt$technologie_33.txt
+space_11.txt$sport_70.txt
+space_11.txt$sport_92.txt
+space_11.txt$space_54.txt
+space_11.txt$medical_679.txt
+space_11.txt$sport_16.txt
+space_11.txt$politics_235.txt
+space_11.txt$sport_82.txt
+space_11.txt$technologie_26.txt
+space_11.txt$entertainment_98.txt
+space_11.txt$politics_322.txt
+space_11.txt$sport_56.txt
+space_11.txt$technologie_24.txt
+space_11.txt$medical_157.txt
+space_11.txt$technologie_87.txt
+space_11.txt$business_84.txt
+space_11.txt$entertainment_51.txt
+space_11.txt$space_72.txt
+space_11.txt$medical_335.txt
+space_11.txt$medical_425.txt
+space_11.txt$sport_20.txt
+space_11.txt$space_18.txt
+space_11.txt$historical_35.txt
+space_11.txt$medical_660.txt
+space_11.txt$food_50.txt
+space_11.txt$graphics_37.txt
+space_11.txt$sport_19.txt
+space_11.txt$medical_244.txt
+space_11.txt$space_63.txt
+space_11.txt$medical_318.txt
+space_11.txt$entertainment_4.txt
+space_11.txt$medical_329.txt
+space_11.txt$space_77.txt
+space_11.txt$business_45.txt
+space_11.txt$technologie_40.txt
+space_11.txt$sport_38.txt
+space_11.txt$business_9.txt
+space_11.txt$food_37.txt
+space_11.txt$food_43.txt
+space_11.txt$historical_43.txt
+space_11.txt$technologie_7.txt
+space_11.txt$politics_247.txt
+space_11.txt$food_34.txt
+space_11.txt$business_62.txt
+space_11.txt$politics_168.txt
+space_11.txt$graphics_76.txt
+space_11.txt$food_31.txt
+space_11.txt$historical_19.txt
+space_11.txt$technologie_65.txt
+space_11.txt$business_95.txt
+space_11.txt$food_70.txt
+space_11.txt$entertainment_5.txt
+space_11.txt$graphics_62.txt
+space_11.txt$business_63.txt
+space_11.txt$food_55.txt
+space_11.txt$medical_285.txt
+space_11.txt$food_29.txt
+space_11.txt$medical_327.txt
+space_11.txt$medical_102.txt
+space_11.txt$historical_62.txt
+space_11.txt$sport_21.txt
+space_11.txt$space_31.txt
+space_11.txt$sport_31.txt
+space_11.txt$historical_83.txt
+space_11.txt$historical_71.txt
+space_11.txt$space_61.txt
+space_11.txt$politics_210.txt
+space_11.txt$sport_49.txt
+space_11.txt$sport_55.txt
+space_11.txt$sport_87.txt
+space_11.txt$politics_129.txt
+space_11.txt$sport_73.txt
+space_11.txt$business_36.txt
+space_11.txt$technologie_48.txt
+space_11.txt$business_72.txt
+space_11.txt$food_100.txt
+space_11.txt$space_95.txt
+space_11.txt$business_26.txt
+space_11.txt$sport_63.txt
+space_11.txt$technologie_9.txt
+space_11.txt$historical_34.txt
+space_11.txt$technologie_56.txt
+space_11.txt$sport_68.txt
+space_11.txt$sport_32.txt
+space_11.txt$business_31.txt
+space_11.txt$graphics_66.txt
+space_11.txt$politics_313.txt
+space_11.txt$food_8.txt
+space_11.txt$historical_32.txt
+space_11.txt$space_12.txt
+space_11.txt$food_82.txt
+space_11.txt$business_47.txt
+space_11.txt$graphics_36.txt
+space_11.txt$technologie_37.txt
+space_11.txt$technologie_31.txt
+space_11.txt$food_67.txt
+space_11.txt$food_56.txt
+space_11.txt$sport_35.txt
+space_11.txt$technologie_35.txt
+space_11.txt$technologie_21.txt
+space_11.txt$food_91.txt
+space_11.txt$space_67.txt
+space_11.txt$space_33.txt
+space_11.txt$entertainment_57.txt
+space_11.txt$graphics_88.txt
+space_11.txt$medical_346.txt
+space_11.txt$politics_204.txt
+space_11.txt$medical_564.txt
+space_11.txt$technologie_58.txt
+space_11.txt$entertainment_56.txt
+space_11.txt$space_60.txt
+space_11.txt$space_45.txt
+space_11.txt$space_24.txt
+space_11.txt$medical_672.txt
+space_11.txt$food_22.txt
+space_11.txt$medical_103.txt
+space_11.txt$politics_209.txt
+space_11.txt$space_50.txt
+space_11.txt$food_18.txt
+space_11.txt$historical_68.txt
+space_11.txt$politics_225.txt
+space_11.txt$graphics_68.txt
+space_11.txt$food_14.txt
+space_11.txt$sport_66.txt
+space_11.txt$graphics_27.txt
+space_11.txt$technologie_5.txt
+space_11.txt$food_26.txt
+space_11.txt$food_60.txt
+space_11.txt$food_28.txt
+space_11.txt$technologie_95.txt
+space_11.txt$medical_529.txt
+space_11.txt$business_67.txt
+space_11.txt$politics_2.txt
+space_11.txt$food_51.txt
+space_11.txt$sport_46.txt
+space_11.txt$business_73.txt
+space_11.txt$politics_293.txt
+space_11.txt$food_27.txt
+space_11.txt$historical_38.txt
+space_11.txt$technologie_97.txt
+space_11.txt$historical_10.txt
+space_11.txt$space_86.txt
+space_11.txt$technologie_25.txt
+space_11.txt$technologie_99.txt
+space_11.txt$business_8.txt
+space_11.txt$business_27.txt
+space_11.txt$graphics_46.txt
+space_11.txt$sport_100.txt
+space_11.txt$sport_51.txt
+space_11.txt$entertainment_29.txt
+space_11.txt$sport_85.txt
+space_11.txt$space_13.txt
+space_11.txt$historical_46.txt
+space_11.txt$graphics_15.txt
+space_11.txt$technologie_100.txt
+space_11.txt$historical_63.txt
+space_11.txt$technologie_29.txt
+space_11.txt$business_77.txt
+space_11.txt$entertainment_9.txt
+space_11.txt$food_33.txt
+space_11.txt$medical_579.txt
+space_11.txt$food_69.txt
+space_11.txt$space_15.txt
+space_11.txt$historical_92.txt
+space_11.txt$graphics_78.txt
+space_11.txt$medical_308.txt
+space_11.txt$historical_65.txt
+space_11.txt$graphics_90.txt
+space_11.txt$business_100.txt
+space_11.txt$entertainment_12.txt
+space_11.txt$graphics_11.txt
+space_11.txt$business_87.txt
+space_11.txt$food_6.txt
+space_11.txt$food_99.txt
+space_11.txt$historical_91.txt
+space_11.txt$business_53.txt
+space_11.txt$space_22.txt
+space_11.txt$business_10.txt
+space_11.txt$medical_557.txt
+space_11.txt$technologie_2.txt
+space_11.txt$politics_321.txt
+space_11.txt$historical_56.txt
+space_11.txt$food_3.txt
+space_11.txt$graphics_86.txt

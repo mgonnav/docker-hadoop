@@ -1,0 +1,114 @@
+graphics_19.txt$does anybody know if there are any good 2dgraphics packages
+graphics_19.txt$available for ibm rs6000  aix  im looking for something
+graphics_19.txt$like decs gks or hewlettpackards starbase both of which
+graphics_19.txt$have reasonably good support for different output devices
+graphics_19.txt$like plotters terminals x etc
+graphics_19.txt$i have tried also xgks from x11 distribution and ibms implementation
+graphics_19.txt$of phigs both of them work but we require more output devices
+graphics_19.txt$than just xwindows
+graphics_19.txt$our salesman at ibm was not very familiar with graphics and
+graphics_19.txt$i am not expecting for any good solutions from there
+graphics_19.txt$ari
+graphics_19.txt$ari suutari			aricarelfi
+graphics_19.txt$carelcomp oy
+graphics_19.txt$lappeenranta
+graphics_19.txt$food_93.txt
+graphics_19.txt$graphics_20.txt
+graphics_19.txt$sport_83.txt
+graphics_19.txt$medical_424.txt
+graphics_19.txt$space_68.txt
+graphics_19.txt$sport_65.txt
+graphics_19.txt$entertainment_37.txt
+graphics_19.txt$medical_572.txt
+graphics_19.txt$business_20.txt
+graphics_19.txt$business_28.txt
+graphics_19.txt$politics_136.txt
+graphics_19.txt$medical_500.txt
+graphics_19.txt$technologie_13.txt
+graphics_19.txt$food_78.txt
+graphics_19.txt$graphics_29.txt
+graphics_19.txt$graphics_13.txt
+graphics_19.txt$historical_23.txt
+graphics_19.txt$food_53.txt
+graphics_19.txt$politics_131.txt
+graphics_19.txt$historical_100.txt
+graphics_19.txt$historical_26.txt
+graphics_19.txt$technologie_84.txt
+graphics_19.txt$business_99.txt
+graphics_19.txt$medical_1.txt
+graphics_19.txt$space_76.txt
+graphics_19.txt$business_19.txt
+graphics_19.txt$graphics_75.txt
+graphics_19.txt$medical_40.txt
+graphics_19.txt$graphics_6.txt
+graphics_19.txt$business_75.txt
+graphics_19.txt$medical_691.txt
+graphics_19.txt$graphics_52.txt
+graphics_19.txt$business_58.txt
+graphics_19.txt$business_13.txt
+graphics_19.txt$entertainment_33.txt
+graphics_19.txt$historical_88.txt
+graphics_19.txt$business_40.txt
+graphics_19.txt$politics_229.txt
+graphics_19.txt$graphics_65.txt
+graphics_19.txt$sport_8.txt
+graphics_19.txt$graphics_7.txt
+graphics_19.txt$historical_74.txt
+graphics_19.txt$historical_81.txt
+graphics_19.txt$entertainment_24.txt
+graphics_19.txt$food_5.txt
+graphics_19.txt$historical_44.txt
+graphics_19.txt$space_5.txt
+graphics_19.txt$historical_98.txt
+graphics_19.txt$technologie_50.txt
+graphics_19.txt$politics_111.txt
+graphics_19.txt$historical_99.txt
+graphics_19.txt$business_65.txt
+graphics_19.txt$sport_59.txt
+graphics_19.txt$politics_15.txt
+graphics_19.txt$food_87.txt
+graphics_19.txt$historical_25.txt
+graphics_19.txt$sport_88.txt
+graphics_19.txt$food_12.txt
+graphics_19.txt$politics_319.txt
+graphics_19.txt$sport_52.txt
+graphics_19.txt$historical_12.txt
+graphics_19.txt$graphics_59.txt
+graphics_19.txt$food_48.txt
+graphics_19.txt$space_74.txt
+graphics_19.txt$business_14.txt
+graphics_19.txt$space_1.txt
+graphics_19.txt$entertainment_85.txt
+graphics_19.txt$entertainment_27.txt
+graphics_19.txt$space_71.txt
+graphics_19.txt$politics_128.txt
+graphics_19.txt$entertainment_90.txt
+graphics_19.txt$technologie_43.txt
+graphics_19.txt$entertainment_30.txt
+graphics_19.txt$sport_78.txt
+graphics_19.txt$technologie_42.txt
+graphics_19.txt$food_81.txt
+graphics_19.txt$politics_117.txt
+graphics_19.txt$historical_50.txt
+graphics_19.txt$technologie_89.txt
+graphics_19.txt$technologie_53.txt
+graphics_19.txt$technologie_59.txt
+graphics_19.txt$historical_80.txt
+graphics_19.txt$space_44.txt
+graphics_19.txt$business_29.txt
+graphics_19.txt$entertainment_39.txt
+graphics_19.txt$food_11.txt
+graphics_19.txt$historical_33.txt
+graphics_19.txt$politics_231.txt
+graphics_19.txt$sport_26.txt
+graphics_19.txt$graphics_3.txt
+graphics_19.txt$politics_282.txt
+graphics_19.txt$politics_31.txt
+graphics_19.txt$entertainment_38.txt
+graphics_19.txt$graphics_44.txt
+graphics_19.txt$historical_42.txt
+graphics_19.txt$business_85.txt
+graphics_19.txt$business_92.txt
+graphics_19.txt$politics_232.txt
+graphics_19.txt$historical_16.txt
+graphics_19.txt$graphics_86.txt

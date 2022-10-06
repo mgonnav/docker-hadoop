@@ -1,0 +1,367 @@
+space_61.txt$archivename spacediff
+space_61.txt$these are handedited context diffs do not attempt to use them to patch
+space_61.txt$old copies of the faq
+space_61.txt$diff t c r118 faqintro
+space_61.txt$ tmprcst1a06400	thu apr  1 144722 1993
+space_61.txt$ faqintro	thu apr  1 144655 1993
+space_61.txt$nasa langley technical reports
+space_61.txt$nasa spacelink
+space_61.txt$national space science data center
+space_61.txt$		  space and planetary image facility
+space_61.txt$space telescope science institute electronic info service
+space_61.txt$starcat
+space_61.txt$astronomical databases
+space_61.txt$llnl great exploration
+space_61.txt$lunar prospector
+space_61.txt$lunar science and activities
+space_61.txt$	      orbiting earth satellite histories
+space_61.txt$spacecraft models
+space_61.txt$rocket propulsion
+space_61.txt$spacecraft design
+space_61.txt$diff t c r118 faqnet
+space_61.txt$ tmprcst1a06405	thu apr  1 144724 1993
+space_61.txt$ faqnet	thu apr  1 144657 1993
+space_61.txt$elements are sent out on the list from dr kelso jsc and other sources
+space_61.txt$as they are released email to elementsrequesttelesoftcom to join
+space_61.txt$     gps digest is a moderated list for discussion of the global positioning
+space_61.txt$     system and other satellite navigation positioning systems email to
+space_61.txt$     gpsrequestesseyesicom to join
+space_61.txt$spaceinvestors is a list for information relevant to investing in
+space_61.txt$spacerelated companies email vincent cate vaccscmuedu to join
+space_61.txt$1030 if in fact you should should learn of unauthorized access contact
+space_61.txt$nasa personnel
+space_61.txt$     claims have been made on this news group about fraud and waste none
+space_61.txt$     have ever been substantiated to any significant degree readers
+space_61.txt$     detecting fraud waste abuse or mismanagement should contact the nasa
+space_61.txt$     inspector general 24hours at 8004249183 can be anonymous or write
+space_61.txt$	  inspector general
+space_61.txt$	  po box 23089
+space_61.txt$	  lenfant plaza station
+space_61.txt$	  washington dc 20024
+space_61.txt$next faq 315  online and some offline sources of images data etc
+space_61.txt$diff t c r118 faqdata
+space_61.txt$ tmprcst1a06410	thu apr  1 144726 1993
+space_61.txt$ faqdata	thu apr  1 144654 1993
+space_61.txt$telephone 301 2866695
+space_61.txt$email address   requestnssdcagsfcnasagov
+space_61.txt$     available 24 hours a day via anonymous ftp from pioneerunmedu has
+space_61.txt$     approximately 150 cdroms full of imagery raw and tabular data to
+space_61.txt$     start get the file
+space_61.txt$	  pioneerunmedupubinfobeginnerinfo
+space_61.txt$     this will hopefully give you all of the information you need to get data
+space_61.txt$     from their machine beginnerinfo has been translated to other
+space_61.txt$     languages you should look inside pubinfo for the particular language
+space_61.txt$     that meets your needs
+space_61.txt$     contact helppioneerunmedu
+space_61.txt$diff t c r118 faqmath
+space_61.txt$ tmprcst1a06415	thu apr  1 144728 1993
+space_61.txt$ faqmath	thu apr  1 144656 1993
+space_61.txt$gives series to compute positions accurate to 1 arc minute for a
+space_61.txt$period  or  300 years from now pluto is included but stated to
+space_61.txt$have an accuracy of only about 15 arc minutes
+space_61.txt$     multiyear interactive computer almanac mica produced by the us
+space_61.txt$     naval observatory valid for years 19901999 55 80 outside us
+space_61.txt$     available for ibm order pb93500163hdv or macintosh order
+space_61.txt$     pb93500155hdv from the ntis sales desk 7034874650 i believe
+space_61.txt$     this is intended to replace the usnos interactive computer ephemeris
+space_61.txt$interactive computer ephemeris from the us naval observatory
+space_61.txt$distributed on ibmpc floppy disks 35 willmannbell covers dates
+space_61.txt$diff t c r118 faqreferences
+space_61.txt$ tmprcst1a06420	thu apr  1 144730 1993
+space_61.txt$ faqreferences	thu apr  1 144659 1993
+space_61.txt$us naval observatory
+space_61.txt$2026531079 usno bulletin board via modem
+space_61.txt$2026531507 general
+space_61.txt$	  2026531545 nautical almanac office info on the interactive
+space_61.txt$	      computer ephemeris
+space_61.txt$willmannbell
+space_61.txt$po box 35025
+space_61.txt$sdis ssrt single stage rocket technology project has funded a
+space_61.txt$suborbital technology demonstrator called dcx that should fly in
+space_61.txt$mid1993 further development towards an operational singlestage to
+space_61.txt$     orbit vehicle is uncertain at present for considerably more detail on
+space_61.txt$     the ssrt program get the document
+space_61.txt$	  amesarcnasagovpubspacefaqdeltaclipper
+space_61.txt$     by anonymous ftp or through the email server
+space_61.txt$official names are decided by committees of the international
+space_61.txt$sdis ssrt single stage rocket technology project has funded a
+space_61.txt$suborbital technology demonstrator called dcx that should fly in
+space_61.txt$mid1993 further development towards an operational singlestage to
+space_61.txt$     orbit vehicle called delta clipper is uncertain at present
+space_61.txt$     an collection of pictures and files relating to dcx is available by
+space_61.txt$     anonymous ftp or email server in the directory
+space_61.txt$	  bongoccutexasedupubdeltaclipper
+space_61.txt$     chris w johnson chrisjemxccutexasedu maintains the archive
+space_61.txt$official names are decided by committees of the international
+space_61.txt$university press 1970 information about the lunar orbiter missions
+space_61.txt$including maps of the coverage of the lunar nearside and farside by
+space_61.txt$various orbiters
+space_61.txt$     a list of earth orbiting satellites that are still in orbit is
+space_61.txt$     available by anonymous ftp in
+space_61.txt$	  amesarcnasagovpubspacefaqsatellites
+space_61.txt$diff t c r118 faqaddresses
+space_61.txt$ tmprcst1a06435	thu apr  1 144734 1993
+space_61.txt$ faqaddresses	thu apr  1 144651 1993
+space_61.txt$the latter an sf 171 is useless employees are caltech employees
+space_61.txt$contractors and for the most part have similar responsibilities
+space_61.txt$they offer an alternative to funding after other nasa centers
+space_61.txt$	  a fact sheet and description of jpl is available by anonymous
+space_61.txt$	  ftp in
+space_61.txt$	      amesarcnasagovpubspacefaqjpldescription
+space_61.txt$nasa johnson manned space center jsc
+space_61.txt$houston tx 77058
+space_61.txt$diff t c r118 faqnewprobes
+space_61.txt$ tmprcst1a06450	thu apr  1 144738 1993
+space_61.txt$ faqnewprobes	thu apr  1 144658 1993
+space_61.txt$team isasnasda launch schedules press kits
+space_61.txt$     asuka astrod  isas japan xray astronomy satellite launched into
+space_61.txt$     earth orbit on 22093 equipped with largearea widewavelength 120
+space_61.txt$     angstrom xray telescope xray ccd cameras and imaging gas
+space_61.txt$     scintillation proportional counters
+space_61.txt$cassini  saturn orbiter and titan atmosphere probe cassini is a joint
+space_61.txt$nasaesa project designed to accomplish an exploration of the saturnian
+space_61.txt$system with its cassini saturn orbiter and huygens titan probe cassini
+space_61.txt$magellan  venus radar mapping mission has mapped almost the entire
+space_61.txt$     surface at high resolution currently 1192 in mapping cycle 4
+space_61.txt$     collecting a global gravity map
+space_61.txt$mars observer  mars orbiter including 15 mpixel resolution camera
+space_61.txt$     launched 92492 on a titan iiitos booster mo is currently 393 in
+space_61.txt$transit to mars arriving on 82493 operations will start 1193 for
+space_61.txt$one martian year 687 days
+space_61.txt$     topexposeidon  joint usfrench earth observing satellite launched in
+space_61.txt$     august 1992 on an ariane 4 booster the primary objective of the
+space_61.txt$topexposeidon project is to make precise and accurate global
+space_61.txt$observations of the sea level for several years substantially
+space_61.txt$increasing understanding of global ocean dynamics the satellite also
+space_61.txt$magellan  venus radar mapping mission has mapped almost the entire
+space_61.txt$     surface at high resolution currently 493 collecting a global gravity
+space_61.txt$     map
+space_61.txt$mars observer  mars orbiter including 15 mpixel resolution camera
+space_61.txt$     launched 92592 on a titan iiitos booster mo is currently 493 in
+space_61.txt$transit to mars arriving on 82493 operations will start 1193 for
+space_61.txt$one martian year 687 days
+space_61.txt$     topexposeidon  joint usfrench earth observing satellite launched
+space_61.txt$     81092 on an ariane 4 booster the primary objective of the
+space_61.txt$topexposeidon project is to make precise and accurate global
+space_61.txt$observations of the sea level for several years substantially
+space_61.txt$increasing understanding of global ocean dynamics the satellite also
+space_61.txt$diff t c r118 faqastronaut
+space_61.txt$ tmprcst1a06465	thu apr  1 144743 1993
+space_61.txt$ faqastronaut	thu apr  1 144652 1993
+space_61.txt$specific standards
+space_61.txt$distant visual acuity
+space_61.txt$		20100 or better uncorrected
+space_61.txt$correctable to 2020 each eye
+space_61.txt$blood pressure
+space_61.txt$14090 measured in sitting position
+space_61.txt$     3 height between 60 and 76 inches
+space_61.txt$pilot astronaut candidate
+space_61.txt$specific standards
+space_61.txt$distant visual acuity
+space_61.txt$		20150 or better uncorrected
+space_61.txt$correctable to 2020 each eye
+space_61.txt$blood pressure
+space_61.txt$14090 measured in sitting position
+space_61.txt$     3 height between 585 and 76 inches
+space_61.txt$pilot astronaut candidate
+space_61.txt$food_93.txt
+space_61.txt$graphics_20.txt
+space_61.txt$sport_83.txt
+space_61.txt$medical_424.txt
+space_61.txt$space_68.txt
+space_61.txt$sport_65.txt
+space_61.txt$entertainment_37.txt
+space_61.txt$medical_572.txt
+space_61.txt$business_20.txt
+space_61.txt$business_28.txt
+space_61.txt$politics_136.txt
+space_61.txt$medical_500.txt
+space_61.txt$technologie_13.txt
+space_61.txt$food_78.txt
+space_61.txt$graphics_29.txt
+space_61.txt$graphics_13.txt
+space_61.txt$historical_23.txt
+space_61.txt$food_53.txt
+space_61.txt$politics_131.txt
+space_61.txt$historical_100.txt
+space_61.txt$historical_26.txt
+space_61.txt$technologie_84.txt
+space_61.txt$business_99.txt
+space_61.txt$medical_1.txt
+space_61.txt$space_76.txt
+space_61.txt$business_19.txt
+space_61.txt$graphics_75.txt
+space_61.txt$medical_40.txt
+space_61.txt$graphics_6.txt
+space_61.txt$business_75.txt
+space_61.txt$medical_691.txt
+space_61.txt$graphics_52.txt
+space_61.txt$business_58.txt
+space_61.txt$business_13.txt
+space_61.txt$entertainment_33.txt
+space_61.txt$historical_88.txt
+space_61.txt$business_40.txt
+space_61.txt$politics_229.txt
+space_61.txt$graphics_65.txt
+space_61.txt$sport_8.txt
+space_61.txt$graphics_7.txt
+space_61.txt$historical_74.txt
+space_61.txt$historical_81.txt
+space_61.txt$entertainment_24.txt
+space_61.txt$food_5.txt
+space_61.txt$historical_44.txt
+space_61.txt$space_5.txt
+space_61.txt$historical_98.txt
+space_61.txt$technologie_50.txt
+space_61.txt$politics_111.txt
+space_61.txt$historical_99.txt
+space_61.txt$business_65.txt
+space_61.txt$sport_59.txt
+space_61.txt$politics_15.txt
+space_61.txt$food_87.txt
+space_61.txt$historical_25.txt
+space_61.txt$sport_88.txt
+space_61.txt$food_12.txt
+space_61.txt$politics_319.txt
+space_61.txt$sport_52.txt
+space_61.txt$historical_12.txt
+space_61.txt$graphics_59.txt
+space_61.txt$food_48.txt
+space_61.txt$space_74.txt
+space_61.txt$business_14.txt
+space_61.txt$space_1.txt
+space_61.txt$entertainment_85.txt
+space_61.txt$entertainment_27.txt
+space_61.txt$space_71.txt
+space_61.txt$politics_128.txt
+space_61.txt$entertainment_90.txt
+space_61.txt$technologie_43.txt
+space_61.txt$entertainment_30.txt
+space_61.txt$sport_78.txt
+space_61.txt$technologie_42.txt
+space_61.txt$food_81.txt
+space_61.txt$politics_117.txt
+space_61.txt$historical_50.txt
+space_61.txt$technologie_89.txt
+space_61.txt$technologie_53.txt
+space_61.txt$technologie_59.txt
+space_61.txt$historical_80.txt
+space_61.txt$space_44.txt
+space_61.txt$business_29.txt
+space_61.txt$entertainment_39.txt
+space_61.txt$food_11.txt
+space_61.txt$historical_33.txt
+space_61.txt$politics_231.txt
+space_61.txt$sport_26.txt
+space_61.txt$graphics_3.txt
+space_61.txt$politics_282.txt
+space_61.txt$politics_31.txt
+space_61.txt$entertainment_38.txt
+space_61.txt$graphics_44.txt
+space_61.txt$historical_42.txt
+space_61.txt$business_85.txt
+space_61.txt$business_92.txt
+space_61.txt$politics_232.txt
+space_61.txt$historical_16.txt
+space_61.txt$historical_7.txt
+space_61.txt$space_32.txt
+space_61.txt$graphics_32.txt
+space_61.txt$historical_73.txt
+space_61.txt$entertainment_99.txt
+space_61.txt$business_21.txt
+space_61.txt$historical_51.txt
+space_61.txt$business_90.txt
+space_61.txt$politics_316.txt
+space_61.txt$politics_326.txt
+space_61.txt$politics_335.txt
+space_61.txt$medical_619.txt
+space_61.txt$medical_376.txt
+space_61.txt$historical_60.txt
+space_61.txt$sport_28.txt
+space_61.txt$graphics_28.txt
+space_61.txt$food_85.txt
+space_61.txt$graphics_96.txt
+space_61.txt$space_65.txt
+space_61.txt$medical_565.txt
+space_61.txt$graphics_92.txt
+space_61.txt$technologie_6.txt
+space_61.txt$entertainment_100.txt
+space_61.txt$entertainment_50.txt
+space_61.txt$space_81.txt
+space_61.txt$entertainment_14.txt
+space_61.txt$food_66.txt
+space_61.txt$entertainment_62.txt
+space_61.txt$technologie_11.txt
+space_61.txt$technologie_72.txt
+space_61.txt$graphics_72.txt
+space_61.txt$historical_17.txt
+space_61.txt$technologie_83.txt
+space_61.txt$medical_645.txt
+space_61.txt$technologie_18.txt
+space_61.txt$business_59.txt
+space_61.txt$food_89.txt
+space_61.txt$entertainment_58.txt
+space_61.txt$space_37.txt
+space_61.txt$medical_694.txt
+space_61.txt$business_68.txt
+space_61.txt$medical_590.txt
+space_61.txt$sport_3.txt
+space_61.txt$space_83.txt
+space_61.txt$historical_55.txt
+space_61.txt$technologie_79.txt
+space_61.txt$graphics_61.txt
+space_61.txt$politics_275.txt
+space_61.txt$space_20.txt
+space_61.txt$food_79.txt
+space_61.txt$entertainment_19.txt
+space_61.txt$business_42.txt
+space_61.txt$technologie_10.txt
+space_61.txt$politics_212.txt
+space_61.txt$entertainment_92.txt
+space_61.txt$sport_2.txt
+space_61.txt$entertainment_88.txt
+space_61.txt$technologie_14.txt
+space_61.txt$graphics_60.txt
+space_61.txt$space_4.txt
+space_61.txt$politics_222.txt
+space_61.txt$politics_34.txt
+space_61.txt$graphics_100.txt
+space_61.txt$technologie_80.txt
+space_61.txt$medical_610.txt
+space_61.txt$historical_89.txt
+space_61.txt$politics_217.txt
+space_61.txt$technologie_75.txt
+space_61.txt$business_89.txt
+space_61.txt$space_16.txt
+space_61.txt$sport_69.txt
+space_61.txt$business_1.txt
+space_61.txt$sport_94.txt
+space_61.txt$business_60.txt
+space_61.txt$politics_139.txt
+space_61.txt$business_93.txt
+space_61.txt$space_23.txt
+space_61.txt$space_69.txt
+space_61.txt$sport_24.txt
+space_61.txt$politics_357.txt
+space_61.txt$space_80.txt
+space_61.txt$food_2.txt
+space_61.txt$historical_48.txt
+space_61.txt$space_46.txt
+space_61.txt$politics_130.txt
+space_61.txt$food_84.txt
+space_61.txt$sport_42.txt
+space_61.txt$entertainment_54.txt
+space_61.txt$technologie_19.txt
+space_61.txt$entertainment_59.txt
+space_61.txt$medical_586.txt
+space_61.txt$graphics_47.txt
+space_61.txt$medical_449.txt
+space_61.txt$technologie_23.txt
+space_61.txt$business_17.txt
+space_61.txt$entertainment_6.txt
+space_61.txt$politics_221.txt
+space_61.txt$politics_301.txt
+space_61.txt$technologie_77.txt
+space_61.txt$medical_542.txt
+space_61.txt$sport_7.txt
+space_61.txt$graphics_86.txt

@@ -1,0 +1,9 @@
+space_21.txt$i have the osculating elements at perigee of an orbit which i need
+space_21.txt$to convert to something useful preferably distance from the earth
+space_21.txt$in evenly spaced time intervals a gsm coordinate system is preferable
+space_21.txt$but i convert from other systems c pascal or fortran code or
+space_21.txt$if you can point me to a book or something thatd be great
+space_21.txt$heres the first few lines of the file
+space_21.txt$thanks in advance
+space_21.txt$larry kepko
+space_21.txt$lkepkoigppuclaedu

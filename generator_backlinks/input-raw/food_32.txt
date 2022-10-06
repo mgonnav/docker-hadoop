@@ -1,0 +1,13 @@
+food_32.txt$1                pita pocket
+food_32.txt$14           cup  hummus
+food_32.txt$13           cup  tabouli
+food_32.txt$2   tablespoons  feta cheese  crumbled
+food_32.txt$1                leaf  romaine lettuce  torn into pieces
+food_32.txt$14    tablespoon  tomato  chopped
+food_32.txt$14           cup  alfalfa sprouts
+food_32.txt$1    tablespoon  greek olives  chopped
+food_32.txt$lemon dill dressing see recipe
+food_32.txt$
+food_32.txt$cut top 14 from pita pocket and reserve for another use open pocket and spread one side with hummus spoon in tabouli add remaining ingredients drizzling salad dressing over all this serves one but is easily multiplied for many 
+food_32.txt$
+food_32.txt$ broiled pieces of pita bread are excellent for dipping extra hummus

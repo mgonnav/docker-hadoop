@@ -1,0 +1,191 @@
+space_9.txt$archivename spacenewprobes
+space_9.txt$lastmodified date 930401 143917 
+space_9.txt$information on upcoming or currently active missions not mentioned below
+space_9.txt$would be welcome sources nasa fact sheets cassini mission design
+space_9.txt$team isasnasda launch schedules press kits
+space_9.txt$asuka astrod  isas japan xray astronomy satellite launched into
+space_9.txt$earth orbit on 22093 equipped with largearea widewavelength 120
+space_9.txt$angstrom xray telescope xray ccd cameras and imaging gas
+space_9.txt$scintillation proportional counters
+space_9.txt$cassini  saturn orbiter and titan atmosphere probe cassini is a joint
+space_9.txt$nasaesa project designed to accomplish an exploration of the saturnian
+space_9.txt$system with its cassini saturn orbiter and huygens titan probe cassini
+space_9.txt$is scheduled for launch aboard a titan ivcentaur in october of 1997
+space_9.txt$after gravity assists of venus earth and jupiter in a vvejga
+space_9.txt$trajectory the spacecraft will arrive at saturn in june of 2004 upon
+space_9.txt$arrival the cassini spacecraft performs several maneuvers to achieve an
+space_9.txt$orbit around saturn near the end of this initial orbit the huygens
+space_9.txt$probe separates from the orbiter and descends through the atmosphere of
+space_9.txt$titan the orbiter relays the probe data to earth for about 3 hours
+space_9.txt$while the probe enters and traverses the cloudy atmosphere to the
+space_9.txt$surface after the completion of the probe mission the orbiter
+space_9.txt$continues touring the saturnian system for three and a half years titan
+space_9.txt$synchronous orbit trajectories will allow about 35 flybys of titan and
+space_9.txt$targeted flybys of iapetus dione and enceladus the objectives of the
+space_9.txt$mission are threefold conduct detailed studies of saturns atmosphere
+space_9.txt$rings and magnetosphere conduct closeup studies of saturns
+space_9.txt$satellites and characterize titans atmosphere and surface
+space_9.txt$one of the most intriguing aspects of titan is the possibility that its
+space_9.txt$surface may be covered in part with lakes of liquid hydrocarbons that
+space_9.txt$result from photochemical processes in its upper atmosphere these
+space_9.txt$hydrocarbons condense to form a global smog layer and eventually rain
+space_9.txt$down onto the surface the cassini orbiter will use onboard radar to
+space_9.txt$peer through titans clouds and determine if there is liquid on the
+space_9.txt$surface experiments aboard both the orbiter and the entry probe will
+space_9.txt$investigate the chemical processes that produce this unique atmosphere
+space_9.txt$the cassini mission is named for jean dominique cassini 16251712 the
+space_9.txt$first director of the paris observatory who discovered several of
+space_9.txt$saturns satellites and the major division in its rings the titan
+space_9.txt$atmospheric entry probe is named for the dutch physicist christiaan
+space_9.txt$huygens 16291695 who discovered titan and first described the true
+space_9.txt$nature of saturns rings
+space_9.txt$key scheduled dates for the cassini mission vvejga trajectory
+space_9.txt$100697  titan ivcentaur launch
+space_9.txt$042198  venus 1 gravity assist
+space_9.txt$062099  venus 2 gravity assist
+space_9.txt$081699  earth gravity assist
+space_9.txt$123000  jupiter gravity assist
+space_9.txt$062504  saturn arrival
+space_9.txt$010905  titan probe release
+space_9.txt$013005  titan probe entry
+space_9.txt$062508  end of primary mission
+space_9.txt$schedule last updated 72292
+space_9.txt$galileo  jupiter orbiter and atmosphere probe in transit has returned
+space_9.txt$the first resolved images of an asteroid gaspra while in transit to
+space_9.txt$jupiter efforts to unfurl the stuck highgain antenna hga have
+space_9.txt$essentially been abandoned jpl has developed a backup plan using data
+space_9.txt$compression jpeglike for images lossless compression for data from
+space_9.txt$the other instruments which should allow the mission to achieve
+space_9.txt$approximately 70 of its original objectives
+space_9.txt$galileo schedule
+space_9.txt$101889  launch from space shuttle
+space_9.txt$020990  venus flyby
+space_9.txt$1090  venus data playback
+space_9.txt$120890  1st earth flyby
+space_9.txt$050191  high gain antenna unfurled
+space_9.txt$0791  0692  1st asteroid belt passage
+space_9.txt$102991  asteroid gaspra flyby
+space_9.txt$120892  2nd earth flyby
+space_9.txt$0593  1193  2nd asteroid belt passage
+space_9.txt$082893  asteroid ida flyby
+space_9.txt$070295  probe separation
+space_9.txt$070995  orbiter deflection maneuver
+space_9.txt$1295  1097  orbital tour of jovian moons
+space_9.txt$120795  jupiterio encounter
+space_9.txt$071896  ganymede
+space_9.txt$092896  ganymede
+space_9.txt$121296  callisto
+space_9.txt$012397  europa
+space_9.txt$022897  ganymede
+space_9.txt$042297  europa
+space_9.txt$053197  europa
+space_9.txt$100597  jupiter magnetotail exploration
+space_9.txt$hiten  japanese isas lunar probe launched 12490 has made
+space_9.txt$multiple lunar flybys released hagoromo a smaller satellite
+space_9.txt$into lunar orbit this mission made japan the third nation to
+space_9.txt$orbit a satellite around the moon
+space_9.txt$magellan  venus radar mapping mission has mapped almost the entire
+space_9.txt$surface at high resolution currently 493 collecting a global gravity
+space_9.txt$map
+space_9.txt$mars observer  mars orbiter including 15 mpixel resolution camera
+space_9.txt$launched 92592 on a titan iiitos booster mo is currently 493 in
+space_9.txt$transit to mars arriving on 82493 operations will start 1193 for
+space_9.txt$one martian year 687 days
+space_9.txt$topexposeidon  joint usfrench earth observing satellite launched
+space_9.txt$81092 on an ariane 4 booster the primary objective of the
+space_9.txt$topexposeidon project is to make precise and accurate global
+space_9.txt$observations of the sea level for several years substantially
+space_9.txt$increasing understanding of global ocean dynamics the satellite also
+space_9.txt$will increase understanding of how heat is transported in the ocean
+space_9.txt$ulysses european space agency probe to study the sun from an orbit over
+space_9.txt$its poles launched in late 1990 it carries particlesandfields
+space_9.txt$experiments such as magnetometer ion and electron collectors for
+space_9.txt$various energy ranges plasma wave radio receivers etc but no camera
+space_9.txt$since no humanbuilt rocket is hefty enough to send ulysses far out of
+space_9.txt$the ecliptic plane it went to jupiter instead and stole energy from
+space_9.txt$that planet by sliding over jupiters north pole in a gravityassist
+space_9.txt$manuver in february 1992 this bent its path into a solar orbit tilted
+space_9.txt$about 85 degrees to the ecliptic it will pass over the suns south pole
+space_9.txt$in the summer of 1993 its aphelion is 52 au and surprisingly its
+space_9.txt$perihelion is about 15 au thats right a solarstudies spacecraft
+space_9.txt$thats always further from the sun than the earth is
+space_9.txt$while in jupiters neigborhood ulysses studied the magnetic and
+space_9.txt$radiation environment for a short summary of these results see
+space_9.txt$science v 257 p 14871489 11 september 1992 for gory technical
+space_9.txt$detail see the many articles in the same issue
+space_9.txt$other space science missions note this is based on a posting by ron
+space_9.txt$baalke in 1189 with isasnasda information contributed by yoshiro
+space_9.txt$yamada yamadayscvaxyscgojp im attempting to track changes based
+space_9.txt$on updated shuttle manifests corrections and updates are welcome
+space_9.txt$1993 missions
+space_9.txt$o alexis spring pegasus
+space_9.txt$alexis array of lowenergy xray imaging sensors is to perform
+space_9.txt$a widefield sky survey in the soft lowenergy xray
+space_9.txt$spectrum it will scan the entire sky every six months to search
+space_9.txt$for variations in softxray emission from sources such as white
+space_9.txt$dwarfs cataclysmic variable stars and flare stars it will also
+space_9.txt$search nearby space for such exotic objects as isolated neutron
+space_9.txt$stars and gammaray bursters alexis is a project of los alamos
+space_9.txt$national laboratory and is primarily a technology development
+space_9.txt$mission that uses astrophysical sources to demonstrate the
+space_9.txt$technology contact project investigator jeffrey j bloch
+space_9.txt$jjbbetalanlgov for more information
+space_9.txt$o wind aug delta ii rocket
+space_9.txt$satellite to measure solar wind input to magnetosphere
+space_9.txt$o space radar lab sep sts60 srl01
+space_9.txt$gather radar images of earths surface
+space_9.txt$o total ozone mapping spectrometer dec pegasus rocket
+space_9.txt$study of stratospheric ozone
+space_9.txt$o sfu space flyer unit isas
+space_9.txt$conducting space experiments and observations and this can be
+space_9.txt$recovered after it conducts the various scientific and
+space_9.txt$engineering experiments sfu is to be launched by isas and
+space_9.txt$retrieved by the us space shuttle on sts68 in 1994
+space_9.txt$o polar auroral plasma physics may delta ii rocket
+space_9.txt$june measure solar wind and ions and gases surrounding the
+space_9.txt$earth
+space_9.txt$o iml2 sts nasda jul 1994 iml02
+space_9.txt$international microgravity laboratory
+space_9.txt$o adeos nasda
+space_9.txt$advanced earth observing satellite
+space_9.txt$o musesb mu space engineering satelliteb isas
+space_9.txt$conducting research on the precise mechanism of space structure
+space_9.txt$and inspace astronomical observations of electromagnetic waves
+space_9.txt$elucidating the crust structure and thermal construction of the
+space_9.txt$moons interior
+space_9.txt$proposed missions
+space_9.txt$o advanced xray astronomy facility axaf
+space_9.txt$possible launch from shuttle in 1995 axaf is a space
+space_9.txt$observatory with a high resolution telescope it would orbit for
+space_9.txt$15 years and study the mysteries and fate of the universe
+space_9.txt$o earth observing system eos
+space_9.txt$possible launch in 1997 1 of 6 us orbiting space platforms to
+space_9.txt$provide longterm data 15 years of earth systems science
+space_9.txt$including planetary evolution
+space_9.txt$o mercury observer
+space_9.txt$possible 1997 launch
+space_9.txt$o lunar observer
+space_9.txt$possible 1997 launch would be sent into a longterm lunar
+space_9.txt$orbit the observer from 60 miles above the moons poles would
+space_9.txt$survey characteristics to provide a global context for the
+space_9.txt$results from the apollo program
+space_9.txt$o space infrared telescope facility
+space_9.txt$possible launch by shuttle in 1999 this is the 4th element of
+space_9.txt$the great observatories program a freeflying observatory with
+space_9.txt$a lifetime of 5 to 10 years it would observe new comets and
+space_9.txt$other primitive bodies in the outer solar system study cosmic
+space_9.txt$birth formation of galaxies stars and planets and distant
+space_9.txt$infraredemitting galaxies
+space_9.txt$o mars rover sample return mrsr
+space_9.txt$robotics rover would return samples of mars atmosphere and
+space_9.txt$surface to earch for analysis possible launch dates 1996 for
+space_9.txt$imaging orbiter 2001 for rover
+space_9.txt$o fire and ice
+space_9.txt$possible launch in 2001 will use a gravity assist flyby of
+space_9.txt$earth in 2003 and use a final gravity assist from jupiter in
+space_9.txt$2005 where the probe will split into its fire and ice
+space_9.txt$components the fire probe will journey into the sun taking
+space_9.txt$measurements of our stars upper atmosphere until it is
+space_9.txt$vaporized by the intense heat the ice probe will head out
+space_9.txt$towards pluto reaching the tiny world for study by 2016
+space_9.txt$next faq 1215  controversial questions

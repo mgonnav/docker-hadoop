@@ -1,0 +1,26 @@
+graphics_26.txt$kjbmgluvesa32zip
+graphics_26.txt$this is a universal vesa driver  it supports most video
+graphics_26.txt$boardschipsets include the speedstar24 and 24x up to
+graphics_26.txt$24 bit color
+graphics_26.txt$terry
+graphics_26.txt$ps  ive tried it on a speedstar24 and 24x and it works 
+graphics_26.txt$not with all software  for instance it doesnt work at all with
+graphics_26.txt$animator pro from autodesk it cant detect any svga modes when
+graphics_26.txt$running univesa this is really a problem as we need a vesa driver
+graphics_26.txt$for both aa pro and some hicolor stuff 
+graphics_26.txt$just out of curiosity are you using the latest version 32  versions
+graphics_26.txt$previous to this did not fill in all of the capabilities bits and other
+graphics_26.txt$information correctly  i had problems with a lot of software until i got
+graphics_26.txt$this version  i dont think the author got around to posting an
+graphics_26.txt$announcementof it or at least i missed it but 32 was available in the
+graphics_26.txt$directory indicated as of 329
+graphics_26.txt$i sure did use version 32 it works fine with most software but not
+graphics_26.txt$with animator pro and that one is quite important to me pretty
+graphics_26.txt$useless program without that thing working imho
+graphics_26.txt$so i hope the author can fix that
+graphics_26.txt$daniel
+graphics_26.txt$      daniel falk             dont quote me no comments           
+graphics_26.txt$                                 ebenezum the great wizard   
+graphics_26.txt$      d91fadteknhjse                                               
+graphics_26.txt$      d91fadhjds90hjse      also known as the megafamous musician  
+graphics_26.txt$      jkpg sweeeeeden             leinad of the yellow ones        
