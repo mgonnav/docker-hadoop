@@ -1,0 +1,14 @@
+graphics_94.txt$does any one know of a decent quality library of routines for
+graphics_94.txt$performing 3d graphics modelling on the pc
+graphics_94.txt$ideally the routines would be embeded in our application program
+graphics_94.txt$requirements wish list
+graphics_94.txt$ flat surface modelling simple phong shading optional
+graphics_94.txt$ ability to plot hiddenline drawings
+graphics_94.txt$ texture mapping  both procedural and bit map
+graphics_94.txt$ modeling light sources local distant and spot lights
+graphics_94.txt$ raytracing
+graphics_94.txt$ radiosity optional
+graphics_94.txt$any comments would be appreciated
+graphics_94.txt$john chinnick  jchinnicmach1wluca
+graphics_94.txt$phone  519 8889666
+graphics_94.txt$john chinnick  jchinnicmach1wluca

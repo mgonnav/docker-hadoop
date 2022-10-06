@@ -1,0 +1,17 @@
+graphics_45.txt$in article 1993apr2201172028958midwayuchicagoedu dgf1quadsuchicagoedu david farley writes
+graphics_45.txt$ in article c5uhimjfqrotqcca beaverrotqcca andre boivert writes
+graphics_45.txt$ i am looking for comments from people who have usedheard about photoshop
+graphics_45.txt$ for windows is it good how does it compare to the mac version is there
+graphics_45.txt$ a lot of bugs i heard the windows version needs finetuning
+graphics_45.txt$ any comments would be greatly appreciated
+graphics_45.txt$ thank you
+graphics_45.txt$ andre boisvert
+graphics_45.txt$ beaverrotqcca
+graphics_45.txt$ an review of both the mac and windows versions in either pc week or info
+graphics_45.txt$ world this week said that the windows version was considerably slower
+graphics_45.txt$ than the mac  a more useful comparison would have been between photostyler
+graphics_45.txt$ and photoshop for windows  david
+graphics_45.txt$i dont know about thative used photoshop 25 on both a 486dx50 and a quadra
+graphics_45.txt$950id say they are roughly equal  if anything the 486 was faster
+graphics_45.txt$both systems were running in 24 bit color and had the same amount of ram 16 megs
+graphics_45.txt$i also believe the quadra had one of those photoshop accelerators

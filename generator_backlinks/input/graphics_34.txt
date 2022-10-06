@@ -1,0 +1,72 @@
+graphics_34.txt$contact signaware corp
+graphics_34.txt$ original memo 
+graphics_34.txt$bcc     vincent wall                   from      imaging club
+graphics_34.txt$subject signature verification        date sent 050493
+graphics_34.txt$sciimageprocessing
+graphics_34.txt$from yyqiecearizonaedu yingyong qi
+graphics_34.txt$subject signature image database
+graphics_34.txt$organization u of arizona electrical and computer engineering
+graphics_34.txt$hi all
+graphics_34.txt$could someone tell me if there is a database of handwriting signature
+graphics_34.txt$images available for evaluating signature verification systems
+graphics_34.txt$thanks
+graphics_34.txt$food_93.txt
+graphics_34.txt$graphics_20.txt
+graphics_34.txt$sport_83.txt
+graphics_34.txt$medical_424.txt
+graphics_34.txt$space_68.txt
+graphics_34.txt$sport_65.txt
+graphics_34.txt$entertainment_37.txt
+graphics_34.txt$medical_572.txt
+graphics_34.txt$business_20.txt
+graphics_34.txt$business_28.txt
+graphics_34.txt$politics_136.txt
+graphics_34.txt$medical_500.txt
+graphics_34.txt$technologie_13.txt
+graphics_34.txt$food_78.txt
+graphics_34.txt$graphics_29.txt
+graphics_34.txt$graphics_13.txt
+graphics_34.txt$historical_23.txt
+graphics_34.txt$food_53.txt
+graphics_34.txt$politics_131.txt
+graphics_34.txt$historical_100.txt
+graphics_34.txt$historical_26.txt
+graphics_34.txt$technologie_84.txt
+graphics_34.txt$business_99.txt
+graphics_34.txt$medical_1.txt
+graphics_34.txt$space_76.txt
+graphics_34.txt$business_19.txt
+graphics_34.txt$graphics_75.txt
+graphics_34.txt$medical_40.txt
+graphics_34.txt$graphics_6.txt
+graphics_34.txt$business_75.txt
+graphics_34.txt$medical_691.txt
+graphics_34.txt$graphics_52.txt
+graphics_34.txt$business_58.txt
+graphics_34.txt$business_13.txt
+graphics_34.txt$entertainment_33.txt
+graphics_34.txt$historical_88.txt
+graphics_34.txt$business_40.txt
+graphics_34.txt$politics_229.txt
+graphics_34.txt$graphics_65.txt
+graphics_34.txt$sport_8.txt
+graphics_34.txt$graphics_7.txt
+graphics_34.txt$historical_74.txt
+graphics_34.txt$historical_81.txt
+graphics_34.txt$entertainment_24.txt
+graphics_34.txt$food_5.txt
+graphics_34.txt$historical_44.txt
+graphics_34.txt$space_5.txt
+graphics_34.txt$historical_98.txt
+graphics_34.txt$technologie_50.txt
+graphics_34.txt$politics_111.txt
+graphics_34.txt$historical_99.txt
+graphics_34.txt$business_65.txt
+graphics_34.txt$sport_59.txt
+graphics_34.txt$politics_15.txt
+graphics_34.txt$food_87.txt
+graphics_34.txt$historical_25.txt
+graphics_34.txt$sport_88.txt
+graphics_34.txt$food_12.txt
+graphics_34.txt$politics_319.txt
+graphics_34.txt$graphics_86.txt

@@ -1,0 +1,45 @@
+business_28.txt$fiat chief takes steering wheel
+business_28.txt$the chief executive of the fiat conglomerate has taken daytoday control of its struggling car business in an effort to turn it around
+business_28.txt$sergio marchionne has replaced herbert demel as chief executive of fiat auto with mr demel leaving the company mr marchionne becomes the fourth head of the business  which is expected to make a 800m euro 1bn loss in 2004  in as many years fiat underperformed the market in europe last year seeing flat sales
+business_28.txt$the car business has made an operating loss in five of the last six years and was forced to push back its breakeven target from 2005 to 2006 the management changes are part of a wider shakeup of the business following fiats resolution of its dispute with general motors as part of a major restructuring fiat is to integrate the maserati car company  currently owned by ferrari  within its own operations ferrari in which fiat owns a majority stake could be separately floated on the stock market in either 2006 or 2007
+business_28.txt$mr marchionne who only joined the company last year said fiat auto was now the principal focus of his attention i have made the decision to take on the post of chief executive of the auto unit to speed up the companys recovery he said a profound cultural transformation is underway following a management reorganisation that has delivered a more agile and efficient structure he added
+business_28.txt$although mr marchionne does not have a background in the car industry he has been playing an increasing role in the groups activities last year he said that a series of new models launched as part of the groups recovery plan had not boosted revenues as much as hoped the car business best known for its alfa romeo marque is expected to make a loss of about 800m euros in 2004 sales are expected to fall in 2005 fiat said this week as it exits unprofitable areas such as the rental car market mr demel a car industry veteran took the helm in november 2003 after being recruited by former fiat chief executive giuseppe morchio mr morchio made a bid last year to become chairman after the death of president umberto agnelli however this was rejected by the founding agnelli family and mr morchio subsequently resigned earlier this week fiat reached an agreement with gm to dissolve an alliance which could have obliged gm to buy the italian firm outright gm will pay fiat 2bn as part of the settlement
+business_28.txt$food_93.txt
+business_28.txt$graphics_20.txt
+business_28.txt$sport_83.txt
+business_28.txt$medical_424.txt
+business_28.txt$space_68.txt
+business_28.txt$sport_65.txt
+business_28.txt$entertainment_37.txt
+business_28.txt$medical_572.txt
+business_28.txt$business_20.txt
+business_28.txt$politics_136.txt
+business_28.txt$medical_500.txt
+business_28.txt$technologie_13.txt
+business_28.txt$food_78.txt
+business_28.txt$graphics_29.txt
+business_28.txt$graphics_13.txt
+business_28.txt$historical_23.txt
+business_28.txt$food_53.txt
+business_28.txt$politics_131.txt
+business_28.txt$historical_100.txt
+business_28.txt$historical_26.txt
+business_28.txt$technologie_84.txt
+business_28.txt$business_99.txt
+business_28.txt$medical_1.txt
+business_28.txt$space_76.txt
+business_28.txt$business_19.txt
+business_28.txt$graphics_75.txt
+business_28.txt$medical_40.txt
+business_28.txt$graphics_6.txt
+business_28.txt$business_75.txt
+business_28.txt$medical_691.txt
+business_28.txt$graphics_52.txt
+business_28.txt$business_58.txt
+business_28.txt$business_13.txt
+business_28.txt$entertainment_33.txt
+business_28.txt$historical_88.txt
+business_28.txt$business_40.txt
+business_28.txt$politics_229.txt
+business_28.txt$graphics_65.txt
+business_28.txt$graphics_86.txt

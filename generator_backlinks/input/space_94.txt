@@ -1,0 +1,414 @@
+space_94.txt$archivename spacedata
+space_94.txt$lastmodified date 930401 143907 
+space_94.txt$a wide variety of images data catalogs information releases and
+space_94.txt$other material dealing with space and astronomy may be found on the net
+space_94.txt$a few sites offer direct dialup access or remote login access while the
+space_94.txt$remainder support some form of file transfer many sites are listed as
+space_94.txt$providing anonymous ftp this refers to the file transfer protocol on
+space_94.txt$the internet sites not connected to the internet cannot use ftp
+space_94.txt$directly but there are a few automated ftp servers which operates via
+space_94.txt$email send mail containing only the word help to ftpmaildecwrldeccom
+space_94.txt$or bitftppuccprincetonedu and the servers will send you instructions
+space_94.txt$on how to make requests
+space_94.txt$the sources with the broadest selection of material are the nasa ames
+space_94.txt$space archive and the national space science data center
+space_94.txt$dont even ask for images to be posted to the net the data volume is
+space_94.txt$huge and nobody wants to spend the time on it
+space_94.txt$the possible combinations of image formats and machines is forebodingly
+space_94.txt$large and i wont attempt to cover common formats gif etc here to
+space_94.txt$read pds and vicar and many other formats on unix systems running x
+space_94.txt$use xv 211 available by anonymous ftp from exportlcsmitedu
+space_94.txt$1824012 in contribxv211tarz and the other standard x11 ftp
+space_94.txt$sites
+space_94.txt$the faq for the usenet group altbinariespictures discusses image
+space_94.txt$formats and how to get image viewing software a copy of this document
+space_94.txt$is available by anonymous ftp from the usenet faq archives at
+space_94.txt$pitmanagermitedu 1872158 in directory
+space_94.txt$pubusenetaltbinariespictures
+space_94.txt$extensive archives are maintained at nasa ames and are available via
+space_94.txt$anonymous ftp or an email server these archives include many images and
+space_94.txt$a wide variety of documents including this faq list nasa press
+space_94.txt$releases shuttle launch advisories and mission status reports please
+space_94.txt$note that these are not maintained on an official basis
+space_94.txt$ftp users should connect to amesarcnasagov 128102183 and look in
+space_94.txt$pubspace pubspaceindex contains a listing of files available in the
+space_94.txt$archive the index is about 200k by itself
+space_94.txt$to access the archives by email send a letter to
+space_94.txt$archiveserveramesarcnasagov or amesarchiveserver in the
+space_94.txt$subject of your letter or in the body use commands like
+space_94.txt$send space index
+space_94.txt$send space shuttless012391
+space_94.txt$the capitalization of the subdirectory names is important all are in
+space_94.txt$caps only text files are handled by the email server at present use
+space_94.txt$one of the ftp email servers described in the introduction to this
+space_94.txt$section for images or programs
+space_94.txt$the magellan venus and voyager jupiter saturn and uranus cdrom image
+space_94.txt$disks have been put online in the cdrom and cdrom2 directories the
+space_94.txt$disks will be rotated on a weekly basis thousands of images are
+space_94.txt$available in these collections
+space_94.txt$the gif directory contains images in gif format the vicar directory
+space_94.txt$contains magellan images in vicar format these are also available in
+space_94.txt$the gif directory a pc program capable of displaying these files is
+space_94.txt$found in the imdisp directory see the item viewing images below
+space_94.txt$the nasa media guide describes the various nasa centers and how to
+space_94.txt$contact their public affairs officers this may be useful when pursuing
+space_94.txt$specific information its in miscmediaguide
+space_94.txt$any problems with the archive server should be reported to peter yee
+space_94.txt$yeeamesarcnasagov
+space_94.txt$the ads is a distributed data retrieval system which is easy to use and
+space_94.txt$provides uniform access to groundbased and spacebased astronomy data
+space_94.txt$from nasa data centers across the country it currently has over 140
+space_94.txt$data catalogs of radio infrared optical uv and xray data which can
+space_94.txt$be queried by position or any other parameter in the catalog the ads
+space_94.txt$also provides tools to manipulate and plot tabular results in addition
+space_94.txt$ads has a beta version of an abstracts service which allows users to
+space_94.txt$query over 125000 abstracts of astronomy papers since 1975 by authors
+space_94.txt$keywords title words or abstract text words
+space_94.txt$ads use requires direct internet access for more info and to sign up to
+space_94.txt$become a user email adscuadscoloraduedu the users guide and
+space_94.txt$quickstart guide are available by anonymous ftp to saoftpharvardedu
+space_94.txt$in directory pubadsadsuserguide postscript files
+space_94.txt$contact carolyn stern grant sterncfaharvardedu
+space_94.txt$pubinfojplnasagov 12814962 is an anonymous ftp site operated by
+space_94.txt$the jpl public information office containing news releases status
+space_94.txt$reports fact sheets images and other data on jpl missions it may
+space_94.txt$also be reached by modem at 8183541333 no parity 8 data bits 1
+space_94.txt$stop bit
+space_94.txt$contact newsdeskjplpostjplnasagov or phone 8183547170
+space_94.txt$techreportslarcnasagov is an anonymous ftp site offering technical
+space_94.txt$reports to get started cd to directory pubtechreportslarc92 and
+space_94.txt$retrieve files readme and abstracts92 most files are compressed
+space_94.txt$postscript the reports are also in a wais database with the following
+space_94.txt$description
+space_94.txt$source
+space_94.txt$version 3
+space_94.txt$ipname techreportslarcnasagov
+space_94.txt$tcpport 210
+space_94.txt$databasename nasalarcabs
+space_94.txt$cost 000
+space_94.txt$costunit free
+space_94.txt$maintainer mlnelsonlarcnasagov
+space_94.txt$description nasa langley research center technical reports
+space_94.txt$contact tradmintechreportslarcnasagov
+space_94.txt$spacelink is an online service located at marshall space flight center
+space_94.txt$in huntsville alabama the system is specifically designed for
+space_94.txt$teachers the data base is arranged to provide easy access to current
+space_94.txt$and historical information on nasa aeronautics space research and
+space_94.txt$technology transfer information also included are suggested classroom
+space_94.txt$activities that incorporate information on nasa projects to teach a
+space_94.txt$number of scientific principles unlike bulletin board systems nasa
+space_94.txt$spacelink does not provide for interaction between callers however it
+space_94.txt$does allow teachers and other callers to leave questions and comments
+space_94.txt$for nasa which may be answered by regular mail messages are answered
+space_94.txt$electronically even to acknowledge requests which will be fulfilled by
+space_94.txt$mail messages are generally handled the next working day except during
+space_94.txt$missions when turnaround times increase the mail system is closedloop
+space_94.txt$between the user and nasa
+space_94.txt$spacelink also offers downloadable shareware and public domain programs
+space_94.txt$useful for science educators as well as space graphics and gif images
+space_94.txt$from nasas planetary probes and the hubble telescope
+space_94.txt$you can dial in at 2058950028 300120024009600v32 baud 8
+space_94.txt$bits no parity 1 stop bit or telnet to spacelinkmsfcnasagov
+space_94.txt$12815813250 also known as xslmsfcnasagov if youre on the
+space_94.txt$internet anonymous ftp capability password guest is now available
+space_94.txt$most of this information is also available from the ames server in
+space_94.txt$directory spacelink
+space_94.txt$the national space science data center is the official clearinghouse for
+space_94.txt$nasa data the data catalog not the data itself is available online
+space_94.txt$internet users can telnet to nssdcagsfcnasagov 1281833623 and
+space_94.txt$log in as nodis no password you can also get the catalog by sending
+space_94.txt$email to requestnssdcgsfcnasagov
+space_94.txt$you can also dial in at 3012869000 300 1200 or 2400 baud 8 bits
+space_94.txt$no parity one stop at the enter number prompt enter md and
+space_94.txt$carriage return when the system responds call complete enter a few
+space_94.txt$more carriage returns to get the username and log in as nodis no
+space_94.txt$password
+space_94.txt$the system is menudriven topics available as of 393 are
+space_94.txt$1   	master directory  nasa  global change
+space_94.txt$2   	personnel information management system
+space_94.txt$3   	nimbus7 grid toms data
+space_94.txt$4   	interplanetary medium data omni
+space_94.txt$5   	request data andor information from nssdc
+space_94.txt$6   	geophysical models
+space_94.txt$7   	canopus newsletter
+space_94.txt$8   	international ultraviolet explorer data request
+space_94.txt$9   	czcs browse and order utility
+space_94.txt$10  	astronomical data center adc
+space_94.txt$11  	step bulletin board service
+space_94.txt$12  	standards and technology information system
+space_94.txt$13  	planetary science  magellan project information
+space_94.txt$14  	other online data services at nssdc
+space_94.txt$15  	cdroms available at nssdc
+space_94.txt$for users with internet access datasets are made available via
+space_94.txt$anonymous ftp once you select the desired datasets from the online
+space_94.txt$catalog for other users data may be ordered on cdrom and in other
+space_94.txt$formats among the many types of data available are voyager magellan
+space_94.txt$and other planetary images earth observation data and star catalogs
+space_94.txt$viewers for macintosh and ibm systems are also available as an example
+space_94.txt$of the cost an 8 cd set of voyager images is 75 data may ordered
+space_94.txt$online by email or by physical mail the postal address is
+space_94.txt$national space science data center
+space_94.txt$request coordination office
+space_94.txt$goddard space flight center
+space_94.txt$code 633
+space_94.txt$greenbelt md  20771
+space_94.txt$telephone 301 2866695
+space_94.txt$email address	 requestnssdcagsfcnasagov
+space_94.txt$stsciedu 13016712 has a large amount of information about the
+space_94.txt$hubble space telescope available by anonymous ftp such as status
+space_94.txt$reports and newsletters in addition to material oriented towards hst
+space_94.txt$observers and proposers get the top level readme file to begin with
+space_94.txt$contact pete reppert reppertstsciedu or chris odea
+space_94.txt$odeastsciedu
+space_94.txt$the space telescope european coordination facility at esogarching
+space_94.txt$provides online access to a huge astronomical database featuring
+space_94.txt$ observation log files of several satellitestelescopes
+space_94.txt$ spectra and images iue hst
+space_94.txt$ most of the astronomical catalogues sao hr ngc ppm iras
+space_94.txt$veron gsc and many others more than 50 in a very convenient
+space_94.txt$way give centerradiuskind of objects and you get the
+space_94.txt$corresponding files
+space_94.txt$log on as starcat no password on node stesishqesoorg
+space_94.txt$1341718100 or on stesis decnet the files created can be
+space_94.txt$retreived by ftp contact benoit pirenne bpirenneesoorg phone 49
+space_94.txt$89 320 06 433 at stecf
+space_94.txt$the full sao stellar database is not available online probably due to
+space_94.txt$the 40 mb size it may be ordered on magnetic tape from the nssdc a
+space_94.txt$subset containing position and magnitude only is available by ftp see
+space_94.txt$astronomy programs below
+space_94.txt$nicfunetfi 1282146100 has a large collection of astronomical
+space_94.txt$programs for many types of computers databases of stars and deep sky
+space_94.txt$objects and general astronomy information in directory pubastro this
+space_94.txt$site is mainly for european users but overseas connections are
+space_94.txt$possible
+space_94.txt$the ames archives contain a database of 8436 galaxies including name
+space_94.txt$ra declination magnitude and radial velocity in miscgalaxydat
+space_94.txt$supplied by wayne hayes waynecsriutorontoca
+space_94.txt$iris1ucisdalca 12917318107 has a number of gifs from voyager
+space_94.txt$hubble and other sources available by anonymous ftp in pubgif most of
+space_94.txt$this data is also in spacegif on the ames server please restrict
+space_94.txt$access to 5pm  8am atlantic time
+space_94.txt$pomonaclaremontedu has the yale bright star catalog for anonymous ftp
+space_94.txt$in directory yalebsc contact james dishaw
+space_94.txt$jdishawhmcvaxclaremontedu
+space_94.txt$the hubble guide star catalog is available on cdrom for the mac and pc
+space_94.txt$for 4995 us catalog  st101
+space_94.txt$astronomical society of the pacific
+space_94.txt$390 ashton ave
+space_94.txt$san francisco ca 94112
+space_94.txt$phone 415 3372624 9 am  3 pm pacific time
+space_94.txt$for german and possibly other european readers jost jahn has a
+space_94.txt$service to distribute astronomical data to interested amateurs at cost
+space_94.txt$about 3040 catalogs are available for dm 68disk several floppy disk
+space_94.txt$formats are available because of the expense of receiving email on his
+space_94.txt$system he asks that you contact him by physical mail
+space_94.txt$jost jahn
+space_94.txt$neustaedter strasse 11
+space_94.txt$w3123 bodenteich
+space_94.txt$phone frg58243197
+space_94.txt$various astronomyrelated programs and databases posted to the net in
+space_94.txt$the past are archived for anonymous ftp at multiple sites including
+space_94.txt$ftpuunet 1373919 also see the astroftp list posted to sciastro
+space_94.txt$monthly which is more complete than this list
+space_94.txt$astonomicalspacerelated sources of interest in compsourcesunix
+space_94.txt$volume 8	    phoon	moon phase and date routines
+space_94.txt$volume 1213   starchart	starchart program  yale star data
+space_94.txt$volume 15	    moontool	shows moon phase picture on suns
+space_94.txt$volume 16	    sao		reduced sao catalog
+space_94.txt$astonomicalspacerelated sources of interest in compsourcesmisc
+space_94.txt$volume  8	    moon	another moon phase program
+space_94.txt$volume 11	    starchart	starchart program version 32
+space_94.txt$volume 11	    n3emoorbit orbit track earth satellites
+space_94.txt$volume 12	    starchart2	starchart program update to version 321
+space_94.txt$volume 13	    jupmoons	plotter for jupiters major moons in perl
+space_94.txt$volume 13	    lunisolar	lunisolar not sure what this does
+space_94.txt$volume 14	    ephem421	astronomical ephemeris v421
+space_94.txt$volume 14	    n3emoorbit patch to orbit 37
+space_94.txt$volume 18	    planet	planet generation simulator
+space_94.txt$elwood downey edowneytashaccacrrockwellcom the author of
+space_94.txt$ephem has offered to mail copies to people who cant find it on one
+space_94.txt$of the archives
+space_94.txt$xsat an x window system based satellite tracking program is
+space_94.txt$available by anonymous ftp from exportlcsmitedu 1824012 in
+space_94.txt$contribxsat10tarz contact dave curry davyecnpurdueedu
+space_94.txt$for more information
+space_94.txt$xsky a computerized sky atlas for the x window system is available for
+space_94.txt$anonymous ftp on arizonaedu in the directory softwareunixxsky as
+space_94.txt$xskytarz contact terry r friedrichsen terryvenussunquestcom for
+space_94.txt$more information
+space_94.txt$the variable stars analysis software archive is available via
+space_94.txt$anonymous ftp from kaurivuwacnz 130195113 in directory
+space_94.txt$pubastrophys this is intended for specialists in this field and they
+space_94.txt$would appreciate people from outside new zealand confining their ftp
+space_94.txt$access to the astrophys directory as they pay a significant amount for
+space_94.txt$internet access contents are relatively sparse at present due to the
+space_94.txt$youth of the archive  contributions are encouraged contact the archive
+space_94.txt$administrator timothy banks bankstkaurivuwacnz for more
+space_94.txt$information
+space_94.txt$the idl astronomy users library is available by anonymous ftp from
+space_94.txt$idlastrogsfcnasagov 1281835782 this is a central repository for
+space_94.txt$general purpose astronomy procedures written in idl a commercial image
+space_94.txt$processing plotting and programming language contact wayne landsman
+space_94.txt$landsmanstarsgsfcnasagov for more information
+space_94.txt$the most recent orbital elements from the nasa prediction bulletins are
+space_94.txt$carried on the celestial bbs 5134270674 documentation and tracking
+space_94.txt$software are also available on this system the celestial bbs may be
+space_94.txt$accessed 24 hoursday at 300 1200 or 2400 baud using 8 data bits 1
+space_94.txt$stop bit no parity
+space_94.txt$orbital element sets are available via anonymous ftp from the
+space_94.txt$following sites
+space_94.txt$archiveafitafmil 12992166	    nasatvroshuttle
+space_94.txt$directory pubspace
+space_94.txt$ftpfunetfi 1282146100	    nasatvromolczancelbbs
+space_94.txt$directory pubastropcsatel	    shuttle 
+space_94.txt$kilroyjplnasagov 1281491165     nasamolczan
+space_94.txt$directory pubspace
+space_94.txt$copies of back issues of space digest are archived on
+space_94.txt$listservugabitnet send mail containing the message index space to
+space_94.txt$get an index of files send it the message get filename filetype to
+space_94.txt$get a particular file
+space_94.txt$you can get blackandwhite 11m prints negatives or positives for
+space_94.txt$10 18 12 respectively for any landsat data more than 2 years old
+space_94.txt$from edc eros earth resources orbiting satellite data center call
+space_94.txt$them at 6055946511 you get 80 meter resolution from the mss
+space_94.txt$scanner 135x180 kilometers on a picture 135x180 mm in size i think you
+space_94.txt$have to select one band from green red near ir second near ir but
+space_94.txt$im not sure digitial data is also available at higher prices
+space_94.txt$transparencies of all nasa photos available to the public can be
+space_94.txt$borrowed from the nasa photo archive you can have copies or prints
+space_94.txt$made
+space_94.txt$nasa audiovisual facility
+space_94.txt$918 north rengstorff ave
+space_94.txt$mountain view ca  94043
+space_94.txt$the usgs address for maps of the planets is
+space_94.txt$us geological survey
+space_94.txt$distribution branch
+space_94.txt$box 25286 federal center bldg 41
+space_94.txt$denver co 80225
+space_94.txt$maps cost 240 to 310 per sheet a few come in sets of 2 or 3 sheets
+space_94.txt$the best global maps of mars based on viking images are 115000000
+space_94.txt$scale in 3 sheets these maps are
+space_94.txt$i1535 2 sheets only  relief albedo names
+space_94.txt$i1618 3 sheets  relief names
+space_94.txt$i2030 3 sheets  relief topographic contours
+space_94.txt$i1802abc 3 sheets  geology
+space_94.txt$there are many other maps as well 30 sheets at 15000000 scale in
+space_94.txt$relief albedo geology photomosaic forms not all 30 sheets available
+space_94.txt$in all formats 140 sheets at 12000000 scale as photomosaics of the
+space_94.txt$whole planet about 100 sheets of interesting sites at 1500000 scale
+space_94.txt$in photomosaic format and lots of special sheets
+space_94.txt$then there are maps of mercury venus the moon the four galilean
+space_94.txt$satellites six moons of saturn and five of uranus phil stooke
+space_94.txt$stookevaxrsscluwoca the author of this item has offered to
+space_94.txt$respond to email requests for information on any topic relating to lunar
+space_94.txt$and planetary maps
+space_94.txt$the central bureau for astronomical telegrams and the minor planet
+space_94.txt$center announce the sixth edition of the catalogue of cometary orbits in
+space_94.txt$iau circular 4935 the catalogue contains 1292 entries which represent
+space_94.txt$all known comets through november 1989 and is 96 pages long
+space_94.txt$nonsubscribers to the circulars may purchase the catalogue for 1500
+space_94.txt$while the cost to subscribers is 750 the basic catalogue in ascii
+space_94.txt$along with a program to extract specific orbits and calculate
+space_94.txt$ephemerides is available on msdos 525inch 2s2d diskette at a cost of
+space_94.txt$7500 the program requires an 8087 math coprocessor the catalogue
+space_94.txt$alone is also available by email for 3750 or on magnetic tape for
+space_94.txt$except for the printed version of the catalogue the various magnetic
+space_94.txt$media or email forms of the catalogue do not specifically meantion
+space_94.txt$nonsubscribers it is possible that these forms of the catalogue may
+space_94.txt$not be available to nonsubscribers or that their prices may be more
+space_94.txt$expensive than those given mail requests for specific information and
+space_94.txt$orders to
+space_94.txt$central bureau for astronomical telegrams
+space_94.txt$smithsonian astrophysical observatory
+space_94.txt$cambridge ma 02138 usa
+space_94.txt$next faq 415  performing calculations and interpreting data formats
+space_94.txt$food_93.txt
+space_94.txt$graphics_20.txt
+space_94.txt$sport_83.txt
+space_94.txt$medical_424.txt
+space_94.txt$space_68.txt
+space_94.txt$sport_65.txt
+space_94.txt$entertainment_37.txt
+space_94.txt$medical_572.txt
+space_94.txt$business_20.txt
+space_94.txt$business_28.txt
+space_94.txt$politics_136.txt
+space_94.txt$medical_500.txt
+space_94.txt$technologie_13.txt
+space_94.txt$food_78.txt
+space_94.txt$graphics_29.txt
+space_94.txt$graphics_13.txt
+space_94.txt$historical_23.txt
+space_94.txt$food_53.txt
+space_94.txt$politics_131.txt
+space_94.txt$historical_100.txt
+space_94.txt$historical_26.txt
+space_94.txt$technologie_84.txt
+space_94.txt$business_99.txt
+space_94.txt$medical_1.txt
+space_94.txt$space_76.txt
+space_94.txt$business_19.txt
+space_94.txt$graphics_75.txt
+space_94.txt$medical_40.txt
+space_94.txt$graphics_6.txt
+space_94.txt$business_75.txt
+space_94.txt$medical_691.txt
+space_94.txt$graphics_52.txt
+space_94.txt$business_58.txt
+space_94.txt$business_13.txt
+space_94.txt$entertainment_33.txt
+space_94.txt$historical_88.txt
+space_94.txt$business_40.txt
+space_94.txt$politics_229.txt
+space_94.txt$graphics_65.txt
+space_94.txt$sport_8.txt
+space_94.txt$graphics_7.txt
+space_94.txt$historical_74.txt
+space_94.txt$historical_81.txt
+space_94.txt$entertainment_24.txt
+space_94.txt$food_5.txt
+space_94.txt$historical_44.txt
+space_94.txt$space_5.txt
+space_94.txt$historical_98.txt
+space_94.txt$technologie_50.txt
+space_94.txt$politics_111.txt
+space_94.txt$historical_99.txt
+space_94.txt$business_65.txt
+space_94.txt$sport_59.txt
+space_94.txt$politics_15.txt
+space_94.txt$food_87.txt
+space_94.txt$historical_25.txt
+space_94.txt$sport_88.txt
+space_94.txt$food_12.txt
+space_94.txt$politics_319.txt
+space_94.txt$sport_52.txt
+space_94.txt$historical_12.txt
+space_94.txt$graphics_59.txt
+space_94.txt$food_48.txt
+space_94.txt$space_74.txt
+space_94.txt$business_14.txt
+space_94.txt$space_1.txt
+space_94.txt$entertainment_85.txt
+space_94.txt$entertainment_27.txt
+space_94.txt$space_71.txt
+space_94.txt$politics_128.txt
+space_94.txt$entertainment_90.txt
+space_94.txt$technologie_43.txt
+space_94.txt$entertainment_30.txt
+space_94.txt$sport_78.txt
+space_94.txt$technologie_42.txt
+space_94.txt$food_81.txt
+space_94.txt$politics_117.txt
+space_94.txt$historical_50.txt
+space_94.txt$technologie_89.txt
+space_94.txt$technologie_53.txt
+space_94.txt$technologie_59.txt
+space_94.txt$historical_80.txt
+space_94.txt$space_44.txt
+space_94.txt$business_29.txt
+space_94.txt$entertainment_39.txt
+space_94.txt$food_11.txt
+space_94.txt$historical_33.txt
+space_94.txt$politics_231.txt
+space_94.txt$sport_26.txt
+space_94.txt$graphics_86.txt

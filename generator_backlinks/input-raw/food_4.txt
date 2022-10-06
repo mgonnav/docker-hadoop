@@ -1,0 +1,25 @@
+food_4.txt$2          cups  allpurpose flour
+food_4.txt$34           cup  sugar
+food_4.txt$34           cup  whole unblanched almonds
+food_4.txt$34           cup  finely ground unblanched almonds
+food_4.txt$12      teaspoon  baking soda
+food_4.txt$12      teaspoon  baking powder
+food_4.txt$12      teaspoon  salt
+food_4.txt$12      teaspoon  cinnamon
+food_4.txt$13           cup  honey
+food_4.txt$13           cup  water
+food_4.txt$14      teaspoon  almond extract
+food_4.txt$
+food_4.txt$in medium bowl mix flour sugar whole almonds finely ground almonds baking soda baking powder salt and cinnamon in separate bowl blend honey water and almond extract
+food_4.txt$
+food_4.txt$add to dry ingredients and mix until wellblended turn dough out onto a lightly floured surface divide dough in half and form each portion into a log about 12 x 2 x 34
+food_4.txt$
+food_4.txt$place logs onto baking sheet coated with nonstick spray bake 30 minutes at 250 degrees remove from oven and cool for 10 minutes place log on cutting board with a serrated knife cut log diagonally into 12 slices using a sawing motion
+food_4.txt$
+food_4.txt$place slice with the cut side up on baking sheet and bake for an additional 15 minutes centers will be slightly soft but will harden as they cool remove from oven and place on wire rack to cool
+food_4.txt$
+food_4.txt$description
+food_4.txt$coffee house treats can turn an afternoon break or afterdinner
+food_4.txt$coffee with family and friends into a special occasion so go ahead
+food_4.txt$dunk honey almond biscotti in a steaming mug of freshly brewed
+food_4.txt$coffee

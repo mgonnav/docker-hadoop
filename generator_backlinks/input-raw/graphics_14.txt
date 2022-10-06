@@ -1,0 +1,11 @@
+graphics_14.txt$i am currently looking for a 3d graphics library that runs on ms
+graphics_14.txt$windows 31  are there any such libraries out there other than
+graphics_14.txt$visuallib  it must run on vga and should not require any other
+graphics_14.txt$addon graphics cards
+graphics_14.txt$for visuallib will it run with metaware high c compiler v30  any
+graphics_14.txt$email contact for the author of visuallib
+graphics_14.txt$any help would be much appreciated  thanks
+graphics_14.txt$ chua teck joo	     information technology institute 
+graphics_14.txt$ email teckjooitigovsg  71 science park drive	       
+graphics_14.txt$ phone 65 7720237 	     singapore 0511		       
+graphics_14.txt$ fax   65 7791827      			   	       

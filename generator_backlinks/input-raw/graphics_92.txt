@@ -1,0 +1,19 @@
+graphics_92.txt$dominic lai cscylaicsusthk wrote
+graphics_92.txt$ simon crowe scrowehemelbullcouk wrote
+graphics_92.txt$ 8 i require bgi drivers for super vga displays and super xvga displays does
+graphics_92.txt$ 8 anyone know where i could obtain the relevant drivers  ftp sites 
+graphics_92.txt$ 	i would like to know too
+graphics_92.txt$ regards
+graphics_92.txt$ dominic
+graphics_92.txt$garbouwasafi or one of its many mirrors has a file
+graphics_92.txt$called svgabg40 in the programming subdirectory
+graphics_92.txt$these are svga bgi drivers for a variety of cards
+graphics_92.txt$from the readme
+graphics_92.txt$card types supported supervga drivers
+graphics_92.txt$ahead ati chips  tech everex genoa paradise oak trident both 8800
+graphics_92.txt$and 8900 9000 tseng both 3000 and 4000 chipsets and video7
+graphics_92.txt$these drivers will also work on video cards with vesa capability
+graphics_92.txt$the tweaked drivers will work on any registercompatible vga card
+graphics_92.txt$enjoy
+graphics_92.txt$clark verbrugge
+graphics_92.txt$clumpcsmcgillca

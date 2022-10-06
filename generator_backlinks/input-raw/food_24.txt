@@ -1,0 +1,21 @@
+food_24.txt$1         pound  flank steak  diagonally sliced
+food_24.txt$marinade
+food_24.txt$14           cup  soy sauce
+food_24.txt$2   tablespoons  dry sherry
+food_24.txt$1      teaspoon  sugar
+food_24.txt$2     teaspoons  cornstarch
+food_24.txt$14           cup  water
+food_24.txt$2   tablespoons  oil
+food_24.txt$4        cloves  garlic  chopped
+food_24.txt$2     teaspoons  ginger root  peeled grated
+food_24.txt$2                scallions  chopped
+food_24.txt$2   tablespoons  oil
+food_24.txt$1         large  onion
+food_24.txt$2                green peppers  sliced
+food_24.txt$
+food_24.txt$marinate steak for 15 minutes or more  add oil to hot wok swirl and stir fry garlic ginger and scallions for 30 seconds  with slotted spoon reserving the marinade add half the steak and stir fry for 3 minutes  remove and set aside  repeat with remaining steak  add oil and stir fry onion and green peppers for 2 minutes  push vegetables to sides of wok  add marinade to center of wok and stir until thickened and bubbly  blend in vegetables add steak and heat thoroughly
+food_24.txt$
+food_24.txt$
+food_24.txt$
+food_24.txt$
+food_24.txt$

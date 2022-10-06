@@ -1,0 +1,98 @@
+graphics_97.txt$sorry i missed you raymond i was just out in dahlgren last month
+graphics_97.txt$im the virtual reality market manager for silicon graphics so perhaps i
+graphics_97.txt$can help a little
+graphics_97.txt$in article 1993mar1718572513487relaynswcnavymil
+graphics_97.txt$rchuinswcwonswcnavymil raymond chui writes
+graphics_97.txt$ hello the real reality our agency started to express interest in
+graphics_97.txt$ virtual realityvr  so far we do not know much about vr  all we
+graphics_97.txt$ know about are the hollywood movies the terminater 2 and lawnmover
+graphics_97.txt$ man  we also know something about vr from abc news magazine and
+graphics_97.txt$ computer graphics world magazine
+graphics_97.txt$unfortunately while sgi systems were used to create the special effects
+graphics_97.txt$for both terminator 2 and lawnmower man those are filmquality computer
+graphics_97.txt$graphics rendered in software and written to film a frame at a time  each
+graphics_97.txt$frame of computer animation for those films took hours to render on
+graphics_97.txt$highend parallel processing computer systems thus that level of graphics
+graphics_97.txt$would be difficult if not impossible to acheive in real time 30 frames
+graphics_97.txt$per second
+graphics_97.txt$ we certainly want to know more about vr  who are the leading
+graphics_97.txt$ companies
+graphics_97.txt$ agencies universities  what machines support vr ie sgi sun4
+graphics_97.txt$ hp9000 bim6000 etc
+graphics_97.txt$it depends upon how serious you are and how advanced your application is
+graphics_97.txt$true immersive visualization vr requires the rendering of complex visual
+graphics_97.txt$databases at anywhere from 20 to 60 newly rendered frames per second  this
+graphics_97.txt$is a similar requirement to that of traditional flight simulators for pilot
+graphics_97.txt$training if the frame rate is too low the user notices the stepping of
+graphics_97.txt$the frames as they move their head rapidly around the scene so the motion
+graphics_97.txt$of the graphics is not smooth and contiguous  thus the graphics system
+graphics_97.txt$must be powerful enough to sustain high frame rates while rendering complex
+graphics_97.txt$data representations
+graphics_97.txt$additionally the frame rate must be constant  if the system renders 15
+graphics_97.txt$frames per second at one point then 60 frames per second the next perhaps
+graphics_97.txt$due to the scene in the new viewing direction being simpler than what was
+graphics_97.txt$visible before the user can get heavily distracted by the medium the
+graphics_97.txt$graphics computer rather than focusing on the data to maintain a constant
+graphics_97.txt$frame rate the system must be able to run in realtime  unix in general
+graphics_97.txt$does not support realtime operation but silicon graphics has modified the
+graphics_97.txt$unix kernel for its multiprocessor systems to be able to support realtime
+graphics_97.txt$operation bypassing the usual unix process prioritymanagement schemes
+graphics_97.txt$uniprocessor systems running unix cannot fundamentally support realtime
+graphics_97.txt$operation not sun sparc10 not hp 700 series systems not ibm rs6000 not
+graphics_97.txt$even sgis uniprocessor systems like indigo or crimson only our
+graphics_97.txt$multiprocessor onyx and challenge systems support realtime operation due
+graphics_97.txt$to their symmetric multiprocessing smp sharedmemory architecture
+graphics_97.txt$from a graphics perspective rendering complex virtual environments
+graphics_97.txt$requires advanced rendering techniques like texture mapping and realtime
+graphics_97.txt$multisample antialiasing  of all of the general purpose graphics systems
+graphics_97.txt$on the market today only crimson realityengine and onyx realityengine2
+graphics_97.txt$systems fully support these capabilities the antialiasing is particularly
+graphics_97.txt$important as the crawling jagged edges of aliased polygons is an
+graphics_97.txt$unfortunate distraction when immersed in a virtual environment
+graphics_97.txt$  what kind of graphics languages are used with vr
+graphics_97.txt$ gl opengl phigs pex gks etc
+graphics_97.txt$you can use the general purpose graphics libraries listed above to develop
+graphics_97.txt$vr applications but that is starting at a pretty low level there are
+graphics_97.txt$offthe shelf software packages available to get you going much faster
+graphics_97.txt$being targeted directly at the vr application developer some of the most
+graphics_97.txt$popular are in no particular order
+graphics_97.txt$ division inc		    redwood city ca  dvs
+graphics_97.txt$ sens8 inc		    sausalito ca     worldtoolkit
+graphics_97.txt$ naval postgraduate school monterey ca      npsnet free
+graphics_97.txt$ gemini technology corp    irvine ca        gvs simation series
+graphics_97.txt$ paradigm simulation inc  dallas tx        visionworks audioworks
+graphics_97.txt$ silicon graphics inc	    mountain viewca  iris performer
+graphics_97.txt$there are some others but not off the top of my head
+graphics_97.txt$ what companies are making
+graphics_97.txt$ interface devices for vr goggles or boom binocular omniorientational
+graphics_97.txt$ monitor hamlets gloves arms etc
+graphics_97.txt$there are too many to list here but here is a smattering
+graphics_97.txt$ fake space labs	    menlo parkca     boom
+graphics_97.txt$ virtual technologies inc stanford ca      cyberglove
+graphics_97.txt$ digital image design	    new york ny      the cricket 3d input
+graphics_97.txt$ kaiser electro optics	    carlsbad ca      sim eye helmet displays
+graphics_97.txt$ virtual research	    sunnyvale ca     flight helmet display
+graphics_97.txt$ virtual reality inc	    pleasantvilleny  head mtd displays sw
+graphics_97.txt$ software systems	    san jose ca      3d modeling software
+graphics_97.txt$ etc etc etc
+graphics_97.txt$ what are those companys
+graphics_97.txt$ addresses and phone numbers  where we can get a list name of vr
+graphics_97.txt$ experts
+graphics_97.txt$ and their phone numbers and email addresses
+graphics_97.txt$read some of the vr books on the market
+graphics_97.txt$ virtual reality  ken pimental and ken texiera sp
+graphics_97.txt$ virtual mirage
+graphics_97.txt$ artificial reality  myron kreuger
+graphics_97.txt$ etc
+graphics_97.txt$or check out the newsgroup scivirtualworlds
+graphics_97.txt$feel free to contact me for more info
+graphics_97.txt$regards
+graphics_97.txt$josh
+graphics_97.txt$	joshua mogal		     	product manager			
+graphics_97.txt$	advanced graphics division   	  advanced graphics systems	
+graphics_97.txt$	silicon graphics inc	     	market manager			
+graphics_97.txt$	2011 north shoreline blvd   	  virtual reality		
+graphics_97.txt$	mountain view ca 940397311 	  interactive entertainment	
+graphics_97.txt$	tel	415 3901460						
+graphics_97.txt$	fax	415 9648671						
+graphics_97.txt$	email	mogalsgicom						

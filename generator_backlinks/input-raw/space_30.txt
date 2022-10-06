@@ -1,0 +1,122 @@
+space_30.txt$archivename spaceschedule
+space_30.txt$lastmodified date 930401 143923 
+space_30.txt$shuttle operations are discussed in the usenet group scispaceshuttle
+space_30.txt$and ken hollis gandalfproelectricctscom posts a compressed version
+space_30.txt$of the shuttle manifest launch dates and other information
+space_30.txt$periodically there the manifest is also available from the ames space
+space_30.txt$archive in spacefaqmanifest the portion of his manifest formerly
+space_30.txt$included in this faq has been removed please refer to his posting or
+space_30.txt$the archived copy for the most up to date information on upcoming
+space_30.txt$missions call 407 867info 8674636 at kennedy space center
+space_30.txt$official nasa shuttle status reports are posted to scispacenews
+space_30.txt$frequently
+space_30.txt$the following answer and translation are provided by ken jenks
+space_30.txt$kjenksgothamcityjscnasagov
+space_30.txt$the ascent guidance and flight control training manual asc gc 2102
+space_30.txt$says
+space_30.txt$during the vertical rise phase the launch pad attitude is
+space_30.txt$commanded until an iloaded vrel sufficient to assure launch tower
+space_30.txt$clearance is achieved then the tilt maneuver roll program
+space_30.txt$orients the vehicle to a heads down attitude required to generate a
+space_30.txt$negative qalpha which in turn alleviates structural loading other
+space_30.txt$advantages with this attitude are performance gain decreased abort
+space_30.txt$maneuver complexity improved sband look angles and crew view of
+space_30.txt$the horizon the tilt maneuver is also required to start gaining
+space_30.txt$downrange velocity to achieve the main engine cutoff meco target
+space_30.txt$in second stage
+space_30.txt$this really is a good answer but its couched in nasa jargon ill try
+space_30.txt$to interpret
+space_30.txt$1	we wait until the shuttle clears the tower before rolling
+space_30.txt$2	then we roll the shuttle around so that the angle of attack
+space_30.txt$between the wind caused by passage through the atmosphere the
+space_30.txt$relative wind and the chord of the wings the imaginary line
+space_30.txt$between the leading edge and the trailing edge is a slightly
+space_30.txt$negative angle a negative qalpha	this causes a little bit of
+space_30.txt$downward force toward the belly of the orbiter or the z
+space_30.txt$direction and this force alleviates structural loading
+space_30.txt$we have to be careful about those wings  theyre about the
+space_30.txt$most delicate part of the vehicle
+space_30.txt$3	the new attitude after the roll also allows us to carry more
+space_30.txt$mass to orbit or to achieve a higher orbit with the same mass or
+space_30.txt$to change the orbit to a higher or lower inclination than would be
+space_30.txt$the case if we didnt roll performance gain
+space_30.txt$4	the new attitude allows the crew to fly a less complicated
+space_30.txt$flight path if they had to execute one of the more dangerous abort
+space_30.txt$maneuvers the return to launch site decreased abort maneuver
+space_30.txt$complexity
+space_30.txt$5	the new attitude improves the ability for groundbased radio
+space_30.txt$antennae to have a good lineofsight signal with the sband radio
+space_30.txt$antennae on the orbiter improved sband look angles
+space_30.txt$6	the new attitude allows the crew to see the horizon which is a
+space_30.txt$helpful but not mandatory part of piloting any flying machine
+space_30.txt$7	the new attitude orients the shuttle so that the body is
+space_30.txt$more nearly parallel with the ground and the nose to the east
+space_30.txt$usually  this allows the thrust from the engines to add velocity
+space_30.txt$in the correct direction to eventually achieve orbit  remember
+space_30.txt$velocity is a vector quantity made of both speed and direction
+space_30.txt$the shuttle has to have a large horizontal component to its
+space_30.txt$velocity and a very small vertical component to attain orbit
+space_30.txt$this all begs the question why isnt the launch pad oriented to give
+space_30.txt$this nice attitude to begin with  why does the shuttle need to roll to
+space_30.txt$achieve that attitude  the answer is that the pads were leftovers
+space_30.txt$from the apollo days  the shuttle straddles two flame trenches  one
+space_30.txt$for the solid rocket motor exhaust one for the space shuttle main
+space_30.txt$engine exhaust  you can see the effects of this on any daytime
+space_30.txt$launch  the srm exhaust is dirty gray garbage and the ssme exhaust is
+space_30.txt$fluffy white steam  watch for the difference between the top
+space_30.txt$orbiter side and the bottom external tank side of the stack the
+space_30.txt$access tower and other support and service structure are all oriented
+space_30.txt$basically the same way they were for the saturn vs  a side note the
+space_30.txt$saturn vs also had a roll program  dont ask me why  im a shuttle
+space_30.txt$guy
+space_30.txt$i checked with a buddy in ascent dynamics	he added that the roll
+space_30.txt$maneuver is really a maneuver in all three axes roll pitch and yaw
+space_30.txt$the roll component of that maneuver is performed for the reasons
+space_30.txt$stated  the pitch component controls loading on the wings by keeping
+space_30.txt$the angle of attack qalpha within a tight tolerance  the yaw
+space_30.txt$component is used to determine the orbital inclination  the total
+space_30.txt$maneuver is really expressed as a quaternion a gradlevelmath
+space_30.txt$concept for combining all three rotation matrices in one fourelement
+space_30.txt$array
+space_30.txt$nasa select is broadcast by satellite if you have access to a satellite
+space_30.txt$dish you can find select on satcom f2r transponder 13 cband 72
+space_30.txt$degrees west longitude audio 68 frequency 3960 mhz f2r is stationed
+space_30.txt$over the atlantic and is increasingly difficult to receive from
+space_30.txt$california and points west during events of special interest eg
+space_30.txt$shuttle missions select is sometimes broadcast on a second satellite
+space_30.txt$for these viewers
+space_30.txt$if you cant get a satellite feed some cable operators carry select
+space_30.txt$its worth asking if yours doesnt
+space_30.txt$the select schedule is found in the nasa headline news which is
+space_30.txt$frequently posted to scispacenews generally it carries press
+space_30.txt$conferences briefings by nasa officials and live coverage of shuttle
+space_30.txt$missions and planetary encounters select has recently begun carrying
+space_30.txt$much more secondary material associated with spacelink when missions
+space_30.txt$are not being covered
+space_30.txt$the following are believed to rebroadcast space shuttle mission audio
+space_30.txt$w6fxn   los angeles
+space_30.txt$k6mf    ames research center mountain view california
+space_30.txt$wa3nan  goddard space flight center gsfc greenbelt maryland
+space_30.txt$w5rrr   johnson space center jsc houston texas
+space_30.txt$w6vio   jet propulsion laboratory jpl pasadena california
+space_30.txt$w1aw voice bulletins
+space_30.txt$station    vhf	   10m	   15m	   20m	  40m	 80m
+space_30.txt$w5rrr transmits mission audio on 14664 a special event station on the
+space_30.txt$other frequencies supplying keplerian elements and mission information
+space_30.txt$w1aw also transmits on 147555 18160 no mission audio but they
+space_30.txt$transmit voice bulletins at 0245 and 0545 utc
+space_30.txt$frequencies in the 1020m bands require usb and frequencies in the 40
+space_30.txt$and 80m bands lsb use fm for the vhf frequencies
+space_30.txt$this item was most recently updated courtesy of gary morris
+space_30.txt$gtelesoftcom kk6yb n5qwc
+space_30.txt$reference shuttle flight operations manual volume 8b  solid rocket
+space_30.txt$booster systems nasa document jsc12770
+space_30.txt$propellant composition percent
+space_30.txt$ammonium perchlorate oxidizer			696
+space_30.txt$aluminum						16
+space_30.txt$iron oxide burn rate catalyst			04
+space_30.txt$polybutadieneacrilic acidacrylonitrile a rubber 1204
+space_30.txt$epoxy curing agent					196
+space_30.txt$end reference
+space_30.txt$comment the aluminum rubber and epoxy all burn with the oxidizer
+space_30.txt$next faq 1015  historical planetary probes

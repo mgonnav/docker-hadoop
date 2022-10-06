@@ -1,0 +1,41 @@
+graphics_11.txt$in article 1pp991t63cctutfi jk87377lehtoricctutfi kouhia juhana
+graphics_11.txt$writes
+graphics_11.txt$in article 1993apr504081914943kpccom hollaschkpccom steve
+graphics_11.txt$hollasch writes
+graphics_11.txt$    i think youre proposal would work to get an extra one maybe two extra
+graphics_11.txt$bits of color resolution  however if you had a display that chould do only
+graphics_11.txt$zero or full intensity for each primary i dont think youd get great
+graphics_11.txt$equivalent 24bit photographs
+graphics_11.txt$i have not suggested to do so i wrote about problems and the problem
+graphics_11.txt$were clearly visible with 7 bit bw images not to mention 24 bit images
+graphics_11.txt$ description of experiment deleted 
+graphics_11.txt$if the 1 bit images are viewed quickly and in sync with screen
+graphics_11.txt$then 100 intensities could be better than we have  i dunno
+graphics_11.txt$ more deleted 
+graphics_11.txt$in any case getting black color with slow machines is problem
+graphics_11.txt$i could try it on our 8 bit screens but i dont know how to
+graphics_11.txt$render pixels with x in constant time i recall our double buffer
+graphics_11.txt$has other image color and one bw  that doesnt help either
+graphics_11.txt$maybe i should dump photos to screen with low level code how
+graphics_11.txt$a few years ago a friend and i took some 256 greylevel photos from
+graphics_11.txt$a 1 bit mac plus screen using this method displaying all 256 levels
+graphics_11.txt$synchronized to the 60hz display took about 10 seconds after
+graphics_11.txt$experimenting with different aperture settings and screen
+graphics_11.txt$brightnesses we found a range that worked well giving respectable
+graphics_11.txt$contrast the quality of the images was pretty good there were no
+graphics_11.txt$visible contrast bands
+graphics_11.txt$to minimize the exposure time the display program built 255
+graphics_11.txt$different 1 bit frames the first contained a dot only for pixels
+graphics_11.txt$that had value 255 the second only for pixels that had value 254
+graphics_11.txt$etc these frames were stored using a sparse data structure that was
+graphics_11.txt$very fast to or onto the screen in sequence creating these
+graphics_11.txt$frames sometimes took 510 minutes on that old mac but the camera
+graphics_11.txt$shutter was closed during that time anyway and yes we wrote
+graphics_11.txt$directly to the screen memory mea culpa
+graphics_11.txt$our biggest problem was that small images were displayed in the
+graphics_11.txt$top left corner of the screen instead of the center it took
+graphics_11.txt$an extra week to have the film developed and printed because the
+graphics_11.txt$processors took the trouble to manually move the all images into
+graphics_11.txt$the center of the print whod have guessed
+graphics_11.txt$regards
+graphics_11.txt$jon rowlands

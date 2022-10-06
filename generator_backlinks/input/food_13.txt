@@ -1,0 +1,46 @@
+food_13.txt$4          cups  flour  sifted
+food_13.txt$1           cup  sugar
+food_13.txt$1    tablespoon  baking powder
+food_13.txt$14      teaspoon  salt
+food_13.txt$1           cup  shortening
+food_13.txt$2                eggs  slightly beaten
+food_13.txt$12           cup  milk
+food_13.txt$14         pound  sesame seeds  about 23 to 34 cup
+food_13.txt$
+food_13.txt$lightly grease 2 cookie sheets  heat the oven to 375f  sift together the flour sugar baking powder and salt into a bowl  cut in the shortening with a pastry blender or two knives until the pieces are the size of small peas  stir in the eggs and the milk 1 tablespoon at a time to make a soft dough  mix together thoroughly break the dough into small pieces and roll each between the palms of your hands to form rolls about 1 12 inches in length  flatten the rolls slightly and roll them in the sesame seeds  place about 34 inch apart on the prepared cookie sheets  bake for 12 to 15 minutes or until thee cookies are lightly browned  makes about 6 dozen cookies
+food_13.txt$food_93.txt
+food_13.txt$graphics_20.txt
+food_13.txt$sport_83.txt
+food_13.txt$medical_424.txt
+food_13.txt$space_68.txt
+food_13.txt$sport_65.txt
+food_13.txt$entertainment_37.txt
+food_13.txt$medical_572.txt
+food_13.txt$business_20.txt
+food_13.txt$business_28.txt
+food_13.txt$politics_136.txt
+food_13.txt$medical_500.txt
+food_13.txt$technologie_13.txt
+food_13.txt$food_78.txt
+food_13.txt$graphics_29.txt
+food_13.txt$graphics_13.txt
+food_13.txt$historical_23.txt
+food_13.txt$food_53.txt
+food_13.txt$politics_131.txt
+food_13.txt$historical_100.txt
+food_13.txt$historical_26.txt
+food_13.txt$technologie_84.txt
+food_13.txt$business_99.txt
+food_13.txt$medical_1.txt
+food_13.txt$space_76.txt
+food_13.txt$business_19.txt
+food_13.txt$graphics_75.txt
+food_13.txt$medical_40.txt
+food_13.txt$graphics_6.txt
+food_13.txt$business_75.txt
+food_13.txt$medical_691.txt
+food_13.txt$graphics_52.txt
+food_13.txt$business_58.txt
+food_13.txt$business_13.txt
+food_13.txt$entertainment_33.txt
+food_13.txt$graphics_86.txt

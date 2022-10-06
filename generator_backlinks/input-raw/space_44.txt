@@ -1,0 +1,40 @@
+space_44.txt$in article c4zhkw3dnzootorontoedu henryzootorontoedu henry spencer writes
+space_44.txt$ in article 2736snap pajukcogecmrc paul johnson writes
+space_44.txt$this bit interests me  how much automatic control is there  is it
+space_44.txt$purely autonomous or is there some degree of ground control
+space_44.txt$ the stickandrudder man is always the onboard computer  the computer
+space_44.txt$ normally gets its orders from a stored program but they can be overridden
+space_44.txt$ from the ground
+space_44.txt$how is
+space_44.txt$the transition from aerodynamic flight if thats what it is to hover
+space_44.txt$accomplished  this is the really new part
+space_44.txt$ its also one of the tricky parts  there are four different ideas and
+space_44.txt$ dcx will probably end up trying all of them  this is from talking to
+space_44.txt$ mitch burnside clapp whos one of the dcx test pilots at making orbit
+space_44.txt$ 1 pop a drogue chute from the nose light the engines once the thing
+space_44.txt$ 	stabilizes basefirst  simple and reliable  heavy shock loads
+space_44.txt$ 	on an area of structure that doesnt otherwise carry major loads
+space_44.txt$ 	needs a door in the hot part of the structure a door whose
+space_44.txt$ 	operation is missioncritical
+space_44.txt$ 2 switch off pitch stability  the dc is aerodynamically unstable at
+space_44.txt$ 	subsonic speeds  wait for it to flip and catch it at 180
+space_44.txt$ 	degrees then light engines  a bit scary
+space_44.txt$ 3 light the engines and use thrust vectoring to push the tail around
+space_44.txt$ 	probably the preferred method in the long run  tricky because
+space_44.txt$ 	of the fuelfeed plumbing  the fuel will start off in the tops
+space_44.txt$ 	of the tanks then slop down to the bottoms during the flip
+space_44.txt$ 	keeping the engines properly fed will be complicated
+space_44.txt$ 4 build up speed in a dive then pull up hard losing a lot of speed
+space_44.txt$ 	this things ld is not that great until its headed up and
+space_44.txt$ 	the vertical velocity drops to zero at which point it starts
+space_44.txt$ 	to fall tailfirst  light engines  also a bit scary and you
+space_44.txt$ 	probably dont have enough altitude left to try again
+space_44.txt$ all work is one mans work              henry spencer  u of toronto zoology
+space_44.txt$                      kipling             henryzootorontoedu  utzoohenry
+space_44.txt$since the dcx is to take off horizontal why not land that way
+space_44.txt$why do the martian landing thing  or am i missing something dont know to
+space_44.txt$much about dcx and such overly obvious
+space_44.txt$why not just fall to earth like the russian crafts parachute in then
+space_44.txt$michael adams nsmcaacad3alaskaedu  im not high just jacked
+space_44.txt$please enlighten me ignorance is easy to correct make a mistake and
+space_44.txt$everyone will let you know you messed up

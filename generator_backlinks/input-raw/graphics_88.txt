@@ -1,0 +1,88 @@
+graphics_88.txt$scrowehemelbullcouk simon crowe writes
+graphics_88.txt$i am looking for an algorithm to determine if a given point is bound by a
+graphics_88.txt$polygon does anyone have any such code or a reference to book containing
+graphics_88.txt$information on the subject 
+graphics_88.txt$well its been a while since this was discussed so i take the liberty of
+graphics_88.txt$reprinting without permission so sue me eric haines reprint of the very
+graphics_88.txt$interesting discussion of this topic
+graphics_88.txt$jonas
+graphics_88.txt$ x snip snip x 
+graphics_88.txt$give a man a fish and hell eat one day
+graphics_88.txt$give a man a fishing rod and hell laze around fishing and never do anything
+graphics_88.txt$with that in mind i reprint without permission so sue me relevant
+graphics_88.txt$information posted some years ago on this very problem  note the early use of
+graphics_88.txt$postscript technology predating many of this years papers listed in the
+graphics_88.txt$april 1st siggraph program announcement posted here a few days ago
+graphics_88.txt$ eric
+graphics_88.txt$intersection between a line and a polygon undecidable
+graphics_88.txt$by dave baraff tom duff
+graphics_88.txt$from debcharismagraphicscornelledu
+graphics_88.txt$newsgroups compgraphics
+graphics_88.txt$keywords p np jordan curve separation ursyhon metrization theorem
+graphics_88.txt$organization program of computer graphics
+graphics_88.txt$in article  ncsmithndsuvaxuucp timothy lyle smith writes
+graphics_88.txt$  i need to find a formulaalgorithm to determine if a line intersects
+graphics_88.txt$  a polygon  i would prefer a method that would do this in as little
+graphics_88.txt$  time as possible  i need this for use in a forward raytracing
+graphics_88.txt$  program
+graphics_88.txt$i think that this is a very difficult problem  to start with lines and
+graphics_88.txt$polygons are semialgebraic sets which both contain uncountable number of
+graphics_88.txt$points  here are a few offthecuff ideas
+graphics_88.txt$first we need to check if the line and the polygon are separated  now the
+graphics_88.txt$jordan curve separation theorem says that the polygon divides the plane into
+graphics_88.txt$exactly two open and thus noncompact regions  thus the line lies
+graphics_88.txt$completely inside the polygon the line lies completely outside the polygon
+graphics_88.txt$or possibly but this will rarely happen the line intersects the polyon
+graphics_88.txt$now the phrasing of this question says if a line intersects a polygon so
+graphics_88.txt$this is a decision problem  one possibility the decision model approach is
+graphics_88.txt$to reduce the question to some other well known problem q and then try to
+graphics_88.txt$solve q  an answer to q gives an answer to the original decision problem
+graphics_88.txt$in recent years many geometric problems have been successfully modeled in a
+graphics_88.txt$new language called postscript  see postscript language by adobe systems
+graphics_88.txt$incorporated isbn  0201101793 co 1985
+graphics_88.txt$so given a line l and a polygon p we can write a postscript program that
+graphics_88.txt$draws the line l and the polygon p and then outputs the answer  by
+graphics_88.txt$output we mean the program executes a command called showpage which
+graphics_88.txt$actually prints a page of paper containing the line and the polygon  a quick
+graphics_88.txt$examination of the paper provides an answer to the reduced problem q and thus
+graphics_88.txt$the original problem
+graphics_88.txt$there are two small problems with this approach
+graphics_88.txt$1 there is an infinite number of ways to encode l and p into the
+graphics_88.txt$reduced problem q  so we will be forced to invoke the axiom of
+graphics_88.txt$choice or equivalently zorns lemma  but the use of the axiom of
+graphics_88.txt$choice is not regarded in a very serious light these days
+graphics_88.txt$2 more importantly the question arises as to whether or not the
+graphics_88.txt$postscript program q will actually output a piece of paper or in
+graphics_88.txt$other words will it halt
+graphics_88.txt$now postscript is expressive enough to encode everything that a
+graphics_88.txt$turing machine might do thus the halting problem for postscript is
+graphics_88.txt$undecidable  it is quite possible that the original problem will turn
+graphics_88.txt$out to be undecidable
+graphics_88.txt$i wont even begin to go into other difficulties such as aliasing finite
+graphics_88.txt$precision and running out of ink paper or both
+graphics_88.txt$a couple of references might be
+graphics_88.txt$1 principia mathematica  newton i  cambridge university press cambridge
+graphics_88.txt$england  sorry i dont have an isbn for this
+graphics_88.txt$2 an introduction to automata theory languages and computation  hopcroft j
+graphics_88.txt$and ulman j
+graphics_88.txt$3 the c programming language kernighan b and ritchie d
+graphics_88.txt$4 a tale of two cities dickens c
+graphics_88.txt$from tdaliceuucp tom duff
+graphics_88.txt$summary overkill
+graphics_88.txt$organization att bell laboratories murray hill nj
+graphics_88.txt$the situation is not nearly as bleak as baraff suggests he should know
+graphics_88.txt$better hes hung around the labs for long enough  by the well known
+graphics_88.txt$dobbindullman reduction see j dullman  d dobbin j comp obfusc
+graphics_88.txt$37ii  pp 33947 lemma 17a linepolygon intersection can be reduced to
+graphics_88.txt$hamiltonian circuit without the use of grobner bases so lpi to coin an
+graphics_88.txt$acronym is probably only npcomplete  besides turingcompleteness will no
+graphics_88.txt$longer be a problem once our cray3 is delivered since it will be able to
+graphics_88.txt$complete an infinite loop in 4 milliseconds with scattergather
+graphics_88.txt$from debsvaxcscornelledu david baraff
+graphics_88.txt$well sure its no worse than npcomplete but thats only if you restrict
+graphics_88.txt$yourself to the case where the line satisfies a lipschitz condition on its
+graphics_88.txt$second derivative  i think theres an 89 siggraph paper from caltech that
+graphics_88.txt$deals with this
+graphics_88.txt$j o n a s   y n g v e s s o n          email jonasyisyliuse
+graphics_88.txt$dept of electrical engineering	        voice  46013282162
+graphics_88.txt$university of linkoping sweden         fax    46013139282

@@ -1,0 +1,1228 @@
+space_73.txt$archivename spaceintro
+space_73.txt$lastmodified date 930401 143910 
+space_73.txt$this series of linked messages is periodically posted to the usenet
+space_73.txt$groups scispace and sciastro in an attempt to provide good answers to
+space_73.txt$frequently asked questions and other reference material which is worth
+space_73.txt$preserving if you have corrections or answers to other frequently asked
+space_73.txt$questions that you would like included in this posting send email to
+space_73.txt$leechcsuncedu jon leech
+space_73.txt$if you dont want to see the faq add frequently asked questions to
+space_73.txt$your kill file for this group if youre not reading this with a newsreader
+space_73.txt$that can kill articles by subject youre out of luck
+space_73.txt$the faq volume is excessive right now and will hopefully be trimmed down
+space_73.txt$by rewriting and condensing over time the faq postings are available in
+space_73.txt$the ames space archive in faqfaq
+space_73.txt$good summaries will be accepted in place of the answers given here the
+space_73.txt$point of this is to circulate existing information and avoid rehashing old
+space_73.txt$answers better to build on top than start again nothing more depressing
+space_73.txt$than rehashing old topics for the 100th time references are provided
+space_73.txt$because they give more complete information than any short generalization
+space_73.txt$questions fall into three basic types
+space_73.txt$1 where do i find some information about space
+space_73.txt$try your local public library first the net is not a good place to ask
+space_73.txt$for general information ask individuals by email if you must there
+space_73.txt$are other sources use them too the net is a place for open ended
+space_73.txt$discussion
+space_73.txt$2 i have an idea which would improve space flight
+space_73.txt$hope you arent surprised but 9999 out of 10000 have usually been
+space_73.txt$thought of before again contact a direct individual source for
+space_73.txt$evaluation nasa fields thousands of these each day
+space_73.txt$3 miscellanous queries
+space_73.txt$these are addressed on a casebycase basis in the following series of
+space_73.txt$faq postings
+space_73.txt$read newsannouncenewusers if youre on usenet
+space_73.txt$minimize cross references do you really need to
+space_73.txt$edit subject lines especially if youre taking a tangent
+space_73.txt$send mail instead avoid posting follow ups 1 mail message worth
+space_73.txt$100 posts
+space_73.txt$internet mail readers send requests to adddrop to spacerequest
+space_73.txt$not space
+space_73.txt$read all available articles before posting a followup check all
+space_73.txt$references
+space_73.txt$cut down attributed articles leave only the points youre
+space_73.txt$responding to remove signatures and headers summarize
+space_73.txt$put a return address in the body signature of your message mail
+space_73.txt$or article state your institution etc dont assume the
+space_73.txt$reply function of mailers will work
+space_73.txt$use absolute dates post in a timely way dont post what everyone
+space_73.txt$will get on tv anyway
+space_73.txt$some editors and window systems do character count line wrapping
+space_73.txt$keep lines under 80 characters for those using ascii terminals
+space_73.txt$use carriage returns
+space_73.txt$ive attempted to break the postings up into related areas there isnt
+space_73.txt$a keyword index yet the following lists the major subject areas in each
+space_73.txt$posting only those containing astronomyrelated material are posted to
+space_73.txt$sciastro indicated by  following the posting number
+space_73.txt$	contents
+space_73.txt$1	introduction
+space_73.txt$suggestions for better netiquette
+space_73.txt$index to linked postings
+space_73.txt$notes on addresses phone numbers etc
+space_73.txt$contributors
+space_73.txt$2	network resources
+space_73.txt$overview
+space_73.txt$mailing lists
+space_73.txt$periodically updated information
+space_73.txt$warning about nonpublic networks
+space_73.txt$3	online and some offline sources of images data etc
+space_73.txt$introduction
+space_73.txt$viewing images
+space_73.txt$online archives
+space_73.txt$nasa ames
+space_73.txt$nasa astrophysics data system
+space_73.txt$nasa jet propulsion lab mission information and images
+space_73.txt$nasa langley technical reports
+space_73.txt$nasa spacelink
+space_73.txt$national space science data center
+space_73.txt$space telescope science institute electronic info service
+space_73.txt$starcat
+space_73.txt$astronomical databases
+space_73.txt$astronomy programs
+space_73.txt$orbital element sets
+space_73.txt$space digest
+space_73.txt$landsat  nasa photos
+space_73.txt$planetary maps
+space_73.txt$cometary orbits
+space_73.txt$4	performing calculations and interpreting data formats
+space_73.txt$computing spacecraft orbits and trajectories
+space_73.txt$computing planetary positions
+space_73.txt$computing crater diameters from earthimpacting asteroids
+space_73.txt$map projections and spherical trignometry
+space_73.txt$performing nbody simulations efficiently
+space_73.txt$interpreting the fits image format
+space_73.txt$sky unix ephemeris program
+space_73.txt$threedimensional stargalaxy coordinates
+space_73.txt$5	references on specific areas
+space_73.txt$publishers of spaceastronomy material
+space_73.txt$careers in the space industry
+space_73.txt$dcx singlestage to orbit ssto program
+space_73.txt$how to name a star after a person
+space_73.txt$llnl great exploration
+space_73.txt$lunar prospector
+space_73.txt$lunar science and activities
+space_73.txt$orbiting earth satellite histories
+space_73.txt$spacecraft models
+space_73.txt$rocket propulsion
+space_73.txt$spacecraft design
+space_73.txt$esoteric propulsion schemes solar sails lasers fusion
+space_73.txt$spy satellites
+space_73.txt$space shuttle computer systems
+space_73.txt$seti computation signal processing
+space_73.txt$amateur satellies  weather satellites
+space_73.txt$tides
+space_73.txt$6	constants and equations for calculations
+space_73.txt$7	astronomical mnemonics
+space_73.txt$8	contacting nasa esa and other space agenciescompanies
+space_73.txt$nasa centers  arianespace  esa  nasda  soyuzkarta  space
+space_73.txt$camp  space commerce corporation  spacehab  spot image
+space_73.txt$other commercial space businesses
+space_73.txt$9	space shuttle answers launch schedules tv coverage
+space_73.txt$shuttle launchings and landings schedules and how to see them
+space_73.txt$why does the shuttle roll just after liftoff
+space_73.txt$how to receive the nasa tv channel nasa select
+space_73.txt$amateur radio frequencies for shuttle missions
+space_73.txt$solid rocket booster fuel composition
+space_73.txt$10	planetary probes  historical missions
+space_73.txt$us planetary missions
+space_73.txt$mariner venus mars  mercury flybys and orbiters
+space_73.txt$pioneer moon sun venus jupiter and saturn flybys and orbiters
+space_73.txt$ranger lunar lander and impact missions
+space_73.txt$lunar orbiter lunar surface photography
+space_73.txt$surveyor lunar soft landers
+space_73.txt$viking mars orbiters and landers
+space_73.txt$voyager outer planet flybys
+space_73.txt$soviet planetary missions
+space_73.txt$soviet lunar probes
+space_73.txt$soviet venus probes
+space_73.txt$soviet mars probes
+space_73.txt$japanese planetary missions
+space_73.txt$planetary mission references
+space_73.txt$11	upcoming planetary probes  missions and schedules
+space_73.txt$cassini
+space_73.txt$galileo
+space_73.txt$magellan
+space_73.txt$mars observer
+space_73.txt$topexposeidon
+space_73.txt$ulysses
+space_73.txt$other space science missions
+space_73.txt$proposed missions
+space_73.txt$12	controversial questions
+space_73.txt$what happened to the saturn v plans
+space_73.txt$why data from space missions isnt immediately available
+space_73.txt$risks of nuclear rtg power sources for space probes
+space_73.txt$impact of the space shuttle on the ozone layer
+space_73.txt$how long can a human live unprotected in space
+space_73.txt$how the challenger astronauts died
+space_73.txt$using the shuttle beyond low earth orbit
+space_73.txt$the face on mars
+space_73.txt$13	space activistinterestresearch groups and space publications
+space_73.txt$groups
+space_73.txt$publications
+space_73.txt$undocumented groups
+space_73.txt$14	how to become an astronaut
+space_73.txt$15	orbital and planetary launch services
+space_73.txt$unless otherwise specified telephone numbers addresses and so on are
+space_73.txt$for the united states of america nonus readers should remember to add
+space_73.txt$the country code for telephone calls etc
+space_73.txt$eugene miya started a series of linked faq postings some years ago which
+space_73.txt$inspired and was largely absorbed into this set
+space_73.txt$peter yee and ron baalke have and continue to spend a lot of their own
+space_73.txt$time setting up the space archives at nasa ames and forwarding official
+space_73.txt$nasa announcements
+space_73.txt$many other people have contributed material to this list in the form of
+space_73.txt$old postings to scispace and sciastro which ive edited please let me
+space_73.txt$know if corrections need to be made contributors ive managed to keep
+space_73.txt$track of are
+space_73.txt$0004847546mcimailcom francis reddy	 map projections
+space_73.txt$ad038yfnysuedu steven fisk		 publication refs
+space_73.txt$akermanbillphyqueensuca richard akerman    crater diameters
+space_73.txt$alweigelathenamitedu lisa weigel	 seds info
+space_73.txt$aoab314emxutexasedu srinivas bettadpur  tides
+space_73.txt$awpaethwatcglwaterlooedu alan wm paeth  map projections
+space_73.txt$awsitiorg allen w sherzer		 great exploration
+space_73.txt$baalkekelvinjplnasagov ron baalke	 planetary probe schedules
+space_73.txt$bankstratavuwacnz timothy banks	 map projections
+space_73.txt$variable star analysis archive
+space_73.txt$bernunitrierde jochen bern		 german mnemonic translation
+space_73.txt$brosenpioneerarcnasagov bernie rosen	 space camp
+space_73.txt$bschlesingernssdcagsfcnasagov barry schlesinger    fits format
+space_73.txt$cewveneraisiedu craig e ward		 space group contact info
+space_73.txt$chapincbnewscattcom tom chapin		 planetary positions
+space_73.txt$cunnidatenetedu d alan cunningham	 nasa spacelink
+space_73.txt$cyamamotkilroyjplnasagov cliff yamamoto  orbital elements
+space_73.txt$datriconvexcom anthony datri		 pdsvicar viewing software
+space_73.txt$daversjcmentorgcom dave rickel		 orbit formulae
+space_73.txt$dlbres10pcusledu phil fraering		 propulsion
+space_73.txt$ederhsvaicboeingcom dani eder		 saturn v plans srbs
+space_73.txt$eugeneeosarcnasagov eugene n miya	 introduction
+space_73.txt$nasa contact info started faq postings
+space_73.txt$frenchisuisunetedu patrick m french	 space group contact info
+space_73.txt$gtelesoftcom gary morris		 amateur radio info
+space_73.txt$gaetzcfaharvardedu terry gaetz		 nbody calculations
+space_73.txt$orbital dynamics
+space_73.txt$grandinoaoedu steve grandi		 planetary positions
+space_73.txt$greerutd201dnetutadnxutspanspannasagov dale m greer    constants
+space_73.txt$henryzootorontoedu henry spencer	 survival in vacuum
+space_73.txt$astronaut howto challenger disaster publication refs dcx
+space_73.txt$higginsfnalbitnet william higgins	 rtgs publishers
+space_73.txt$shuttle landings spysats propulsion face on mars
+space_73.txt$hmuellercssuntamuedu hal mueller	 map projections
+space_73.txt$orbital dynamics
+space_73.txt$jbh55289uxacsouiucedu josh hopkins	 launch services
+space_73.txt$jimpnet01ctscom jim bowery		 propulsion launch services
+space_73.txt$jnheadpirllplarizonaedu james n head  atmospheric scale heights
+space_73.txt$jscottilplarizonaedu jim scotti	 planetary positions
+space_73.txt$kcarrollzootorontoedu kieran a carroll refs for spacecraft design
+space_73.txt$kenorionbitnet kenneth ng		 rtgs
+space_73.txt$kjenksgothamcityjscnasagov ken jenks	 shuttle roll manuever
+space_73.txt$klaesvergaenetdeccom larry klaes	 planetary probe history
+space_73.txt$leechcsuncedu jon leech		 crater diameters
+space_73.txt$lfassicom lou adornato			 orbital dynamics
+space_73.txt$maurymarkowitzegsgatefidonetorg maury markowitz    propulsion
+space_73.txt$maxwestdarksidecom erik max francis	 equations
+space_73.txt$mbellonmcdurburbanagouldcom		 nbody calculations
+space_73.txt$mcconleyphoenixprincetonedu marc wayne mcconley     space careers
+space_73.txt$msbsqcom mark brader			 mariner 1 info
+space_73.txt$mwmcmuedu mark maimone			 space digest
+space_73.txt$nickwsymasussexacuk dr nick watkins	 models spysats
+space_73.txt$ohainautesoorg olivier r hainaut	 publishers starcat
+space_73.txt$oneilaiojscnasagov graham oneil	 lunar prospector
+space_73.txt$panamacupportalcom kenneth w durham	 cometary orbits iau
+space_73.txt$paulblasenssfidonetorg paul blase	 propulsion
+space_73.txt$pjsplatojplnasagov peter scott	 rtgs
+space_73.txt$pschleckunomahaedu paul w schleck	 amsat arrl contact info
+space_73.txt$rdbmelcocamozau rodney brown		 propulsion refs
+space_73.txt$rja7mphilcsvirginiaedu ran atkinson	 ftpable astro programs
+space_73.txt$rjungclaihlpbattcom r michael jungclas models
+space_73.txt$roellesigijhuapledu curt roelle	 german mnemonic translation
+space_73.txt$sealleonardojplnasagov david seal	 cassini mission schedule
+space_73.txt$shaferskipperdfrfnasagov mary shafer	 photos shuttle landings
+space_73.txt$smithsndpitenetdeccom willie smith	 photos
+space_73.txt$stephengpwdgpconz stephen dixon	 shuttle audio frequencies
+space_73.txt$sternerwarperjhuapledu ray sterner	 planetary positions
+space_73.txt$stookevaxrsscluwoca phil stooke	 planetary maps
+space_73.txt$tedandersontransarccom ted anderson	 propulsion
+space_73.txt$terryastroasutexasedu terry hancock	 nasa center info
+space_73.txt$thorsontyphoonatmoscolostateedu bill thorson  fits info
+space_73.txt$tm2bandrewcmuedu todd l masco	 space digest
+space_73.txt$tomssdcsdharriscom tom horsley	 refs for algorithms
+space_73.txt$veikkomakelahelsinkifi veikko makela	 orbital element sets
+space_73.txt$waleslarrisonofa123fidonetorg wales larrison  groups  publications
+space_73.txt$waynecsriutorontoca wayne hayes	 constants
+space_73.txt$weembalibrawistarupennedu matthew p wiener  voyager history
+space_73.txt$yamadayscvaxyscgojp yoshiro yamada	 isasnasda missions
+space_73.txt$yeeamesarcnasagov peter yee		 ames archive server
+space_73.txt$propulsion
+space_73.txt$in net memoriam
+space_73.txt$ted flinn
+space_73.txt$next faq 215  network resources
+space_73.txt$food_93.txt
+space_73.txt$graphics_20.txt
+space_73.txt$sport_83.txt
+space_73.txt$medical_424.txt
+space_73.txt$space_68.txt
+space_73.txt$sport_65.txt
+space_73.txt$entertainment_37.txt
+space_73.txt$medical_572.txt
+space_73.txt$business_20.txt
+space_73.txt$business_28.txt
+space_73.txt$politics_136.txt
+space_73.txt$medical_500.txt
+space_73.txt$technologie_13.txt
+space_73.txt$food_78.txt
+space_73.txt$graphics_29.txt
+space_73.txt$graphics_13.txt
+space_73.txt$historical_23.txt
+space_73.txt$food_53.txt
+space_73.txt$politics_131.txt
+space_73.txt$historical_100.txt
+space_73.txt$historical_26.txt
+space_73.txt$technologie_84.txt
+space_73.txt$business_99.txt
+space_73.txt$medical_1.txt
+space_73.txt$space_76.txt
+space_73.txt$business_19.txt
+space_73.txt$graphics_75.txt
+space_73.txt$medical_40.txt
+space_73.txt$graphics_6.txt
+space_73.txt$business_75.txt
+space_73.txt$medical_691.txt
+space_73.txt$graphics_52.txt
+space_73.txt$business_58.txt
+space_73.txt$business_13.txt
+space_73.txt$entertainment_33.txt
+space_73.txt$historical_88.txt
+space_73.txt$business_40.txt
+space_73.txt$politics_229.txt
+space_73.txt$graphics_65.txt
+space_73.txt$sport_8.txt
+space_73.txt$graphics_7.txt
+space_73.txt$historical_74.txt
+space_73.txt$historical_81.txt
+space_73.txt$entertainment_24.txt
+space_73.txt$food_5.txt
+space_73.txt$historical_44.txt
+space_73.txt$space_5.txt
+space_73.txt$historical_98.txt
+space_73.txt$technologie_50.txt
+space_73.txt$politics_111.txt
+space_73.txt$historical_99.txt
+space_73.txt$business_65.txt
+space_73.txt$sport_59.txt
+space_73.txt$politics_15.txt
+space_73.txt$food_87.txt
+space_73.txt$historical_25.txt
+space_73.txt$sport_88.txt
+space_73.txt$food_12.txt
+space_73.txt$politics_319.txt
+space_73.txt$sport_52.txt
+space_73.txt$historical_12.txt
+space_73.txt$graphics_59.txt
+space_73.txt$food_48.txt
+space_73.txt$space_74.txt
+space_73.txt$business_14.txt
+space_73.txt$space_1.txt
+space_73.txt$entertainment_85.txt
+space_73.txt$entertainment_27.txt
+space_73.txt$space_71.txt
+space_73.txt$politics_128.txt
+space_73.txt$entertainment_90.txt
+space_73.txt$technologie_43.txt
+space_73.txt$entertainment_30.txt
+space_73.txt$sport_78.txt
+space_73.txt$technologie_42.txt
+space_73.txt$food_81.txt
+space_73.txt$politics_117.txt
+space_73.txt$historical_50.txt
+space_73.txt$technologie_89.txt
+space_73.txt$technologie_53.txt
+space_73.txt$technologie_59.txt
+space_73.txt$historical_80.txt
+space_73.txt$space_44.txt
+space_73.txt$business_29.txt
+space_73.txt$entertainment_39.txt
+space_73.txt$food_11.txt
+space_73.txt$historical_33.txt
+space_73.txt$politics_231.txt
+space_73.txt$sport_26.txt
+space_73.txt$graphics_3.txt
+space_73.txt$politics_282.txt
+space_73.txt$politics_31.txt
+space_73.txt$entertainment_38.txt
+space_73.txt$graphics_44.txt
+space_73.txt$historical_42.txt
+space_73.txt$business_85.txt
+space_73.txt$business_92.txt
+space_73.txt$politics_232.txt
+space_73.txt$historical_16.txt
+space_73.txt$historical_7.txt
+space_73.txt$space_32.txt
+space_73.txt$graphics_32.txt
+space_73.txt$historical_73.txt
+space_73.txt$entertainment_99.txt
+space_73.txt$business_21.txt
+space_73.txt$historical_51.txt
+space_73.txt$business_90.txt
+space_73.txt$politics_316.txt
+space_73.txt$politics_326.txt
+space_73.txt$politics_335.txt
+space_73.txt$medical_619.txt
+space_73.txt$medical_376.txt
+space_73.txt$historical_60.txt
+space_73.txt$sport_28.txt
+space_73.txt$graphics_28.txt
+space_73.txt$food_85.txt
+space_73.txt$graphics_96.txt
+space_73.txt$space_65.txt
+space_73.txt$medical_565.txt
+space_73.txt$graphics_92.txt
+space_73.txt$technologie_6.txt
+space_73.txt$entertainment_100.txt
+space_73.txt$entertainment_50.txt
+space_73.txt$space_81.txt
+space_73.txt$entertainment_14.txt
+space_73.txt$food_66.txt
+space_73.txt$entertainment_62.txt
+space_73.txt$technologie_11.txt
+space_73.txt$technologie_72.txt
+space_73.txt$graphics_72.txt
+space_73.txt$historical_17.txt
+space_73.txt$technologie_83.txt
+space_73.txt$medical_645.txt
+space_73.txt$technologie_18.txt
+space_73.txt$business_59.txt
+space_73.txt$food_89.txt
+space_73.txt$entertainment_58.txt
+space_73.txt$space_37.txt
+space_73.txt$medical_694.txt
+space_73.txt$business_68.txt
+space_73.txt$medical_590.txt
+space_73.txt$sport_3.txt
+space_73.txt$space_83.txt
+space_73.txt$historical_55.txt
+space_73.txt$technologie_79.txt
+space_73.txt$graphics_61.txt
+space_73.txt$politics_275.txt
+space_73.txt$space_20.txt
+space_73.txt$food_79.txt
+space_73.txt$entertainment_19.txt
+space_73.txt$business_42.txt
+space_73.txt$technologie_10.txt
+space_73.txt$politics_212.txt
+space_73.txt$entertainment_92.txt
+space_73.txt$sport_2.txt
+space_73.txt$entertainment_88.txt
+space_73.txt$technologie_14.txt
+space_73.txt$graphics_60.txt
+space_73.txt$space_4.txt
+space_73.txt$politics_222.txt
+space_73.txt$politics_34.txt
+space_73.txt$graphics_100.txt
+space_73.txt$technologie_80.txt
+space_73.txt$medical_610.txt
+space_73.txt$historical_89.txt
+space_73.txt$politics_217.txt
+space_73.txt$technologie_75.txt
+space_73.txt$business_89.txt
+space_73.txt$space_16.txt
+space_73.txt$sport_69.txt
+space_73.txt$business_1.txt
+space_73.txt$sport_94.txt
+space_73.txt$business_60.txt
+space_73.txt$politics_139.txt
+space_73.txt$business_93.txt
+space_73.txt$space_23.txt
+space_73.txt$space_69.txt
+space_73.txt$sport_24.txt
+space_73.txt$politics_357.txt
+space_73.txt$space_80.txt
+space_73.txt$food_2.txt
+space_73.txt$historical_48.txt
+space_73.txt$space_46.txt
+space_73.txt$politics_130.txt
+space_73.txt$food_84.txt
+space_73.txt$sport_42.txt
+space_73.txt$entertainment_54.txt
+space_73.txt$technologie_19.txt
+space_73.txt$entertainment_59.txt
+space_73.txt$medical_586.txt
+space_73.txt$graphics_47.txt
+space_73.txt$medical_449.txt
+space_73.txt$technologie_23.txt
+space_73.txt$business_17.txt
+space_73.txt$entertainment_6.txt
+space_73.txt$politics_221.txt
+space_73.txt$politics_301.txt
+space_73.txt$technologie_77.txt
+space_73.txt$medical_542.txt
+space_73.txt$sport_7.txt
+space_73.txt$sport_27.txt
+space_73.txt$medical_559.txt
+space_73.txt$food_30.txt
+space_73.txt$graphics_38.txt
+space_73.txt$technologie_92.txt
+space_73.txt$sport_91.txt
+space_73.txt$technologie_81.txt
+space_73.txt$space_90.txt
+space_73.txt$medical_60.txt
+space_73.txt$graphics_53.txt
+space_73.txt$food_42.txt
+space_73.txt$sport_13.txt
+space_73.txt$politics_101.txt
+space_73.txt$food_90.txt
+space_73.txt$entertainment_84.txt
+space_73.txt$medical_286.txt
+space_73.txt$entertainment_95.txt
+space_73.txt$food_52.txt
+space_73.txt$medical_145.txt
+space_73.txt$sport_33.txt
+space_73.txt$food_97.txt
+space_73.txt$technologie_88.txt
+space_73.txt$space_51.txt
+space_73.txt$entertainment_71.txt
+space_73.txt$entertainment_68.txt
+space_73.txt$space_29.txt
+space_73.txt$technologie_60.txt
+space_73.txt$sport_14.txt
+space_73.txt$space_7.txt
+space_73.txt$technologie_47.txt
+space_73.txt$business_39.txt
+space_73.txt$space_93.txt
+space_73.txt$politics_220.txt
+space_73.txt$graphics_50.txt
+space_73.txt$historical_94.txt
+space_73.txt$politics_272.txt
+space_73.txt$food_68.txt
+space_73.txt$historical_47.txt
+space_73.txt$business_15.txt
+space_73.txt$entertainment_61.txt
+space_73.txt$space_48.txt
+space_73.txt$technologie_22.txt
+space_73.txt$entertainment_63.txt
+space_73.txt$food_21.txt
+space_73.txt$historical_97.txt
+space_73.txt$sport_40.txt
+space_73.txt$politics_172.txt
+space_73.txt$historical_93.txt
+space_73.txt$graphics_67.txt
+space_73.txt$technologie_52.txt
+space_73.txt$historical_79.txt
+space_73.txt$sport_67.txt
+space_73.txt$graphics_84.txt
+space_73.txt$technologie_64.txt
+space_73.txt$medical_121.txt
+space_73.txt$graphics_2.txt
+space_73.txt$medical_608.txt
+space_73.txt$politics_155.txt
+space_73.txt$sport_4.txt
+space_73.txt$graphics_40.txt
+space_73.txt$business_78.txt
+space_73.txt$sport_36.txt
+space_73.txt$entertainment_2.txt
+space_73.txt$graphics_35.txt
+space_73.txt$business_32.txt
+space_73.txt$business_81.txt
+space_73.txt$entertainment_34.txt
+space_73.txt$medical_458.txt
+space_73.txt$historical_53.txt
+space_73.txt$space_62.txt
+space_73.txt$food_44.txt
+space_73.txt$politics_283.txt
+space_73.txt$graphics_5.txt
+space_73.txt$graphics_17.txt
+space_73.txt$graphics_16.txt
+space_73.txt$business_25.txt
+space_73.txt$politics_230.txt
+space_73.txt$historical_70.txt
+space_73.txt$business_18.txt
+space_73.txt$medical_289.txt
+space_73.txt$business_30.txt
+space_73.txt$food_72.txt
+space_73.txt$food_47.txt
+space_73.txt$entertainment_40.txt
+space_73.txt$graphics_21.txt
+space_73.txt$space_88.txt
+space_73.txt$business_66.txt
+space_73.txt$historical_72.txt
+space_73.txt$entertainment_89.txt
+space_73.txt$business_50.txt
+space_73.txt$sport_61.txt
+space_73.txt$medical_382.txt
+space_73.txt$business_4.txt
+space_73.txt$food_9.txt
+space_73.txt$graphics_49.txt
+space_73.txt$space_34.txt
+space_73.txt$graphics_39.txt
+space_73.txt$entertainment_25.txt
+space_73.txt$business_98.txt
+space_73.txt$space_10.txt
+space_73.txt$politics_277.txt
+space_73.txt$politics_208.txt
+space_73.txt$historical_58.txt
+space_73.txt$business_56.txt
+space_73.txt$space_64.txt
+space_73.txt$politics_237.txt
+space_73.txt$business_33.txt
+space_73.txt$graphics_81.txt
+space_73.txt$space_57.txt
+space_73.txt$graphics_33.txt
+space_73.txt$graphics_31.txt
+space_73.txt$graphics_82.txt
+space_73.txt$politics_307.txt
+space_73.txt$medical_334.txt
+space_73.txt$medical_624.txt
+space_73.txt$politics_119.txt
+space_73.txt$technologie_62.txt
+space_73.txt$food_35.txt
+space_73.txt$historical_45.txt
+space_73.txt$sport_34.txt
+space_73.txt$sport_11.txt
+space_73.txt$technologie_45.txt
+space_73.txt$medical_631.txt
+space_73.txt$entertainment_97.txt
+space_73.txt$space_25.txt
+space_73.txt$historical_36.txt
+space_73.txt$historical_1.txt
+space_73.txt$space_79.txt
+space_73.txt$space_8.txt
+space_73.txt$food_41.txt
+space_73.txt$technologie_16.txt
+space_73.txt$politics_193.txt
+space_73.txt$business_48.txt
+space_73.txt$politics_192.txt
+space_73.txt$sport_44.txt
+space_73.txt$entertainment_76.txt
+space_73.txt$medical_468.txt
+space_73.txt$medical_584.txt
+space_73.txt$entertainment_11.txt
+space_73.txt$medical_294.txt
+space_73.txt$sport_79.txt
+space_73.txt$sport_97.txt
+space_73.txt$historical_66.txt
+space_73.txt$historical_90.txt
+space_73.txt$medical_438.txt
+space_73.txt$graphics_9.txt
+space_73.txt$historical_28.txt
+space_73.txt$space_28.txt
+space_73.txt$food_54.txt
+space_73.txt$space_30.txt
+space_73.txt$space_99.txt
+space_73.txt$entertainment_82.txt
+space_73.txt$historical_8.txt
+space_73.txt$graphics_45.txt
+space_73.txt$historical_39.txt
+space_73.txt$technologie_15.txt
+space_73.txt$politics_149.txt
+space_73.txt$food_73.txt
+space_73.txt$technologie_68.txt
+space_73.txt$business_46.txt
+space_73.txt$politics_142.txt
+space_73.txt$sport_47.txt
+space_73.txt$historical_69.txt
+space_73.txt$food_77.txt
+space_73.txt$technologie_91.txt
+space_73.txt$space_17.txt
+space_73.txt$politics_114.txt
+space_73.txt$historical_96.txt
+space_73.txt$historical_11.txt
+space_73.txt$space_9.txt
+space_73.txt$food_46.txt
+space_73.txt$sport_22.txt
+space_73.txt$historical_9.txt
+space_73.txt$food_92.txt
+space_73.txt$business_79.txt
+space_73.txt$technologie_17.txt
+space_73.txt$medical_437.txt
+space_73.txt$business_82.txt
+space_73.txt$politics_273.txt
+space_73.txt$medical_646.txt
+space_73.txt$sport_41.txt
+space_73.txt$business_23.txt
+space_73.txt$medical_295.txt
+space_73.txt$historical_29.txt
+space_73.txt$technologie_96.txt
+space_73.txt$space_70.txt
+space_73.txt$technologie_51.txt
+space_73.txt$sport_12.txt
+space_73.txt$politics_127.txt
+space_73.txt$entertainment_17.txt
+space_73.txt$space_97.txt
+space_73.txt$politics_239.txt
+space_73.txt$entertainment_13.txt
+space_73.txt$business_96.txt
+space_73.txt$food_63.txt
+space_73.txt$medical_314.txt
+space_73.txt$food_59.txt
+space_73.txt$business_11.txt
+space_73.txt$medical_168.txt
+space_73.txt$technologie_28.txt
+space_73.txt$politics_151.txt
+space_73.txt$politics_19.txt
+space_73.txt$politics_153.txt
+space_73.txt$entertainment_87.txt
+space_73.txt$entertainment_83.txt
+space_73.txt$graphics_51.txt
+space_73.txt$food_58.txt
+space_73.txt$food_95.txt
+space_73.txt$space_92.txt
+space_73.txt$graphics_19.txt
+space_73.txt$medical_488.txt
+space_73.txt$historical_77.txt
+space_73.txt$food_45.txt
+space_73.txt$food_62.txt
+space_73.txt$space_52.txt
+space_73.txt$technologie_94.txt
+space_73.txt$sport_50.txt
+space_73.txt$sport_37.txt
+space_73.txt$graphics_34.txt
+space_73.txt$medical_499.txt
+space_73.txt$politics_175.txt
+space_73.txt$graphics_74.txt
+space_73.txt$entertainment_35.txt
+space_73.txt$politics_138.txt
+space_73.txt$entertainment_73.txt
+space_73.txt$historical_22.txt
+space_73.txt$medical_349.txt
+space_73.txt$sport_76.txt
+space_73.txt$historical_52.txt
+space_73.txt$technologie_8.txt
+space_73.txt$technologie_1.txt
+space_73.txt$space_3.txt
+space_73.txt$graphics_83.txt
+space_73.txt$space_53.txt
+space_73.txt$entertainment_23.txt
+space_73.txt$food_88.txt
+space_73.txt$politics_262.txt
+space_73.txt$entertainment_32.txt
+space_73.txt$medical_58.txt
+space_73.txt$politics_144.txt
+space_73.txt$medical_448.txt
+space_73.txt$space_49.txt
+space_73.txt$politics_303.txt
+space_73.txt$sport_29.txt
+space_73.txt$politics_226.txt
+space_73.txt$historical_14.txt
+space_73.txt$politics_325.txt
+space_73.txt$technologie_86.txt
+space_73.txt$food_61.txt
+space_73.txt$entertainment_80.txt
+space_73.txt$sport_18.txt
+space_73.txt$food_98.txt
+space_73.txt$politics_211.txt
+space_73.txt$medical_250.txt
+space_73.txt$technologie_30.txt
+space_73.txt$medical_158.txt
+space_73.txt$entertainment_65.txt
+space_73.txt$sport_6.txt
+space_73.txt$space_42.txt
+space_73.txt$politics_21.txt
+space_73.txt$food_49.txt
+space_73.txt$entertainment_1.txt
+space_73.txt$graphics_79.txt
+space_73.txt$food_64.txt
+space_73.txt$entertainment_18.txt
+space_73.txt$historical_78.txt
+space_73.txt$business_3.txt
+space_73.txt$technologie_33.txt
+space_73.txt$sport_70.txt
+space_73.txt$sport_92.txt
+space_73.txt$space_54.txt
+space_73.txt$medical_679.txt
+space_73.txt$sport_16.txt
+space_73.txt$politics_235.txt
+space_73.txt$sport_82.txt
+space_73.txt$technologie_26.txt
+space_73.txt$entertainment_98.txt
+space_73.txt$politics_322.txt
+space_73.txt$sport_56.txt
+space_73.txt$technologie_24.txt
+space_73.txt$medical_157.txt
+space_73.txt$technologie_87.txt
+space_73.txt$business_84.txt
+space_73.txt$entertainment_51.txt
+space_73.txt$space_72.txt
+space_73.txt$medical_335.txt
+space_73.txt$medical_425.txt
+space_73.txt$sport_20.txt
+space_73.txt$space_18.txt
+space_73.txt$historical_35.txt
+space_73.txt$medical_660.txt
+space_73.txt$food_50.txt
+space_73.txt$graphics_37.txt
+space_73.txt$sport_19.txt
+space_73.txt$medical_244.txt
+space_73.txt$space_63.txt
+space_73.txt$medical_318.txt
+space_73.txt$entertainment_4.txt
+space_73.txt$medical_329.txt
+space_73.txt$space_77.txt
+space_73.txt$business_45.txt
+space_73.txt$technologie_40.txt
+space_73.txt$sport_38.txt
+space_73.txt$business_9.txt
+space_73.txt$food_37.txt
+space_73.txt$food_43.txt
+space_73.txt$historical_43.txt
+space_73.txt$technologie_7.txt
+space_73.txt$politics_247.txt
+space_73.txt$food_34.txt
+space_73.txt$business_62.txt
+space_73.txt$politics_168.txt
+space_73.txt$graphics_76.txt
+space_73.txt$food_31.txt
+space_73.txt$historical_19.txt
+space_73.txt$technologie_65.txt
+space_73.txt$business_95.txt
+space_73.txt$food_70.txt
+space_73.txt$entertainment_5.txt
+space_73.txt$graphics_62.txt
+space_73.txt$business_63.txt
+space_73.txt$food_55.txt
+space_73.txt$medical_285.txt
+space_73.txt$food_29.txt
+space_73.txt$medical_327.txt
+space_73.txt$medical_102.txt
+space_73.txt$historical_62.txt
+space_73.txt$sport_21.txt
+space_73.txt$space_31.txt
+space_73.txt$sport_31.txt
+space_73.txt$historical_83.txt
+space_73.txt$historical_71.txt
+space_73.txt$space_61.txt
+space_73.txt$politics_210.txt
+space_73.txt$sport_49.txt
+space_73.txt$sport_55.txt
+space_73.txt$sport_87.txt
+space_73.txt$politics_129.txt
+space_73.txt$sport_73.txt
+space_73.txt$business_36.txt
+space_73.txt$technologie_48.txt
+space_73.txt$business_72.txt
+space_73.txt$food_100.txt
+space_73.txt$space_95.txt
+space_73.txt$business_26.txt
+space_73.txt$sport_63.txt
+space_73.txt$technologie_9.txt
+space_73.txt$historical_34.txt
+space_73.txt$technologie_56.txt
+space_73.txt$sport_68.txt
+space_73.txt$sport_32.txt
+space_73.txt$business_31.txt
+space_73.txt$graphics_66.txt
+space_73.txt$politics_313.txt
+space_73.txt$food_8.txt
+space_73.txt$historical_32.txt
+space_73.txt$space_12.txt
+space_73.txt$food_82.txt
+space_73.txt$business_47.txt
+space_73.txt$graphics_36.txt
+space_73.txt$technologie_37.txt
+space_73.txt$technologie_31.txt
+space_73.txt$food_67.txt
+space_73.txt$food_56.txt
+space_73.txt$sport_35.txt
+space_73.txt$technologie_35.txt
+space_73.txt$technologie_21.txt
+space_73.txt$food_91.txt
+space_73.txt$space_67.txt
+space_73.txt$space_33.txt
+space_73.txt$entertainment_57.txt
+space_73.txt$graphics_88.txt
+space_73.txt$medical_346.txt
+space_73.txt$politics_204.txt
+space_73.txt$medical_564.txt
+space_73.txt$technologie_58.txt
+space_73.txt$entertainment_56.txt
+space_73.txt$space_60.txt
+space_73.txt$space_45.txt
+space_73.txt$space_24.txt
+space_73.txt$medical_672.txt
+space_73.txt$food_22.txt
+space_73.txt$medical_103.txt
+space_73.txt$politics_209.txt
+space_73.txt$space_50.txt
+space_73.txt$food_18.txt
+space_73.txt$historical_68.txt
+space_73.txt$politics_225.txt
+space_73.txt$graphics_68.txt
+space_73.txt$food_14.txt
+space_73.txt$sport_66.txt
+space_73.txt$graphics_27.txt
+space_73.txt$technologie_5.txt
+space_73.txt$food_26.txt
+space_73.txt$food_60.txt
+space_73.txt$food_28.txt
+space_73.txt$technologie_95.txt
+space_73.txt$medical_529.txt
+space_73.txt$business_67.txt
+space_73.txt$politics_2.txt
+space_73.txt$food_51.txt
+space_73.txt$sport_46.txt
+space_73.txt$business_73.txt
+space_73.txt$politics_293.txt
+space_73.txt$food_27.txt
+space_73.txt$historical_38.txt
+space_73.txt$technologie_97.txt
+space_73.txt$historical_10.txt
+space_73.txt$space_86.txt
+space_73.txt$technologie_25.txt
+space_73.txt$technologie_99.txt
+space_73.txt$business_8.txt
+space_73.txt$business_27.txt
+space_73.txt$graphics_46.txt
+space_73.txt$sport_100.txt
+space_73.txt$sport_51.txt
+space_73.txt$entertainment_29.txt
+space_73.txt$sport_85.txt
+space_73.txt$space_13.txt
+space_73.txt$historical_46.txt
+space_73.txt$graphics_15.txt
+space_73.txt$technologie_100.txt
+space_73.txt$historical_63.txt
+space_73.txt$technologie_29.txt
+space_73.txt$business_77.txt
+space_73.txt$entertainment_9.txt
+space_73.txt$food_33.txt
+space_73.txt$medical_579.txt
+space_73.txt$food_69.txt
+space_73.txt$space_15.txt
+space_73.txt$historical_92.txt
+space_73.txt$graphics_78.txt
+space_73.txt$medical_308.txt
+space_73.txt$historical_65.txt
+space_73.txt$graphics_90.txt
+space_73.txt$business_100.txt
+space_73.txt$entertainment_12.txt
+space_73.txt$graphics_11.txt
+space_73.txt$business_87.txt
+space_73.txt$food_6.txt
+space_73.txt$food_99.txt
+space_73.txt$historical_91.txt
+space_73.txt$business_53.txt
+space_73.txt$space_22.txt
+space_73.txt$business_10.txt
+space_73.txt$medical_557.txt
+space_73.txt$technologie_2.txt
+space_73.txt$politics_321.txt
+space_73.txt$historical_56.txt
+space_73.txt$food_3.txt
+space_73.txt$technologie_49.txt
+space_73.txt$business_35.txt
+space_73.txt$sport_45.txt
+space_73.txt$entertainment_36.txt
+space_73.txt$entertainment_72.txt
+space_73.txt$technologie_93.txt
+space_73.txt$space_26.txt
+space_73.txt$space_27.txt
+space_73.txt$business_55.txt
+space_73.txt$graphics_89.txt
+space_73.txt$politics_188.txt
+space_73.txt$business_91.txt
+space_73.txt$medical_401.txt
+space_73.txt$medical_413.txt
+space_73.txt$space_36.txt
+space_73.txt$historical_59.txt
+space_73.txt$food_16.txt
+space_73.txt$business_76.txt
+space_73.txt$graphics_1.txt
+space_73.txt$technologie_38.txt
+space_73.txt$entertainment_60.txt
+space_73.txt$entertainment_22.txt
+space_73.txt$business_22.txt
+space_73.txt$historical_85.txt
+space_73.txt$business_69.txt
+space_73.txt$sport_99.txt
+space_73.txt$food_96.txt
+space_73.txt$sport_84.txt
+space_73.txt$graphics_71.txt
+space_73.txt$historical_37.txt
+space_73.txt$space_75.txt
+space_73.txt$sport_71.txt
+space_73.txt$politics_288.txt
+space_73.txt$historical_5.txt
+space_73.txt$historical_64.txt
+space_73.txt$entertainment_49.txt
+space_73.txt$food_94.txt
+space_73.txt$graphics_91.txt
+space_73.txt$sport_58.txt
+space_73.txt$space_47.txt
+space_73.txt$entertainment_64.txt
+space_73.txt$entertainment_96.txt
+space_73.txt$business_70.txt
+space_73.txt$food_80.txt
+space_73.txt$historical_75.txt
+space_73.txt$technologie_73.txt
+space_73.txt$entertainment_74.txt
+space_73.txt$medical_246.txt
+space_73.txt$historical_4.txt
+space_73.txt$sport_10.txt
+space_73.txt$medical_134.txt
+space_73.txt$space_39.txt
+space_73.txt$sport_23.txt
+space_73.txt$technologie_41.txt
+space_73.txt$food_7.txt
+space_73.txt$space_21.txt
+space_73.txt$graphics_56.txt
+space_73.txt$politics_242.txt
+space_73.txt$entertainment_53.txt
+space_73.txt$medical_15.txt
+space_73.txt$medical_364.txt
+space_73.txt$sport_30.txt
+space_73.txt$food_39.txt
+space_73.txt$business_54.txt
+space_73.txt$historical_86.txt
+space_73.txt$historical_41.txt
+space_73.txt$food_10.txt
+space_73.txt$politics_1.txt
+space_73.txt$space_100.txt
+space_73.txt$technologie_71.txt
+space_73.txt$historical_24.txt
+space_73.txt$medical_597.txt
+space_73.txt$business_43.txt
+space_73.txt$business_12.txt
+space_73.txt$sport_77.txt
+space_73.txt$medical_278.txt
+space_73.txt$technologie_82.txt
+space_73.txt$technologie_36.txt
+space_73.txt$space_43.txt
+space_73.txt$space_66.txt
+space_73.txt$entertainment_42.txt
+space_73.txt$graphics_26.txt
+space_73.txt$sport_72.txt
+space_73.txt$entertainment_31.txt
+space_73.txt$technologie_78.txt
+space_73.txt$food_4.txt
+space_73.txt$sport_80.txt
+space_73.txt$business_52.txt
+space_73.txt$historical_2.txt
+space_73.txt$politics_182.txt
+space_73.txt$business_2.txt
+space_73.txt$sport_64.txt
+space_73.txt$technologie_55.txt
+space_73.txt$medical_188.txt
+space_73.txt$entertainment_28.txt
+space_73.txt$food_75.txt
+space_73.txt$medical_137.txt
+space_73.txt$sport_96.txt
+space_73.txt$business_38.txt
+space_73.txt$historical_67.txt
+space_73.txt$graphics_24.txt
+space_73.txt$technologie_90.txt
+space_73.txt$graphics_97.txt
+space_73.txt$politics_329.txt
+space_73.txt$business_44.txt
+space_73.txt$medical_360.txt
+space_73.txt$politics_154.txt
+space_73.txt$politics_298.txt
+space_73.txt$graphics_80.txt
+space_73.txt$space_98.txt
+space_73.txt$graphics_77.txt
+space_73.txt$entertainment_43.txt
+space_73.txt$business_94.txt
+space_73.txt$graphics_23.txt
+space_73.txt$graphics_18.txt
+space_73.txt$space_85.txt
+space_73.txt$food_57.txt
+space_73.txt$medical_292.txt
+space_73.txt$sport_17.txt
+space_73.txt$space_96.txt
+space_73.txt$food_17.txt
+space_73.txt$entertainment_91.txt
+space_73.txt$technologie_70.txt
+space_73.txt$food_15.txt
+space_73.txt$medical_248.txt
+space_73.txt$food_25.txt
+space_73.txt$business_57.txt
+space_73.txt$entertainment_16.txt
+space_73.txt$sport_25.txt
+space_73.txt$technologie_98.txt
+space_73.txt$business_6.txt
+space_73.txt$food_36.txt
+space_73.txt$politics_160.txt
+space_73.txt$medical_319.txt
+space_73.txt$historical_21.txt
+space_73.txt$historical_87.txt
+space_73.txt$space_38.txt
+space_73.txt$sport_75.txt
+space_73.txt$entertainment_75.txt
+space_73.txt$technologie_66.txt
+space_73.txt$space_84.txt
+space_73.txt$technologie_4.txt
+space_73.txt$business_86.txt
+space_73.txt$technologie_44.txt
+space_73.txt$food_74.txt
+space_73.txt$graphics_57.txt
+space_73.txt$sport_89.txt
+space_73.txt$food_20.txt
+space_73.txt$space_94.txt
+space_73.txt$technologie_69.txt
+space_73.txt$graphics_64.txt
+space_73.txt$historical_95.txt
+space_73.txt$historical_54.txt
+space_73.txt$entertainment_26.txt
+space_73.txt$entertainment_15.txt
+space_73.txt$technologie_57.txt
+space_73.txt$medical_692.txt
+space_73.txt$space_2.txt
+space_73.txt$sport_60.txt
+space_73.txt$technologie_12.txt
+space_73.txt$medical_300.txt
+space_73.txt$entertainment_44.txt
+space_73.txt$space_55.txt
+space_73.txt$sport_57.txt
+space_73.txt$politics_134.txt
+space_73.txt$graphics_58.txt
+space_73.txt$medical_560.txt
+space_73.txt$sport_62.txt
+space_73.txt$technologie_20.txt
+space_73.txt$entertainment_69.txt
+space_73.txt$politics_269.txt
+space_73.txt$technologie_34.txt
+space_73.txt$entertainment_3.txt
+space_73.txt$graphics_41.txt
+space_73.txt$politics_271.txt
+space_73.txt$space_40.txt
+space_73.txt$politics_250.txt
+space_73.txt$entertainment_21.txt
+space_73.txt$business_71.txt
+space_73.txt$medical_644.txt
+space_73.txt$space_35.txt
+space_73.txt$politics_10.txt
+space_73.txt$space_78.txt
+space_73.txt$politics_249.txt
+space_73.txt$food_19.txt
+space_73.txt$entertainment_70.txt
+space_73.txt$technologie_85.txt
+space_73.txt$sport_5.txt
+space_73.txt$business_41.txt
+space_73.txt$medical_466.txt
+space_73.txt$technologie_39.txt
+space_73.txt$graphics_94.txt
+space_73.txt$historical_84.txt
+space_73.txt$graphics_30.txt
+space_73.txt$sport_54.txt
+space_73.txt$sport_15.txt
+space_73.txt$entertainment_47.txt
+space_73.txt$space_11.txt
+space_73.txt$medical_384.txt
+space_73.txt$space_14.txt
+space_73.txt$politics_173.txt
+space_73.txt$space_82.txt
+space_73.txt$medical_67.txt
+space_73.txt$food_38.txt
+space_73.txt$graphics_87.txt
+space_73.txt$graphics_95.txt
+space_73.txt$space_87.txt
+space_73.txt$graphics_10.txt
+space_73.txt$business_61.txt
+space_73.txt$historical_82.txt
+space_73.txt$graphics_73.txt
+space_73.txt$entertainment_94.txt
+space_73.txt$medical_385.txt
+space_73.txt$medical_13.txt
+space_73.txt$food_40.txt
+space_73.txt$historical_76.txt
+space_73.txt$sport_86.txt
+space_73.txt$space_91.txt
+space_73.txt$business_34.txt
+space_73.txt$historical_57.txt
+space_73.txt$politics_317.txt
+space_73.txt$medical_152.txt
+space_73.txt$business_5.txt
+space_73.txt$politics_287.txt
+space_73.txt$space_56.txt
+space_73.txt$politics_17.txt
+space_73.txt$technologie_67.txt
+space_73.txt$historical_31.txt
+space_73.txt$graphics_98.txt
+space_73.txt$graphics_25.txt
+space_73.txt$graphics_22.txt
+space_73.txt$graphics_69.txt
+space_73.txt$business_88.txt
+space_73.txt$business_49.txt
+space_73.txt$medical_485.txt
+space_73.txt$entertainment_66.txt
+space_73.txt$politics_189.txt
+space_73.txt$medical_625.txt
+space_73.txt$entertainment_55.txt
+space_73.txt$medical_642.txt
+space_73.txt$sport_1.txt
+space_73.txt$entertainment_77.txt
+space_73.txt$business_16.txt
+space_73.txt$historical_20.txt
+space_73.txt$graphics_70.txt
+space_73.txt$medical_41.txt
+space_73.txt$sport_90.txt
+space_73.txt$business_51.txt
+space_73.txt$politics_265.txt
+space_73.txt$graphics_8.txt
+space_73.txt$medical_406.txt
+space_73.txt$entertainment_7.txt
+space_73.txt$medical_322.txt
+space_73.txt$historical_30.txt
+space_73.txt$entertainment_79.txt
+space_73.txt$politics_180.txt
+space_73.txt$politics_294.txt
+space_73.txt$sport_43.txt
+space_73.txt$graphics_48.txt
+space_73.txt$space_41.txt
+space_73.txt$entertainment_52.txt
+space_73.txt$sport_74.txt
+space_73.txt$space_89.txt
+space_73.txt$historical_61.txt
+space_73.txt$historical_13.txt
+space_73.txt$food_1.txt
+space_73.txt$food_71.txt
+space_73.txt$graphics_63.txt
+space_73.txt$entertainment_78.txt
+space_73.txt$medical_534.txt
+space_73.txt$entertainment_10.txt
+space_73.txt$food_83.txt
+space_73.txt$technologie_46.txt
+space_73.txt$graphics_42.txt
+space_73.txt$food_76.txt
+space_73.txt$food_32.txt
+space_73.txt$food_13.txt
+space_73.txt$graphics_54.txt
+space_73.txt$medical_176.txt
+space_73.txt$historical_18.txt
+space_73.txt$business_37.txt
+space_73.txt$technologie_32.txt
+space_73.txt$entertainment_48.txt
+space_73.txt$graphics_93.txt
+space_73.txt$medical_695.txt
+space_73.txt$politics_112.txt
+space_73.txt$graphics_12.txt
+space_73.txt$politics_201.txt
+space_73.txt$space_59.txt
+space_73.txt$sport_95.txt
+space_73.txt$technologie_54.txt
+space_73.txt$sport_53.txt
+space_73.txt$politics_236.txt
+space_73.txt$technologie_3.txt
+space_73.txt$business_74.txt
+space_73.txt$food_24.txt
+space_73.txt$technologie_74.txt
+space_73.txt$food_86.txt
+space_73.txt$business_64.txt
+space_73.txt$graphics_99.txt
+space_73.txt$space_6.txt
+space_73.txt$medical_487.txt
+space_73.txt$entertainment_41.txt
+space_73.txt$graphics_14.txt
+space_73.txt$entertainment_8.txt
+space_73.txt$historical_15.txt
+space_73.txt$technologie_27.txt
+space_73.txt$graphics_4.txt
+space_73.txt$historical_49.txt
+space_73.txt$sport_81.txt
+space_73.txt$technologie_76.txt
+space_73.txt$business_7.txt
+space_73.txt$politics_20.txt
+space_73.txt$business_24.txt
+space_73.txt$historical_27.txt
+space_73.txt$food_23.txt
+space_73.txt$technologie_61.txt
+space_73.txt$politics_137.txt
+space_73.txt$space_58.txt
+space_73.txt$graphics_86.txt

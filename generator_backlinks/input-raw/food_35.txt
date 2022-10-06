@@ -1,0 +1,10 @@
+food_35.txt$8          each  leeks white  green part only
+food_35.txt$1         stick  butter
+food_35.txt$4        medium  potatoes  peel  finely dice
+food_35.txt$1          each  carrot  thinly sliced
+food_35.txt$4          cups  chicken broth  heated
+food_35.txt$1           cup  milk
+food_35.txt$salt and white pepper  to taste
+food_35.txt$chopped parsley  to garnish
+food_35.txt$
+food_35.txt$cut leeks in half lengthwise and then crosswise in 1 inch pieces  simmer gently in butter for about 10 minutes  add potatoes carrot chicken broth and water  season with salt and white pepper to taste  cook over just enough heat to keep soup at low boil for 40 minutes or until potatoes can be mashed easily against sides of pan  let cool slightly and put through blender  return to stove  stir in scant cup of milk  adjust seasonings  garnish each serving with chopped parsley

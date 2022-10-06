@@ -1,0 +1,14 @@
+graphics_19.txt$does anybody know if there are any good 2dgraphics packages
+graphics_19.txt$available for ibm rs6000  aix  im looking for something
+graphics_19.txt$like decs gks or hewlettpackards starbase both of which
+graphics_19.txt$have reasonably good support for different output devices
+graphics_19.txt$like plotters terminals x etc
+graphics_19.txt$i have tried also xgks from x11 distribution and ibms implementation
+graphics_19.txt$of phigs both of them work but we require more output devices
+graphics_19.txt$than just xwindows
+graphics_19.txt$our salesman at ibm was not very familiar with graphics and
+graphics_19.txt$i am not expecting for any good solutions from there
+graphics_19.txt$ari
+graphics_19.txt$ari suutari			aricarelfi
+graphics_19.txt$carelcomp oy
+graphics_19.txt$lappeenranta

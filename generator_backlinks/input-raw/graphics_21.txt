@@ -1,0 +1,16 @@
+graphics_21.txt$in article 1993apr6011605909cisuabedu sloancisuabedu
+graphics_21.txt$kenneth sloan writes
+graphics_21.txt$why didnt you create 8 greylevel images and display them for
+graphics_21.txt$1248163264128 time slices
+graphics_21.txt$by 8 grey level images you mean 8 items of 1bit images
+graphics_21.txt$it does work but it doesnt work if you have more than 1bit
+graphics_21.txt$in your screen and if the screen intensity is nonlinear
+graphics_21.txt$with 2 bit per pixel there could be 1c1  4c2 timing
+graphics_21.txt$this gives 16 levels but they are linear if screen intensity is
+graphics_21.txt$linear
+graphics_21.txt$with 1c1  2c2 it works but we have to find the best
+graphics_21.txt$compinations  theres 10 levels but 16 choises best 10 must be
+graphics_21.txt$chosen different compinations for the same level varies a bit but
+graphics_21.txt$the levels keeps their order
+graphics_21.txt$readers should verify what i wrote 
+graphics_21.txt$juhana kouhia

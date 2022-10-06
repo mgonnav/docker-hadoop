@@ -1,0 +1,8 @@
+graphics_23.txt$actually i am trying to write something like this but i encounter some
+graphics_23.txt$problems amongst them
+graphics_23.txt$ drawing a 3d wireframe view of a quadricquartic requires that you have
+graphics_23.txt$the explicit equation of the quadricquartic x y z functions of some
+graphics_23.txt$parameters how to convert the implicit equation used by pov to an
+graphics_23.txt$explicit one is it mathematically always possible
+graphics_23.txt$i dont have enough math to find out by myself has anybody heard about
+graphics_23.txt$useful books on the subject

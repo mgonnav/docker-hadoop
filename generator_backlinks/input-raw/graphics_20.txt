@@ -1,0 +1,32 @@
+graphics_20.txt$marsixosde martin stein writes
+graphics_20.txt$i use xwdxpr from the x11r5 dist and various programs of the
+graphics_20.txt$ppmtools to print hardcopies of colored x windows my problem is
+graphics_20.txt$i dont like xpr it gives at least the x11r4 version does louzy
+graphics_20.txt$output the hardcopy looks very grainy to me
+graphics_20.txt$instead i use pnmtops this takes full advantage postscript and
+graphics_20.txt$lets the printer do the dirty job of dithering a graylevel
+graphics_20.txt$image to black and white dots
+graphics_20.txt$so if you have a postscript printer try
+graphics_20.txt$xwdtopnm xwdfile 	 convert to ppm
+graphics_20.txt$ppmtopgm 		  to graylevel for smaller file to print
+graphics_20.txt$pnmtops noturn 	  to postscript
+graphics_20.txt$lpr			 print
+graphics_20.txt$pnmtops has several neat options but use them with care
+graphics_20.txt$if you want your image to be 4 wide use
+graphics_20.txt$pnmtops noturn scale 100 width 4
+graphics_20.txt$noturn prevents the image from being rotated if it is wider than it
+graphics_20.txt$is high
+graphics_20.txt$width 4 specifies the paper width not the image width  see below
+graphics_20.txt$scale 100 is used because if the image is small it may fit within a
+graphics_20.txt$width less than 4 and will thus be printed smaller than 4 wide
+graphics_20.txt$if you first scale it up a lot it will certainly not fit in 4 and
+graphics_20.txt$will be scaled down by pnmtops automatically to fit the specified
+graphics_20.txt$paper width
+graphics_20.txt$in short pnmtops will scale an image down to fit the paper size
+graphics_20.txt$but it will not blow it up automatically
+graphics_20.txt$hope this helps
+graphics_20.txt$marcel
+graphics_20.txt$x	   marcel wijkstra   aio   wijkstrafwiuvanl
+graphics_20.txt$x	     faculty of mathematics and computer science
+graphics_20.txt$x	       university of amsterdam   the netherlands
+graphics_20.txt$life stinks fortunately ive got a cold

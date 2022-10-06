@@ -1,0 +1,35 @@
+food_47.txt$1    tablespoon  cornstarch
+food_47.txt$2          cups  milk
+food_47.txt$2   tablespoons  margarine
+food_47.txt$12      teaspoon  salt
+food_47.txt$14      teaspoon  pepper
+food_47.txt$1                chicken bouillon cube
+food_47.txt$1           cup  finely chopped cooked vegetables  spinach asparagus
+food_47.txt$ or broccoli
+food_47.txt$
+food_47.txt$in saucepan mix cornstarch and 12 cup of the milk until smooth
+food_47.txt$
+food_47.txt$stir in next 4 ingredients and remaining milk
+food_47.txt$
+food_47.txt$bring to boil over medium heat stirring constantly and boil 1 minute
+food_47.txt$
+food_47.txt$add vegetables
+food_47.txt$
+food_47.txt$makes 3 cups
+food_47.txt$
+food_47.txt$possum kingdom lake cookbook 12         pound  flank steak  lean
+food_47.txt$2     teaspoons  finely chopped ginger root  or
+food_47.txt$12      teaspoon  ground ginger
+food_47.txt$2     teaspoons  cornstarch
+food_47.txt$12      teaspoon  salt
+food_47.txt$14      teaspoon  chinese 5 spice  or
+food_47.txt$14      teaspoon  allspice
+food_47.txt$1    tablespoon  oil
+food_47.txt$1        medium  onion  thinly sliced
+food_47.txt$12         pound  broccoli flowerets
+food_47.txt$12         pound  fresh mushrooms  sliced
+food_47.txt$2         large  tomatoes  cut in wedges
+food_47.txt$
+food_47.txt$slice steak into thin strips
+food_47.txt$
+food_47.txt$in mixing bowl combine steak ginger cornstarch salt and chinese 5 spice  heat oil in electric wok or pan uncovered at 375 degrees  add meat mixture and stir fry 2 to 3 minutes  push up side of wok  add onions and stir fry 1 minute  push up side of wok  add broccoli flowerets and stir fry 3 minutes  push up wok side add mushrooms and stir fry 1 minute  add tomato wedges and gently stir all ingredients to combine  reduce heat to warm for serving

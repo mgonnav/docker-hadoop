@@ -1,0 +1,12 @@
+graphics_34.txt$contact signaware corp
+graphics_34.txt$ original memo 
+graphics_34.txt$bcc     vincent wall                   from      imaging club
+graphics_34.txt$subject signature verification        date sent 050493
+graphics_34.txt$sciimageprocessing
+graphics_34.txt$from yyqiecearizonaedu yingyong qi
+graphics_34.txt$subject signature image database
+graphics_34.txt$organization u of arizona electrical and computer engineering
+graphics_34.txt$hi all
+graphics_34.txt$could someone tell me if there is a database of handwriting signature
+graphics_34.txt$images available for evaluating signature verification systems
+graphics_34.txt$thanks

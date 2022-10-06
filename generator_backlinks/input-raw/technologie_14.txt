@@ -1,0 +1,32 @@
+technologie_14.txt$apple rejects flawed claims about its contact tracing tech
+technologie_14.txt$apple has been forced to reject damaging claims against its contact tracing tech now circulating on facebook
+technologie_14.txt$even as we consider revelations facebook shelved internal research suggesting its algorithms generate divisiveness apple has been forced to reject damaging claims against its contact tracing tech currently spreading on facebook
+technologie_14.txt$exposure notification is not spying on you
+technologie_14.txt$numerous hysterical myths concerning the applegoogle contact tracing technology are being circulated on facebook a series of posts claim the exposure notification feature inside ios 135 will allow authorities to track peoples locations and monitor who they meet  which is precisely what it tries not to do
+technologie_14.txt$this is not correct
+technologie_14.txt$ keep up on the latest thought leadership insights howto and analysis on it through computerworlds newsletters 
+technologie_14.txt$the solution requires individuals use a governmentapproved app and that they consent to sharing any information not only this but both apple and google have barred governments from harvesting gps data or requiring users to share personal information when using the app
+technologie_14.txt$an apple spokesperson told reuters
+technologie_14.txt$you will still need to download an app from a public health agency to use the exposure notifications feature
+technologie_14.txt$how it works
+technologie_14.txt$in order to work the solution relies on random bluetooth identifiers shared between devices this information forms a record of proximity but does not include location data
+technologie_14.txt$ take this mobile device management course from pluralsight and learn how to secure devices in your company without degrading the user experience 
+technologie_14.txt$when they announced their work apple and google promised that any apps using the technology must require users to consent before sharing a positive test result and the keys associated with their devices with the public health authority users should also be able to turn off exposure notifications at any time
+technologie_14.txt$the tech firms are attempting to create a contact tracing solution that gathers as little personal information as possible and have previously promised to delete the feature once the current crisis has passed
+technologie_14.txt$the intention of the tech is that government or health authorities can use the api to build apps with which to monitor the disease outbreak
+technologie_14.txt$what is contact tracing
+technologie_14.txt$contact tracing is seen as a way to help control the pandemic the information should warn people when they have been exposed to the diseases
+technologie_14.txt$this could enable life to return to something a little more like business as usual while also saving lives  though the efficiency is limited if people refuse to use the apps
+technologie_14.txt$the techbased solution wont be the only tool used for this many governments are hiring tens of thousands of human contact tracers to interview covid19 sufferers in order to find out who they have interacted with
+technologie_14.txt$apple and google continue development
+technologie_14.txt$apple and google both released apis for their technology earlier this month these are designed to make it possible for both android and ios devices to work together for contact tracing using officially sanctioned government apps
+technologie_14.txt$the two companies are also developing a broader bluetoothbased contact tracing platform by building this functionality into the underlying platforms they said in april
+technologie_14.txt$this is a more robust solution than an api and would allow more individuals to participate if they choose to opt in as well as enable interaction with a broader ecosystem of apps and government health authorities the companies explained at that time
+technologie_14.txt$privacy transparency and consent are of utmost importance in this effort and we look forward to building this functionality in consultation with interested stakeholders
+technologie_14.txt$who is using these apps 
+technologie_14.txt$apple and google have said 23 countries and several us states have requested access to its apis the first app to make use of the applegoogle api has appeared in switzerland with a latvian initiative not far behind
+technologie_14.txt$there are some governments who want to gather all the information for analysis on servers they control but the applegoogle model does not enable this instead analysis takes place on the device
+technologie_14.txt$the idea is that by retaining control of data on user devices privacy is maintained
+technologie_14.txt$those countries attempting to gather this data in a far less private centralized fashion are having problems creating solutions that actually work
+technologie_14.txt$one app tested in the uk is glitchy drains batteries and doesnt work well between platforms among other problems thats a shame given that it now has a higher death rate per million than any other country in the world and could probably use an effective solution
+technologie_14.txt$please follow me on twitter or join me in the appleholics bar  grill and apple discussions groups on mewe

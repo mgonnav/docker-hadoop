@@ -1,0 +1,29 @@
+graphics_63.txt$note the followupto header 
+graphics_63.txt$steelemrintintincoloradoedu steele mark a writes
+graphics_63.txt$is there a collection of forms routines that can be used with curses
+graphics_63.txt$if so where is it located
+graphics_63.txt$on my svr4 amiga unix box ive got lform lmenu and lpanel for
+graphics_63.txt$use with the curses library  guess what they provide 
+graphics_63.txt$unix press ie prenticehall has a programmers guide for these
+graphics_63.txt$tools referred to as the fmli forms mgmt language interface and
+graphics_63.txt$eti extended terminal interface now in its 2nd edition  it is
+graphics_63.txt$paraphrased from the outside back cover
+graphics_63.txt$fmli is a highlevel programming tool for creating menus forms
+graphics_63.txt$and text frames  eti is a set of screen management library
+graphics_63.txt$subroutines that promote fast development of application programs
+graphics_63.txt$for window panel menu and form manipulation
+graphics_63.txt$the fmli is a shell package which reads ascii text files and produces
+graphics_63.txt$screen displays for data entry and presentation  it consists of a
+graphics_63.txt$shelllike environment of the fmli program and its database
+graphics_63.txt$files  it is section 1f in the unix press manual
+graphics_63.txt$the eti are subroutines part of the 3x manual section provide
+graphics_63.txt$support for a multiwindow capability on an ordinary ascii terminal
+graphics_63.txt$with controls built on top of the curses library
+graphics_63.txt$thanks
+graphics_63.txt$mark steele
+graphics_63.txt$steelemrintintincoloradoedu
+graphics_63.txt$frank crash edwards          edwards  edwards consulting
+graphics_63.txt$voice 8137863675            crashckctpamyrddinsybuscom but please
+graphics_63.txt$data  8137873675            dont ask uunet to route it  its sloooow
+graphics_63.txt$there will be times in life when everyone you meet smiles and pats you on
+graphics_63.txt$the back and tells you how great you are  so hold on to your wallet

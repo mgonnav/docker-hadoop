@@ -1,0 +1,17 @@
+graphics_4.txt$hello
+graphics_4.txt$i am looking to add voice input capability to a user interface i am
+graphics_4.txt$developing on an hp730 unix workstation  i would greatly appreciate
+graphics_4.txt$information anyone would care to offer about voice input systems that are
+graphics_4.txt$easily accessible from the unix environment
+graphics_4.txt$the names or adresses of applicable vendors as well as any
+graphics_4.txt$experiences you have had with specific systems would be very helpful
+graphics_4.txt$please respond via email i will post a summary if there is
+graphics_4.txt$sufficient interest
+graphics_4.txt$thanks
+graphics_4.txt$ken
+graphics_4.txt$ps  i have found several impressive systems for ibm pcs but i would
+graphics_4.txt$like to avoid the hassle of purchasing and maintaining a separate pc if
+graphics_4.txt$at all possible
+graphics_4.txt$ken hinckley kph2qvirginiaedu
+graphics_4.txt$university of virginia
+graphics_4.txt$neurosurgical visualization laboratory

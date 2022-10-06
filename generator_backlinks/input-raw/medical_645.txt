@@ -1,0 +1,469 @@
+medical_645.txt$ cut here 
+medical_645.txt$hicnet medical newsletter                                              page 13
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$food  drug administration news
+medical_645.txt$fda approves depo provera injectable contraceptive
+medical_645.txt$p9231 food and drug administration
+medical_645.txt$for immediate release susan cruzan  301 4433285
+medical_645.txt$the food and drug administration today announced the approval of depo provera
+medical_645.txt$an injectable contraceptive drug
+medical_645.txt$the drug which contains a synthetic hormone similar to the natural hormone
+medical_645.txt$progesterone protects women from pregnancy for three months per injection
+medical_645.txt$the hormone is injected into the muscle of the arm or buttock where it is
+medical_645.txt$released into the bloodstream to prevent pregnancy it is more than 99 percent
+medical_645.txt$effective
+medical_645.txt$this drug presents another longterm effective option for women to prevent
+medical_645.txt$pregnancy said fda commissioner david a kessler md as an injectable
+medical_645.txt$given once every three months depo provera eliminates problems related to
+medical_645.txt$missing a daily dose
+medical_645.txt$depo provera is available in 150 mg single dose vials from doctors and
+medical_645.txt$clinics and must be given on a regular basis to maintain contraceptive
+medical_645.txt$protection if a patient decides to become pregnant she discontinues the
+medical_645.txt$injections
+medical_645.txt$as with any such products fda advises patients to discuss the benefits and
+medical_645.txt$risks of depo provera with their doctor or other health care professional
+medical_645.txt$before making a decision to use it
+medical_645.txt$depo proveras effectiveness as a contraceptive was established in extensive
+medical_645.txt$studies by the manufacturer the world health organization and health agencies
+medical_645.txt$in other countries us clinical trials begun in 1963 also found depo
+medical_645.txt$provera effective as an injectable contraceptive
+medical_645.txt$the most common side effects are menstrual irregularities and weight gain in
+medical_645.txt$addition some patients may experience headache nervousness abdominal pain
+medical_645.txt$dizziness weakness or fatigue the drug should not be used in women who have
+medical_645.txt$acute liver disease unexplained vaginal bleeding breast cancer or blood
+medical_645.txt$clots in the legs lungs or eyes
+medical_645.txt$the labeling advises doctors to rule out pregnancy before prescribing the
+medical_645.txt$drug due to concerns about low birth weight in babies exposed to the drug
+medical_645.txt$hicnet medical newsletter                                              page 14
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$recent data have also demonstrated that longterm use may contribute to
+medical_645.txt$osteoporosis the manufacturer will conduct additional research to study this
+medical_645.txt$potential effect
+medical_645.txt$depo provera was developed in the 1960s and has been approved for
+medical_645.txt$contraception in many other countries the upjohn company of kalamazoo mich
+medical_645.txt$which will market the drug under the name depo provera contraceptive
+medical_645.txt$injection first submitted it for approval in the united states in the 1970s
+medical_645.txt$at that time animal studies raised questions about its potential to cause
+medical_645.txt$breast cancer worldwide studies have since found the overall risk of cancer
+medical_645.txt$including breast cancer in humans to be minimal if any
+medical_645.txt$hicnet medical newsletter                                              page 15
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$new rules speed approval of drugs for lifethreatening illnesses
+medical_645.txt$p9237 food and drug administration
+medical_645.txt$monica revelle  301 4434177
+medical_645.txt$the food and drug administration today announced that it will soon publish new
+medical_645.txt$rules to shed the approval of drugs for patients with serious or life
+medical_645.txt$threatening illnesses such as aids cancer and alzheimers disease
+medical_645.txt$these final rules will help patients who are suffering the most serious
+medical_645.txt$illnesses to get access to new drugs months or even years earlier than would
+medical_645.txt$otherwise be possible said hhs secretary louis w sullivan md the effort
+medical_645.txt$to accelerate fda review for these drugs has been a longterm commitment and
+medical_645.txt$indeed a hallmark of this administration
+medical_645.txt$these rules establish procedures for the food and drug administration to
+medical_645.txt$approve a drug based on surrogate endpoints or markers they apply when the
+medical_645.txt$drug provides a meaningful benefit over currently available therapies such
+medical_645.txt$endpoints would include laboratory tests or physical signs that do not in
+medical_645.txt$themselves constitute a clinical effect but that are judged by qualified
+medical_645.txt$scientists to be likely to correspond to real benefits to the patient
+medical_645.txt$use of surrogate endpoints for measurement of drug efficacy permits approval
+medical_645.txt$earlier than if traditional endpoints  such as relief of disease symptoms or
+medical_645.txt$prevention of disability and death from the disease  are used
+medical_645.txt$the new rules provide for therapies to be approved as soon as safety and
+medical_645.txt$effectiveness based on surrogate endpoints can be reasonably established
+medical_645.txt$the drugs sponsor will be required to agree to continue or conduct
+medical_645.txt$postmarketing human studies to confirm that the drugs effect on the surrogate
+medical_645.txt$endpoint is an indicator of its clinical effectiveness
+medical_645.txt$one new drug  zalcitabine also called ddc  was approved june 19 using a
+medical_645.txt$model of this process for treating the human immunodeficiency virus hiv the
+medical_645.txt$cause of aids
+medical_645.txt$accelerated approval can also be used if necessary when fda determines that
+medical_645.txt$a drug judged to be effective for the treatment of a disease can be used
+medical_645.txt$safely only under a restricted distribution plan
+medical_645.txt$the new rules will help streamline the drug development and review process
+medical_645.txt$without sacrificing goad science and rigorous fda oversight said fda
+medical_645.txt$commissioner david a kessler md while drug approval will be accomplished
+medical_645.txt$faster these drugs and biological products must still meet safety and
+medical_645.txt$effectiveness standards required by law
+medical_645.txt$hicnet medical newsletter                                              page 16
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$the new procedures also allow for a streamlined withdrawal process if the
+medical_645.txt$postmarketing studies do not verify the drugs clinical benefit if there is
+medical_645.txt$new evidence that the drug product is not shown to be safe and effective or
+medical_645.txt$if other specified circumstances arise that necessitate expeditious withdrawal
+medical_645.txt$of the drug or biologic
+medical_645.txt$hicnet medical newsletter                                              page 17
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$articles
+medical_645.txt$research shows promise for preventing or slowing
+medical_645.txt$blindness due to retinal disease
+medical_645.txt$national retinitis pigmentosa foundation
+medical_645.txt$neutrophilic factors rescue photoreceptor cells in animal tests
+medical_645.txt$baltimore md  researchers at the university of california san francisco
+medical_645.txt$and regeneron pharmaceuticals inc nasdaq regn have discovered that
+medical_645.txt$certain naturally occurring substances known as neurotrophic factors can
+medical_645.txt$prevent the degeneration of lightsensing cells in the retina of the eye the
+medical_645.txt$degeneration of these cells known as photoreceptors is a major cause of
+medical_645.txt$visual impairment
+medical_645.txt$this research published to in the december issue of the proceedings of
+medical_645.txt$the national academy of science pnas holds promise for people who may lose
+medical_645.txt$their sight due to progressive retinal degeneration  currently no drug
+medical_645.txt$treatment for retinal degeneration exists it is estimated that 25 million
+medical_645.txt$americans have severe vision loss due to agerelated macular degeneration and
+medical_645.txt$100000 americans are affected by retinitis pigmentosus a hereditary disease
+medical_645.txt$that causes blindness in addition each year more than 15000 people undergo
+medical_645.txt$surgical procedures to repair retinal detachments and other retinal traumas
+medical_645.txt$the research was funded in part by the rp retinitis pigmentosa
+medical_645.txt$foundation fighting blindness regeneron pharmaceuticals and the national eye
+medical_645.txt$institute it was conducted by drs matthew m lavail kazuhiko unoki douglas
+medical_645.txt$yasurnura michael t matthes and roy h steinberg at ucsf arld dr ceorge
+medical_645.txt$yancoooulos regenerons vice president for discovery regeneron holds an
+medical_645.txt$exclusive license for this research from ucsf
+medical_645.txt$in the research described in the pnas  a lightdamage model was used to
+medical_645.txt$assess the survivalpromoting activity of a number of naturally occurring
+medical_645.txt$substances experimental rats were exposed to constant light for one week
+medical_645.txt$eyes that had not been treated with an effective factor lost most of their
+medical_645.txt$photoreceptor cells  the rods and cones of the retina  after light
+medical_645.txt$exposure brain derived neurotrophic factor bdnf and ciliary neurotrophic
+medical_645.txt$factor cntf were particularly effective in this model without causing
+medical_645.txt$unwanted side effects other factors such as nerve growth factor ngf and
+medical_645.txt$insulinlike growth factor igf1 were not effective in these experiments
+medical_645.txt$discussing the research dr jesse m cedarbaum regenerons director of
+medical_645.txt$clinical research said bdnfs ability to rescue neurons in the retina that
+medical_645.txt$have been damaged by light exposure may hold promise for the treatment of age
+medical_645.txt$related macular degeneration one of the leading causes of vision impairment
+medical_645.txt$and for retinal detachment following detachment permanent vision loss may
+medical_645.txt$hicnet medical newsletter                                              page 18
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$result frorn the death of detached retinal cells it is possible that bdnf
+medical_645.txt$could play a role in rescuing those cells once the retina has been reattached
+medical_645.txt$surgically
+medical_645.txt$retinitis pigmentosa is a slowly progressing disease that causes the
+medical_645.txt$retina to degenerate over a period of years or even decades vision decreases
+medical_645.txt$to a small tunnel of sight and can result in total blindness it is our hope
+medical_645.txt$that research on growth factors will provide a means to slow the progression
+medical_645.txt$and preserve useful vision throughout life stated jeanette s felix phd
+medical_645.txt$director of science for the rp foundation fighting blindness
+medical_645.txt$in addition to the work described  regeneron is developing bdnf in
+medical_645.txt$conjunction with aingen inc nasdaqamgn as a possible treatment for
+medical_645.txt$peripheral neuropathies associated with diabetes and cancer chemotherapy
+medical_645.txt$motor neuron diseases parkinsons disease and alzheimers disease by
+medical_645.txt$itself regeneron is testing cntf in patients with arnyotrophic lateral
+medical_645.txt$sclerosis commonly known as lou gehrigs disease
+medical_645.txt$regeneron pharlnaceuticals inc based in tarrytown new york is a
+medical_645.txt$leader in the discovery and development of biotechnologybased compounds for
+medical_645.txt$the treatment of neurodegenerative diseases peripheral neuropathies and nerve
+medical_645.txt$injuries which affect more than seven million americans drs lavail and
+medical_645.txt$steinberg of ucsf are consultants to regeneron
+medical_645.txt$hicnet medical newsletter                                              page 19
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$affluent diet increases risk of heart disease
+medical_645.txt$research resources reporter
+medical_645.txt$written by mary weideman
+medical_645.txt$novdec 1992
+medical_645.txt$national institutes of health
+medical_645.txt$highfat highcalorie diets rapidly increase risk factors for coronary
+medical_645.txt$heart disease in native populations of developing countries that have
+medical_645.txt$traditionally consumed diets low in fat  these findings according to
+medical_645.txt$investigators at the oregon health sciences university in portland have
+medical_645.txt$serious implications for public health in both industrialized and developing
+medical_645.txt$countries
+medical_645.txt$this study demonstrates why we can develop coronary heart disease and
+medical_645.txt$have higher blood cholesterol and triglyceride levels  it shows also the
+medical_645.txt$importance of diet and particularly the potential of the diet to increase body
+medical_645.txt$weight thereby leading to a whole host of other health problems in developing
+medical_645.txt$countries and affluent nations as well explains principal investigator dr
+medical_645.txt$william e connor head of the section of clinical nutrition and lipid
+medical_645.txt$metabolism at oregon health sciences university
+medical_645.txt$over the past 25 years dr connor and his team have characterized the
+medical_645.txt$food and nutrient intakes of the tara humara indians in mexico while
+medical_645.txt$simultaneously documenting various aspects of tarahumara lipid metabolism
+medical_645.txt$these native mexicans number approximately 50000 and reside in the sierra
+medical_645.txt$madre occidental mountains in the state of chihuahua  the tarahumaras have
+medical_645.txt$coupled an agrarian diet to endurance racing  probably as a result coronary
+medical_645.txt$heart disease which is so prevalent in western industrialized nations is
+medical_645.txt$virtually non existent in their culture  loosely translated the name
+medical_645.txt$tarahumara means fleet of foot reflecting a tribal passion for betting on
+medical_645.txt$kickball races in which participants run distances of 100 miles or more
+medical_645.txt$while kicking a machetecarved wooden ball
+medical_645.txt$the typical tarahumara diet consists primarily of pinto beans tortillas
+medical_645.txt$and pinole a drink made of ground roasted corn mixed with cold water
+medical_645.txt$together with squash and gath ered fruits and vegetables  the tara humaras
+medical_645.txt$also eat small amounts of game fish and eggs  their food contains
+medical_645.txt$approximately 12 percent of total calories as fat of which the majority 69
+medical_645.txt$percent is of vegetable origin  dietician martha mcmurry a coinvestigator
+medical_645.txt$in the study describes their diet as simple and very rich in nutrients while
+medical_645.txt$low in cholesterol and fat
+medical_645.txt$the tarahumaras have average plasma cholesterol levels of 121 mg dl
+medical_645.txt$lowdensity lipoprotein ldlcholesterol levels of 72 mgdl and highdensity
+medical_645.txt$lipoprotein hdlcholesterol levels of 32 to 42 mgdl  all of those values
+medical_645.txt$are in the good lowrisk range according to the researchers  elevated
+medical_645.txt$cholesterol and ldlcholesterol levels are considered risk factors for heart
+medical_645.txt$hicnet medical newsletter                                              page 20
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$disease  hdlcholesterol is considered beneficial  in previous studies the
+medical_645.txt$tarahumaras had been found to be at low risk for cardiac disease although
+medical_645.txt$able to respond to highcholesterol diets with elevations in total and ldl
+medical_645.txt$cholesterol
+medical_645.txt$clinical research center dietitian mcmurry and coinvestigator maria
+medical_645.txt$teresa cerqueira established a metabolic unit in a jesuit mission school
+medical_645.txt$building near a community hospital in the small village of sisoguichi  food
+medical_645.txt$was weighed cooked and fed to the study participants under the
+medical_645.txt$investigators direct supervision ensuring that subjects ate only food
+medical_645.txt$stipulated by the research protocol  fasting blood was drawn twice weekly
+medical_645.txt$and plasma samples were frozen and shipped to dr connors laboratory for
+medical_645.txt$cholesterol triglyceride and lipoprotein analyses  regular measurements
+medical_645.txt$included participant body weight height and triceps skin fold thickness
+medical_645.txt$thirteen tarahumaras five women and eight men including one adolescent were
+medical_645.txt$fed their native diet for 1 week followed by 5 weeks of an affluent diet
+medical_645.txt$in this study we went up to a concentration of dietary fat that was 40
+medical_645.txt$percent of total calories  this is the prototype of the holiday diet that
+medical_645.txt$many americans consume a diet high in fat sugar and cholesterol low in
+medical_645.txt$fiber elaborates dr conners such dietary characteristics are reflected in
+medical_645.txt$the cholesterolsaturation index or csi recently devised research dietitian
+medical_645.txt$sonja conner working with dr connor  the csi is a single number that
+medical_645.txt$incorporates both the amount of cholesterol and the amount of saturated fat in
+medical_645.txt$the diet  csi indicates the diets potential to elevate the cholesterol
+medical_645.txt$level particularly the ldl dr connor explains  the tarahumaran diet
+medical_645.txt$averages a very low csi of 20 dr connors affluent diet used in the study
+medical_645.txt$ranks a csi of 149
+medical_645.txt$the experimental design of this study reflects the importance of
+medical_645.txt$establishing baseline plasma lipid levels typical of the native diet before
+medical_645.txt$exposing subjects to the experimental diet  the standard curve relating
+medical_645.txt$dietary food intake to plasma cholesterol demonstrates a leveling off or
+medical_645.txt$plateau for consumption of large amounts of fat  changes in dietary fat
+medical_645.txt$andor cholesterol in this range have little effect on plasma levels  you
+medical_645.txt$must have the baseline diet almost free of the variables you are going to put
+medical_645.txt$into the experimental diet  the framingham study for example did not
+medical_645.txt$discriminate on the basis of diet between individuals who got heart disease
+medical_645.txt$because the diet was already high in fat  all subjects were already eating on
+medical_645.txt$a plateau dr connor says
+medical_645.txt$after 5 weeks of consuming the affluent diet the subjects mean plasma
+medical_645.txt$cholesterol levels had in creased by 31 percent primarily in the ldl
+medical_645.txt$fraction which rose 39 percent  hdlcholesterol increased by 31 per cent
+medical_645.txt$and ldl to hdl ratios changed therefore very little  plasma triglyceride
+medical_645.txt$levels increased by 18 percent and subjects averaged an 8pound gain in
+medical_645.txt$weight  according to dr connor lipid changes occurred surprisingly soon
+medical_645.txt$yielding nearly the same results after 7 days of affluent diet as after 35
+medical_645.txt$days
+medical_645.txt$hicnet medical newsletter                                              page 21
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$the increase in hdl carries broad dietary implications for industrialized
+medical_645.txt$nations  we think hdlcholesterol increased because we increased the amount
+medical_645.txt$of dietary fat over the fat content used in the previous tarahumara metabolic
+medical_645.txt$study  in that study we saw no change in hdl levels after raising the dietary
+medical_645.txt$cholesterol but keeping the fat relatively consistent with native consumption
+medical_645.txt$in the present study we increased fat intake to 40 percent of the total
+medical_645.txt$calories  we reached the conclusion in the tarahumara study that hdl reflects
+medical_645.txt$the amount of dietary fat in general and not the amount of dietary
+medical_645.txt$cholesterol  hdl must increase to help metabolize the fat and it increased
+medical_645.txt$quite a bit in this study dr connor explains
+medical_645.txt$low hdl in the tarahumarans is not typically an important predictor of
+medical_645.txt$coronary heart disease because they do not normally consume large amounts of
+medical_645.txt$fat or cholesterol  hdl remains an important predictor to americans because
+medical_645.txt$of their usual high fat intake
+medical_645.txt$dr connor recommends a diet for americans that contains less than 20
+medical_645.txt$percent of total calories as fat less than 100 mg of cholesterol and a csi
+medical_645.txt$around 20 varying in accordance with caloric needs  such a diet is low in
+medical_645.txt$meat and dairy fat high in fiber  dr connor also comments on recent
+medical_645.txt$suggestions that americans adopt a mediterraneanstyle diet  the original
+medical_645.txt$mediterranean diet in its pristine state consisted of a very low intake of
+medical_645.txt$fat and very few animal and dairy products  we are already eating a lot of
+medical_645.txt$meat and dairy products  simply to continue that pattern while switching to
+medical_645.txt$olive oil is not going to help the situation
+medical_645.txt$the world health organization who is focusing much attention on the
+medical_645.txt$emergence of diseases such as coronary heart disease in nations and societies
+medical_645.txt$undergoing technological development  dr connor says that coronary heart
+medical_645.txt$disease starts with a given societys elite who typically eat a different
+medical_645.txt$diet than the average citizen  if the pattern of afluence increases the
+medical_645.txt$entire population will have have a higher incidence of coronary heart disease
+medical_645.txt$which places a termendous health care burden on a society  who would like the
+medical_645.txt$developing countries to prevent coronary heart disease so they can
+medical_645.txt$concentrate on other aspects of their economic development and on public
+medical_645.txt$health measures to improve general wellbeing rather than paying for
+medical_645.txt$unnecessary expensive medical technology dr connors says
+medical_645.txt$the overall implication of this study is that humans can readily move
+medical_645.txt$their plasma lipids and lipoprotein values into a highrisk range within a
+medical_645.txt$very short time by an affluent excessive diet  the present rate of coronary
+medical_645.txt$heart disease in the united states is 30 percent less than it was 20 years
+medical_645.txt$ago so a lot has been accomplished  we are changing rapidly he concludes
+medical_645.txt$hicnet medical newsletter                                              page 22
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$general announcments
+medical_645.txt$publications for health professionals available from nci 193
+medical_645.txt$unless otherwise noted the following materials are provided free of charge by
+medical_645.txt$calling the ncis publication ordering service 18004cancer  because
+medical_645.txt$federal government publications are not subject to copyright restriction you
+medical_645.txt$are free to photocopy nci material
+medical_645.txt$anticancer drug information sheets in spanishenglish  two
+medical_645.txt$sided fact sheets in english and spanish provide
+medical_645.txt$information about side effects of common drugs used to treat
+medical_645.txt$cancer their proper usage and precautions for patients
+medical_645.txt$the fact sheets were prepared by the united states
+medical_645.txt$pharmacopeial convention inc for distribution by the
+medical_645.txt$national cancer institute  single sets only may be ordered
+medical_645.txt$cancer rates and risks 3rd edition 85691  this book is
+medical_645.txt$a compact guide to statistics risk factors and risks for
+medical_645.txt$major cancer sites  it includes charts and graphs showing
+medical_645.txt$incidence mortality and survival worldwide and in the
+medical_645.txt$united states  it also contains a section on the costs of
+medical_645.txt$cancer 136 pages
+medical_645.txt$872778  this booklet describes what is now known about
+medical_645.txt$diet nutrition and cancer prevention  it provides
+medical_645.txt$information about foods that contain components like fiber
+medical_645.txt$fat and vitamins that may affect a persons risk of getting
+medical_645.txt$certain cancers  it suggests ways to use that information
+medical_645.txt$to select from a broad variety of foodschoosing more of
+medical_645.txt$some foods and less of others includes recipes and sample
+medical_645.txt$menus  39 pages
+medical_645.txt$national cancer institute fact book  this book presents
+medical_645.txt$general information about the national cancer institute
+medical_645.txt$including budget data grants and contracts and historical
+medical_645.txt$information
+medical_645.txt$hicnet medical newsletter                                              page 23
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$national cancer institute grants process 911222 revised
+medical_645.txt$390  this booklet describes general nci grant award
+medical_645.txt$procedures includes chapters on eligibility preparation of
+medical_645.txt$grant application peer review eligible costs and post
+medical_645.txt$award activities  62 pages
+medical_645.txt$physician to physician perspective on clinical trials this
+medical_645.txt$15minute videocassette discusses why and how to enter
+medical_645.txt$patients on clinical trials  it was produced in
+medical_645.txt$collaboration with the american college of surgeons
+medical_645.txt$commission on cancer
+medical_645.txt$revised 487 this booklet is designed for teachers who
+medical_645.txt$have students with cancer in their classrooms or schools it
+medical_645.txt$includes an explanation of cancer its treatment and
+medical_645.txt$effects and guidelines for the young persons reentry to
+medical_645.txt$school and for dealing with terminally ill students
+medical_645.txt$bibliographies are included for both educators and young
+medical_645.txt$people  22 pages
+medical_645.txt$understanding the immune system 92529 this booklet
+medical_645.txt$describes the complex network of specialized cells and
+medical_645.txt$organs that make up the human immune system it explains how
+medical_645.txt$the system works to fight off disease caused by invading
+medical_645.txt$agents such as bacteria and viruses and how it sometimes
+medical_645.txt$malfunctions resulting in a variety of diseases from
+medical_645.txt$allergies to arthritis to cancer it was developed by the
+medical_645.txt$national institute of allergy and infectious diseases and
+medical_645.txt$printed by the national cancer institute  this booklet
+medical_645.txt$presents college level instruction in immunology  it is
+medical_645.txt$appropriate for nursing or pharmacology students and for
+medical_645.txt$persons receiving college training in other areas within the
+medical_645.txt$health professions  36 pages
+medical_645.txt$chew or snuff educator package 912976  each package
+medical_645.txt$contains
+medical_645.txt$ten copies of chew or snuff is real bad stuff a
+medical_645.txt$brochure designed for seventh and eighth graders that
+medical_645.txt$describes the health and social effects of using
+medical_645.txt$hicnet medical newsletter                                              page 24
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$smokeless tobacco products  when fully opened the
+medical_645.txt$brochure can be used as a poster
+medical_645.txt$one copy of chew or snuff is real bad stuff  a guide
+medical_645.txt$smokeless tobacco  this booklet is a lesson plan for
+medical_645.txt$teachers  it contains facts about smokeless tobacco
+medical_645.txt$suggested classroom activities and selected
+medical_645.txt$educational resources
+medical_645.txt$institute manual for physicians 923064  this is a step
+medical_645.txt$bystep handbook for instituting smoking cessation
+medical_645.txt$techniques in medical practices  the manual with resource
+medical_645.txt$lists and tearout materials is based on the results of nci
+medical_645.txt$clinical trials  75 pages
+medical_645.txt$this is a handbook for dentists dental hygienists and
+medical_645.txt$dental assistants  it complements the physicians manual
+medical_645.txt$and includes additional information on smoking prevention
+medical_645.txt$and on smokeless tobacco use  58 pages
+medical_645.txt$pharmacists helping smokers quit kit  a packet of materials
+medical_645.txt$to help pharmacists encourage their smoking patients to
+medical_645.txt$quit  contains a pharmacists guide and selfhelp materials
+medical_645.txt$for 25 patients
+medical_645.txt$institute guide to strategies that succeed 90500  this
+medical_645.txt$guide outlines eight essential elements of a successful
+medical_645.txt$schoolbased smoking prevention program based on nci
+medical_645.txt$research  it includes a list of available curriculum
+medical_645.txt$resources and selected references  24 pages
+medical_645.txt$planners guide 913104 this booklet outlines key
+medical_645.txt$characteristics of successful selfhelp materials and
+medical_645.txt$programs based on nci collaborative research  it lists
+medical_645.txt$additional resources and references 36 pages
+medical_645.txt$smoking policy questions and answers these ten fact sheets
+medical_645.txt$hicnet medical newsletter                                              page 25
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$provide basic information about the establishment of
+medical_645.txt$worksite smoking policies topics range from the health
+medical_645.txt$effects of environmental tobacco smoke to legal issues
+medical_645.txt$concerning policy implementation
+medical_645.txt$smoking and control monograph no 1  this volume provides
+medical_645.txt$a summary of what has been learned from 40 years of a public
+medical_645.txt$health effort against smoking from the early trialand
+medical_645.txt$error health information campaigns of the 1960s to the ncis
+medical_645.txt$sciencebased project american stop smoking intervention
+medical_645.txt$study for cancer prevention which began in 1991  it offers
+medical_645.txt$reasons why comprehensive smoking control strategies are now
+medical_645.txt$needed to address the smokers total environment and to
+medical_645.txt$reduce smoking prevalence significantly over the next
+medical_645.txt$decade
+medical_645.txt$three kits are available for community program planners
+medical_645.txt$and health professionals to set up local cancer
+medical_645.txt$prevention and early detection education projects
+medical_645.txt$cancer community outreach program  this community
+medical_645.txt$outreach kit targets black american audiences  it
+medical_645.txt$contains materials to help health professionals
+medical_645.txt$conduct community education programs for black
+medical_645.txt$audiences  the kit emphasizes the early detection of
+medical_645.txt$breast cancer by mammography and of cervical cancer by
+medical_645.txt$the pap test  it also discusses smoking and
+medical_645.txt$nutrition  the kit includes helpful program guidance
+medical_645.txt$facts news articles visuals and brochures
+medical_645.txt$hagalo hoy community outreach program  this community
+medical_645.txt$outreach kit targets hispanic audiences  it contains
+medical_645.txt$bilingual and spanish language materials to help
+medical_645.txt$health professionals conduct community education
+medical_645.txt$programs  the materials educate hispanic audiences
+medical_645.txt$about early detection of breast cancer by mammography
+medical_645.txt$hicnet medical newsletter                                              page 26
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$and of cervical cancer by pap tests  the kit also
+medical_645.txt$discusses smoking and related issues  the kit
+medical_645.txt$includes helpful guidance facts news articles
+medical_645.txt$visuals and brochures
+medical_645.txt$mammography program  this community outreach kit
+medical_645.txt$targets all women age 40 or over  it supplies
+medical_645.txt$community program planners and health professionals
+medical_645.txt$with planning guidance facts about mammography news
+medical_645.txt$articles visuals and brochures
+medical_645.txt$921493  this handbook presents key principles and steps
+medical_645.txt$in developing and evaluating health communications programs
+medical_645.txt$for the public patients and health professionals  it
+medical_645.txt$expands upon and replaces pretesting in health
+medical_645.txt$communications and making psas work 131 pages
+medical_645.txt$the video and slide presentations listed below support the
+medical_645.txt$mammography outreach programs
+medical_645.txt$once a yearfor a lifetime videotape  this 5minute
+medical_645.txt$vhs videotape uses a dramatic format to highlight the
+medical_645.txt$important facts about the early detection of breast
+medical_645.txt$cancer by mammography
+medical_645.txt$una vez al anopara toda una vida videotape  this 27
+medical_645.txt$minute spanish videotape informs spanishspeaking women
+medical_645.txt$of the need for medical screening particularly
+medical_645.txt$mammography  it explains commonly misunderstood facts
+medical_645.txt$about breast cancer and early detection  the program in
+medical_645.txt$a dramatic format features edward james olmos and
+medical_645.txt$cristina saralegui
+medical_645.txt$this kit includes 66 fullcolor slides and a number
+medical_645.txt$coded readytoread script suitable for a mammography
+medical_645.txt$presentation to a large group  it addresses the
+medical_645.txt$misconceptions prevalent about mammography and urges
+medical_645.txt$women age 40 and older to get regular mammograms so that
+medical_645.txt$breast cancer can be detected as early as possible  kit
+medical_645.txt$hicnet medical newsletter                                              page 27
+medical_645.txt$volume  6 number 11                                           april 25 1993
+medical_645.txt$includes a guide poster media announcement news
+medical_645.txt$feature flyer and pamphlets on mammography  this kit
+medical_645.txt$is available directly by writing to  modern 5000 park
+medical_645.txt$street north st petersburg fl 337099989
+medical_645.txt$ end of part 2 
+medical_645.txt$internet davidstatcom                  fax 1 602 4511165
+medical_645.txt$bitnet atw1hasuacad                     fidonet 111415
+medical_645.txt$amateur packet ax25 wb7tpywb7tpyazusana

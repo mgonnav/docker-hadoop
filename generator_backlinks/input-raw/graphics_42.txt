@@ -1,0 +1,31 @@
+graphics_42.txt$in article o4fzrapdbh107heosvcrwimseybcca aeweosvcrwimseybcca alan walford writes
+graphics_42.txt$ we have heard many bad things about the ati ultra plus card mainly having
+graphics_42.txt$ to do with its buggy windows drivers
+graphics_42.txt$ i would like to replace by ati graphics ultra with a truecolour accelerated
+graphics_42.txt$ card i was about to buy the ati ultra plus eisa but it has had so much
+graphics_42.txt$ bad press that i am reconsidering
+graphics_42.txt$i have the ati ultra pro local bus with 2mb vram and i am perfectly happy with
+graphics_42.txt$the windows drivers currently using version 59  it does everything you
+graphics_42.txt$mention below but also does 1024x768x16bpp true color  as a matter of
+graphics_42.txt$fact it also supports high refresh 1280x1024 at 256 colors  the performance
+graphics_42.txt$is great
+graphics_42.txt$ i would like an accelerated card
+graphics_42.txt$              a card that does 24bit true colour at 800x600 at least
+graphics_42.txt$              a card that does 1024x758 at 256 colours or more
+graphics_42.txt$              a card that has fast polygon fills
+graphics_42.txt$              a card that has fast bit blits
+graphics_42.txt$              a card that has a robust windows driver
+graphics_42.txt$              a card that has high speed noninterlaced refresh
+graphics_42.txt$ any suggestions
+graphics_42.txt$ my app requires lots of 3d poly grahics and complexing true colour
+graphics_42.txt$ imaging  i would sure like a faster solution that what i have now
+graphics_42.txt$supposedly the new matrox ultrasomethingorother actually does some
+graphics_42.txt$3d rendering at least has some hardware support for z  good luck in
+graphics_42.txt$your search
+graphics_42.txt$cheers
+graphics_42.txt$phil
+graphics_42.txt$ thanks
+graphics_42.txt$ alan walford     eos systems inc vancouverbc canada  tel 6047348655
+graphics_42.txt$ aeweosvcrwimseybcca           or        uunetwimseybccaeosvcraew
+graphics_42.txt$philip carmack				 pcarmackkpccom	4089873336
+graphics_42.txt$kubota pacific computers inc		

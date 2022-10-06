@@ -1,0 +1,23 @@
+food_37.txt$4        cloves  garlic finely chopped
+food_37.txt$1  28 ounce can  tomatoes coarsely
+food_37.txt$1         pound  fin fish red snapper
+food_37.txt$chopped with liquid
+food_37.txt$flounder  trout
+food_37.txt$2           cup  fish stock  clam juice or
+food_37.txt$12            lb  shrimp lobster  12 to 1
+food_37.txt$chicken broth
+food_37.txt$scallops  crab meatany or
+food_37.txt$12           cup  dry sherry
+food_37.txt$all
+food_37.txt$2      teaspoon  salt
+food_37.txt$18            sm  clams mussels  or lobster
+food_37.txt$12      teaspoon  thyme basil  saffron
+food_37.txt$clawsany or all
+food_37.txt$pepper to taste
+food_37.txt$14           cup  olive oil
+food_37.txt$fresh chopped parsley for
+food_37.txt$1            lg  onion finely chopped
+food_37.txt$garnish
+food_37.txt$2                shallots minced
+food_37.txt$
+food_37.txt$cut boneless pieces of fish into bite size pieces remove shells from shrimp lobster crab scrub clams and mussels saute onions garlic and shallots in oil on low heat until lightly golden in a large pot put in all liquids and seasonings except parsley bring to a boil lower heat and simmer 15 minutes add all seafood mix and simmer 10 minutes serve hot in large bowls top with parsley serve with crusty bread semisoft cheese and a tossed salad

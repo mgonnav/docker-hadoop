@@ -1,0 +1,27 @@
+food_42.txt$2        pounds  snow crab clusters
+food_42.txt$2          cups  broccoli flowerettes
+food_42.txt$2          cups  carrots  cut in diagonal
+food_42.txt$ slices
+food_42.txt$8                green onions  cut into brushes
+food_42.txt$ if desired
+food_42.txt$2          cans  regularstrength chicken broth  14 12 oz each
+food_42.txt$2          cups  water
+food_42.txt$creamy sauce  see recipe
+food_42.txt$
+food_42.txt$thaw crab if frozen
+food_42.txt$
+food_42.txt$cut into servingsize pieces crack
+food_42.txt$
+food_42.txt$arrange crab and vegetables on large platter or serving bowl
+food_42.txt$
+food_42.txt$transfer broth to chafing dish keep warm
+food_42.txt$
+food_42.txt$provide diners with long handled fondue forks or chopsticks
+food_42.txt$
+food_42.txt$let each cook crab and vegetables in broth until crab is heated through and vegetables are cooked crisptender
+food_42.txt$
+food_42.txt$serve with creamy sauce and crusty french bread or rice
+food_42.txt$
+food_42.txt$cooking broth may be ladled into cups and served as a soup after crab and vegetables are cooked
+food_42.txt$
+food_42.txt$possum kingdom lake cookbook

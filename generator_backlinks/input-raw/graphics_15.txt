@@ -1,0 +1,34 @@
+graphics_15.txt$kazsatotwicscojp writes
+graphics_15.txt$hi
+graphics_15.txt$id like to know if there is any system cpu  hd array  framebuffer
+graphics_15.txt$which can play and record hdtv quality moving picture in realtime
+graphics_15.txt$hdtv has about 6mbframe so recordingplaying moving picture will need
+graphics_15.txt$about 180mbsec bandwidth im thinking to treat the raw data not
+graphics_15.txt$compressed
+graphics_15.txt$finding a disk array that can do 180mbsec will be difficult the fastest
+graphics_15.txt$ones i know about are from maximum strategy ibm also sells these they
+graphics_15.txt$can attach hippi at up to 144 mbsec 64 bit for these kinds of data
+graphics_15.txt$rates you need more than scsi for connections their latest model the
+graphics_15.txt$raid 5 model gen 4 only does 90 mbsec but i think this may be a
+graphics_15.txt$limitation only of the hippi channel and that customer needs have not
+graphics_15.txt$exceeded that speed since their older model was faster they are also not
+graphics_15.txt$idle must be working on newer products that might be faster and are a
+graphics_15.txt$small company so you might be able to ask about custom interfaces they
+graphics_15.txt$still marketed the older faster model as of a few mongths ago
+graphics_15.txt$maximum strategy inc
+graphics_15.txt$801 buckeye court
+graphics_15.txt$milpitas ca 950357408
+graphics_15.txt$salesmaxstratcom
+graphics_15.txt$you might still want to look into compression as it will be very difficult
+graphics_15.txt$to keep the hippi bus fully working at all times  sustained throughput
+graphics_15.txt$might come close to maximum burst rate
+graphics_15.txt$interesting problem tell us more if you can
+graphics_15.txt$if anyone can advise me what kind of product i should look into please
+graphics_15.txt$email me i will appriciate it the vendors email address price of
+graphics_15.txt$the products actual performance data of the products any info will
+graphics_15.txt$help me
+graphics_15.txt$thanks in advance
+graphics_15.txt$kaz sato tokyo japan
+graphics_15.txt$email kazsatotwicscojp
+graphics_15.txt$dick wilmot
+graphics_15.txt$editor independent raid report

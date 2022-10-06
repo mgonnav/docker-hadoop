@@ -1,0 +1,130 @@
+space_17.txt$archivename spaceconstants
+space_17.txt$lastmodified date 930401 143904 
+space_17.txt$this list was originally compiled by dale greer additions would be
+space_17.txt$appreciated
+space_17.txt$numbers in parentheses are approximations that will serve for most
+space_17.txt$blueskying purposes
+space_17.txt$unix systems provide the units program useful in converting
+space_17.txt$between different systems metricenglish etc
+space_17.txt$7726 ms	 8000   earth orbital velocity at 300 km altitude
+space_17.txt$3075 ms	 3000   earth orbital velocity at 35786 km geosync
+space_17.txt$6371 km		 6400   mean radius of earth
+space_17.txt$6378 km		 6400   equatorial radius of earth
+space_17.txt$1738 km		 1700   mean radius of moon
+space_17.txt$5974e24 kg	 6e24   mass of earth
+space_17.txt$7348e22 kg	 7e22   mass of moon
+space_17.txt$1989e30 kg	 2e30   mass of sun
+space_17.txt$3986e14 m3s2 4e14   gravitational constant times mass of earth
+space_17.txt$4903e12 m3s2 5e12   gravitational constant times mass of moon
+space_17.txt$1327e20 m3s2 13e19  gravitational constant times mass of sun
+space_17.txt$384401 km	  4e5   mean earthmoon distance
+space_17.txt$1496e11 m	 15e10  mean earthsun distance astronomical unit
+space_17.txt$1 megaton mt tnt  about 42e15 j or the energy equivalent of
+space_17.txt$about 05 kg 50 gm of matter ref jr williams the energy level
+space_17.txt$of things air force special weapons center ardc kirtland air
+space_17.txt$force base new mexico 1963 also see the effects of nuclear
+space_17.txt$weapons compiled by s glasstone and pj dolan published by the
+space_17.txt$us department of defense obtain from the gpo
+space_17.txt$where d is distance v is velocity a is acceleration t is time
+space_17.txt$additional more specialized equations are available from
+space_17.txt$amesarcnasagovpubspacefaqmoreequations
+space_17.txt$for constant acceleration
+space_17.txt$d  d0  vt  5at2
+space_17.txt$v  v0  at
+space_17.txt$v2  2ad
+space_17.txt$acceleration on a cylinder space colony etc of radius r and
+space_17.txt$rotation period t
+space_17.txt$a  4 pi2 r  t2
+space_17.txt$for circular keplerian orbits where
+space_17.txt$vc	  velocity of a circular orbit
+space_17.txt$vesc  escape velocity
+space_17.txt$m	  total mass of orbiting and orbited bodies
+space_17.txt$g	  gravitational constant defined below
+space_17.txt$u	  g  m can be measured much more accurately than g or m
+space_17.txt$k	  g  m  2  a
+space_17.txt$r	  radius of orbit measured from center of mass of system
+space_17.txt$v	  orbital velocity
+space_17.txt$p	  orbital period
+space_17.txt$a	  semimajor axis of orbit
+space_17.txt$vesc  sqrt2  m  g  r  sqrt2  vc
+space_17.txt$v2   ua
+space_17.txt$p	  2 pisqrtua3
+space_17.txt$k	  12 v2  g  m  r conservation of energy
+space_17.txt$the period of an eccentric orbit is the same as the period
+space_17.txt$of a circular orbit with the same semimajor axis
+space_17.txt$change in velocity required for a plane change of angle phi in a
+space_17.txt$circular orbit
+space_17.txt$delta v  2 sqrtgmr sin phi2
+space_17.txt$energy to put mass m into a circular orbit ignores rotational
+space_17.txt$velocity which reduces the energy a bit
+space_17.txt$gmm 1re  12rcirc
+space_17.txt$re  radius of the earth
+space_17.txt$rcirc  radius of the circular orbit
+space_17.txt$classical rocket equation where
+space_17.txt$dv	 change in velocity
+space_17.txt$isp  specific impulse of engine
+space_17.txt$ve	 exhaust velocity
+space_17.txt$x	 reaction mass
+space_17.txt$m1	 rocket mass excluding reaction mass
+space_17.txt$ve	 isp  g
+space_17.txt$dv	 ve  lnm1  x  m1
+space_17.txt$ ve  lnfinal mass  initial mass
+space_17.txt$relativistic rocket equation constant acceleration
+space_17.txt$t unaccelerated  ca  sinhatc
+space_17.txt$d  c2a  coshatc  1
+space_17.txt$v  c  tanhatc
+space_17.txt$relativistic rocket with exhaust velocity ve and mass ratio mr
+space_17.txt$atc  vec  lnmr or
+space_17.txt$t unaccelerated  ca  sinhvec  lnmr
+space_17.txt$d  c2a  coshvec  lnmr  1
+space_17.txt$v  c  tanhvec  lnmr
+space_17.txt$converting from parallax to distance
+space_17.txt$d in parsecs  1  p in arc seconds
+space_17.txt$d in astronomical units  206265  p
+space_17.txt$miscellaneous
+space_17.txt$fma     force is mass times acceleration
+space_17.txt$wfd     work energy is force times distance
+space_17.txt$atmospheric density varies as expmgzkt where z is altitude m is
+space_17.txt$molecular weight in kg of air g is local acceleration of gravity t
+space_17.txt$is temperature k is bolztmanns constant on earth up to 100 km
+space_17.txt$d  d0expz142e4
+space_17.txt$where d is density d0 is density at 0km is approximately true so
+space_17.txt$atmospheric scale height	dry lapse rate
+space_17.txt$in km at emission level	 kkm
+space_17.txt$earth	    75			    98
+space_17.txt$mars	    11			    44
+space_17.txt$venus	    49			    105
+space_17.txt$titan	    18			    13
+space_17.txt$jupiter	    19			    20
+space_17.txt$saturn	    37			    07
+space_17.txt$uranus	    24			    07
+space_17.txt$neptune	    21			    08
+space_17.txt$triton	    8			    1
+space_17.txt$titiusbode law for approximating planetary distances
+space_17.txt$rn  04  03  2n astronomical units n  infinity for
+space_17.txt$mercury 0 for venus 1 for earth etc
+space_17.txt$this fits fairly well except for neptune
+space_17.txt$662618e34 js  7e34  plancks constant h
+space_17.txt$1054589e34 js 1e34  plancks constant  2  pi h bar
+space_17.txt$13807e23 jk	14e23  boltzmanns constant k
+space_17.txt$56697e8 wm2k 6e8  stephanboltzmann constant sigma
+space_17.txt$6673e11 n m2kg2 7e11  newtons gravitational constant g
+space_17.txt$00029 m k	 3e3   wiens constant sigmaw
+space_17.txt$3827e26 w	 4e26   luminosity of sun
+space_17.txt$1370 w  m2	 1400   solar constant intensity at 1 au
+space_17.txt$696e8 m	 7e8	  radius of sun
+space_17.txt$1738 km		 2e3	  radius of moon
+space_17.txt$299792458 ms	  3e8   speed of light in vacuum c
+space_17.txt$946053e15 m	  1e16  light year
+space_17.txt$206264806 au	  2e5   	32616 light years 3	    parsec
+space_17.txt$30856e16 m	 3e16   
+space_17.txt$black hole radius also called schwarzschild radius
+space_17.txt$2gmc2 where g is newtons grav constant m is mass of bh
+space_17.txt$c is speed of light
+space_17.txt$things to add somebody look them up
+space_17.txt$basic rocketry numbers  equations
+space_17.txt$aerodynamical stuff
+space_17.txt$energy to put a pound into orbit or accelerate to interstellar
+space_17.txt$velocities
+space_17.txt$noncircular cases
+space_17.txt$next faq 715  astronomical mnemonics

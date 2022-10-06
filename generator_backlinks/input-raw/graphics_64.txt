@@ -1,0 +1,19 @@
+graphics_64.txt$merkelbdsageccpurdueedu brian merkel writes
+graphics_64.txt$in article 1993apr1113260413400ornlgov ednoblessacamorenortnedu edward d nobles writes
+graphics_64.txt$ive been trying to view tga files created in povray  i have the diamond
+graphics_64.txt$speedstar 24 video board not the 24x  so far i can convert them to
+graphics_64.txt$jpeg using cjpeg and view them with cview but that only displays 8 bit color
+graphics_64.txt$im looking for some way to convert andor view them in 24 bit
+graphics_64.txt$i have univesa uvesa31zip and the dvpeg viewer but i dont get anything
+graphics_64.txt$perhaps i am not setting up univesa properly  if anyone has ideas about this
+graphics_64.txt$please feel free to enlighten me
+graphics_64.txt$just want to see the darn things in real color
+graphics_64.txt$image alchemy aka alchemy will view the tga files that pov outputs
+graphics_64.txt$ and just about any other format you can think of it will also convert
+graphics_64.txt$ between all these its shareware so its probably available by ftp
+graphics_64.txt$ somwhere out there in netland
+graphics_64.txt$yep alchemy works fine on my tseng400dac but i think i remember
+graphics_64.txt$reading that it only displays in 15bit or so  of course thats still 32k
+graphics_64.txt$colors which is nothing to sneeze at  use the v flag
+graphics_64.txt$neal miller          why not go mad   millernwcraftcampclarksonedu
+graphics_64.txt$clarkson university       ford prefect      darkcraftcampclarksonedu

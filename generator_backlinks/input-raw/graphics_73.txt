@@ -1,0 +1,17 @@
+graphics_73.txt$in article 1993apr130252408884nwnexuswacom mpdillonhalcyoncom michael dillon writes
+graphics_73.txt$ i have an algorithm similar to bresenhams line drawing algorithm that
+graphics_73.txt$ draws a line by stepping along the minor axis and drawing slices like
+graphics_73.txt$ aaaa bbbb cccc in the following diagram
+graphics_73.txt$yes thats known as bresenhams run length slice algorithm for
+graphics_73.txt$incremental lines see fundamental algorithms for computer graphics
+graphics_73.txt$springerverlag berlin heidelberg 1985
+graphics_73.txt$ i have tried to extrapolate this to circles but i cant figure out
+graphics_73.txt$ how to determine the length of the slices any ideas
+graphics_73.txt$hmm i dont think i can help you with this but you might
+graphics_73.txt$take a look at the following
+graphics_73.txt$doublestep incremental generation of lines and circles
+graphics_73.txt$x wu and j g rokne computer graphics and image processing
+graphics_73.txt$vol 37 no 4 mar 1987 pp 331334
+graphics_73.txt$doublestep generation of ellipses x wu and j g rokne
+graphics_73.txt$ieee computer graphics  applications may 1989 pp 5669
+graphics_73.txt$graeme gill
