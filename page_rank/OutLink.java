@@ -30,9 +30,6 @@ public class OutLink {
                     context.write(new Text(doc_id), new Text(word));
                 }
             }
-
-            // For documents with no out links
-            context.write(new Text(doc_id), new Text(""));
         }
     }
 

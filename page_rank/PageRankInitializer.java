@@ -31,9 +31,6 @@ public class PageRankInitializer {
                     }
                 }
             }
-            else {
-                context.write(new Text(doc_id), new FloatWritable(1));
-            }
         }
     }
 
@@ -46,7 +43,7 @@ public class PageRankInitializer {
             for (FloatWritable val : values) {
                 total_sum += val.get();
             }
-            float pagerank = (1/1000) + total_sum;
+            float pagerank = (1 - .15f)/3 + .15f*total_sum;
 
             context.write(key, new FloatWritable(pagerank));
         }
